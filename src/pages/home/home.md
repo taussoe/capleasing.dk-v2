@@ -8,7 +8,25 @@ description: >-
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
-intro:
-  blurbs: []
+components:
+  sektioner:
+    - component: Hero
+      image: /img/leasing-hero.jpg
+      overskrift: ALLE FORMER FOR LEASING
+      text: >-
+        Cap Leasing tilbyder alle former for leasing
+
+
+        * Sæsonleasing
+
+        * Deleleasing/splitleasing
+
+        * Privat og erhvervsleasing
+
+        * Finansiel / operationel leasing
+
+
+        Du kan læse mere om de forskellige leasingformer på nedenstående link:
+        https://www.interdan-leasing.dk/leasing
 ---
 
