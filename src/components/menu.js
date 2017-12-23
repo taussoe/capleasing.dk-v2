@@ -4,11 +4,12 @@ import styled from 'styled-components'
 import Observer from 'react-intersection-observer'
 
 const Navigation = styled.div`
-  position: absolute;
+  position: fixed;
   top: 0px;
   left: 0px;
   z-index: 100;
   width: 100%;
+  background-color: rgba(255, 255, 255, 0.5);
   .logo {
     position: absolute;
     top: 15px;
