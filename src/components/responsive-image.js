@@ -15,9 +15,13 @@ const ImageContainer = styled.div`
 `
 
 const ResponsiveImage = class ResponsiveImage extends React.Component {
-  state = {
-    loading: true,
+  constructor() {
+    super()
+    this.state = {
+      loading: true,
+    }
   }
+
   handleImageLoaded = () => {
     console.log('image loaded')
     this.setState({ loading: false })
@@ -25,7 +29,7 @@ const ResponsiveImage = class ResponsiveImage extends React.Component {
   handleImageError = () => {
     console.log('error loading image')
   }
-  componentWillMount() {
+  componentDidMount() {
     let imageUrl = 'img/leasing-hero.jpg'
     this.image = new Image()
     this.image.src = imageUrl

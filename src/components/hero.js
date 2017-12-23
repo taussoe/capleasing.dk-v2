@@ -27,8 +27,11 @@ const TextContainer = styled.div`
 `
 
 const Hero = class Hero extends React.Component {
-  state = {
-    loading: true,
+  constructor() {
+    super()
+    this.state = {
+      loading: true,
+    }
   }
   handleImageLoaded = () => {
     console.log('image loaded')
@@ -37,7 +40,7 @@ const Hero = class Hero extends React.Component {
   handleImageError = () => {
     console.log('error loading image')
   }
-  componentWillMount() {
+  componentDidMount() {
     let imageUrl = 'img/leasing-hero.jpg'
     this.image = new Image()
     this.image.src = imageUrl

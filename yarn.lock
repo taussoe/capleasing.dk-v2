@@ -3515,6 +3515,12 @@ gatsby-plugin-sharp@^1.6.9:
     progress "^1.1.8"
     sharp "^0.17.3"
 
+gatsby-plugin-styled-components@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-styled-components/-/gatsby-plugin-styled-components-2.0.4.tgz#7737c0a3292e93ccc153c2c653244f72c1169380"
+  dependencies:
+    babel-runtime "^6.26.0"
+
 gatsby-react-router-scroll@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/gatsby-react-router-scroll/-/gatsby-react-router-scroll-1.0.2.tgz#3fd66c242753eb447e7b2d450afa69c296908c0b"
