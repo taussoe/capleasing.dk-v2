@@ -23,8 +23,10 @@ const CapComponent = class CapComponent extends React.Component {
           <div className="container">
             <div className="row spacing">
               <div className="col-md-5 margin-top-auto">
-                <h2>{this.props.data.overskrift}</h2>
-                <span>{this.props.data.text}</span>
+                <div className="text-padding-right">
+                  <h2>{this.props.data.overskrift}</h2>
+                  <span>{this.props.data.text}</span>
+                </div>
               </div>
               <div className="col-md-7">
                 <ResponsiveImage src={this.props.data.image} />
@@ -40,8 +42,10 @@ const CapComponent = class CapComponent extends React.Component {
                 <ResponsiveImage src={this.props.data.image} />
               </div>
               <div className="col-md-5 margin-top-auto">
-                <h2>{this.props.data.overskrift}</h2>
-                <span>{this.props.data.text}</span>
+                <div className="text-padding-left">
+                  <h2>{this.props.data.overskrift}</h2>
+                  <span>{this.props.data.text}</span>
+                </div>
               </div>
             </div>
           </div>

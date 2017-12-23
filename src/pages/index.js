@@ -31,6 +31,12 @@ h2 {
 .margin-top-auto {
   margin-top: auto;
 }
+.text-padding-left {
+  padding: 0px 0px 0px 30px;
+}
+.text-padding-right {
+  padding: 0px 30px 0px 0px;
+}
 `
 
 export default class IndexPage extends React.Component {
