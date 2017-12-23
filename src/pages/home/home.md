@@ -36,7 +36,7 @@ components:
         og alt omkring finansiering kører en smule konservativt og helt
         snorlige.
     - component: PictureRight
-      image: /img/leasing-hero.jpg
+      image: /img/forsikre.jpg
       overskrift: OG BILEN TIL DIG...
       text: >-
         Men hvis vi alligevel ikke har din drømmebil på lager, så går vi i gang
