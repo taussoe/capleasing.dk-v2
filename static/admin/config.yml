@@ -21,12 +21,12 @@ collections:
 
   - name: "pages"
     label: "Pages"
+    editor:
+      preview: false
     files:
       - file: "src/pages/home/home.md"
         label: "Home"
         name: "home"
-        editor:
-          preview: false
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
           - {label: "Path", name: "path", widget: "hidden", default: "/"}
