@@ -31,13 +31,14 @@ export const BlogPostTemplate = ({
 export default ({ data }) => {
   const { markdownRemark: post } = data
   return (
-    <BlogPostTemplate
+    /* <BlogPostTemplate
       content={post.html}
       contentComponent={HTMLContent}
       description={post.frontmatter.description}
       helmet={<Helmet title={`Blog | ${post.frontmatter.title}`} />}
       title={post.frontmatter.title}
-    />
+    /> */
+    <div />
   )
 }
 
@@ -47,9 +48,17 @@ export const pageQuery = graphql`
       html
       frontmatter {
         path
-        date(formatString: "MMMM DD, YYYY")
-        title
         description
+        title
+        image
+        components {
+          sektioner {
+            component
+            image
+            overskrift
+            text
+          }
+        }
       }
     }
   }

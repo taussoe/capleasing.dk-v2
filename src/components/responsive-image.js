@@ -12,6 +12,9 @@ const ImageContainer = styled.div`
   opacity: ${props => (props.backgroundImage ? '1' : '0')};
   height: 100%;
   width: 100%;
+  img {
+    width: 100%;
+  }
 `
 
 const ResponsiveImage = class ResponsiveImage extends React.Component {
@@ -30,7 +33,8 @@ const ResponsiveImage = class ResponsiveImage extends React.Component {
     console.log('error loading image')
   }
   componentDidMount() {
-    let imageUrl = 'img/leasing-hero.jpg'
+    console.log(this.props)
+    let imageUrl = this.props.src
     this.image = new Image()
     this.image.src = imageUrl
     this.image.onload = this.handleImageLoaded
@@ -40,7 +44,9 @@ const ResponsiveImage = class ResponsiveImage extends React.Component {
     return (
       <ImageContainer
         backgroundImage={!this.state.loading ? this.image.src : ''}
-      />
+      >
+        <img src={this.props.src} alt="image" />
+      </ImageContainer>
     )
   }
 }
