@@ -43,7 +43,7 @@ components:
         med at søge i Tyskland – lige indtil den er lige i skabet. Og vi stopper
         ikke før. Det skal være det bedste af det bedste.
     - component: PictureLeft
-      image: /img/leasing-hero.jpg
+      image: /img/plads-til-drenge.jpg
       overskrift: PLADS TIL DRENGEDRØMME
       text: >-
         CapLeasing bor for enden af Kattegatvej ude i Nordhavn. Lige ved siden
