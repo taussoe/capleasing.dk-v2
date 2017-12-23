@@ -53,11 +53,11 @@ components:
         for sæsonen i et fantastisk og eksklusivt miljø sammen med andre
         bilentusiaster med benzin i blodet.
     - component: PictureRight
-      image: /img/leasing-hero.jpg
+      image: /img/vask.jpg
       overskrift: VASK OG PLEJE
       text: "Hvis din bil skal blive ved med at stå ”smuk som et stjerneskud” kan vi tilbyde professionel klargøring hos Olivers Autoshine, som er vores anden nabo i Nordhavn:\rDu kan læse mere om Olivers Autoshine og deres produkter på nedenstående link:\rhttp://www.oliversautoshine.dk"
     - component: PictureLeft
-      image: /img/leasing-hero.jpg
+      image: /img/forsikre.jpg
       overskrift: VI KAN FORSIKRE DIG
       text: >-
         CapLeasing tilbyder en billig kaskoforsikring – også selvom du ikke er
