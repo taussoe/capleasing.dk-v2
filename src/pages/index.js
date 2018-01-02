@@ -2,8 +2,10 @@ import React from 'react'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 import Script from 'react-load-script'
-import { injectGlobal } from 'styled-components'
+import styled, { injectGlobal } from 'styled-components'
 import CapComponent from '../components/cap-component'
+import Instagram from '../components/instagram'
+import Footer from '../components/footer'
 
 injectGlobal`
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800');
@@ -37,6 +39,16 @@ h2 {
 .text-padding-right {
   padding: 0px 30px 0px 0px;
 }
+.center {
+  text-align: center;
+}
+`
+
+const Main = styled.div`
+  margin-bottom: 200px;
+  z-index: 2;
+  background-color: #ffffff;
+  position: relative;
 `
 
 export default class IndexPage extends React.Component {
@@ -62,13 +74,17 @@ export default class IndexPage extends React.Component {
     console.log(c)
     return (
       <div>
-        <Script
-          url="https://identity.netlify.com/v1/netlify-identity-widget.js"
-          onLoad={this.handleScriptLoad.bind(this)}
-        />
-        {c.map((e, i) => {
-          return <CapComponent key={`component-${i}`} data={e} />
-        })}
+        <Main>
+          <Script
+            url="https://identity.netlify.com/v1/netlify-identity-widget.js"
+            onLoad={this.handleScriptLoad.bind(this)}
+          />
+          {c.map((e, i) => {
+            return <CapComponent key={`component-${i}`} data={e} />
+          })}
+          <Instagram />
+        </Main>
+        <Footer />
       </div>
     )
   }

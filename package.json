@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Austin Green",
   "dependencies": {
+    "axios": "^0.17.1",
     "flexboxgrid": "^6.3.1",
     "gatsby": "^1.9.63",
     "gatsby-link": "^1.6.21",
@@ -20,9 +21,7 @@
     "react-load-script": "0.0.6",
     "styled-components": "^2.4.0"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
   "scripts": {

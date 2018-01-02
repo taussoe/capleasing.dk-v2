@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 import Observer from 'react-intersection-observer'
-import TextBlock from '../components/textblock'
 
 const ImageContainer = styled.div`
   background-image: url(${props =>
@@ -14,6 +13,7 @@ const ImageContainer = styled.div`
   width: 100%;
   img {
     width: 100%;
+    visibility: hidden;
   }
 `
 
@@ -26,14 +26,14 @@ const ResponsiveImage = class ResponsiveImage extends React.Component {
   }
 
   handleImageLoaded = () => {
-    console.log('image loaded')
+    // console.log('image loaded')
     this.setState({ loading: false })
   }
   handleImageError = () => {
-    console.log('error loading image')
+    // console.log('error loading image')
   }
   componentDidMount() {
-    console.log(this.props)
+    // console.log(this.props)
     let imageUrl = this.props.src
     this.image = new Image()
     this.image.src = imageUrl

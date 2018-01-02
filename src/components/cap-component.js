@@ -7,7 +7,6 @@ import TextBlock from './textblock'
 const CapComponent = class CapComponent extends React.Component {
   render() {
     const c = this.props.data.component
-    console.log(c)
     switch (c) {
       case 'Hero':
         return <Hero height="100vh" />
