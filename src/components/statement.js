@@ -26,7 +26,7 @@ export default props => (
         translateFrom={`translateX(20px)`}
         translateTo={`translateX(0px)`}
         transitionDelay={`0.2s`}
-        triggerOnce={false}
+        triggerOnce={true}
       >
         {props.children}
       </TextBlock>

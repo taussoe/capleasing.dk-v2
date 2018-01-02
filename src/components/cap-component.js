@@ -2,6 +2,7 @@ import React from 'react'
 import Hero from './hero'
 import Statement from './statement'
 import ResponsiveImage from './responsive-image'
+import TextBlock from './textblock'
 
 const CapComponent = class CapComponent extends React.Component {
   render() {
@@ -24,12 +25,26 @@ const CapComponent = class CapComponent extends React.Component {
             <div className="row spacing">
               <div className="col-md-5 margin-top-auto">
                 <div className="text-padding-right">
-                  <h2>{this.props.data.overskrift}</h2>
-                  <span>{this.props.data.text}</span>
+                  <TextBlock
+                    translateFrom={`translateX(-20px)`}
+                    translateTo={`translateX(0px)`}
+                    transitionDelay={`0.2s`}
+                    triggerOnce={true}
+                  >
+                    <h2>{this.props.data.overskrift}</h2>
+                    <span>{this.props.data.text}</span>
+                  </TextBlock>
                 </div>
               </div>
               <div className="col-md-7">
-                <ResponsiveImage src={this.props.data.image} />
+                <TextBlock
+                  translateFrom={`translateX(20px)`}
+                  translateTo={`translateX(0px)`}
+                  transitionDelay={`0.2s`}
+                  triggerOnce={true}
+                >
+                  <ResponsiveImage src={this.props.data.image} />
+                </TextBlock>
               </div>
             </div>
           </div>
@@ -39,12 +54,26 @@ const CapComponent = class CapComponent extends React.Component {
           <div className="container">
             <div className="row spacing">
               <div className="col-md-7">
-                <ResponsiveImage src={this.props.data.image} />
+                <TextBlock
+                  translateFrom={`translateX(-20px)`}
+                  translateTo={`translateX(0px)`}
+                  transitionDelay={`0.2s`}
+                  triggerOnce={true}
+                >
+                  <ResponsiveImage src={this.props.data.image} />
+                </TextBlock>
               </div>
               <div className="col-md-5 margin-top-auto">
                 <div className="text-padding-left">
-                  <h2>{this.props.data.overskrift}</h2>
-                  <span>{this.props.data.text}</span>
+                  <TextBlock
+                    translateFrom={`translateX(20px)`}
+                    translateTo={`translateX(0px)`}
+                    transitionDelay={`0.2s`}
+                    triggerOnce={true}
+                  >
+                    <h2>{this.props.data.overskrift}</h2>
+                    <span>{this.props.data.text}</span>
+                  </TextBlock>
                 </div>
               </div>
             </div>
