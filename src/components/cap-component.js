@@ -8,6 +8,7 @@ import Kontakt from '../components/kontakt'
 
 const CapComponent = class CapComponent extends React.Component {
   render() {
+    console.log(this.props.alldata.kontaktpersoner.edges)
     const c = this.props.data.component
     switch (c) {
       case 'Hero':
@@ -83,7 +84,7 @@ const CapComponent = class CapComponent extends React.Component {
       case 'Instagram':
         return <Instagram />
       case 'Kontakt':
-        return <Kontakt />
+        return <Kontakt data={this.props.alldata.kontaktpersoner.edges} />
       default:
         return <div>Component not recognized</div>
     }

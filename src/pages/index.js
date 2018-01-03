@@ -71,7 +71,7 @@ export default class IndexPage extends React.Component {
 
   render() {
     console.log(this.props)
-    const c = this.props.data.markdownRemark.frontmatter.components.sektioner
+    const c = this.props.data.home.frontmatter.components.sektioner
     console.log(c)
     return (
       <div>
@@ -81,7 +81,13 @@ export default class IndexPage extends React.Component {
             onLoad={this.handleScriptLoad.bind(this)}
           />
           {c.map((e, i) => {
-            return <CapComponent key={`component-${i}`} data={e} />
+            return (
+              <CapComponent
+                key={`component-${i}`}
+                data={e}
+                alldata={this.props.data}
+              />
+            )
           })}
         </Main>
         <Footer />
@@ -91,8 +97,8 @@ export default class IndexPage extends React.Component {
 }
 
 export const pageQuery = graphql`
-  query IndexByPath($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+  query indexKontaktAndIndexByPath {
+    home: markdownRemark(frontmatter: { path: { eq: "/" } }) {
       html
       frontmatter {
         path
@@ -105,6 +111,22 @@ export const pageQuery = graphql`
             image
             overskrift
             text
+          }
+        }
+      }
+    }
+    kontaktpersoner: allMarkdownRemark(
+      filter: { frontmatter: { path: { regex: "/kontaktpersoner/" } } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            contactimage
+            title
+            contacttitle
+            contacteducation
+            contacttelephone
+            contactemail
           }
         }
       }

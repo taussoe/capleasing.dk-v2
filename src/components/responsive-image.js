@@ -12,7 +12,7 @@ const ImageContainer = styled.div`
   height: 100%;
   width: 100%;
   img {
-    width: 100%;
+    width: ${props => (props.width ? props.width : '100%')};
     visibility: hidden;
   }
 `
@@ -44,6 +44,7 @@ const ResponsiveImage = class ResponsiveImage extends React.Component {
     return (
       <ImageContainer
         backgroundImage={!this.state.loading ? this.image.src : ''}
+        width={this.props.width}
       >
         <img src={this.props.src} alt="image" />
       </ImageContainer>
