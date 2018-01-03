@@ -46,10 +46,11 @@ h2 {
 `
 
 const Main = styled.div`
-  margin-bottom: 200px;
+  margin-bottom: 455px;
   z-index: 2;
   background-color: #ffffff;
   position: relative;
+  border-bottom: 1px solid #eee;
 `
 
 export default class IndexPage extends React.Component {

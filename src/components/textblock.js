@@ -55,41 +55,21 @@ const TextBlockStyle = styled.div`
   }
 `
 
-const TextBlock = class TextBlock extends React.Component {
-  state = {
-    showHeader: false,
-  }
-  componentDidMount() {
-    console.log('mount')
-  }
-  render() {
-    return (
-      <Observer triggerOnce={this.props.triggerOnce} threshold="0.8">
-        {inView => (
-          <TextBlockStyle
-            translateFrom={
-              this.props.translateFrom
-                ? this.props.translateFrom
-                : 'translateY(-10px)'
-            }
-            translateTo={
-              this.props.translateTo
-                ? this.props.translateTo
-                : 'translateY(0px)'
-            }
-            show={inView}
-            className={this.props.className}
-            transitionDelay={
-              this.props.transitionDelay ? this.props.transitionDelay : '0s'
-            }
-            padding={this.props.padding}
-          >
-            {this.props.children}
-          </TextBlockStyle>
-        )}
-      </Observer>
-    )
-  }
-}
-
-export default TextBlock
+export default props => (
+  <Observer triggerOnce={props.triggerOnce} threshold="0.8">
+    {inView => (
+      <TextBlockStyle
+        translateFrom={
+          props.translateFrom ? props.translateFrom : 'translateY(-10px)'
+        }
+        translateTo={props.translateTo ? props.translateTo : 'translateY(0px)'}
+        show={inView}
+        className={props.className}
+        transitionDelay={props.transitionDelay ? props.transitionDelay : '0s'}
+        padding={props.padding}
+      >
+        {props.children}
+      </TextBlockStyle>
+    )}
+  </Observer>
+)
