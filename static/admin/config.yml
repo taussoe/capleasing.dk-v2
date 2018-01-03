@@ -18,7 +18,18 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
-
+  - name: "kontaktpersoner"
+    label: "Kontakt personer"
+    description: >
+      Vedligeholdelse af kontaktpersoner
+    folder: "src/pages/kontaktpersoner"
+    create: true
+    fields:
+      - {label: "Navn", name: "contactname", widget: "string"}
+      - {label: "Titel", name: "contacttitle", widget: "string"}
+      - {label: "Uddannelse", name: "contacteducation", widget: "string"}
+      - {label: "Telefon", name: "contacttelephone", widget: "string"}
+      - {label: "Email", name: "contactemail", widget: "string"}
   - name: "pages"
     label: "Pages"
     editor:
