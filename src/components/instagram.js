@@ -76,10 +76,19 @@ const Instagram = class Instagram extends React.Component {
     })
     return (
       <div>
+        <div className="container">
+          <div className="row">
+            <div className="col-md-12 center">
+              <h2>INSTAGRAM</h2>
+            </div>
+          </div>
+        </div>
         <div className="center">
           <CapButton
             href="https://www.instagram.com/capleasing/"
             target="_blank"
+            margin="10px 0px 20px 0px"
+            external="True"
           >
             Følg os
           </CapButton>

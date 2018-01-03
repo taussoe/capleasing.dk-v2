@@ -7,6 +7,9 @@ const ButtonStyle = styled.a`
   color: #ffffff;
   text-decoration: none;
   padding: 10px 20px;
+  margin: ${props => (props.margin ? props.margin : '0px')};
+  display: inline-block;
+
   .arrow {
     width: 10px;
     padding-left: 10px;
@@ -14,8 +17,12 @@ const ButtonStyle = styled.a`
 `
 
 export default props => (
-  <ButtonStyle href={props.href} target={props.target}>
+  <ButtonStyle href={props.href} target={props.target} margin={props.margin}>
     {props.children}
-    <img src="img/arrow.svg" className="arrow" alt="arrow" />
+    {props.external ? (
+      <img src="img/arrow.svg" className="arrow" alt="arrow" />
+    ) : (
+      ''
+    )}
   </ButtonStyle>
 )
