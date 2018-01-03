@@ -81,6 +81,8 @@ const CapComponent = class CapComponent extends React.Component {
         )
       case 'Instagram':
         return <Instagram />
+      case 'Kontakt':
+        return <Kontakt />
       default:
         return <div>Component not recognized</div>
     }
