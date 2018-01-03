@@ -13,7 +13,7 @@ const FooterContainer = styled.footer`
   padding-top: 100px;
   padding-bottom: 50px;
   .email-input {
-    margin-top: 60px;
+    margin-top: 40px;
     border: 1px solid #000000;
     padding: 10px 15px;
     display: inline-block;
@@ -70,6 +70,7 @@ export default props => (
         <div className="col-md-6">
           <div className="text">
             <b>Nyhedsbrev</b> <br />
+            <br />
             Skriv dig op til vores nyhedsbrev og modtag gode tilbud<br /> på
             luksus leasing biler
           </div>
