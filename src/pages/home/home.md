@@ -68,9 +68,9 @@ components:
       menuname: Kontakt
       overskrift: KORT FORTALT
       text: "Vi har på få år skabt os en position på markedet, måske fordi vi aldrig går på kompromis med de biler, vi tager hjem fra Tyskland. Herudover har vi etablerede samarbejder og alliancer med de bedste inden for branchen, så vi dækker en vifte af behov i forbindelse med selve leasingen.\rVi har eget showrom og lager i Nordhavn og faste samarbejdspartnere i Tyskland, der hver for sig er ”top of the pops”.\r\r\n\nVores hjemtagelser af bilerne foregår professionelt og alle biler får en grundig gennemgang af eksperter inden turen hjem til os. Og før de importerede biler skal til syn, får de endnu en gennemgang fra A til Z hos Autopartner – ligesom den bliver klargjort hos Olivers Autoshine for at få den sidste kærlighed før det nye ægteskab."
-    - component: Instagram
-      overskrift: INSTAGRAM
     - component: Kontakt
       menuname: ''
+    - component: Instagram
+      overskrift: INSTAGRAM
 ---
 
