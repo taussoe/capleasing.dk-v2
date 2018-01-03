@@ -4,6 +4,7 @@ import Statement from './statement'
 import ResponsiveImage from './responsive-image'
 import TextBlock from './textblock'
 import Instagram from '../components/instagram'
+import Kontakt from '../components/kontakt'
 
 const CapComponent = class CapComponent extends React.Component {
   render() {
