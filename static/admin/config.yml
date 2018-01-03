@@ -25,6 +25,7 @@ collections:
     folder: "src/pages/kontaktpersoner"
     create: true
     fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "none"}
       - {label: "Profilbillede", name: "contactimage", widget: image}
       - {label: "Navn", name: "title", widget: "string"}
       - {label: "Titel", name: "contacttitle", widget: "string"}
