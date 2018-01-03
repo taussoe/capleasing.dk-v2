@@ -3,6 +3,7 @@ import Hero from './hero'
 import Statement from './statement'
 import ResponsiveImage from './responsive-image'
 import TextBlock from './textblock'
+import Instagram from '../components/instagram'
 
 const CapComponent = class CapComponent extends React.Component {
   render() {
@@ -78,6 +79,8 @@ const CapComponent = class CapComponent extends React.Component {
             </div>
           </div>
         )
+      case 'Instagram':
+        return <Instagram />
       default:
         return <div>Component not recognized</div>
     }

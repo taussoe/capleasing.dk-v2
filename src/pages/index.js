@@ -4,7 +4,6 @@ import Helmet from 'react-helmet'
 import Script from 'react-load-script'
 import styled, { injectGlobal } from 'styled-components'
 import CapComponent from '../components/cap-component'
-import Instagram from '../components/instagram'
 import Footer from '../components/footer'
 
 injectGlobal`
@@ -84,7 +83,6 @@ export default class IndexPage extends React.Component {
           {c.map((e, i) => {
             return <CapComponent key={`component-${i}`} data={e} />
           })}
-          <Instagram />
         </Main>
         <Footer />
       </div>
