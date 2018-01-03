@@ -51,10 +51,13 @@ const Instagram = class Instagram extends React.Component {
   componentDidUpdate() {
     console.log('update', this.state.datas)
   }
+  componentWillUnMount() {
+    this.instarequest.abort()
+  }
   render() {
     let instafeed = this.state.data.slice(0, 9).map((e, i) => {
       return (
-        <div className="instagram-image-container">
+        <div className="instagram-image-container" key={`instagrammap${i}`}>
           <TextBlock
             translateFrom={`translateX(-20px)`}
             translateTo={`translateX(0px)`}
