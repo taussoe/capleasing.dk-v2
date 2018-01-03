@@ -21,12 +21,14 @@ const FooterContainer = styled.footer`
       background-color: transparent;
       border: 0px;
       font-size: 16px;
-      width: 330px;
+      width: 310px;
     }
     button {
       border: 0px;
       background-color: transparent;
       color: #000000;
+      font-size: 16px;
+      font-weight: 100;
     }
   }
   .social-link {
