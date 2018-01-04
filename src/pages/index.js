@@ -13,7 +13,10 @@ html,body {
   margin: 0;
   padding: 0;
 }
-
+h1, h2 {
+  overflow-wrap: break-word;
+    word-wrap: break-word;
+}
 h1 {
   font-size: 65px;
   font-weight: 800;
