@@ -30,7 +30,7 @@ h2 {
 }
 
 .spacing {
-  padding: 50px 0px;
+  padding: 0px 0px;
 }
 
 .margin-top-auto {
