@@ -72,40 +72,8 @@ export default class IndexPage extends React.Component {
     window.netlifyIdentity.init()
   }
 
-  scrollTo = (element, to, duration) => {
-    console.log('trigger scroll')
-    if (duration <= 0) return
-    var offsetTop =
-      window.pageYOffset ||
-      document.documentElement.scrollTop ||
-      document.body.scrollTop
-    var difference = to - offsetTop
-    var perTick = difference / duration * 10
-
-    setTimeout(
-      function() {
-        var offsetTop =
-          window.pageYOffset ||
-          document.documentElement.scrollTop ||
-          document.body.scrollTop
-        /* element.scrollTop = element.scrollTop + perTick */
-        window.scrollTo(0, offsetTop + perTick)
-        if (offsetTop === to) return
-        this.scrollTo(element, to, duration - 10)
-      }.bind(this),
-      10
-    )
-  }
-
   handleScroll = (id, duration) => {
-    console.log(ReactDOM.findDOMNode(this.refs[id]).getBoundingClientRect())
     InterScroll(ReactDOM.findDOMNode(this.refs[id]), 2000)
-    /* let d = ReactDOM.findDOMNode(this.refs[id]).getBoundingClientRect()
-    console.log(d)
-    let element = ReactDOM.findDOMNode(this.refs[id]).getBoundingClientRect(),
-      bElem = document.body.getBoundingClientRect(),
-      offset = element.top - bElem.top
-    this.scrollTo(document.body, offset, duration) */
   }
 
   render() {
