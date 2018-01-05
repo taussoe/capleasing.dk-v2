@@ -86,7 +86,30 @@ const CapComponent = class CapComponent extends React.Component {
       case 'Instagram':
         return <Instagram />
       case 'Kontakt':
-        return <Kontakt data={this.props.alldata.kontaktpersoner.edges} />
+        return (
+          <div className="container">
+            <div className="row">
+              <div className="col-md-12 center">
+                <TextBlock
+                  translateFrom={`translateX(20px)`}
+                  translateTo={`translateX(0px)`}
+                  transitionDelay={`0.2s`}
+                  triggerOnce={true}
+                  maxWidth="80%"
+                  padding="150px 0px 100px 0px"
+                >
+                  <h2>{this.props.data.overskrift}</h2>
+                  <span>{this.props.data.text}</span>
+                </TextBlock>
+              </div>
+            </div>
+            <div className="row spacing">
+              <div className="col-md-12">
+                <Kontakt data={this.props.alldata.kontaktpersoner.edges} />
+              </div>
+            </div>
+          </div>
+        )
       default:
         return <div>Component not recognized</div>
     }

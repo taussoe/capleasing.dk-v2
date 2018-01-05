@@ -8,6 +8,8 @@ const TextBlockStyle = styled.div`
   transition: 0.5s ease-in-out all;
   transform: ${props => (props.show ? props.translateTo : props.translateFrom)};
   transition-delay: ${props => props.transitionDelay};
+  margin: ${props => (props.maxWidth ? 'auto' : '0px')};
+  max-width: ${props => (props.maxWidth ? props.maxWidth : 'none')};
   &.bottom {
     position: absolute;
     bottom: 0px;
@@ -67,6 +69,7 @@ export default props => (
         className={props.className}
         transitionDelay={props.transitionDelay ? props.transitionDelay : '0s'}
         padding={props.padding}
+        maxWidth={props.maxWidth}
       >
         {props.children}
       </TextBlockStyle>
