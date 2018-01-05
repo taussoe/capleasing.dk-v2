@@ -70,11 +70,19 @@ components:
       text: "Vi har på få år skabt os en position på markedet, måske fordi vi aldrig går på kompromis med de biler, vi tager hjem fra Tyskland. Herudover har vi etablerede samarbejder og alliancer med de bedste inden for branchen, så vi dækker en vifte af behov i forbindelse med selve leasingen.\rVi har eget showrom og lager i Nordhavn og faste samarbejdspartnere i Tyskland, der hver for sig er ”top of the pops”.\r\r\n\nVores hjemtagelser af bilerne foregår professionelt og alle biler får en grundig gennemgang af eksperter inden turen hjem til os. Og før de importerede biler skal til syn, får de endnu en gennemgang fra A til Z hos Autopartner – ligesom den bliver klargjort hos Olivers Autoshine for at få den sidste kærlighed før det nye ægteskab."
     - component: Kontakt
       menuname: ''
-    - component: Instagram
-      overskrift: INSTAGRAM
     - component: PictureRight
       image: /img/maps.jpg
       overskrift: DRØMMEBILERNE I NORDHAVN
-      text: "Kattegatvej 39\r\n\n2150 Nordhavn\n\n\rTlf.: 72 22 48 00\n\n\rinfo@cap-leasing.dk"
+      text: |-
+        Kattegatvej 39
+
+        2150 Nordhavn
+
+        Tlf.: 72 22 48 00
+
+        info@cap-leasing.dk
+    - component: Instagram
+      overskrift: INSTAGRAM
+      text: ''
 ---
 
