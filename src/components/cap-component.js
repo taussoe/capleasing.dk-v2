@@ -44,6 +44,7 @@ const CapComponent = class CapComponent extends React.Component {
                   translateTo={`translateX(0px)`}
                   transitionDelay={`0.2s`}
                   triggerOnce={true}
+                  padding="0px"
                 >
                   <ResponsiveImage src={this.props.data.image} />
                 </TextBlock>
@@ -61,6 +62,7 @@ const CapComponent = class CapComponent extends React.Component {
                   translateTo={`translateX(0px)`}
                   transitionDelay={`0.2s`}
                   triggerOnce={true}
+                  padding="0px"
                 >
                   <ResponsiveImage src={this.props.data.image} />
                 </TextBlock>
