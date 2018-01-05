@@ -8,7 +8,6 @@ import Kontakt from '../components/kontakt'
 
 const CapComponent = class CapComponent extends React.Component {
   render() {
-    console.log(this.props.alldata.kontaktpersoner.edges)
     const c = this.props.data.component
     switch (c) {
       case 'Hero':
@@ -32,7 +31,7 @@ const CapComponent = class CapComponent extends React.Component {
                     translateTo={`translateX(0px)`}
                     transitionDelay={`0.2s`}
                     triggerOnce={true}
-                    padding="0px 20px 10px 0px"
+                    padding="0px 0px 10px 0px"
                   >
                     <h2>{this.props.data.overskrift}</h2>
                     <span>{this.props.data.text}</span>
@@ -75,7 +74,7 @@ const CapComponent = class CapComponent extends React.Component {
                     translateTo={`translateX(0px)`}
                     transitionDelay={`0.2s`}
                     triggerOnce={true}
-                    padding="0px 0px 10px 20px"
+                    padding="0px 0px 10px 0px"
                   >
                     <h2>{this.props.data.overskrift}</h2>
                     <span>{this.props.data.text}</span>

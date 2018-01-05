@@ -72,7 +72,6 @@ export default class IndexPage extends React.Component {
   render() {
     console.log(this.props)
     const c = this.props.data.home.frontmatter.components.sektioner
-    console.log(c)
     return (
       <div>
         <Main>
