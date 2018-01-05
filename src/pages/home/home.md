@@ -72,5 +72,9 @@ components:
       menuname: ''
     - component: Instagram
       overskrift: INSTAGRAM
+    - component: PictureRight
+      image: /img/maps.jpg
+      overskrift: DRØMMEBILERNE I NORDHAVN
+      text: "Kattegatvej 39\r\n\n2150 Nordhavn\n\n\rTlf.: 72 22 48 00\n\n\rinfo@cap-leasing.dk"
 ---
 
