@@ -64,12 +64,24 @@ components:
         CapLeasing tilbyder en billig kaskoforsikring – også selvom du ikke er
         ældre end 18 år. Vi samarbejder med IF, Købstædernes og Alm. Brand - og
         rådgiver gerne, hvad der passer bedst til din situation.
-    - component: Statement
+    - component: Kontakt
       menuname: Kontakt
       overskrift: KORT FORTALT
-      text: "Vi har på få år skabt os en position på markedet, måske fordi vi aldrig går på kompromis med de biler, vi tager hjem fra Tyskland. Herudover har vi etablerede samarbejder og alliancer med de bedste inden for branchen, så vi dækker en vifte af behov i forbindelse med selve leasingen.\rVi har eget showrom og lager i Nordhavn og faste samarbejdspartnere i Tyskland, der hver for sig er ”top of the pops”.\r\r\n\nVores hjemtagelser af bilerne foregår professionelt og alle biler får en grundig gennemgang af eksperter inden turen hjem til os. Og før de importerede biler skal til syn, får de endnu en gennemgang fra A til Z hos Autopartner – ligesom den bliver klargjort hos Olivers Autoshine for at få den sidste kærlighed før det nye ægteskab."
-    - component: Kontakt
-      menuname: ''
+      text: >-
+        Vi har på få år skabt os en position på markedet, måske fordi vi aldrig
+        går på kompromis med de biler, vi tager hjem fra Tyskland. Herudover har
+        vi etablerede samarbejder og alliancer med de bedste inden for branchen,
+        så vi dækker en vifte af behov i forbindelse med selve leasingen.
+
+        Vi har eget showrom og lager i Nordhavn og faste samarbejdspartnere i
+        Tyskland, der hver for sig er ”top of the pops”.
+
+
+        Vores hjemtagelser af bilerne foregår professionelt og alle biler får en
+        grundig gennemgang af eksperter inden turen hjem til os. Og før de
+        importerede biler skal til syn, får de endnu en gennemgang fra A til Z
+        hos Autopartner – ligesom den bliver klargjort hos Olivers Autoshine for
+        at få den sidste kærlighed før det nye ægteskab.
     - component: PictureRight
       image: /img/maps.jpg
       overskrift: DRØMMEBILERNE I NORDHAVN
