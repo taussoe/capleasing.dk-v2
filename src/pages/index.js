@@ -5,6 +5,8 @@ import Script from 'react-load-script'
 import styled, { injectGlobal } from 'styled-components'
 import CapComponent from '../components/cap-component'
 import Footer from '../components/footer'
+import Menu from '../components/menu'
+import ReactDOM from 'react-dom'
 
 injectGlobal`
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800');
@@ -69,6 +71,40 @@ export default class IndexPage extends React.Component {
     window.netlifyIdentity.init()
   }
 
+  scrollTo = (element, to, duration) => {
+    console.log('trigger scroll')
+    if (duration <= 0) return
+    var offsetTop =
+      window.pageYOffset ||
+      document.documentElement.scrollTop ||
+      document.body.scrollTop
+    var difference = to - offsetTop
+    var perTick = difference / duration * 10
+
+    setTimeout(
+      function() {
+        var offsetTop =
+          window.pageYOffset ||
+          document.documentElement.scrollTop ||
+          document.body.scrollTop
+        /* element.scrollTop = element.scrollTop + perTick */
+        window.scrollTo(0, offsetTop + perTick)
+        if (offsetTop === to) return
+        this.scrollTo(element, to, duration - 10)
+      }.bind(this),
+      10
+    )
+  }
+
+  dpoScroll = (id, duration) => {
+    let d = ReactDOM.findDOMNode(this.refs[id]).getBoundingClientRect()
+    console.log(d)
+    let element = ReactDOM.findDOMNode(this.refs[id]).getBoundingClientRect(),
+      bElem = document.body.getBoundingClientRect(),
+      offset = element.top - bElem.top
+    this.scrollTo(document.body, offset, duration)
+  }
+
   render() {
     console.log(this.props)
     const c = this.props.data.home.frontmatter.components.sektioner
@@ -79,10 +115,12 @@ export default class IndexPage extends React.Component {
             url="https://identity.netlify.com/v1/netlify-identity-widget.js"
             onLoad={this.handleScriptLoad.bind(this)}
           />
+          <Menu dpoScroll={this.dpoScroll} data={this.props.data} />
           {c.map((e, i) => {
             return (
               <CapComponent
                 key={`component-${i}`}
+                ref={`component${i}`}
                 data={e}
                 alldata={this.props.data}
               />
@@ -110,6 +148,7 @@ export const pageQuery = graphql`
             image
             overskrift
             text
+            menuname
           }
         }
       }

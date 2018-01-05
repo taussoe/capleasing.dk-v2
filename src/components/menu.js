@@ -21,6 +21,7 @@ const Navigation = styled.div`
   ul {
     display: flex;
     list-style: none;
+    font-weight: 700;
   }
 `
 
@@ -47,6 +48,8 @@ const menunav = [
 
 const Menu = class Menu extends React.Component {
   setActive = (clink, loc) => {
+    console.log('click')
+    return false
     /* let currentLink = clink.split('/')[1]
         let arrCur = this.props.loc.pathname.split('/')
         if (arrCur.length >= 2) {
@@ -56,30 +59,36 @@ const Menu = class Menu extends React.Component {
           return false
         } */
   }
+  menuClick(e, menuname) {
+    e.preventDefault()
+    console.log('click ' + menuname)
+    this.props.dpoScroll('component4', 2000)
+  }
   render() {
+    let menu = this.props.data.home.frontmatter.components.sektioner.filter(
+      e => e.menuname
+    )
+    let menuItem = menu.map((e, i) => {
+      return (
+        <Observer triggerOnce={true} key={`menuitem-${i}`}>
+          {inView => (
+            <MenuLi tDelay={i * 0.1} show={inView}>
+              <Link
+                to={`/${e.menuname}`}
+                onClick={event => this.menuClick(event, e.menuname)}
+              >
+                {e.menuname}
+              </Link>
+            </MenuLi>
+          )}
+        </Observer>
+      )
+    })
+    console.log(menu)
     return (
       <div>
         <Navigation>
-          <ul>
-            {menunav.map((menuitem, i) => (
-              <Observer triggerOnce={true} key={menuitem.name}>
-                {inView => (
-                  <MenuLi
-                    className={this.setActive(menuitem.link) ? 'selected' : ''}
-                    tDelay={i * 0.1}
-                    show={inView}
-                  >
-                    <Link
-                      to={`/${menuitem.link}`}
-                      onClick={() => this.setState({ show: false })}
-                    >
-                      {menuitem.name}
-                    </Link>
-                  </MenuLi>
-                )}
-              </Observer>
-            ))}
-          </ul>
+          <ul>{menuItem}</ul>
           <div className="logo">
             <img src="img/cap-leasing-logo.svg" />
           </div>
