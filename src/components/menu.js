@@ -2,6 +2,8 @@ import React from 'react'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
 import Observer from 'react-intersection-observer'
+import { InterScroll } from './functions'
+import ReactDOM from 'react-dom'
 
 const Navigation = styled.div`
   position: absolute;
@@ -62,7 +64,9 @@ const Menu = class Menu extends React.Component {
   menuClick(e, menuname) {
     e.preventDefault()
     console.log('click ' + menuname)
-    this.props.dpoScroll('component4', 2000)
+    // this.props.dpoScroll('component4', 2000)
+    //InterScroll(this, 'component4', 2000)
+    this.props.interScroll('component4', 2000)
   }
   render() {
     let menu = this.props.data.home.frontmatter.components.sektioner.filter(

@@ -7,6 +7,7 @@ import CapComponent from '../components/cap-component'
 import Footer from '../components/footer'
 import Menu from '../components/menu'
 import ReactDOM from 'react-dom'
+import { InterScroll } from '../components/functions'
 
 injectGlobal`
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800');
@@ -96,13 +97,15 @@ export default class IndexPage extends React.Component {
     )
   }
 
-  dpoScroll = (id, duration) => {
-    let d = ReactDOM.findDOMNode(this.refs[id]).getBoundingClientRect()
+  handleScroll = (id, duration) => {
+    console.log(ReactDOM.findDOMNode(this.refs[id]).getBoundingClientRect())
+    InterScroll(ReactDOM.findDOMNode(this.refs[id]), 2000)
+    /* let d = ReactDOM.findDOMNode(this.refs[id]).getBoundingClientRect()
     console.log(d)
     let element = ReactDOM.findDOMNode(this.refs[id]).getBoundingClientRect(),
       bElem = document.body.getBoundingClientRect(),
       offset = element.top - bElem.top
-    this.scrollTo(document.body, offset, duration)
+    this.scrollTo(document.body, offset, duration) */
   }
 
   render() {
@@ -115,7 +118,7 @@ export default class IndexPage extends React.Component {
             url="https://identity.netlify.com/v1/netlify-identity-widget.js"
             onLoad={this.handleScriptLoad.bind(this)}
           />
-          <Menu dpoScroll={this.dpoScroll} data={this.props.data} />
+          <Menu interScroll={this.handleScroll} data={this.props.data} />
           {c.map((e, i) => {
             return (
               <CapComponent
