@@ -77,8 +77,6 @@ components:
         Tyskland, der hver for sig er ”top of the pops”.
 
 
-
-
         Vores hjemtagelser af bilerne foregår professionelt og alle biler får en
         grundig gennemgang af eksperter inden turen hjem til os. Og før de
         importerede biler skal til syn, får de endnu en gennemgang fra A til Z
@@ -89,11 +87,8 @@ components:
       overskrift: DRØMMEBILERNE I NORDHAVN
       text: |-
         Kattegatvej 39
-
         2150 Nordhavn
-
         Tlf.: 72 22 48 00
-
         info@cap-leasing.dk
     - component: Instagram
       overskrift: INSTAGRAM
