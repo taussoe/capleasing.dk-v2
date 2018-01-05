@@ -56,9 +56,6 @@ const Main = styled.div`
 `
 
 export default class IndexPage extends React.Component {
-  renderComponent() {
-    console.log('test')
-  }
   handleScriptLoad() {
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on('init', user => {
