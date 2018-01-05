@@ -79,7 +79,16 @@ const Instagram = class Instagram extends React.Component {
         <div className="container">
           <div className="row">
             <div className="col-md-12 center">
-              <h2>INSTAGRAM</h2>
+              <TextBlock
+                translateFrom={`translateX(20px)`}
+                translateTo={`translateX(0px)`}
+                transitionDelay={`0.2s`}
+                triggerOnce={true}
+                maxWidth="80%"
+                padding="100px 0px 0px 0px"
+              >
+                <h2>INSTAGRAM</h2>
+              </TextBlock>
             </div>
           </div>
         </div>

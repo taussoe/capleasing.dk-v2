@@ -10,6 +10,9 @@ const TextBlockStyle = styled.div`
   transition-delay: ${props => props.transitionDelay};
   margin: ${props => (props.maxWidth ? 'auto' : '0px')};
   max-width: ${props => (props.maxWidth ? props.maxWidth : 'none')};
+  span {
+    white-space: pre-line;
+  }
   &.bottom {
     position: absolute;
     bottom: 0px;
