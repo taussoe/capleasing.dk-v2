@@ -82,6 +82,11 @@ components:
         importerede biler skal til syn, får de endnu en gennemgang fra A til Z
         hos Autopartner – ligesom den bliver klargjort hos Olivers Autoshine for
         at få den sidste kærlighed før det nye ægteskab.
+    - component: Parallax
+      image: /img/parallax.jpg
+      menuname: Garanti
+      overskrift: OG DET MED GARANTI
+      text: "Som en ekstra tryghed for dig, tilbyder vi dig en garanti på vores biler gennem Autoconcept, der har en bred paraply af garantipakker - herunder:\r\r\n\n*  Forlængelse af ny bils garanti\r\n* Garantiforsikringer til brugte biler\n* KeyProtect - tillægsforsikringer\n* Road Assist - tillægsforsikringer\n\n\r\rDu kan læse mere om Autoconcept og deres garantipakker på dette link: <https://www.autoconcept.dk/Produkter>"
     - component: PictureRight
       image: /img/maps.jpg
       overskrift: DRØMMEBILERNE I NORDHAVN
@@ -93,10 +98,5 @@ components:
     - component: Instagram
       overskrift: INSTAGRAM
       text: ''
-    - component: Parallax
-      image: /img/parallax.jpg
-      menuname: Garanti
-      overskrift: OG DET MED GARANTI
-      text: "Som en ekstra tryghed for dig, tilbyder vi dig en garanti på vores biler gennem Autoconcept, der har en bred paraply af garantipakker - herunder:\r\r\n\n*  Forlængelse af ny bils garanti\r\n* Garantiforsikringer til brugte biler\n* KeyProtect - tillægsforsikringer\n* Road Assist - tillægsforsikringer\n\n\r\rDu kan læse mere om Autoconcept og deres garantipakker på dette link: <https://www.autoconcept.dk/Produkter>"
 ---
 
