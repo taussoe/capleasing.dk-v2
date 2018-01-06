@@ -5,6 +5,8 @@ import ResponsiveImage from './responsive-image'
 import TextBlock from './textblock'
 import Instagram from '../components/instagram'
 import Kontakt from '../components/kontakt'
+import ParallaxImage from '../components/parallax-image'
+import MarkdownRenderer from 'react-markdown-renderer'
 
 const CapComponent = class CapComponent extends React.Component {
   render() {
@@ -110,6 +112,15 @@ const CapComponent = class CapComponent extends React.Component {
               </div>
             </div>
           </div>
+        )
+      case 'Parallax':
+        return (
+          <ParallaxImage image={this.props.data.image}>
+            <h2 className="white">{this.props.data.overskrift}</h2>
+            <span className="white">
+              <MarkdownRenderer markdown={this.props.data.text} />
+            </span>
+          </ParallaxImage>
         )
       default:
         return <div>Component not recognized</div>

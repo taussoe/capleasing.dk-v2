@@ -48,6 +48,12 @@ h2 {
 .center {
   text-align: center;
 }
+.white {
+  color: #ffffff;
+}
+.h500 {
+  height: 500px;
+}
 `
 
 const Main = styled.div`
