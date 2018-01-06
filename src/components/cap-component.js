@@ -96,7 +96,7 @@ const CapComponent = class CapComponent extends React.Component {
                   translateTo={`translateX(0px)`}
                   transitionDelay={`0.2s`}
                   triggerOnce={true}
-                  maxWidth="80%"
+                  maxWidth="70%"
                   padding="150px 0px 10px 0px"
                 >
                   <h2>{this.props.data.overskrift}</h2>
