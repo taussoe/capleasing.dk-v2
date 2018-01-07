@@ -8,6 +8,7 @@ import Footer from '../components/footer'
 import Menu from '../components/menu'
 import ReactDOM from 'react-dom'
 import { InterScroll } from '../components/functions'
+import slug from 'slug'
 
 injectGlobal`
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800');
@@ -83,7 +84,6 @@ export default class IndexPage extends React.Component {
   }
 
   render() {
-    console.log(this.props)
     const c = this.props.data.home.frontmatter.components.sektioner
     return (
       <div>
@@ -94,17 +94,18 @@ export default class IndexPage extends React.Component {
           />
           <Menu interScroll={this.handleScroll} data={this.props.data} />
           {c.map((e, i) => {
+            let vref = e.menuname ? slug(e.menuname) : `component-${i}`
             return (
               <CapComponent
                 key={`component-${i}`}
-                ref={`component${i}`}
+                ref={vref}
                 data={e}
                 alldata={this.props.data}
               />
             )
           })}
         </Main>
-        <Footer />
+        <Footer interScroll={this.handleScroll} data={this.props.data} />
       </div>
     )
   }

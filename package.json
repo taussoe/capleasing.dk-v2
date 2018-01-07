@@ -21,6 +21,7 @@
     "react-load-script": "0.0.6",
     "react-markdown-renderer": "^1.4.0",
     "react-parallax": "^1.5.1",
+    "slug": "^0.9.1",
     "styled-components": "^2.4.0"
   },
   "keywords": [

@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import Observer from 'react-intersection-observer'
 import { InterScroll } from './functions'
 import ReactDOM from 'react-dom'
+import slug from 'slug'
 
 const Navigation = styled.div`
   position: absolute;
@@ -39,39 +40,17 @@ const MenuLi = styled.li`
   }
 `
 
-const menunav = [
-  { name: 'Leasing', link: '/clients/' },
-  { name: 'Profil', link: '/news-and-work/' },
-  { name: 'Showroom', link: '/what-we-do/' },
-  { name: 'Import', link: '/job/' },
-  { name: 'Komission', link: '/contact/' },
-  { name: 'Kontakt', link: '/contact/' },
-]
-
 const Menu = class Menu extends React.Component {
-  setActive = (clink, loc) => {
-    console.log('click')
-    return false
-    /* let currentLink = clink.split('/')[1]
-        let arrCur = this.props.loc.pathname.split('/')
-        if (arrCur.length >= 2) {
-          let r = arrCur[2] === currentLink ? true : false
-          return r
-        } else {
-          return false
-        } */
-  }
   menuClick(e, menuname) {
     e.preventDefault()
-    console.log('click ' + menuname)
-    // this.props.dpoScroll('component4', 2000)
-    //InterScroll(this, 'component4', 2000)
-    this.props.interScroll('component4', 2000)
+    let gRef = slug(menuname)
+    this.props.interScroll(gRef, 2000)
   }
   render() {
     let menu = this.props.data.home.frontmatter.components.sektioner.filter(
       e => e.menuname
     )
+
     let menuItem = menu.map((e, i) => {
       return (
         <Observer triggerOnce={true} key={`menuitem-${i}`}>

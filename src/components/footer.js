@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import TextBlock from '../components/textblock'
 import Link from 'gatsby-link'
+import slug from 'slug'
 
 const FooterContainer = styled.footer`
   position: fixed;
@@ -88,16 +89,21 @@ export default props => (
           <br />
           <br />
           <ul>
-            {menunav.map((menuitem, i) => (
-              <li key={`footer-link-${i}`}>
-                <Link
-                  to={`/${menuitem.link}`}
-                  onClick={() => this.setState({ show: false })}
-                >
-                  {menuitem.name}
-                </Link>
-              </li>
-            ))}
+            {props.data.home.frontmatter.components.sektioner
+              .filter(e => e.menuname)
+              .map((menuitem, i) => (
+                <li key={`footer-link-${i}`}>
+                  <Link
+                    to={`/${menuitem.link}`}
+                    onClick={event => {
+                      event.preventDefault()
+                      props.interScroll(slug(menuitem.menuname), 2000)
+                    }}
+                  >
+                    {menuitem.menuname}
+                  </Link>
+                </li>
+              ))}
           </ul>
         </div>
         <div className="col-md-3">
