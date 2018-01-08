@@ -55,7 +55,7 @@ collections:
       - {label: "Mærke", name: "title", widget: "string"}
       - {label: "Tekst", name: "body", widget: "markdown"}
   - name: "cars"
-    label: "cars"
+    label: "Biler"
     description: >
       Vedligeholdelse af biler
     folder: "src/pages/cars"
