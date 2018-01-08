@@ -41,6 +41,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "showroom-page"}
           - {label: "Path", name: "path", widget: "hidden", default: "/showroom"}
+          - {label: "Image", name: image, widget: image}
           - {label: "Overskrift", name: "title", widget: "string"}
           - {label: "Tekst", name: "body", widget: "markdown"}
   - name: "carmodels"
