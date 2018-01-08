@@ -65,4 +65,5 @@ collections:
       - {label: "Bilmærke", name: "carmodel", widget: "relation", collection: "carmodels", searchFields:[title], valueField: "title"}
       - {label: "Bil", name: "title", widget: "string"}
       - {label: "Tekst", name: "body", widget: "markdown"}
+      - {label: "Billeder", name: pictures, widget: object, fields: [{label: Image, name: image, widget: image}}
 
