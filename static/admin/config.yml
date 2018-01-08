@@ -35,11 +35,34 @@ collections:
           - {label: "SEO Image", name: image, widget: image}
           - {label: "SEO Description", name: description, widget: string}
           - {label: Komponenter, name: components, widget: object, fields: [{label: Sektioner, name: sektioner, widget: list, fields: [{label: "Menu navn", name: menuname, widget: string}, {label: "Component", name: "component", widget: "select", options: ["Hero", "Statement", "PictureLeft", "PictureRight", "Instagram", "Kontakt", "Parallax"]},{label: Image, name: image, widget: image}, {label: "Overskrift", name: overskrift, widget: string}, {label: Text, name: text, widget: "markdown"}]}]}
-      - file: "src/pages/about/about.md"
-        label: "About"
-        name: "about"
+      - file: "src/pages/showroom/showroom.md"
+        label: "Showroom"
+        name: "showroom"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Path", name: "path", widget: "hidden", default: "/about"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "showroom-page"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/showroom"}
+          - {label: "Overskrift", name: "title", widget: "string"}
+          - {label: "Tekst", name: "body", widget: "markdown"}
+  - name: "carmodels"
+    label: "Bil mærker"
+    description: >
+      Vedligeholdelse af bilmærker
+    folder: "src/pages/carmodels"
+    create: true
+    fields:
+      - {label: "Path", name: "path", widget: "hidden", default: "/carmodels"}
+      - {label: "Billede", name: "carimage", widget: image}
+      - {label: "Mærke", name: "title", widget: "string"}
+      - {label: "Tekst", name: "body", widget: "markdown"}
+  - name: "cars"
+    label: "cars"
+    description: >
+      Vedligeholdelse af biler
+    folder: "src/pages/cars"
+    create: true
+    fields:
+      - {label: "Path", name: "path", widget: "hidden", default: "/cars"}
+      - {label: "Bilmærke", name: "carmodel", widget: "relation", collection: "carmodels", searchFields:[title], valueField: "title"}
+      - {label: "Bil", name: "title", widget: "string"}
+      - {label: "Tekst", name: "body", widget: "markdown"}
+
