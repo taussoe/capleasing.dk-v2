@@ -7,6 +7,7 @@ import Script from 'react-load-script'
 import HalfHero from '../components/half-hero'
 import CapComponent from '../components/cap-component'
 import CarListing from '../components/car-listing'
+import Overlay from '../components/overlay'
 
 const Main = styled.div`
   margin-bottom: 455px;
@@ -60,6 +61,7 @@ export default class Showroom extends React.Component {
     return (
       <div>
         <Main>
+          <Overlay />
           <Script
             url="https://identity.netlify.com/v1/netlify-identity-widget.js"
             onLoad={this.handleScriptLoad.bind(this)}

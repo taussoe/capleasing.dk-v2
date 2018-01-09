@@ -89,6 +89,19 @@ const HalfHeroContainer = styled.div`
     }
   }
 `
+const biler = [
+  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
+  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
+  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
+  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
+  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
+  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
+  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
+  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
+  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
+  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
+  
+]
 
 export default class HalfHero extends React.Component {
   state = {
@@ -106,10 +119,11 @@ export default class HalfHero extends React.Component {
     }
   }
   componentDidMount() {
-    window.addEventListener('scroll', this.handleScroll.bind(this))
+    this.handleS = this.handleScroll.bind(this)
+    window.addEventListener('scroll', this.handleS)
   }
   componentWillUnmount() {
-    window.removeEventListener('scroll', this.handleScroll)
+    window.removeEventListener('scroll', this.handleS)
   }
   render() {
     return (
@@ -130,78 +144,28 @@ export default class HalfHero extends React.Component {
 
             <div>
               <ul>
-                <li>
-                  <div className="car">
-                    <div>
-                      <div className="car-brand">
-                        Porsche Macan Turbo 3,6 PDK
+                {biler.map((e, i) => {
+                  return (
+                    <li>
+                      <div className="car">
+                        <div>
+                          <div className="car-brand">
+                            {e.title}
+                          </div>
+                          <div className="car-info">Årgang: {e.year}</div>
+                          <div className="car-info">Km: {e.mileage}</div>
+                        </div>
+                        <div className="price">
+                          {
+                            parseInt(e.ydelse).toFixed(0).replace(/./g, function(c, i, a) {
+                                return i && c !== "." && ((a.length - i) % 3 === 0) ? '.' + c : c;
+                            })
+                          } kr
+                        </div>
                       </div>
-                      <div className="car-info">Årgang: 2014</div>
-                      <div className="car-info">Km: 77.232</div>
-                    </div>
-                    <div className="price">8.300 kr</div>
-                  </div>
-                </li>
-                <li>
-                  <div className="car">
-                    <div>
-                      <div className="car-brand">
-                        Porsche Macan Turbo 3,6 PDK
-                      </div>
-                      <div className="car-info">Årgang: 2014</div>
-                      <div className="car-info">Km: 77.232</div>
-                    </div>
-                    <div className="price">8.300 kr</div>
-                  </div>
-                </li>
-                <li>
-                  <div className="car">
-                    <div>
-                      <div className="car-brand">
-                        Porsche Macan Turbo 3,6 PDK
-                      </div>
-                      <div className="car-info">Årgang: 2014</div>
-                      <div className="car-info">Km: 77.232</div>
-                    </div>
-                    <div className="price">8.300 kr</div>
-                  </div>
-                </li>
-                <li>
-                  <div className="car">
-                    <div>
-                      <div className="car-brand">
-                        Porsche Macan Turbo 3,6 PDK
-                      </div>
-                      <div className="car-info">Årgang: 2014</div>
-                      <div className="car-info">Km: 77.232</div>
-                    </div>
-                    <div className="price">8.300 kr</div>
-                  </div>
-                </li>
-                <li>
-                  <div className="car">
-                    <div>
-                      <div className="car-brand">
-                        Porsche Macan Turbo 3,6 PDK
-                      </div>
-                      <div className="car-info">Årgang: 2014</div>
-                      <div className="car-info">Km: 77.232</div>
-                    </div>
-                    <div className="price">8.300 kr</div>
-                  </div>
-                </li>
-                <li>
-                  <div className="car">
-                    <div>
-                      <div className="car-brand">
-                        Porsche Macan Turbo 3,6 PDK
-                      </div>
-                      <div className="car-info">Årgang: 2014</div>
-                      <div className="car-info">Km: 77.232</div>
-                    </div>
-                    <div className="price">8.300 kr</div>
-                  </div>
-                </li>
+                    </li>
+                  )
+                })}
               </ul>
             </div>
           </div>
