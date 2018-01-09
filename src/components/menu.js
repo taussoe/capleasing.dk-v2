@@ -42,7 +42,7 @@ const MenuLi = styled.li`
 
 const Menu = class Menu extends React.Component {
   menuClick(e, menuname) {
-    e.preventDefault()
+    //e.preventDefault()
     let gRef = slug(menuname)
     this.props.interScroll(gRef, 2000)
   }
@@ -57,7 +57,7 @@ const Menu = class Menu extends React.Component {
           {inView => (
             <MenuLi tDelay={i * 0.1} show={inView}>
               <Link
-                to={`/${e.menuname}`}
+                to={`/`}
                 onClick={event => this.menuClick(event, e.menuname)}
               >
                 {e.menuname}
@@ -67,11 +67,19 @@ const Menu = class Menu extends React.Component {
         </Observer>
       )
     })
-    console.log(menu)
     return (
       <div>
         <Navigation>
-          <ul>{menuItem}</ul>
+          <ul>
+            {menuItem}
+            <Observer triggerOnce={true} key={`menuitem-showroom`}>
+              {inView => (
+                <MenuLi tDelay={menu.length * 0.1} show={inView}>
+                  <Link to={`/showroom`}>Showroom</Link>
+                </MenuLi>
+              )}
+            </Observer>
+          </ul>
           <div className="logo">
             <img src="img/cap-leasing-logo.svg" />
           </div>

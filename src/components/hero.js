@@ -34,7 +34,6 @@ const Hero = class Hero extends React.Component {
     }
   }
   handleImageLoaded = () => {
-    console.log('image loaded')
     this.setState({ loading: false })
   }
   handleImageError = () => {

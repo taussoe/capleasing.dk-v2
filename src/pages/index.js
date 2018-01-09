@@ -5,9 +5,7 @@ import Script from 'react-load-script'
 import styled, { injectGlobal } from 'styled-components'
 import CapComponent from '../components/cap-component'
 import Footer from '../components/footer'
-import Menu from '../components/menu'
-import ReactDOM from 'react-dom'
-import { InterScroll } from '../components/functions'
+
 import slug from 'slug'
 
 injectGlobal`
@@ -58,7 +56,7 @@ h2 {
 `
 
 const Main = styled.div`
-  margin-bottom: 455px;
+  margin-bottom: 450px;
   z-index: 2;
   background-color: #ffffff;
   position: relative;
@@ -66,6 +64,9 @@ const Main = styled.div`
 `
 
 export default class IndexPage extends React.Component {
+  componentDidMount() {
+    this.props.setRefs(this.refs)
+  }
   handleScriptLoad() {
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on('init', user => {
@@ -79,10 +80,6 @@ export default class IndexPage extends React.Component {
     window.netlifyIdentity.init()
   }
 
-  handleScroll = (id, duration) => {
-    InterScroll(ReactDOM.findDOMNode(this.refs[id]), 2000)
-  }
-
   render() {
     const c = this.props.data.home.frontmatter.components.sektioner
     return (
@@ -92,7 +89,7 @@ export default class IndexPage extends React.Component {
             url="https://identity.netlify.com/v1/netlify-identity-widget.js"
             onLoad={this.handleScriptLoad.bind(this)}
           />
-          <Menu interScroll={this.handleScroll} data={this.props.data} />
+
           {c.map((e, i) => {
             let vref = e.menuname ? slug(e.menuname) : `component-${i}`
             return (
