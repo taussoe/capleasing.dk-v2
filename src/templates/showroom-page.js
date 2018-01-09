@@ -60,7 +60,7 @@ Sed in egestas eros. Donec pretium purus eget velit mollis, eget imperdiet odio 
       let data = {
         component: 'PictureRight',
         overskrift: e.node.frontmatter.title,
-        text: e.node.html,
+        text: e.node.frontmatter.text,
         image: e.node.frontmatter.carimage,
       }
       console.log(data)
@@ -138,8 +138,8 @@ export const pageQuery = graphql`
             path
             title
             carimage
+            text
           }
-          html
         }
       }
     }
