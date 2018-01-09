@@ -54,7 +54,7 @@ collections:
       - {label: "Path", name: "path", widget: "hidden", default: "/carmodels"}
       - {label: "Billede", name: "carimage", widget: image}
       - {label: "Mærke", name: "title", widget: "string"}
-      - {label: "Tekst", name: "body", widget: "markdown"}
+      - {label: "Tekst", name: "text", widget: "markdown"}
   - name: "cars"
     label: "Biler"
     description: >
