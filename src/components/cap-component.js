@@ -33,7 +33,7 @@ const CapComponent = class CapComponent extends React.Component {
                     translateTo={`translateX(0px)`}
                     transitionDelay={`0.2s`}
                     triggerOnce={true}
-                    padding="0px 0px 10px 0px"
+                    padding="0px 0px 10px 40px"
                   >
                     <h2>{this.props.data.overskrift}</h2>
                     <span>{this.props.data.text}</span>
@@ -76,7 +76,7 @@ const CapComponent = class CapComponent extends React.Component {
                     translateTo={`translateX(0px)`}
                     transitionDelay={`0.2s`}
                     triggerOnce={true}
-                    padding="0px 0px 10px 0px"
+                    padding="0px 40px 10px 0px"
                   >
                     <h2>{this.props.data.overskrift}</h2>
                     <span>{this.props.data.text}</span>

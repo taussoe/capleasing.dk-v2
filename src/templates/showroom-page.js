@@ -6,6 +6,7 @@ import styled from 'styled-components'
 import Script from 'react-load-script'
 import HalfHero from '../components/half-hero'
 import CapComponent from '../components/cap-component'
+import CarListing from '../components/car-listing'
 
 const Main = styled.div`
   margin-bottom: 455px;
@@ -35,22 +36,27 @@ export default class Showroom extends React.Component {
 
   render() {
     let cars = this.props.data.carmodel.edges.map((e, i) => {
+      let component = i % 2 === 0 ? 'PictureRight' : 'PictureLeft'
       let data = {
-        component: 'PictureRight',
+        component: component,
         overskrift: e.node.frontmatter.title,
         text: e.node.frontmatter.text,
         image: e.node.frontmatter.carimage,
       }
       console.log(data)
       return (
-        <CapComponent
-          key={`component-${i}`}
-          data={data}
-          alldata={this.props.data}
-        />
+        <div>
+          <CapComponent
+            key={`component-${i}`}
+            data={data}
+            alldata={this.props.data}
+          />
+          <CarListing />
+        </div>
       )
     })
     console.log(cars)
+    console.log(this.props)
     return (
       <div>
         <Main>
@@ -60,7 +66,7 @@ export default class Showroom extends React.Component {
           />
           <HalfHero
             src={this.props.data.markdownRemark.frontmatter.image}
-            text={this.props.data.markdownRemark.html}
+            text={this.props.data.markdownRemark.frontmatter.text}
           />
           {cars}
         </Main>
@@ -121,11 +127,11 @@ export const pageQuery = graphql`
       }
     }
     markdownRemark(frontmatter: { path: { eq: $path } }) {
-      html
       frontmatter {
         title
         image
         path
+        text
       }
     }
   }
