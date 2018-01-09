@@ -7,11 +7,16 @@ import ReactDOM from 'react-dom'
 import slug from 'slug'
 
 const Navigation = styled.div`
-  position: absolute;
+  position: fixed;
   top: 0px;
   left: 0px;
   z-index: 100;
   width: 100%;
+  transition: background-color ease-in-out 0.5s, border-bottom ease-in-out 0.5s;
+  background-color: ${props => (props.solidMenu ? '#ffffff' : 'transparent')};
+  padding: 5px 0px 5px 0px;
+  border-bottom: ${props =>
+    props.solidMenu ? '1px solid #eeeeee' : '1px solid transparent'};
   .logo {
     position: absolute;
     top: 15px;
@@ -41,6 +46,26 @@ const MenuLi = styled.li`
 `
 
 const Menu = class Menu extends React.Component {
+  state = {
+    solidMenu: false,
+  }
+  handleScroll() {
+    if (window.pageYOffset > 20 && !this.state.solidMenu) {
+      this.setState({
+        solidMenu: true,
+      })
+    } else if (window.pageYOffset < 20 && this.state.solidMenu) {
+      this.setState({
+        solidMenu: false,
+      })
+    }
+  }
+  componentDidMount() {
+    window.addEventListener('scroll', this.handleScroll.bind(this))
+  }
+  componentWillUnmount() {
+    window.removeEventListener('scroll', this.handleScroll)
+  }
   menuClick(e, menuname) {
     //e.preventDefault()
     let gRef = slug(menuname)
@@ -69,7 +94,7 @@ const Menu = class Menu extends React.Component {
     })
     return (
       <div>
-        <Navigation>
+        <Navigation solidMenu={this.state.solidMenu}>
           <ul>
             {menuItem}
             <Observer triggerOnce={true} key={`menuitem-showroom`}>
