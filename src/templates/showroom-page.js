@@ -5,6 +5,7 @@ import { InterScroll } from '../components/functions'
 import styled from 'styled-components'
 import Script from 'react-load-script'
 import HalfHero from '../components/half-hero'
+import CapComponent from '../components/cap-component'
 
 const Main = styled.div`
   margin-bottom: 455px;
@@ -54,6 +55,24 @@ Proin quis odio ac mi ullamcorper dapibus nec hendrerit enim. Fusce eleifend mat
 
 Sed in egestas eros. Donec pretium purus eget velit mollis, eget imperdiet odio mollis. Nulla sodales odio augue. Duis non lectus dui. Suspendisse potenti. Sed sed euismod erat, ac vulputate massa. Nulla magna nulla, ullamcorper vel ultrices id, iaculis sed quam. Nulla viverra magna vel arcu volutpat, vitae elementum leo interdum. Donec nisl enim, viverra id enim ut, accumsan vehicula elit.
     `
+    console.log(this)
+    let cars = this.props.data.carmodel.edges.map((e, i) => {
+      let data = {
+        component: 'PictureRight',
+        overskrift: e.node.frontmatter.title,
+        text: e.node.html,
+        image: e.node.frontmatter.carimage,
+      }
+      console.log(data)
+      return (
+        <CapComponent
+          key={`component-${i}`}
+          data={data}
+          alldata={this.props.data}
+        />
+      )
+    })
+    console.log(cars)
     return (
       <div>
         <Main>
@@ -66,6 +85,7 @@ Sed in egestas eros. Donec pretium purus eget velit mollis, eget imperdiet odio 
             text={this.props.data.markdownRemark.html}
             lorem={lorem}
           />
+          {cars}
         </Main>
         <Footer interScroll={this.handleScroll} data={this.props.data} />
       </div>
@@ -106,6 +126,20 @@ export const pageQuery = graphql`
             contacttelephone
             contactemail
           }
+        }
+      }
+    }
+    carmodel: allMarkdownRemark(
+      filter: { frontmatter: { path: { regex: "/carmodel/" } } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            path
+            title
+            carimage
+          }
+          html
         }
       }
     }
