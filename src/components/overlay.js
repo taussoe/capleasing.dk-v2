@@ -9,6 +9,7 @@ const OverlayContainer = styled.div`
     width: 100%;
     height: 100%;
     z-index: 2;
+    opacity: 0;
 `
 
 const Overlay = class Overlay extends React.Component{
