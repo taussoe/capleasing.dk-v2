@@ -78,7 +78,7 @@ const Instagram = class Instagram extends React.Component {
       <div>
         <div className="container">
           <div className="row">
-            <div className="col-md-12 center">
+            <div className="col-md-12 col-xs-12 center">
               <TextBlock
                 translateFrom={`translateX(20px)`}
                 translateTo={`translateX(0px)`}

@@ -17,7 +17,8 @@ html,body {
 }
 h1, h2 {
   overflow-wrap: break-word;
-    word-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
 }
 h1 {
   font-size: 65px;
@@ -61,6 +62,8 @@ const Main = styled.div`
   background-color: #ffffff;
   position: relative;
   border-bottom: 1px solid #eee;
+  width: 100%;
+  overflow: hidden;
 `
 
 export default class IndexPage extends React.Component {

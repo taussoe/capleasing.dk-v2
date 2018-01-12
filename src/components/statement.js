@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import TextBlock from '../components/textblock'
+import { media } from './media-query'
 
 const StatementContainer = styled.div`
   height: 100vh;
@@ -16,6 +17,9 @@ const StatementContainer = styled.div`
     transition: 1s ease-in-out all;
     max-width: 800px;
     line-height: 26px;
+    ${media.phone`
+      width: 100%;
+    `};
   }
 `
 

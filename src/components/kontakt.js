@@ -1,10 +1,14 @@
 import React from 'react'
 import styled from 'styled-components'
 import ResponsiveImage from './responsive-image'
+import { media } from './media-query'
 
 const KontaktContainer = styled.div`
   display: flex;
   justify-content: center;
+  ${media.phone`
+    flex-direction: column;
+  `};
   .kontaktperson {
     margin: 10px;
     .image-container {
