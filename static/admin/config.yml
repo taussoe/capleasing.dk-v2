@@ -66,7 +66,7 @@ collections:
       - {label: "Bilmærke", name: "carmodel", widget: "relation", collection: "carmodels", searchFields:[title], valueField: "title"}
       - {label: "Bil", name: "title", widget: "string"}
       - {label: "Tekst", name: "body", widget: "markdown"}
-      - {label: "Billeder", name: pictures, widget: object, fields: [{label: Image, name: image, widget: image}]}
+      - {label: Billeder, name: pictures, widget: object, fields: [{label: Billeder, name: picturelist, widget: list, fields: [{label: Image, name: image, widget: image}]}]}
       - {label: "Årgang", name: "year", widget: "string"}
       - {label: "Mdl. ydelse", name: "monthlycost", widget: "string"}
       - {label: "Førstegangs ydelse", name: "firstcost", widget: "string"}
