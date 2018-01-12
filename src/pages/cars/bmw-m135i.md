@@ -11,6 +11,7 @@ pictures:
 year: '2014'
 monthlycost: '3600'
 firstcost: '68000'
+value: '190000'
 volume: '0'
 cylindre: '0'
 ventiler: '0'
