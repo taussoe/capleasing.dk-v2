@@ -70,6 +70,7 @@ collections:
       - {label: "Årgang", name: "year", widget: "string"}
       - {label: "Mdl. ydelse", name: "monthlycost", widget: "string"}
       - {label: "Førstegangs ydelse", name: "firstcost", widget: "string"}
+      - {label: "Restværdi", name: "value", widget: "string"}
       - {label: "Volumen", name: "volume", widget: "string"}
       - {label: "Cylindre", name: "cylindre", widget: "string"}
       - {label: "Antal ventiler", name: "ventiler", widget: "string"}
