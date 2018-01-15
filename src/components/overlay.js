@@ -59,7 +59,7 @@ const OverlayContainer = styled.div`
 
 const Overlay = class Overlay extends React.Component {
   swiperConfig = {
-    loop: true,
+    loop: false,
     spaceBetween: 320,
     setWrapperSize: true,
     zoom: true,
@@ -74,22 +74,24 @@ const Overlay = class Overlay extends React.Component {
     slidesPerView: 'auto',
     touchRatio: 0.2,
     slideToClickedSlide: true,
+    loop: false,
+  }
+  closeOverlay() {
+    /* this.swiper.destroy(true)
+    this.thumbswiper.destroy(true) */
+    this.props.closeOverlay()
   }
   componentDidUpdate() {
-    /* this.swiper = new Swiper('.topswiper', this.swiperConfig)
-    this.thumbswiper = new Swiper('.thumbswiper', this.swiperThumbConfig)
+    this.swiper = new Swiper(this.refs.topswiper, this.swiperConfig)
+    this.thumbswiper = new Swiper(this.refs.thumbswiper, this.swiperThumbConfig)
     this.swiper.controller.control = this.thumbswiper
-    this.thumbswiper.controller.control = this.swiper */
-    setTimeout(() => {
-      this.swiper.update()
-    }, 2000).bind(this)
-
-    console.log(this.swiper)
-    console.log(this.props.overlayData)
+    this.thumbswiper.controller.control = this.swiper
   }
   componentDidMount() {
-    this.swiper = new Swiper('.topswiper', this.swiperConfig)
-    this.thumbswiper = new Swiper('.thumbswiper', this.swiperThumbConfig)
+    /* this.swiper = new Swiper(this.refs.topswiper, this.swiperConfig)
+    this.thumbswiper = new Swiper(this.refs.thumbswiper, this.swiperThumbConfig)
+    this.swiper.controller.control = this.thumbswiper
+    this.thumbswiper.controller.control = this.swiper */
   }
   render() {
     console.log(this.props)
@@ -131,7 +133,7 @@ const Overlay = class Overlay extends React.Component {
             <div className="container">
               <div className="row">
                 <div className="col-md-12">
-                  <div className="swiper-container topswiper">
+                  <div ref="topswiper" className="swiper-container topswiper">
                     <div ref="swiperWrapper" className="swiper-wrapper">
                       {slide}
                     </div>
@@ -146,7 +148,10 @@ const Overlay = class Overlay extends React.Component {
                       onClick={() => this.swiper.slidePrev()}
                     />
                   </div>
-                  <div className="swiper-container thumbswiper">
+                  <div
+                    ref="thumbswiper"
+                    className="swiper-container thumbswiper"
+                  >
                     <div className="swiper-wrapper">{thumbs}</div>
                   </div>
                 </div>
@@ -154,7 +159,7 @@ const Overlay = class Overlay extends React.Component {
             </div>
             <div
               className="closeOverlay"
-              onClick={() => this.props.closeOverlay()}
+              onClick={this.closeOverlay.bind(this)}
             >
               X
             </div>
