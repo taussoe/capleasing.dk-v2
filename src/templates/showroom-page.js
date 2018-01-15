@@ -20,12 +20,13 @@ const Main = styled.div`
 export default class Showroom extends React.Component {
   state = {
     showOverlay: false,
+    overlayData: {},
   }
   openOverlay(elem) {
-    console.log(elem)
     this.props.handleHideMenu()
     this.setState({
       showOverlay: true,
+      overlayData: elem,
     })
   }
   closeOverlay() {
@@ -73,14 +74,13 @@ export default class Showroom extends React.Component {
         </div>
       )
     })
-    console.log(cars)
-    console.log(this.props)
     return (
       <div>
         <Main>
           <Overlay
             showOverlay={this.state.showOverlay}
             closeOverlay={this.closeOverlay.bind(this)}
+            overlayData={this.state.overlayData}
           />
           <Script
             url="https://identity.netlify.com/v1/netlify-identity-widget.js"
@@ -90,6 +90,7 @@ export default class Showroom extends React.Component {
             src={this.props.data.markdownRemark.frontmatter.image}
             text={this.props.data.markdownRemark.frontmatter.text}
           />
+          <div className="spacing" />
           <div className="container">
             <div className="row">
               <div className="col-md-12">{cars}</div>
