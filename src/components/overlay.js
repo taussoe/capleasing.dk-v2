@@ -29,7 +29,7 @@ const OverlayContainer = styled.div`
   }
   .swiper-container {
     width: 100%;
-    height: 100%;
+    height: 100vh;
     margin-left: auto;
     margin-right: auto;
   }
@@ -54,7 +54,6 @@ const OverlayContainer = styled.div`
     background-size: cover;
     background-position: center;
   }
-  overflow: scroll;
 `
 
 const Overlay = class Overlay extends React.Component {
@@ -62,7 +61,6 @@ const Overlay = class Overlay extends React.Component {
     loop: false,
     spaceBetween: 320,
     setWrapperSize: true,
-    zoom: true,
     pagination: '.swiper-pagination',
     paginationClickable: true,
     nextButton: '.swiper-button-next',
