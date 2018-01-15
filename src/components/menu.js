@@ -12,9 +12,11 @@ const Navigation = styled.div`
   left: 0px;
   z-index: 100;
   width: 100%;
-  transition: background-color ease-in-out 0.5s, border-bottom ease-in-out 0.5s;
+  transition: background-color ease-in-out 0.5s, border-bottom ease-in-out 0.5s,
+    transform ease-in-out 0.5s;
   background-color: ${props => (props.solidMenu ? '#ffffff' : 'transparent')};
   padding: 5px 0px 5px 0px;
+  transform: translateY(${props => (props.showMenu ? '0%' : '-100%')});
   border-bottom: ${props =>
     props.solidMenu ? '1px solid #eeeeee' : '1px solid transparent'};
   .logo {
@@ -94,7 +96,10 @@ const Menu = class Menu extends React.Component {
     })
     return (
       <div>
-        <Navigation solidMenu={this.state.solidMenu}>
+        <Navigation
+          solidMenu={this.state.solidMenu}
+          showMenu={this.props.showMenu}
+        >
           <ul>
             {menuItem}
             <Observer triggerOnce={true} key={`menuitem-showroom`}>

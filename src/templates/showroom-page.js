@@ -18,6 +18,22 @@ const Main = styled.div`
 `
 
 export default class Showroom extends React.Component {
+  state = {
+    showOverlay: false,
+  }
+  openOverlay(elem) {
+    console.log(elem)
+    this.props.handleHideMenu()
+    this.setState({
+      showOverlay: true,
+    })
+  }
+  closeOverlay() {
+    this.props.handleShowMenu()
+    this.setState({
+      showOverlay: false,
+    })
+  }
   handleScriptLoad() {
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on('init', user => {
@@ -44,15 +60,16 @@ export default class Showroom extends React.Component {
         text: e.node.frontmatter.text,
         image: e.node.frontmatter.carimage,
       }
-      console.log(data)
+      let listing = this.props.data.cars.edges.filter(
+        elem => elem.node.frontmatter.carmodel === e.node.frontmatter.title
+      )
       return (
-        <div>
-          <CapComponent
-            key={`component-${i}`}
-            data={data}
-            alldata={this.props.data}
+        <div key={`carmodel-${i}`}>
+          <CapComponent data={data} alldata={this.props.data} />
+          <CarListing
+            openOverlay={this.openOverlay.bind(this)}
+            data={listing}
           />
-          <CarListing />
         </div>
       )
     })
@@ -61,7 +78,10 @@ export default class Showroom extends React.Component {
     return (
       <div>
         <Main>
-          <Overlay />
+          <Overlay
+            showOverlay={this.state.showOverlay}
+            closeOverlay={this.closeOverlay.bind(this)}
+          />
           <Script
             url="https://identity.netlify.com/v1/netlify-identity-widget.js"
             onLoad={this.handleScriptLoad.bind(this)}
@@ -70,7 +90,11 @@ export default class Showroom extends React.Component {
             src={this.props.data.markdownRemark.frontmatter.image}
             text={this.props.data.markdownRemark.frontmatter.text}
           />
-          {cars}
+          <div className="container">
+            <div className="row">
+              <div className="col-md-12">{cars}</div>
+            </div>
+          </div>
         </Main>
         <Footer interScroll={this.handleScroll} data={this.props.data} />
       </div>
@@ -125,6 +149,44 @@ export const pageQuery = graphql`
             carimage
             text
           }
+        }
+      }
+    }
+    cars: allMarkdownRemark(
+      filter: { frontmatter: { path: { regex: "/cars/" } } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            path
+            carmodel
+            title
+            pictures {
+              picturelist {
+                image
+              }
+            }
+            year
+            monthlycost
+            firstcost
+            value
+            volume
+            cylindre
+            ventiler
+            gear
+            traek
+            type
+            foerstereg
+            kilometer
+            braendstof
+            farve
+            doere
+            effekt
+            moment
+            topfart
+            nultilhundrede
+          }
+          html
         }
       }
     }

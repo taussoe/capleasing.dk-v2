@@ -90,17 +90,66 @@ const HalfHeroContainer = styled.div`
   }
 `
 const biler = [
-  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
-  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
-  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
-  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
-  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
-  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
-  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
-  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
-  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
-  { title: 'Porsche Macman Turbo 3,6 PDK', year: '2014', mileage: '74.000', ydelse: '8300' },
-  
+  {
+    title: 'Porsche Macman Turbo 3,6 PDK',
+    year: '2014',
+    mileage: '74.000',
+    ydelse: '8300',
+  },
+  {
+    title: 'Porsche Macman Turbo 3,6 PDK',
+    year: '2014',
+    mileage: '74.000',
+    ydelse: '8300',
+  },
+  {
+    title: 'Porsche Macman Turbo 3,6 PDK',
+    year: '2014',
+    mileage: '74.000',
+    ydelse: '8300',
+  },
+  {
+    title: 'Porsche Macman Turbo 3,6 PDK',
+    year: '2014',
+    mileage: '74.000',
+    ydelse: '8300',
+  },
+  {
+    title: 'Porsche Macman Turbo 3,6 PDK',
+    year: '2014',
+    mileage: '74.000',
+    ydelse: '8300',
+  },
+  {
+    title: 'Porsche Macman Turbo 3,6 PDK',
+    year: '2014',
+    mileage: '74.000',
+    ydelse: '8300',
+  },
+  {
+    title: 'Porsche Macman Turbo 3,6 PDK',
+    year: '2014',
+    mileage: '74.000',
+    ydelse: '8300',
+  },
+  {
+    title: 'Porsche Macman Turbo 3,6 PDK',
+    year: '2014',
+    mileage: '74.000',
+    ydelse: '8300',
+  },
+  {
+    title: 'Porsche Macman Turbo 3,6 PDK',
+    year: '2014',
+    mileage: '74.000',
+    ydelse: '8300',
+  },
+  {
+    title: 'Porsche Macman Turbo 3,6 PDK',
+    year: '2014',
+    mileage: '74.000',
+    ydelse: '8300',
+  },
 ]
 
 export default class HalfHero extends React.Component {
@@ -146,21 +195,22 @@ export default class HalfHero extends React.Component {
               <ul>
                 {biler.map((e, i) => {
                   return (
-                    <li>
+                    <li key={`menucarlisting-${i}`}>
                       <div className="car">
                         <div>
-                          <div className="car-brand">
-                            {e.title}
-                          </div>
+                          <div className="car-brand">{e.title}</div>
                           <div className="car-info">Årgang: {e.year}</div>
                           <div className="car-info">Km: {e.mileage}</div>
                         </div>
                         <div className="price">
-                          {
-                            parseInt(e.ydelse).toFixed(0).replace(/./g, function(c, i, a) {
-                                return i && c !== "." && ((a.length - i) % 3 === 0) ? '.' + c : c;
-                            })
-                          } kr
+                          {parseInt(e.ydelse)
+                            .toFixed(0)
+                            .replace(/./g, function(c, i, a) {
+                              return i && c !== '.' && (a.length - i) % 3 === 0
+                                ? '.' + c
+                                : c
+                            })}{' '}
+                          kr
                         </div>
                       </div>
                     </li>
