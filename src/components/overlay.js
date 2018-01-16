@@ -14,6 +14,11 @@ const OverlayContainer = styled.div`
   transition: all ease-in-out 1s;
   opacity: ${props => (props.showOverlay ? '1' : '0')};
   visibility: ${props => (props.showOverlay ? 'visible' : 'hidden')};
+  overflow-y: scroll;
+  .overlay-wrapper {
+    overflow-y: scroll;
+    background-color: #000000;
+  }
   .closeOverlay {
     display: block;
     top: 10px;
@@ -22,6 +27,7 @@ const OverlayContainer = styled.div`
     color: #000000;
     position: absolute;
     cursor: pointer;
+    z-index: 10;
   }
   .container {
     background-color: #ffffff;
@@ -29,7 +35,7 @@ const OverlayContainer = styled.div`
   }
   .swiper-container {
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     margin-left: auto;
     margin-right: auto;
   }
@@ -38,7 +44,7 @@ const OverlayContainer = styled.div`
     background-position: center;
   }
   .thumbswiper {
-    height: 20%;
+    height: 20vh;
     box-sizing: border-box;
     padding: 10px 0;
   }
@@ -85,12 +91,6 @@ const Overlay = class Overlay extends React.Component {
     this.swiper.controller.control = this.thumbswiper
     this.thumbswiper.controller.control = this.swiper
   }
-  componentDidMount() {
-    /* this.swiper = new Swiper(this.refs.topswiper, this.swiperConfig)
-    this.thumbswiper = new Swiper(this.refs.thumbswiper, this.swiperThumbConfig)
-    this.swiper.controller.control = this.thumbswiper
-    this.thumbswiper.controller.control = this.swiper */
-  }
   render() {
     console.log(this.props)
     let slide = {}
@@ -99,11 +99,12 @@ const Overlay = class Overlay extends React.Component {
       slide = this.props.overlayData.node.frontmatter.pictures.picturelist.map(
         (item, index) => {
           return (
-            <div key={`slide-${index}`} id={item.id} className="swiper-slide">
-              <div className="swiper-zoom-container">
-                <img src={item.image} alt="image" />
-              </div>
-            </div>
+            <div
+              key={`slide-${index}`}
+              id={item.id}
+              className="swiper-slide"
+              style={{ backgroundImage: `url(${item.image})` }}
+            />
           )
         }
       )
@@ -127,7 +128,13 @@ const Overlay = class Overlay extends React.Component {
     return (
       <OverlayContainer showOverlay={this.props.showOverlay}>
         {this.props.overlayData.node && (
-          <div>
+          <div className="overlay-wrapper">
+            <div
+              className="closeOverlay"
+              onClick={this.closeOverlay.bind(this)}
+            >
+              X
+            </div>
             <div className="container">
               <div className="row">
                 <div className="col-md-12">
@@ -136,7 +143,6 @@ const Overlay = class Overlay extends React.Component {
                       {slide}
                     </div>
                     <div className="swiper-pagination" />
-
                     <div
                       className="swiper-button-next swiper-button-white"
                       onClick={() => this.swiper.slideNext()}
@@ -154,12 +160,11 @@ const Overlay = class Overlay extends React.Component {
                   </div>
                 </div>
               </div>
-            </div>
-            <div
-              className="closeOverlay"
-              onClick={this.closeOverlay.bind(this)}
-            >
-              X
+              <div className="row">
+                <div className="col-md-12">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique officia eaque nobis aliquam, quam sit consequatur atque earum qui rem tenetur sapiente eligendi nisi rerum reprehenderit distinctio tempora neque necessitatibus.
+                </div>
+              </div>
             </div>
           </div>
         )}

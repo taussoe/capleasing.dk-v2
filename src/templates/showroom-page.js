@@ -28,12 +28,14 @@ export default class Showroom extends React.Component {
       showOverlay: true,
       overlayData: elem,
     })
+    document.body.classList.add('no-overflow')
   }
   closeOverlay() {
     this.props.handleShowMenu()
     this.setState({
       showOverlay: false,
     })
+    document.body.classList.remove('no-overflow')
   }
   handleScriptLoad() {
     if (window.netlifyIdentity) {

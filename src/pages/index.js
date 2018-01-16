@@ -54,6 +54,9 @@ h2 {
 .h500 {
   height: 500px;
 }
+.no-overflow {
+  overflow: hidden;
+}
 `
 
 const Main = styled.div`
