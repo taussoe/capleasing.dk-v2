@@ -8,7 +8,7 @@ pictures:
     - image: /img/m1-2.jpg
     - image: /img/m1-3.jpg
     - image: /img/m1-4.jpg
-year: '2014'
+year: '0'
 monthlycost: '3600'
 firstcost: '68000'
 value: '190000'
@@ -17,14 +17,14 @@ cylindre: '0'
 ventiler: '0'
 gear: Aut.
 traek: '0'
-type: '0'
+type: Personbil
 foerstereg: 01/2013
 kilometer: '35000'
 braendstof: Benzin
-farve: Metal grå
+farve: Metal Grå
 doere: '5'
 effekt: '320'
-moment: 450/1250-4500 nm
+moment: 450/1250-4500
 topfart: '250'
 nultilhundrede: '4,7'
 ---
