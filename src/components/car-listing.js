@@ -74,20 +74,26 @@ export default props => (
                   <div className="car-flex flex-grow car-info-container">
                     <div className="car-title">{e.node.frontmatter.title}</div>
                     <div className="car-info">
-                      Årgang {e.node.frontmatter.year}
+                      Årgang: {e.node.frontmatter.year}
                     </div>
                     <div className="car-mileage">
-                      {e.node.frontmatter.mileage} km
+                      Kilometer:&nbsp;{parseInt(e.node.frontmatter.kilometer)
+                        .toFixed(0)
+                        .replace(/./g, function(c, i, a) {
+                          return i && c !== '.' && (a.length - i) % 3 === 0
+                            ? '.' + c
+                            : c
+                        })}
                     </div>
                     <div className="car-price">
+                      månedlig ydelse:&nbsp;
                       {parseInt(e.node.frontmatter.monthlycost)
                         .toFixed(0)
                         .replace(/./g, function(c, i, a) {
                           return i && c !== '.' && (a.length - i) % 3 === 0
                             ? '.' + c
                             : c
-                        })}{' '}
-                      kr. månedlig ydelse
+                        })}&nbsp;kr.
                     </div>
                   </div>
                   <div className="car-flex car-cta">
