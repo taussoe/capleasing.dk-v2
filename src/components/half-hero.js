@@ -89,68 +89,6 @@ const HalfHeroContainer = styled.div`
     }
   }
 `
-const biler = [
-  {
-    title: 'Porsche Macman Turbo 3,6 PDK',
-    year: '2014',
-    mileage: '74.000',
-    ydelse: '8300',
-  },
-  {
-    title: 'Porsche Macman Turbo 3,6 PDK',
-    year: '2014',
-    mileage: '74.000',
-    ydelse: '8300',
-  },
-  {
-    title: 'Porsche Macman Turbo 3,6 PDK',
-    year: '2014',
-    mileage: '74.000',
-    ydelse: '8300',
-  },
-  {
-    title: 'Porsche Macman Turbo 3,6 PDK',
-    year: '2014',
-    mileage: '74.000',
-    ydelse: '8300',
-  },
-  {
-    title: 'Porsche Macman Turbo 3,6 PDK',
-    year: '2014',
-    mileage: '74.000',
-    ydelse: '8300',
-  },
-  {
-    title: 'Porsche Macman Turbo 3,6 PDK',
-    year: '2014',
-    mileage: '74.000',
-    ydelse: '8300',
-  },
-  {
-    title: 'Porsche Macman Turbo 3,6 PDK',
-    year: '2014',
-    mileage: '74.000',
-    ydelse: '8300',
-  },
-  {
-    title: 'Porsche Macman Turbo 3,6 PDK',
-    year: '2014',
-    mileage: '74.000',
-    ydelse: '8300',
-  },
-  {
-    title: 'Porsche Macman Turbo 3,6 PDK',
-    year: '2014',
-    mileage: '74.000',
-    ydelse: '8300',
-  },
-  {
-    title: 'Porsche Macman Turbo 3,6 PDK',
-    year: '2014',
-    mileage: '74.000',
-    ydelse: '8300',
-  },
-]
 
 export default class HalfHero extends React.Component {
   state = {
@@ -175,7 +113,6 @@ export default class HalfHero extends React.Component {
     window.removeEventListener('scroll', this.handleS)
   }
   render() {
-    console.log(this.props.cars)
     return (
       <HalfHeroContainer showHeader={this.state.showHeader}>
         <div className="header">
