@@ -45,6 +45,12 @@ const CarLi = styled.li`
       }
     }
   }
+  .thumb {
+    width: 200px;
+    height: 130px;
+    background-size: cover;
+    background-position: center;
+  }
 `
 
 export default props => (
@@ -57,9 +63,12 @@ export default props => (
               <CarLi key={`car-list-${i}`} show={inView}>
                 <div className="car-container">
                   <div className="car-flex">
-                    <img
-                      src="http://via.placeholder.com/200x130"
-                      alt={e.node.frontmatter.title}
+                    <div
+                      className="thumb"
+                      style={{
+                        backgroundImage: `url(${e.node.frontmatter.pictures
+                          .picturelist[0].image})`,
+                      }}
                     />
                   </div>
                   <div className="car-flex flex-grow car-info-container">

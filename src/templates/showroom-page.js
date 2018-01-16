@@ -91,6 +91,7 @@ export default class Showroom extends React.Component {
           <HalfHero
             src={this.props.data.markdownRemark.frontmatter.image}
             text={this.props.data.markdownRemark.frontmatter.text}
+            cars={this.props.data.cars}
           />
           <div className="spacing" />
           <div className="container">

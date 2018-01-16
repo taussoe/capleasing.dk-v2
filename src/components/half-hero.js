@@ -175,6 +175,7 @@ export default class HalfHero extends React.Component {
     window.removeEventListener('scroll', this.handleS)
   }
   render() {
+    console.log(this.props.cars)
     return (
       <HalfHeroContainer showHeader={this.state.showHeader}>
         <div className="header">
@@ -193,24 +194,38 @@ export default class HalfHero extends React.Component {
 
             <div>
               <ul>
-                {biler.map((e, i) => {
+                {this.props.cars.edges.map((e, i) => {
                   return (
                     <li key={`menucarlisting-${i}`}>
                       <div className="car">
                         <div>
-                          <div className="car-brand">{e.title}</div>
-                          <div className="car-info">Årgang: {e.year}</div>
-                          <div className="car-info">Km: {e.mileage}</div>
+                          <div className="car-brand">
+                            {e.node.frontmatter.title}
+                          </div>
+                          <div className="car-info">
+                            Årgang: {e.node.frontmatter.year}
+                          </div>
+                          <div className="car-info">
+                            Km:&nbsp;
+                            {parseInt(e.node.frontmatter.kilometer)
+                              .toFixed(0)
+                              .replace(/./g, function(c, i, a) {
+                                return i &&
+                                  c !== '.' &&
+                                  (a.length - i) % 3 === 0
+                                  ? '.' + c
+                                  : c
+                              })}
+                          </div>
                         </div>
                         <div className="price">
-                          {parseInt(e.ydelse)
+                          {parseInt(e.node.frontmatter.monthlycost)
                             .toFixed(0)
                             .replace(/./g, function(c, i, a) {
                               return i && c !== '.' && (a.length - i) % 3 === 0
                                 ? '.' + c
                                 : c
-                            })}{' '}
-                          kr
+                            })}&nbsp; kr
                         </div>
                       </div>
                     </li>
