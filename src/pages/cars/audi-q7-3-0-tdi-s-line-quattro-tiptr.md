@@ -36,9 +36,11 @@ nultilhundrede: '8,1'
 ---
 Bilen er på lager, kontakt for mere info og bestil en prøvetur.
 
-\- Fri km. \
-- Klar til levering.\
-- Mulighed for mekaniskgaranti.\
+Fri km.
+
+Klar til levering.
+
+Mulighed for mekaniskgaranti.\
 \
 ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.\
 ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.\
