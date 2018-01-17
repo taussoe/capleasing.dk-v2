@@ -7,8 +7,8 @@
   resolved "https://registry.yarnpkg.com/@types/inline-style-prefixer/-/inline-style-prefixer-3.0.1.tgz#8541e636b029124b747952e9a28848286d2b5bf6"
 
 "@types/react@^16.0.18":
-  version "16.0.27"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.0.27.tgz#341899469ea2e98b48b11c18afb4d8361d03b013"
+  version "16.0.34"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.0.34.tgz#7a8f795afd8a404a9c4af9539b24c75d3996914e"
 
 abbrev@1:
   version "1.1.1"
@@ -768,8 +768,8 @@ boom@2.x.x:
     hoek "2.x.x"
 
 bowser@^1.7.3:
-  version "1.8.1"
-  resolved "https://registry.yarnpkg.com/bowser/-/bowser-1.8.1.tgz#49785777e7302febadb1a5b71d9a646520ed310d"
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/bowser/-/bowser-1.9.1.tgz#f86ef2132e8cb10b3eb6ea5af018758c587020db"
 
 brace-expansion@^1.1.7:
   version "1.1.8"
@@ -1030,7 +1030,11 @@ core-js@^1.0.0:
   version "1.2.7"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-1.2.7.tgz#652294c14651db28fa93bd2d5ff2983a4f08c636"
 
-core-js@^2.4.0, core-js@^2.5.0:
+core-js@^2.4.0:
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.5.3.tgz#8acc38345824f16d8365b7c9b4259168e8ed603e"
+
+core-js@^2.5.0:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.5.1.tgz#ae6874dc66937789b80754ff5428df66819ca50b"
 
@@ -1183,8 +1187,8 @@ direction@^0.1.5:
   resolved "https://registry.yarnpkg.com/direction/-/direction-0.1.5.tgz#ce5d797f97e26f8be7beff53f7dc40e1c1a9ec4c"
 
 disposables@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/disposables/-/disposables-1.0.1.tgz#064727a25b54f502bd82b89aa2dfb8df9f1b39e3"
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/disposables/-/disposables-1.0.2.tgz#36c6a674475f55a2d6913567a601444e487b4b6e"
 
 dnd-core@^2.5.4:
   version "2.5.4"
@@ -1196,8 +1200,8 @@ dnd-core@^2.5.4:
     redux "^3.7.1"
 
 dom-helpers@^3.2.0:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/dom-helpers/-/dom-helpers-3.2.1.tgz#3203e07fed217bd1f424b019735582fc37b2825a"
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/dom-helpers/-/dom-helpers-3.3.1.tgz#fc1a4e15ffdf60ddde03a480a9c0fece821dd4a6"
 
 domain-browser@^1.1.1:
   version "1.1.7"
@@ -1623,10 +1627,10 @@ globals@^9.18.0:
   resolved "https://registry.yarnpkg.com/globals/-/globals-9.18.0.tgz#aa3896b3e69b487f17e31ed2143d69a8e30c2d8a"
 
 gotrue-js@^0.9.15:
-  version "0.9.15"
-  resolved "https://registry.yarnpkg.com/gotrue-js/-/gotrue-js-0.9.15.tgz#ccddda083ba8fc75572c7e7817556be2b09b3ab4"
+  version "0.9.16"
+  resolved "https://registry.yarnpkg.com/gotrue-js/-/gotrue-js-0.9.16.tgz#918110e205d35661c2d7bfda8d9efb936a03f596"
   dependencies:
-    micro-api-client "^3.2.0"
+    micro-api-client "^3.2.1"
 
 graceful-fs@^4.1.2:
   version "4.1.11"
@@ -2097,8 +2101,8 @@ isstream@~0.1.2:
   resolved "https://registry.yarnpkg.com/isstream/-/isstream-0.1.2.tgz#47e63f7af55afa6f92e1500e690eb8b8529c099a"
 
 js-base64@^2.1.9:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.4.0.tgz#9e566fee624751a1d720c966cd6226d29d4025aa"
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.4.1.tgz#e02813181cd53002888e918935467acb2910e596"
 
 js-tokens@^3.0.0, js-tokens@^3.0.2:
   version "3.0.2"
@@ -2351,9 +2355,9 @@ memory-fs@^0.4.0, memory-fs@~0.4.1:
     errno "^0.1.3"
     readable-stream "^2.0.1"
 
-micro-api-client@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/micro-api-client/-/micro-api-client-3.2.0.tgz#5ea1fd708bd9b31c21004d29af2ece39466a3ebb"
+micro-api-client@^3.2.1:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/micro-api-client/-/micro-api-client-3.2.2.tgz#cd34aaf72cf9c66b987c3563ecdbfa68abb85afc"
 
 micromatch@^2.1.5:
   version "2.3.11"
@@ -2423,8 +2427,8 @@ minimist@^1.2.0:
     minimist "0.0.8"
 
 moment@^2.11.2:
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.19.3.tgz#bdb99d270d6d7fda78cc0fbace855e27fe7da69f"
+  version "2.20.1"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.20.1.tgz#d6eb1a46cbcc14a2b2f9434112c1ff8907f313fd"
 
 ms@2.0.0:
   version "2.0.0"
@@ -2434,9 +2438,9 @@ nan@^2.3.0:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.8.0.tgz#ed715f3fe9de02b57a5e6252d90a96675e1f085a"
 
-netlify-cms@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/netlify-cms/-/netlify-cms-1.0.1.tgz#3323a2547599d040d69928cfad4837cd1b31473e"
+netlify-cms@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/netlify-cms/-/netlify-cms-1.0.3.tgz#444dde9d70c33e06a169439514d74ea7f604cd7c"
   dependencies:
     classnames "^2.2.5"
     create-react-class "^15.6.0"
@@ -2445,6 +2449,7 @@ netlify-cms@^1.0.1:
     gray-matter "^3.0.6"
     history "^4.7.2"
     immutable "^3.7.6"
+    is-hotkey "^0.1.1"
     js-base64 "^2.1.9"
     js-yaml "^3.10.0"
     jwt-decode "^2.1.0"
@@ -2860,8 +2865,8 @@ randomfill@^1.0.3:
     safe-buffer "^5.1.0"
 
 rc@^1.1.7:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/rc/-/rc-1.2.2.tgz#d8ce9cb57e8d64d9c7badd9876c7c34cbe3c7077"
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/rc/-/rc-1.2.4.tgz#a0f606caae2a3b862bbd0ef85482c0125b315fa3"
   dependencies:
     deep-extend "~0.4.0"
     ini "~1.3.0"
@@ -2869,8 +2874,8 @@ rc@^1.1.7:
     strip-json-comments "~2.0.1"
 
 react-aria-menubutton@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/react-aria-menubutton/-/react-aria-menubutton-5.1.0.tgz#fa9bac43c02118d4eb60f9db6bbc5c20c34b658a"
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/react-aria-menubutton/-/react-aria-menubutton-5.1.1.tgz#56b1f36ff43de48dfa1eab16e9f5efc1a63dc0a9"
   dependencies:
     focus-group "^0.3.1"
     prop-types "^15.6.0"
@@ -2928,24 +2933,24 @@ react-dom@^16.0.0:
     prop-types "^15.6.0"
 
 react-frame-component@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/react-frame-component/-/react-frame-component-2.0.0.tgz#a39e1fec9b0da6e1295beccf1b659b0f15e6bb98"
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/react-frame-component/-/react-frame-component-2.0.1.tgz#89f5adbf6a4f4ea2a1e61600dff8e1afa58b9844"
 
 react-immutable-proptypes@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/react-immutable-proptypes/-/react-immutable-proptypes-2.1.0.tgz#023d6f39bb15c97c071e9e60d00d136eac5fa0b4"
 
 react-modal@^3.1.5:
-  version "3.1.7"
-  resolved "https://registry.yarnpkg.com/react-modal/-/react-modal-3.1.7.tgz#21feb937c95cd722bf2d375cada751fdc8189c0e"
+  version "3.1.11"
+  resolved "https://registry.yarnpkg.com/react-modal/-/react-modal-3.1.11.tgz#95c8223fcee7013258ad2d149c38c9f870c89958"
   dependencies:
     exenv "^1.2.0"
     prop-types "^15.5.10"
     warning "^3.0.0"
 
 react-onclickoutside@^6.5.0:
-  version "6.7.0"
-  resolved "https://registry.yarnpkg.com/react-onclickoutside/-/react-onclickoutside-6.7.0.tgz#997a4d533114c9a0a104913638aa26afc084f75c"
+  version "6.7.1"
+  resolved "https://registry.yarnpkg.com/react-onclickoutside/-/react-onclickoutside-6.7.1.tgz#6a5b5b8b4eae6b776259712c89c8a2b36b17be93"
 
 react-portal@^3.1.0:
   version "3.2.0"
@@ -2976,8 +2981,8 @@ react-router-dom@^4.2.2:
     warning "^3.0.0"
 
 react-router-redux@^5.0.0-alpha.8:
-  version "5.0.0-alpha.8"
-  resolved "https://registry.yarnpkg.com/react-router-redux/-/react-router-redux-5.0.0-alpha.8.tgz#5242c705730b2ac862aff7a8e90f870d0cf45e12"
+  version "5.0.0-alpha.9"
+  resolved "https://registry.yarnpkg.com/react-router-redux/-/react-router-redux-5.0.0-alpha.9.tgz#825431516e0e6f1fd93b8807f6bd595e23ec3d10"
   dependencies:
     history "^4.7.2"
     prop-types "^15.6.0"
@@ -3009,8 +3014,8 @@ react-sortable-hoc@^0.6.8:
     prop-types "^15.5.7"
 
 react-split-pane@^0.1.66:
-  version "0.1.71"
-  resolved "https://registry.yarnpkg.com/react-split-pane/-/react-split-pane-0.1.71.tgz#19b1b30638655e655f9f5fe57b1ae7cc6c151829"
+  version "0.1.74"
+  resolved "https://registry.yarnpkg.com/react-split-pane/-/react-split-pane-0.1.74.tgz#cf79fc98b51ab0763fdc778749b810a102b036ca"
   dependencies:
     "@types/inline-style-prefixer" "^3.0.0"
     "@types/react" "^16.0.18"
@@ -3037,8 +3042,8 @@ react-themeable@^1.1.0:
     object-assign "^3.0.0"
 
 react-toggled@^1.1.2:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/react-toggled/-/react-toggled-1.1.3.tgz#d5fbab3307387e706a6f1b789cb9d34e0922b672"
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-toggled/-/react-toggled-1.2.0.tgz#4bd777c989d007d01fbeea766221477848b9c99f"
 
 react-topbar-progress-indicator@^2.0.0:
   version "2.0.0"
@@ -3068,8 +3073,8 @@ react-transition-group@^2.2.1:
     warning "^3.0.0"
 
 react-waypoint@^7.1.0:
-  version "7.3.2"
-  resolved "https://registry.yarnpkg.com/react-waypoint/-/react-waypoint-7.3.2.tgz#11ec5cfa0b5acb1cc95f7f8fb82e194170d95ecf"
+  version "7.3.4"
+  resolved "https://registry.yarnpkg.com/react-waypoint/-/react-waypoint-7.3.4.tgz#6f4a167ca71c0877576699d6980089f001137f90"
   dependencies:
     consolidated-events "^1.1.0"
     prop-types "^15.0.0"
@@ -3168,8 +3173,8 @@ regenerate@^1.2.1:
   resolved "https://registry.yarnpkg.com/regenerate/-/regenerate-1.3.3.tgz#0c336d3980553d755c39b586ae3b20aa49c82b7f"
 
 regenerator-runtime@^0.11.0:
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.11.0.tgz#7e54fe5b5ccd5d6624ea6255c3473be090b802e1"
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz#be05ad7f9bf7d22e056f9726cee5017fbf19e2e9"
 
 regenerator-transform@^0.10.0:
   version "0.10.1"
@@ -3385,9 +3390,13 @@ semaphore@^1.0.5:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/semaphore/-/semaphore-1.1.0.tgz#aaad8b86b20fe8e9b32b16dc2ee682a8cd26a8aa"
 
-"semver@2 || 3 || 4 || 5", semver@^5.3.0:
+"semver@2 || 3 || 4 || 5":
   version "5.4.1"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.4.1.tgz#e059c09d8571f0540823733433505d3a2f00b18e"
+
+semver@^5.3.0:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-5.5.0.tgz#dc4bbc7a6ca9d916dee5d43516f0092b58f7b8ab"
 
 set-blocking@^2.0.0, set-blocking@~2.0.0:
   version "2.0.0"
@@ -3431,8 +3440,8 @@ slash@^1.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
 
 slate-base64-serializer@^0.2.8:
-  version "0.2.15"
-  resolved "https://registry.yarnpkg.com/slate-base64-serializer/-/slate-base64-serializer-0.2.15.tgz#5764ed47807e415f2435dd89762371d5ca9ed066"
+  version "0.2.20"
+  resolved "https://registry.yarnpkg.com/slate-base64-serializer/-/slate-base64-serializer-0.2.20.tgz#fb3bd23a92422f8cfceec93c616e431d1e29b319"
   dependencies:
     isomorphic-base64 "^1.0.2"
 
@@ -3441,22 +3450,22 @@ slate-dev-logger@^0.1.32, slate-dev-logger@^0.1.33, slate-dev-logger@^0.1.36:
   resolved "https://registry.yarnpkg.com/slate-dev-logger/-/slate-dev-logger-0.1.36.tgz#ecdb37dbf944dfc742bab23b6a20d5a0472db95e"
 
 slate-edit-list@^0.10.1:
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/slate-edit-list/-/slate-edit-list-0.10.1.tgz#9c6a142a314b0ff22a327f1b50c8f5c85468cb17"
+  version "0.10.2"
+  resolved "https://registry.yarnpkg.com/slate-edit-list/-/slate-edit-list-0.10.2.tgz#938a791c7e7974fac3ef00505cc98710c307efc6"
 
 slate-edit-table@^0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/slate-edit-table/-/slate-edit-table-0.12.0.tgz#9163e67b8025c3c09d6037eb76cb5e652b65dd47"
 
 slate-plain-serializer@^0.4.0, slate-plain-serializer@^0.4.6:
-  version "0.4.13"
-  resolved "https://registry.yarnpkg.com/slate-plain-serializer/-/slate-plain-serializer-0.4.13.tgz#1979e4bb57008312e8d45c92c511db5169c316a5"
+  version "0.4.16"
+  resolved "https://registry.yarnpkg.com/slate-plain-serializer/-/slate-plain-serializer-0.4.16.tgz#eff277b58943e130905114c7da431ab307cb4c1e"
   dependencies:
     slate-dev-logger "^0.1.36"
 
 slate-prop-types@^0.4.6:
-  version "0.4.13"
-  resolved "https://registry.yarnpkg.com/slate-prop-types/-/slate-prop-types-0.4.13.tgz#d2efe6599af0943542aec309d8a1bfcab190de0d"
+  version "0.4.18"
+  resolved "https://registry.yarnpkg.com/slate-prop-types/-/slate-prop-types-0.4.18.tgz#67826565e0aefda48d3a0f14750f28402340fe2e"
   dependencies:
     slate-dev-logger "^0.1.36"
 
@@ -3878,8 +3887,8 @@ unist-util-visit-parents@^1.1.1:
   resolved "https://registry.yarnpkg.com/unist-util-visit-parents/-/unist-util-visit-parents-1.1.1.tgz#7d3f56b5b039a3c6e2d16e51cc093f10e4755342"
 
 unist-util-visit@^1.0.0, unist-util-visit@^1.1.0, unist-util-visit@^1.1.1:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-1.2.0.tgz#9dc78d1f95cd242e865f7f93f327d3296bb9a718"
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-1.3.0.tgz#41ca7c82981fd1ce6c762aac397fc24e35711444"
   dependencies:
     unist-util-is "^2.1.1"
 
@@ -3913,8 +3922,8 @@ util@0.10.3, util@^0.10.3:
     inherits "2.0.1"
 
 uuid@^3.0.0, uuid@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.1.0.tgz#3dd3d3e790abc24d7b0d3a034ffababe28ebbc04"
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.2.1.tgz#12c528bb9d58d0b9265d9a2f6f0fe8be17ff1f14"
 
 validate-npm-package-license@^3.0.1:
   version "3.0.1"
@@ -4009,8 +4018,8 @@ webpack@^3.10.0:
     yargs "^8.0.2"
 
 what-input@^5.0.3:
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/what-input/-/what-input-5.0.3.tgz#340471c6157d592b61ac9d42a611941a110dfec2"
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/what-input/-/what-input-5.0.4.tgz#75b38e458e808c73d33e71e1c9abcebf5ecc66ae"
 
 whatwg-fetch@>=0.10.0:
   version "2.0.3"
