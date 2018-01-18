@@ -55,7 +55,13 @@ export default class Showroom extends React.Component {
   }
 
   render() {
-    let cars = this.props.data.carmodel.edges.map((e, i) => {
+    let sortedModels = this.props.data.carmodel.edges
+    sortedModels.sort(function(a, b) {
+      if (a.title < b.title) return -1
+      if (a.title > b.title) return 1
+      return 0
+    })
+    let cars = sortedModels.map((e, i) => {
       let component = i % 2 === 0 ? 'PictureRight' : 'PictureLeft'
       let data = {
         component: component,
