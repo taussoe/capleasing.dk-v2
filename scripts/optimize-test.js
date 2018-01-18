@@ -9,13 +9,13 @@ optimizeImages(1200).then(() => optimizeImages(750).then(() => optimizeImages(20
 
 function optimizeImages(width) {
   return new Promise((resolve, reject) => {
-    imagemin(['static/img/*.{jpg,png}'], `static/img/cms/${width}`, {
+    imagemin(['static/img/*.{jpg,png,jpeg}'], `static/img/cms/${width}`, {
       use: [
         imageminGm.resize({ width: width, gravity: 'Center' }),
         imageminGm.convert('jpg')
       ]
     }).then(() => {
-      imagemin([`static/img/cms/${width}/*.{jpg,png}`], `static/img/cms/${width}`, {
+      imagemin([`static/img/cms/${width}/*.{jpg,png,jpeg}`], `static/img/cms/${width}`, {
         plugins: [
           imageminJpegtran(),
           imageminPngquant({ quality: '65-80' })
@@ -25,7 +25,7 @@ function optimizeImages(width) {
         //=> [{data: <Buffer 89 50 4e …>, path: 'static/img/foo.jpg'}, …]
         console.log(`Image width ${width} created...`);
       }).then(() => {
-        imagemin([`static/img/cms/${width}/*.{jpg,png}`], `static/img/cms/${width}`, {
+        imagemin([`static/img/cms/${width}/*.{jpg,png,jpeg}`], `static/img/cms/${width}`, {
           use: [
             imageminWebp({ quality: 50 })
           ]

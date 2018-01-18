@@ -5,6 +5,7 @@ import 'swiper/dist/css/swiper.min.css'
 import TextBlock from '../components/textblock'
 import CapInput from '../components/cap-input'
 import Link from 'gatsby-link'
+import { OptimizedImage } from './optimized-image'
 
 const OverlayContainer = styled.div`
   position: fixed;
@@ -205,7 +206,7 @@ const Overlay = class Overlay extends React.Component {
               key={`slide-${index}`}
               id={item.id}
               className="swiper-slide"
-              style={{ backgroundImage: `url(${item.image})` }}
+              style={{ backgroundImage: `url(${OptimizedImage(item.image, 1200)})` }}
             />
           )
         }
@@ -219,7 +220,7 @@ const Overlay = class Overlay extends React.Component {
               key={`thumb-${index}`}
               className="swiper-slide"
               style={{
-                backgroundImage: `url(${item.image})`,
+                backgroundImage: `url(${OptimizedImage(item.image, 1200)})`,
               }}
             />
           )

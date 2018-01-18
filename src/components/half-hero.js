@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import ResponsiveImage from '../components/responsive-image'
+import { OptimizedImage } from './optimized-image'
 
 const HalfHeroContainer = styled.div`
   min-height: 100vh;
@@ -32,7 +33,7 @@ const HalfHeroContainer = styled.div`
     width: 100%;
     opacity: ${props => (props.showHeader ? '1' : '0')};
     transform: ${props =>
-      props.showHeader ? 'translateY(0px)' : 'translateY(-40px)'};
+    props.showHeader ? 'translateY(0px)' : 'translateY(-40px)'};
     transition: all ease-in-out 0.5s;
     z-index: 1;
     .header-text {
@@ -53,7 +54,7 @@ const HalfHeroContainer = styled.div`
       padding: 20px;
       opacity: ${props => (props.showHeader ? '1' : '0')};
       transform: ${props =>
-        props.showHeader ? 'translateY(0px)' : 'translateY(-40px)'};
+    props.showHeader ? 'translateY(0px)' : 'translateY(-40px)'};
       transition: all ease-in-out 0.5s;
     }
   }
@@ -146,7 +147,7 @@ export default class HalfHero extends React.Component {
                             Km:&nbsp;
                             {parseInt(e.node.frontmatter.kilometer)
                               .toFixed(0)
-                              .replace(/./g, function(c, i, a) {
+                              .replace(/./g, function (c, i, a) {
                                 return i &&
                                   c !== '.' &&
                                   (a.length - i) % 3 === 0
@@ -158,7 +159,7 @@ export default class HalfHero extends React.Component {
                         <div className="price">
                           {parseInt(e.node.frontmatter.monthlycost)
                             .toFixed(0)
-                            .replace(/./g, function(c, i, a) {
+                            .replace(/./g, function (c, i, a) {
                               return i && c !== '.' && (a.length - i) % 3 === 0
                                 ? '.' + c
                                 : c
@@ -172,7 +173,7 @@ export default class HalfHero extends React.Component {
             </div>
           </div>
           <div className="hero-col sticky">
-            <ResponsiveImage src={this.props.src} />
+            <ResponsiveImage src={OptimizedImage(this.props.src, 1200)} />
           </div>
         </div>
       </HalfHeroContainer>

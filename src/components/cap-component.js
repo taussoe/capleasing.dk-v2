@@ -7,6 +7,7 @@ import Instagram from '../components/instagram'
 import Kontakt from '../components/kontakt'
 import ParallaxImage from '../components/parallax-image'
 import MarkdownRenderer from 'react-markdown-renderer'
+import { OptimizedImage } from './optimized-image'
 
 const CapComponent = class CapComponent extends React.Component {
   render() {
@@ -48,7 +49,7 @@ const CapComponent = class CapComponent extends React.Component {
                   triggerOnce={true}
                   padding="0px"
                 >
-                  <ResponsiveImage src={this.props.data.image} />
+                  <ResponsiveImage src={OptimizedImage(this.props.data.image, 750)} />
                 </TextBlock>
               </div>
             </div>
@@ -66,7 +67,7 @@ const CapComponent = class CapComponent extends React.Component {
                   triggerOnce={true}
                   padding="0px"
                 >
-                  <ResponsiveImage src={this.props.data.image} />
+                  <ResponsiveImage src={OptimizedImage(this.props.data.image, 750)} />
                 </TextBlock>
               </div>
               <div className="col-md-5 margin-top-auto">

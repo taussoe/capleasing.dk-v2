@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import Observer from 'react-intersection-observer'
 import Link from 'gatsby-link'
+import { OptimizedImage } from './optimized-image'
 
 const CarContainer = styled.div`
   ul {
@@ -66,8 +67,8 @@ export default props => (
                     <div
                       className="thumb"
                       style={{
-                        backgroundImage: `url(${e.node.frontmatter.pictures
-                          .picturelist[0].image})`,
+                        backgroundImage: `url(${OptimizedImage(e.node.frontmatter.pictures
+                          .picturelist[0].image, 200)})`,
                       }}
                     />
                   </div>
@@ -79,7 +80,7 @@ export default props => (
                     <div className="car-mileage">
                       Kilometer:&nbsp;{parseInt(e.node.frontmatter.kilometer)
                         .toFixed(0)
-                        .replace(/./g, function(c, i, a) {
+                        .replace(/./g, function (c, i, a) {
                           return i && c !== '.' && (a.length - i) % 3 === 0
                             ? '.' + c
                             : c
@@ -89,7 +90,7 @@ export default props => (
                       månedlig ydelse:&nbsp;
                       {parseInt(e.node.frontmatter.monthlycost)
                         .toFixed(0)
-                        .replace(/./g, function(c, i, a) {
+                        .replace(/./g, function (c, i, a) {
                           return i && c !== '.' && (a.length - i) % 3 === 0
                             ? '.' + c
                             : c
