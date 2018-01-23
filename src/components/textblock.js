@@ -1,9 +1,14 @@
 import React from 'react'
 import styled from 'styled-components'
 import Observer from 'react-intersection-observer'
+import { media } from '../components/media-query'
 
 const TextBlockStyle = styled.div`
   padding: ${props => (props.padding ? props.padding : '50px')};
+  overflow: hidden;
+  ${media.phone`
+  padding: 0px;
+  `};
   opacity: ${props => (props.show ? '1' : '0')};
   transition: 0.5s ease-in-out all;
   transform: ${props => (props.show ? props.translateTo : props.translateFrom)};
@@ -14,8 +19,8 @@ const TextBlockStyle = styled.div`
     white-space: pre-line;
   }
   &.bottom {
-    position: absolute;
-    bottom: 0px;
+    /* position: absolute;
+    bottom: 0px; */
   }
   h1,
   h2,
@@ -24,6 +29,9 @@ const TextBlockStyle = styled.div`
     color: ${props => (props.show ? '#000000' : '#ffffff')};
     transition: color ease-in 0.1s;
     transition-delay: 0.5s;
+    ${media.phone`
+    text-align: center;
+    `};
     &:after {
       content: '';
       width: 100%;
@@ -61,7 +69,7 @@ const TextBlockStyle = styled.div`
 `
 
 export default props => (
-  <Observer triggerOnce={props.triggerOnce} threshold="0.8">
+  <Observer triggerOnce={props.triggerOnce} threshold="0.5">
     {inView => (
       <TextBlockStyle
         translateFrom={

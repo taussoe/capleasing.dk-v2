@@ -1,6 +1,7 @@
 import React from 'react'
 import { Parallax } from 'react-parallax'
 import styled from 'styled-components'
+import { media } from '../components/media-query'
 
 const ParallaxImageContainer = styled.div`
   height: 100vh;
@@ -9,6 +10,9 @@ const ParallaxImageContainer = styled.div`
   justify-content: center;
   .parallaximage {
     width: 60%;
+    ${media.phone`
+    width: 80%;
+    `};
     ul {
       display: inline-block;
     }

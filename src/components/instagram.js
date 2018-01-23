@@ -4,6 +4,7 @@ import ResponsiveImage from './responsive-image'
 import styled from 'styled-components'
 import TextBlock from '../components/textblock'
 import CapButton from '../components/button'
+import { media } from '../components/media-query'
 
 const InstaGrid = styled.div`
   grid-row: 1;
@@ -12,6 +13,9 @@ const InstaGrid = styled.div`
   grid-template-columns: auto;
   grid-column: 2/12;
   padding: 30px;
+  ${media.phone`
+  grid-gap: 5px;
+  `};
   .instagram-image-container {
     padding: 0px;
     display: block;

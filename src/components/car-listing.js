@@ -3,10 +3,15 @@ import styled from 'styled-components'
 import Observer from 'react-intersection-observer'
 import Link from 'gatsby-link'
 import { OptimizedImage } from './optimized-image'
+import { media } from '../components/media-query'
 
 const CarContainer = styled.div`
   ul {
     list-style: none;
+    ${media.phone`
+    padding: 0;
+    margin: 0;
+    `};
   }
 `
 
@@ -17,6 +22,13 @@ const CarLi = styled.li`
   margin: 40px 0px 40px 0px;
   .car-container {
     display: flex;
+    ${media.phone`
+      flex-direction: column;
+      .car-flex {
+        padding-top: 5px;
+        padding-bottom: 20px;
+      }
+    `};
     .flex-grow {
       flex-grow: 1;
     }
@@ -44,6 +56,10 @@ const CarLi = styled.li`
         color: #ffffff;
         text-decoration: none;
       }
+      ${media.phone`
+      padding: 20px 0px;
+      text-align: center;
+      `};
     }
   }
   .thumb {
@@ -51,6 +67,10 @@ const CarLi = styled.li`
     height: 130px;
     background-size: cover;
     background-position: center;
+    ${media.phone`
+    height: 300px;
+    width: 100%;
+    `};
   }
 `
 
@@ -67,8 +87,10 @@ export default props => (
                     <div
                       className="thumb"
                       style={{
-                        backgroundImage: `url(${OptimizedImage(e.node.frontmatter.pictures
-                          .picturelist[0].image, 200)})`,
+                        backgroundImage: `url(${OptimizedImage(
+                          e.node.frontmatter.pictures.picturelist[0].image,
+                          200
+                        )})`,
                       }}
                     />
                   </div>
@@ -80,7 +102,7 @@ export default props => (
                     <div className="car-mileage">
                       Kilometer:&nbsp;{parseInt(e.node.frontmatter.kilometer)
                         .toFixed(0)
-                        .replace(/./g, function (c, i, a) {
+                        .replace(/./g, function(c, i, a) {
                           return i && c !== '.' && (a.length - i) % 3 === 0
                             ? '.' + c
                             : c
@@ -90,7 +112,7 @@ export default props => (
                       månedlig ydelse:&nbsp;
                       {parseInt(e.node.frontmatter.monthlycost)
                         .toFixed(0)
-                        .replace(/./g, function (c, i, a) {
+                        .replace(/./g, function(c, i, a) {
                           return i && c !== '.' && (a.length - i) % 3 === 0
                             ? '.' + c
                             : c

@@ -8,6 +8,7 @@ import HalfHero from '../components/half-hero'
 import CapComponent from '../components/cap-component'
 import CarListing from '../components/car-listing'
 import Overlay from '../components/overlay'
+import { media } from '../components/media-query'
 
 const Main = styled.div`
   margin-bottom: 455px;
@@ -15,6 +16,18 @@ const Main = styled.div`
   background-color: #ffffff;
   position: relative;
   border-bottom: 1px solid #eee;
+  .text-padding-left {
+    padding: 0px 0px 0px 30px;
+    ${media.phone`
+    padding: 50px;
+    `};
+  }
+  .text-padding-right {
+    padding: 0px 30px 0px 0px;
+    ${media.phone`
+    padding: 50px;
+    `};
+  }
 `
 
 export default class Showroom extends React.Component {
@@ -74,7 +87,9 @@ export default class Showroom extends React.Component {
       )
       return (
         <div key={`carmodel-${i}`}>
-          <CapComponent data={data} alldata={this.props.data} />
+          <div className="text">
+            <CapComponent data={data} alldata={this.props.data} />
+          </div>
           <CarListing
             openOverlay={this.openOverlay.bind(this)}
             data={listing}
@@ -102,7 +117,7 @@ export default class Showroom extends React.Component {
           <div className="spacing" />
           <div className="container">
             <div className="row">
-              <div className="col-md-12">{cars}</div>
+              <div className="col-md-12 col-xs-12">{cars}</div>
             </div>
           </div>
         </Main>

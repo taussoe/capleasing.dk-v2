@@ -27,7 +27,7 @@ const CapComponent = class CapComponent extends React.Component {
         return (
           <div className="container">
             <div className="row spacing">
-              <div className="col-md-5 margin-top-auto">
+              <div className="col-md-5 margin-top-auto order-2 col-xs-12">
                 <div className="text-padding-right">
                   <TextBlock
                     translateFrom={`translateX(-20px)`}
@@ -41,7 +41,7 @@ const CapComponent = class CapComponent extends React.Component {
                   </TextBlock>
                 </div>
               </div>
-              <div className="col-md-7">
+              <div className="col-md-7 order-1 col-xs-12">
                 <TextBlock
                   translateFrom={`translateX(20px)`}
                   translateTo={`translateX(0px)`}
@@ -49,7 +49,9 @@ const CapComponent = class CapComponent extends React.Component {
                   triggerOnce={true}
                   padding="0px"
                 >
-                  <ResponsiveImage src={OptimizedImage(this.props.data.image, 750)} />
+                  <ResponsiveImage
+                    src={OptimizedImage(this.props.data.image, 750)}
+                  />
                 </TextBlock>
               </div>
             </div>
@@ -59,7 +61,7 @@ const CapComponent = class CapComponent extends React.Component {
         return (
           <div className="container">
             <div className="row spacing">
-              <div className="col-md-7">
+              <div className="col-md-7 col-xs-12">
                 <TextBlock
                   translateFrom={`translateX(-20px)`}
                   translateTo={`translateX(0px)`}
@@ -67,10 +69,12 @@ const CapComponent = class CapComponent extends React.Component {
                   triggerOnce={true}
                   padding="0px"
                 >
-                  <ResponsiveImage src={OptimizedImage(this.props.data.image, 750)} />
+                  <ResponsiveImage
+                    src={OptimizedImage(this.props.data.image, 750)}
+                  />
                 </TextBlock>
               </div>
-              <div className="col-md-5 margin-top-auto">
+              <div className="col-md-5 col-xs-12 margin-top-auto">
                 <div className="text-padding-left">
                   <TextBlock
                     translateFrom={`translateX(20px)`}
@@ -93,7 +97,7 @@ const CapComponent = class CapComponent extends React.Component {
         return (
           <div className="container">
             <div className="row">
-              <div className="col-md-12 center">
+              <div className="col-md-12 col-xs-12 center">
                 <TextBlock
                   translateFrom={`translateX(20px)`}
                   translateTo={`translateX(0px)`}
@@ -102,13 +106,14 @@ const CapComponent = class CapComponent extends React.Component {
                   maxWidth="70%"
                   padding="150px 0px 10px 0px"
                 >
+                  <div className="mobile-spacer" />
                   <h2>{this.props.data.overskrift}</h2>
                   <span>{this.props.data.text}</span>
                 </TextBlock>
               </div>
             </div>
             <div className="row spacing">
-              <div className="col-md-12">
+              <div className="col-md-12 col-xs-12">
                 <Kontakt data={this.props.alldata.kontaktpersoner.edges} />
               </div>
             </div>

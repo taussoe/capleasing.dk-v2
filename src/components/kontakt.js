@@ -11,8 +11,14 @@ const KontaktContainer = styled.div`
   `};
   .kontaktperson {
     margin: 10px;
+    ${media.phone`
+      padding-bottom: 40px;
+      `};
     .image-container {
       margin-bottom: 30px;
+      ${media.phone`
+      height: 500px;
+      `};
     }
     .info {
       text-align: center;

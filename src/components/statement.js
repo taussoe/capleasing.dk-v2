@@ -18,7 +18,7 @@ const StatementContainer = styled.div`
     max-width: 800px;
     line-height: 26px;
     ${media.phone`
-      width: 100%;
+      width: 70%;
     `};
   }
 `

@@ -68,7 +68,7 @@ export default props => (
   <FooterContainer>
     <div className="container">
       <div className="row">
-        <div className="col-md-6 col-xs-12">
+        <div className="col-md-6 col-xs-12 hidden-xs">
           <div className="text">
             <b>Nyhedsbrev</b> <br />
             <br />
@@ -84,7 +84,7 @@ export default props => (
             <button>Tilmeld</button>
           </div>
         </div>
-        <div className="col-md-3 col-xs-12">
+        <div className="col-md-3 col-xs-12 hidden-xs">
           <b>Links</b>
           <br />
           <br />
@@ -106,7 +106,7 @@ export default props => (
               ))}
           </ul>
         </div>
-        <div className="col-md-3 col-xs-12">
+        <div className="col-md-3 col-xs-12 center">
           <b>Kontakt</b>
           <br />
           <br />
