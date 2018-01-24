@@ -11,11 +11,32 @@ import Overlay from '../components/overlay'
 import { media } from '../components/media-query'
 
 const Main = styled.div`
-  margin-bottom: 455px;
+  margin-bottom: 434px;
+  ${media.phone`
+  margin-bottom: 434px;
+  `};
   z-index: 2;
   background-color: #ffffff;
   position: relative;
   border-bottom: 1px solid #eee;
+  h1 {
+    font-size: 65px;
+    font-weight: 800;
+    ${media.phone`
+    font-size: 40px;
+    `};
+  }
+
+  h2 {
+    font-size: 40px;
+    ${media.phone`
+    font-size: 30px;
+    line-height: 34px;
+    `};
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 53px;
+  }
   .text-padding-left {
     padding: 0px 0px 0px 30px;
     ${media.phone`
@@ -113,6 +134,7 @@ export default class Showroom extends React.Component {
             src={this.props.data.markdownRemark.frontmatter.image}
             text={this.props.data.markdownRemark.frontmatter.text}
             cars={this.props.data.cars}
+            openOverlay={this.openOverlay.bind(this)}
           />
           <div className="spacing" />
           <div className="container">

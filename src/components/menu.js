@@ -194,7 +194,14 @@ const Menu = class Menu extends React.Component {
             <Observer triggerOnce={false} key={`menuitem-showroom`}>
               {inView => (
                 <MenuLi tDelay={menu.length * 0.1} show={inView} threshold="1">
-                  <Link to={`/showroom`}>Showroom</Link>
+                  <Link
+                    to={`/showroom`}
+                    onClick={() => {
+                      this.setState({ mobileOpen: false })
+                    }}
+                  >
+                    Showroom
+                  </Link>
                 </MenuLi>
               )}
             </Observer>

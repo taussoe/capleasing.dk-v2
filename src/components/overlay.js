@@ -6,6 +6,7 @@ import TextBlock from '../components/textblock'
 import CapInput from '../components/cap-input'
 import Link from 'gatsby-link'
 import { OptimizedImage } from './optimized-image'
+import { media } from '../components/media-query'
 
 const OverlayContainer = styled.div`
   position: fixed;
@@ -56,7 +57,10 @@ const OverlayContainer = styled.div`
   }
   .swiper-container {
     width: 100%;
-    height: 80vh;
+    height: calc(100vh - 200px - 50px);
+    ${media.phone`
+    height: calc(100vh - 130px - 50px);
+    `};
     margin-left: auto;
     margin-right: auto;
   }
@@ -85,6 +89,9 @@ const OverlayContainer = styled.div`
   .infoheader {
     font-size: 30px;
     font-weight: 700;
+    ${media.phone`
+    padding-bottom: 20px;
+    `};
   }
   h3 {
     font-weight: 100;
@@ -92,6 +99,24 @@ const OverlayContainer = styled.div`
   }
   .cartext {
     padding-bottom: 40px;
+    ${media.phone`
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    `};
+    ul {
+      display: inline-block;
+      width: auto;
+      text-align: left;
+    }
+  }
+  .carheader {
+    ${media.phone`
+      padding-top: 30px;
+      padding-bottom: 10px;
+      width: 80%;
+      margin: auto;
+    `};
   }
   hr {
     border-top: 1px solid #f1f1f1;
@@ -102,8 +127,11 @@ const OverlayContainer = styled.div`
   .infocard {
     background-color: #f1f1f1;
     padding: 30px;
-    height: 240px;
+    height: 290px;
     margin: 10px 0px 10px 0px;
+    ${media.phone`
+    height: auto;
+    `};
     .infoheader {
       text-align: center;
       padding-bottom: 20px;
@@ -126,6 +154,9 @@ const OverlayContainer = styled.div`
   .smallwidth {
     max-width: 500px;
     margin: auto;
+    ${media.phone`
+     width: 80%;
+    `};
   }
   .cta {
     padding-bottom: 50px;
@@ -156,10 +187,18 @@ const Click = styled.span`
 `
 
 const Contracted = styled.div`
-  max-height: ${props => (props.show ? '1000px' : '0px')};
+  max-height: ${props => (props.show ? '2000px' : '0px')};
   transition: max-height 0.5s ease-in-out;
   overflow: hidden;
 `
+
+const fineNumber = intNumber => {
+  return parseInt(intNumber)
+    .toFixed(0)
+    .replace(/./g, function(c, i, a) {
+      return i && c !== '.' && (a.length - i) % 3 === 0 ? '.' + c : c
+    })
+}
 
 const Overlay = class Overlay extends React.Component {
   state = {
@@ -168,7 +207,6 @@ const Overlay = class Overlay extends React.Component {
   }
   swiperConfig = {
     loop: false,
-    spaceBetween: 320,
     setWrapperSize: true,
     pagination: '.swiper-pagination',
     paginationClickable: true,
@@ -206,7 +244,9 @@ const Overlay = class Overlay extends React.Component {
               key={`slide-${index}`}
               id={item.id}
               className="swiper-slide"
-              style={{ backgroundImage: `url(${OptimizedImage(item.image, 1200)})` }}
+              style={{
+                backgroundImage: `url(${OptimizedImage(item.image, 1200)})`,
+              }}
             />
           )
         }
@@ -227,14 +267,14 @@ const Overlay = class Overlay extends React.Component {
         }
       )
     }
-
+    console.log(this.props)
     return (
       <OverlayContainer showOverlay={this.props.showOverlay}>
         {this.props.overlayData.node && (
           <div className="overlay-wrapper">
             <div className="container">
               <div className="row">
-                <div className="col-md-12">
+                <div className="col-md-12 col-xs-12">
                   <div className="closeOverlayContainer">
                     <div
                       className="closeOverlay"
@@ -276,7 +316,7 @@ const Overlay = class Overlay extends React.Component {
                     triggerOnce={true}
                     padding="0px 0px 10px 40px"
                   >
-                    <h2 className="center">
+                    <h2 className="center carheader">
                       {this.props.overlayData.node.frontmatter.title}
                     </h2>
                     <div
@@ -290,22 +330,32 @@ const Overlay = class Overlay extends React.Component {
               </div>
 
               <div className="row">
-                <div className="col-md-4 center">
+                <div className="col-md-4 col-xs-12 center">
                   <h3>Årgang</h3>
-                  <div className="infoheader">2014</div>
+                  <div className="infoheader">
+                    {this.props.overlayData.node.frontmatter.year}
+                  </div>
                 </div>
-                <div className="col-md-4 center">
+                <div className="col-md-4 col-xs-12 center">
                   <h3>Mdl. ydelse</h3>
-                  <div className="infoheader">8.300 kr</div>
+                  <div className="infoheader">
+                    {fineNumber(
+                      this.props.overlayData.node.frontmatter.monthlycost
+                    )}&nbsp; kr
+                  </div>
                 </div>
-                <div className="col-md-4 center">
+                <div className="col-md-4 col-xs-12 center">
                   <h3>Førstegangsydelse</h3>
-                  <div className="infoheader">126.000 kr</div>
+                  <div className="infoheader">
+                    {fineNumber(
+                      this.props.overlayData.node.frontmatter.firstcost
+                    )}&nbsp; kr
+                  </div>
                 </div>
               </div>
               <div className="smallspacing" />
               <div className="row">
-                <div className="col-md-4 center">
+                <div className="col-md-4 col-xs-12 center">
                   <Click
                     onClick={() => {
                       this.setState({
@@ -318,8 +368,8 @@ const Overlay = class Overlay extends React.Component {
                     Udvidet information
                   </Click>
                 </div>
-                <div className="col-md-4" />
-                <div className="col-md-4 center">
+                <div className="col-md-4 col-xs-12" />
+                <div className="col-md-4 col-xs-12 center">
                   <Click
                     className="clickable"
                     onClick={() => {
@@ -342,85 +392,119 @@ const Overlay = class Overlay extends React.Component {
                   </div>
                 </div>
                 <div className="row">
-                  <div className="col-md-6">
+                  <div className="col-md-6 col-xs-12">
                     <div className="infocard">
                       <div className="infoheader">MOTOR</div>
                       <div className="infostats">
                         <div className="infospec">Volumen</div>
-                        <div className="infospecvalue">3,6</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.volume}
+                        </div>
                       </div>
                       <div className="infostats">
                         <div className="infospec">Cylindre</div>
-                        <div className="infospecvalue">6</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.cylindre}
+                        </div>
                       </div>
                       <div className="infostats">
                         <div className="infospec">Antal ventiler</div>
-                        <div className="infospecvalue">2</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.ventiler}
+                        </div>
                       </div>
                     </div>
                   </div>
-                  <div className="col-md-6">
+                  <div className="col-md-6 col-xs-12">
                     <div className="infocard">
                       <div className="infoheader">TRANSMISSION</div>
                       <div className="infostats">
                         <div className="infospec">Gear</div>
-                        <div className="infospecvalue">7</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.gear}
+                        </div>
                       </div>
                       <div className="infostats">
                         <div className="infospec">Træk</div>
-                        <div className="infospecvalue">Nej</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.traek}
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
                 <div className="row">
-                  <div className="col-md-6">
+                  <div className="col-md-6 col-xs-12">
                     <div className="infocard">
                       <div className="infoheader">INFO</div>
                       <div className="infostats">
                         <div className="infospec">Type</div>
-                        <div className="infospecvalue">Personbil</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.type}
+                        </div>
                       </div>
                       <div className="infostats">
                         <div className="infospec">Første reg.</div>
-                        <div className="infospecvalue">30-07-2014</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.foerstereg}
+                        </div>
                       </div>
                       <div className="infostats">
                         <div className="infospec">Kilometer</div>
-                        <div className="infospecvalue">74.000</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.kilometer}
+                        </div>
                       </div>
                       <div className="infostats">
                         <div className="infospec">Brændstof</div>
-                        <div className="infospecvalue">Benzin</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.braendstof}
+                        </div>
                       </div>
                       <div className="infostats">
                         <div className="infospec">Farve</div>
-                        <div className="infospecvalue">Sortmetal</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.farve}
+                        </div>
                       </div>
                       <div className="infostats">
                         <div className="infospec">Døre</div>
-                        <div className="infospecvalue">5</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.doere}
+                        </div>
                       </div>
                     </div>
                   </div>
-                  <div className="col-md-6">
+                  <div className="col-md-6 col-xs-12">
                     <div className="infocard">
                       <div className="infoheader">YDELSE</div>
                       <div className="infostats">
                         <div className="infospec">Effekt</div>
-                        <div className="infospecvalue">400 Hk.</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.effekt} Hk.
+                        </div>
                       </div>
                       <div className="infostats">
                         <div className="infospec">Moment</div>
-                        <div className="infospecvalue">550 Nm</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.moment} Nm
+                        </div>
                       </div>
                       <div className="infostats">
                         <div className="infospec">Topfart</div>
-                        <div className="infospecvalue">266 km/t</div>
+                        <div className="infospecvalue">
+                          {this.props.overlayData.node.frontmatter.topfart} km/t
+                        </div>
                       </div>
                       <div className="infostats">
                         <div className="infospec">0-100</div>
-                        <div className="infospecvalue">4,8 sek</div>
+                        <div className="infospecvalue">
+                          {
+                            this.props.overlayData.node.frontmatter
+                              .nultilhundrede
+                          }{' '}
+                          sek
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -428,7 +512,7 @@ const Overlay = class Overlay extends React.Component {
               </Contracted>
               <Contracted show={this.state.kontakt}>
                 <div className="row">
-                  <div className="col-md-12">
+                  <div className="col-md-12 col-xs-12">
                     <div className="smallspacing" />
                     <hr />
                   </div>

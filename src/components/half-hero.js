@@ -142,7 +142,12 @@ export default class HalfHero extends React.Component {
               <ul>
                 {this.props.cars.edges.slice(0, 10).map((e, i) => {
                   return (
-                    <li key={`menucarlisting-${i}`}>
+                    <li
+                      key={`menucarlisting-${i}`}
+                      onClick={() => {
+                        this.props.openOverlay(e)
+                      }}
+                    >
                       <div className="car">
                         <div>
                           <div className="car-brand">
