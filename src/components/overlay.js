@@ -20,6 +20,7 @@ const OverlayContainer = styled.div`
   opacity: ${props => (props.showOverlay ? '1' : '0')};
   visibility: ${props => (props.showOverlay ? 'visible' : 'hidden')};
   overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
   .overlay-wrapper {
     overflow-y: scroll;
   }
