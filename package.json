@@ -31,12 +31,13 @@
     "styled-components": "^2.4.0",
     "swiper": "^4.1.0"
   },
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "build":
-      "npm run interactify-optimize && npm run build:cms && npm run build:site",
+    "build": "npm run interactify-optimize && npm run build:cms && npm run build:site",
     "build:site": "gatsby build",
     "build:cms": "cd cms && yarn && npm run build",
     "develop": "gatsby develop",
