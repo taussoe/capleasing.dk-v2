@@ -48,7 +48,7 @@ h1, h2 {
   overflow: hidden;
 }
 .container {
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 @media screen and (max-width:567px) {
     .visible-sm{display:none}

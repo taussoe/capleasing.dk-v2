@@ -3,17 +3,17 @@ import styled from 'styled-components'
 import Observer from 'react-intersection-observer'
 
 const ImageContainer = styled.div`
-  background-image: url(${props =>
-    props.backgroundImage ? props.backgroundImage : ''});
+  background-image: url(${props => props.backgroundImage});
   background-size: cover;
   background-position: center;
   transition: opacity 1s ease-in-out;
-  opacity: ${props => (props.backgroundImage ? '1' : '0')};
+  opacity: ${props => (props.backgroundImage !== false ? '1' : '0')};
   height: 100%;
   width: 100%;
   img {
     width: ${props => (props.width ? props.width : '100%')};
     visibility: hidden;
+    opacity: 0;
   }
 `
 
@@ -43,7 +43,7 @@ const ResponsiveImage = class ResponsiveImage extends React.Component {
   render() {
     return (
       <ImageContainer
-        backgroundImage={!this.state.loading ? this.image.src : ''}
+        backgroundImage={!this.state.loading ? this.image.src : false}
         width={this.props.width}
       >
         <img src={this.props.src} alt="image" />

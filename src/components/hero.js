@@ -17,14 +17,13 @@ const HeroContainer = styled.div`
   `};
 `
 const ImageContainer = styled.div`
-  background-image: url(${props =>
-    props.backgroundImage ? props.backgroundImage : ''});
+  background-image: url(${props => props.backgroundImage});
   background-color: #000000;
   flex-grow: 1;
   background-size: cover;
   background-position: center;
   transition: opacity 1s ease-in-out;
-  opacity: ${props => (props.backgroundImage ? '1' : '0')};
+  opacity: ${props => (props.backgroundImage !== false ? '1' : '0')};
   width: 50%;
   ${media.phone`
   width: 100%;
@@ -70,7 +69,7 @@ const Hero = class Hero extends React.Component {
     return (
       <HeroContainer height={this.props.height ? this.props.height : 'auto'}>
         <ImageContainer
-          backgroundImage={!this.state.loading ? this.image.src : ''}
+          backgroundImage={!this.state.loading ? this.image.src : false}
         />
         <TextContainer>
           <div className="padding">
