@@ -8,6 +8,8 @@ const ImageContainer = styled.div`
   background-position: center;
   transition: opacity 1s ease-in-out;
   opacity: ${props => (props.backgroundImage !== false ? '1' : '0')};
+  -webkit-backface-visibility: hidden;
+  -webkit-perspective: 1000;
   height: 100%;
   width: 100%;
   img {

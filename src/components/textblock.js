@@ -11,6 +11,8 @@ const TextBlockStyle = styled.div`
   `};
   opacity: ${props => (props.show ? '1' : '0')};
   transition: 0.5s ease-in-out all;
+  -webkit-backface-visibility: hidden;
+  -webkit-perspective: 1000;
   transform: ${props => (props.show ? props.translateTo : props.translateFrom)};
   transition-delay: ${props => props.transitionDelay};
   margin: ${props => (props.maxWidth ? 'auto' : '0px')};
