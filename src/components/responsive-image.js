@@ -6,7 +6,7 @@ const ImageContainer = styled.div`
   background-image: url(${props => props.backgroundImage});
   background-size: cover;
   background-position: center;
-  transition: all 1s ease-in-out;
+  transition: all 0.8s ease-in-out;
   opacity: ${props => (props.backgroundImage !== false ? '1' : '0')};
   -webkit-backface-visibility: hidden;
   -webkit-perspective: 1000;
