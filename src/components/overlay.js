@@ -60,7 +60,7 @@ const OverlayContainer = styled.div`
     width: 100%;
     height: calc(100vh - 200px - 50px);
     ${media.phone`
-    height: calc(100vh - 130px - 50px);
+    height: calc(100vh - 80px - 50px);
     `};
     margin-left: auto;
     margin-right: auto;
