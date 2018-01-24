@@ -37,13 +37,13 @@ const ResponsiveImage = class ResponsiveImage extends React.Component {
   }
   componentDidMount() {
     // console.log(this.props)
-  }
-  render() {
     let imageUrl = this.props.src
     this.image = new Image()
     this.image.src = imageUrl
     this.image.onload = this.handleImageLoaded
     this.image.onerror = this.handleImageError
+  }
+  render() {
     return (
       <ImageContainer
         backgroundImage={this.props.src}
