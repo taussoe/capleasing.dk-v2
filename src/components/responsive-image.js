@@ -8,6 +8,7 @@ const ImageContainer = styled.div`
   background-position: center;
   transition: all 0.8s ease-in-out;
   opacity: ${props => (props.backgroundImage !== false ? '1' : '0')};
+  transition-delay: 200ms;
   -webkit-backface-visibility: hidden;
   -webkit-perspective: 1000;
   height: 100%;

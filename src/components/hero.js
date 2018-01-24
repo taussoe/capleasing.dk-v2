@@ -23,8 +23,7 @@ const ImageContainer = styled.div`
   background-size: cover;
   background-position: center;
   transition: opacity 1s ease-in-out;
-  -webkit-backface-visibility: hidden;
-  -webkit-perspective: 1000;
+  transition-delay: 200ms;
   opacity: ${props => (props.backgroundImage !== false ? '1' : '0')};
   width: 50%;
   ${media.phone`
