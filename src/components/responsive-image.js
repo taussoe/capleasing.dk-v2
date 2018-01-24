@@ -7,7 +7,7 @@ const ImageContainer = styled.div`
   background-size: cover;
   background-position: center;
   transition: all 0.8s ease-in-out;
-  opacity: ${props => (props.backgroundImage !== false ? '1' : '0')};
+  opacity: ${props => (!props.isLoading ? '1' : '0')};
   transition-delay: 200ms;
   -webkit-backface-visibility: hidden;
   -webkit-perspective: 1000;
@@ -37,16 +37,17 @@ const ResponsiveImage = class ResponsiveImage extends React.Component {
   }
   componentDidMount() {
     // console.log(this.props)
+  }
+  render() {
     let imageUrl = this.props.src
     this.image = new Image()
     this.image.src = imageUrl
     this.image.onload = this.handleImageLoaded
     this.image.onerror = this.handleImageError
-  }
-  render() {
     return (
       <ImageContainer
-        backgroundImage={!this.state.loading ? this.image.src : false}
+        backgroundImage={this.props.src}
+        isLoading={this.state.loading}
         width={this.props.width}
       >
         <img src={this.props.src} alt="image" />

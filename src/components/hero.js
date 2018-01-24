@@ -24,7 +24,7 @@ const ImageContainer = styled.div`
   background-position: center;
   transition: opacity 1s ease-in-out;
   transition-delay: 200ms;
-  opacity: ${props => (props.backgroundImage !== false ? '1' : '0')};
+  opacity: ${props => (!props.isLoading ? '1' : '0')};
   width: 50%;
   ${media.phone`
   width: 100%;
@@ -70,7 +70,8 @@ const Hero = class Hero extends React.Component {
     return (
       <HeroContainer height={this.props.height ? this.props.height : 'auto'}>
         <ImageContainer
-          backgroundImage={!this.state.loading ? this.image.src : false}
+          backgroundImage={'img/leasing-hero.jpg'}
+          isLoading={this.state.loading}
         />
         <TextContainer>
           <div className="padding">
