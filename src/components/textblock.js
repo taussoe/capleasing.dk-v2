@@ -69,7 +69,7 @@ const TextBlockStyle = styled.div`
 `
 
 export default props => (
-  <Observer triggerOnce={props.triggerOnce} threshold={0.5}>
+  <Observer triggerOnce={props.triggerOnce} threshold={0}>
     {inView => (
       <TextBlockStyle
         translateFrom={

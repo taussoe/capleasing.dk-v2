@@ -79,7 +79,7 @@ export default props => (
     <ul>
       {props.data.map((e, i) => {
         return (
-          <Observer triggerOnce={true} threshold={0.8} key={`car-list-${i}`}>
+          <Observer triggerOnce={true} threshold={0} key={`car-list-${i}`}>
             {inView => (
               <CarLi key={`car-list-${i}`} show={inView}>
                 <div className="car-container">

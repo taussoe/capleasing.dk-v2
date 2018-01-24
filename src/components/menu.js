@@ -160,7 +160,7 @@ const Menu = class Menu extends React.Component {
 
     let menuItem = menu.map((e, i) => {
       return (
-        <Observer triggerOnce={false} threshold={1} key={`menuitem-${i}`}>
+        <Observer triggerOnce={false} threshold={0} key={`menuitem-${i}`}>
           {inView => (
             <MenuLi tDelay={i * 0.1} show={inView}>
               <Link
