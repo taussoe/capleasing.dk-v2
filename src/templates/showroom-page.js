@@ -157,7 +157,15 @@ export const pageQuery = graphql`
         path
         description
         title
-        image
+        image {
+          id
+          childImageSharp {
+            sizes(maxWidth: 1200) {
+              tracedSVG
+              sizes
+            }
+          }
+        }
         components {
           sektioner {
             component
@@ -240,7 +248,15 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       frontmatter {
         title
-        image
+        image {
+          id
+          childImageSharp {
+            sizes(maxWidth: 1200) {
+              tracedSVG
+              sizes
+            }
+          }
+        }
         path
         text
       }

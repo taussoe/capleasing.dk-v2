@@ -11,10 +11,11 @@ import { OptimizedImage } from './optimized-image'
 
 const CapComponent = class CapComponent extends React.Component {
   render() {
+    console.log(this.props)
     const c = this.props.data.component
     switch (c) {
       case 'Hero':
-        return <Hero height="100vh" />
+        return <Hero height="100vh" image={this.props.data.image} />
         break
       case 'Statement':
         return (

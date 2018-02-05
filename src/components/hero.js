@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import Observer from 'react-intersection-observer'
 import TextBlock from '../components/textblock'
 import { media } from '../components/media-query'
+import Img from 'gatsby-image'
 
 const HeroContainer = styled.div`
   height: ${props => props.height};
@@ -67,12 +68,10 @@ const Hero = class Hero extends React.Component {
     this.image.onerror = this.handleImageError
   }
   render() {
+    console.log(this.props.image)
     return (
       <HeroContainer height={this.props.height ? this.props.height : 'auto'}>
-        <ImageContainer
-          backgroundImage={'img/leasing-hero.jpg'}
-          isLoading={this.state.loading}
-        />
+        <Img resolutions={this.props.image.childImageSharp.sizes} />
         <TextContainer>
           <div className="padding">
             <TextBlock className="bottom" triggerOnce="true">

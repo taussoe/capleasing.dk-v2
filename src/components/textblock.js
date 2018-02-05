@@ -78,7 +78,10 @@ export default props => (
           props.translateFrom ? props.translateFrom : 'translateY(-10px)'
         }
         translateTo={props.translateTo ? props.translateTo : 'translateY(0px)'}
-        show={inView}
+        show={inView =>
+          requestIdleCallback(() => {
+            return inView
+          })}
         className={props.className}
         transitionDelay={props.transitionDelay ? props.transitionDelay : '0s'}
         padding={props.padding}

@@ -84,3 +84,27 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     })
   })
 }
+exports.onCreateNode = ({
+  node,
+  getNode,
+  loadNodeContent,
+  boundActionCreators,
+}) => {
+  const { frontmatter } = node
+  if (frontmatter) {
+    const { image, components } = frontmatter
+    if (components) {
+      components.sektioner.forEach(e => {
+        console.log(e.component)
+      })
+    }
+    if (image) {
+      if (image.indexOf('/img') === 0) {
+        frontmatter.image = path.relative(
+          path.dirname(node.fileAbsolutePath),
+          path.join(__dirname, '/static/', image)
+        )
+      }
+    }
+  }
+}
