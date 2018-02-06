@@ -97,6 +97,12 @@ const HalfHeroContainer = styled.div`
       }
     }
   }
+  .gatsby-image-outer-wrapper {
+    height: 100%;
+    .gatsby-image-wrapper {
+      height: 100%;
+    }
+  }
 `
 
 export default class HalfHero extends React.Component {
