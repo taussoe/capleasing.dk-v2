@@ -9,6 +9,7 @@ import CapComponent from '../components/cap-component'
 import CarListing from '../components/car-listing'
 import Overlay from '../components/overlay'
 import { media } from '../components/media-query'
+import ReactDOM from 'react-dom'
 
 const Main = styled.div`
   margin-bottom: 434px;
@@ -87,7 +88,10 @@ export default class Showroom extends React.Component {
   handleScroll = (id, duration) => {
     InterScroll(ReactDOM.findDOMNode(this.refs[id]), 2000)
   }
-
+  scrollToBrand(e) {
+    let carmodelid = `carmodel-${e}`
+    this.handleScroll(carmodelid, 2000)
+  }
   render() {
     let sortedModels = this.props.data.carmodel.edges
     sortedModels.sort(function(a, b) {
@@ -97,17 +101,19 @@ export default class Showroom extends React.Component {
     })
     let cars = sortedModels.map((e, i) => {
       let component = i % 2 === 0 ? 'PictureRight' : 'PictureLeft'
+      let carmodelid = `carmodel-${i}`
       let data = {
         component: component,
         overskrift: e.node.frontmatter.title,
         text: e.node.frontmatter.text,
         image: e.node.frontmatter.carimage,
+        elementid: carmodelid,
       }
       let listing = this.props.data.cars.edges.filter(
         elem => elem.node.frontmatter.carmodel === e.node.frontmatter.title
       )
       return (
-        <div key={`carmodel-${i}`}>
+        <div key={`carmodel-${i}`} ref={carmodelid}>
           <div className="text">
             <CapComponent data={data} alldata={this.props.data} />
           </div>
@@ -133,8 +139,8 @@ export default class Showroom extends React.Component {
           <HalfHero
             src={this.props.data.markdownRemark.frontmatter.image}
             text={this.props.data.markdownRemark.frontmatter.text}
-            cars={this.props.data.cars}
-            openOverlay={this.openOverlay.bind(this)}
+            carmodel={sortedModels}
+            scrollToBrand={this.scrollToBrand.bind(this)}
           />
           <div className="spacing" />
           <div className="container">

@@ -68,9 +68,11 @@ const HalfHeroContainer = styled.div`
       border-bottom: 1px solid #dddddd;
       color: #56585d;
       font-size: 13px;
+      transition: all ease-in-out 0.2s;
       &:hover {
         color: #000000;
         cursor: pointer;
+        transform: translateX(15px);
       }
       &:last-child {
         border-bottom: 0px;
@@ -82,6 +84,8 @@ const HalfHeroContainer = styled.div`
         `};
         .car-brand {
           font-weight: 700;
+          font-size: 25px;
+          text-transform: uppercase;
         }
         .price {
           flex-grow: 1;
@@ -128,6 +132,7 @@ export default class HalfHero extends React.Component {
     window.removeEventListener('scroll', this.handleS)
   }
   render() {
+    console.log(this.props)
     return (
       <HalfHeroContainer showHeader={this.state.showHeader}>
         <div className="header">
@@ -146,43 +151,17 @@ export default class HalfHero extends React.Component {
 
             <div>
               <ul>
-                {this.props.cars.edges.slice(0, 10).map((e, i) => {
+                {this.props.carmodel.slice(0, 10).map((e, i) => {
                   return (
                     <li
                       key={`menucarlisting-${i}`}
                       onClick={() => {
-                        this.props.openOverlay(e)
+                        this.props.scrollToBrand(i)
                       }}
                     >
                       <div className="car">
-                        <div>
-                          <div className="car-brand">
-                            {e.node.frontmatter.title}
-                          </div>
-                          <div className="car-info">
-                            Årgang: {e.node.frontmatter.year}
-                          </div>
-                          <div className="car-info">
-                            Km:&nbsp;
-                            {parseInt(e.node.frontmatter.kilometer)
-                              .toFixed(0)
-                              .replace(/./g, function(c, i, a) {
-                                return i &&
-                                  c !== '.' &&
-                                  (a.length - i) % 3 === 0
-                                  ? '.' + c
-                                  : c
-                              })}
-                          </div>
-                        </div>
-                        <div className="price">
-                          {parseInt(e.node.frontmatter.monthlycost)
-                            .toFixed(0)
-                            .replace(/./g, function(c, i, a) {
-                              return i && c !== '.' && (a.length - i) % 3 === 0
-                                ? '.' + c
-                                : c
-                            })}&nbsp; kr
+                        <div className="car-brand">
+                          {e.node.frontmatter.title}
                         </div>
                       </div>
                     </li>
