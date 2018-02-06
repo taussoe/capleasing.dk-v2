@@ -24,7 +24,6 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       if (node.frontmatter.templateKey) {
-        console.log(`create page ${node.frontmatter.templateKey}`)
         createPage({
           path: node.frontmatter.path,
           component: path.resolve(
@@ -47,7 +46,6 @@ exports.onCreateNode = ({
     const { image, components, carimage, pictures } = frontmatter
     if (components) {
       components.sektioner.forEach(e => {
-        console.log(e.component)
         if (e.image) {
           if (e.image.indexOf('/img') === 0) {
             e.image = path.relative(

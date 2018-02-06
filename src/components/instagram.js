@@ -39,7 +39,6 @@ const Instagram = class Instagram extends React.Component {
     data: [],
   }
   getInstagram = () => {
-    console.log('get instagram')
     const instathis = this
     this.instarequest = axios
       .get('https://www.instagram.com/capleasing/?__a=1')
@@ -51,9 +50,6 @@ const Instagram = class Instagram extends React.Component {
   }
   componentDidMount() {
     this.getInstagram()
-  }
-  componentDidUpdate() {
-    console.log('update', this.state.datas)
   }
   componentWillUnMount() {
     this.instarequest.abort()

@@ -74,10 +74,11 @@ const Hero = class Hero extends React.Component {
     console.log('error loading image')
   }
   render() {
-    console.log(this.props)
     return (
       <HeroContainer height={this.props.height ? this.props.height : 'auto'}>
-        <ImageWrapper><Img resolutions={this.props.image.childImageSharp.sizes} /></ImageWrapper>
+        <ImageWrapper>
+          <Img resolutions={this.props.image.childImageSharp.sizes} />
+        </ImageWrapper>
         <TextContainer>
           <div className="padding">
             <TextBlock className="bottom" triggerOnce="true">

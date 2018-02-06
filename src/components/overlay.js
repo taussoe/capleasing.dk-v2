@@ -5,8 +5,8 @@ import 'swiper/dist/css/swiper.min.css'
 import TextBlock from '../components/textblock'
 import CapInput from '../components/cap-input'
 import Link from 'gatsby-link'
-import { OptimizedImage } from './optimized-image'
 import { media } from '../components/media-query'
+import Img from 'gatsby-image'
 
 const OverlayContainer = styled.div`
   position: fixed;
@@ -64,6 +64,14 @@ const OverlayContainer = styled.div`
     `};
     margin-left: auto;
     margin-right: auto;
+    .gatsby-image-outer-wrapper {
+      width: 100%;
+      height: 100%;
+      .gatsby-image-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+    }
   }
   .swiper-slide {
     background-size: cover;
@@ -208,9 +216,9 @@ const Overlay = class Overlay extends React.Component {
   }
   swiperConfig = {
     loop: false,
-    setWrapperSize: true,
+    setWrapperSize: false,
     pagination: '.swiper-pagination',
-    paginationClickable: true,
+    paginationClickable: false,
     nextButton: '.swiper-button-next',
     prevButton: '.swiper-button-prev',
   }
@@ -234,21 +242,15 @@ const Overlay = class Overlay extends React.Component {
     this.thumbswiper.controller.control = this.swiper
   }
   render() {
-    console.log(this.props)
     let slide = {}
     let thumbs = {}
     if (this.props.overlayData.node) {
       slide = this.props.overlayData.node.frontmatter.pictures.picturelist.map(
         (item, index) => {
           return (
-            <div
-              key={`slide-${index}`}
-              id={item.id}
-              className="swiper-slide"
-              style={{
-                backgroundImage: `url(${OptimizedImage(item.image, 1200)})`,
-              }}
-            />
+            <div key={`slide-${index}`} id={item.id} className="swiper-slide">
+              <Img sizes={item.image.childImageSharp.sizes} />
+            </div>
           )
         }
       )
@@ -257,18 +259,13 @@ const Overlay = class Overlay extends React.Component {
       thumbs = this.props.overlayData.node.frontmatter.pictures.picturelist.map(
         (item, index) => {
           return (
-            <div
-              key={`thumb-${index}`}
-              className="swiper-slide"
-              style={{
-                backgroundImage: `url(${OptimizedImage(item.image, 1200)})`,
-              }}
-            />
+            <div key={`thumb-${index}`} className="swiper-slide">
+              <Img sizes={item.image.childImageSharp.sizes} />
+            </div>
           )
         }
       )
     }
-    console.log(this.props)
     return (
       <OverlayContainer showOverlay={this.props.showOverlay}>
         {this.props.overlayData.node && (

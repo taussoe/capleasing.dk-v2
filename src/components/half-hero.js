@@ -128,7 +128,6 @@ export default class HalfHero extends React.Component {
     window.removeEventListener('scroll', this.handleS)
   }
   render() {
-    console.log(this.props.src.childImageSharp.sizes)
     return (
       <HalfHeroContainer showHeader={this.state.showHeader}>
         <div className="header">

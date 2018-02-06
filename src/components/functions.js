@@ -5,7 +5,6 @@ export const GetElementY = domElement => {
 }
 export const InterScroll = (element, duration) => {
   let domElement = element
-  console.log(domElement)
   let startingY = window.pageYOffset
   let elementY = GetElementY(domElement)
   // If element is close to page's bottom then window will scroll only to some position above the element.
