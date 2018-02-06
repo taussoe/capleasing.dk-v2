@@ -47,6 +47,19 @@ const TextContainer = styled.div`
   }
 `
 
+const ImageWrapper = styled.div`
+  width: 50%;
+  height: 100%;
+  .gatsby-image-outer-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+  .gatsby-image-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+`
+
 const Hero = class Hero extends React.Component {
   constructor() {
     super()
@@ -60,18 +73,11 @@ const Hero = class Hero extends React.Component {
   handleImageError = () => {
     console.log('error loading image')
   }
-  componentDidMount() {
-    let imageUrl = 'img/leasing-hero.jpg'
-    this.image = new Image()
-    this.image.src = imageUrl
-    this.image.onload = this.handleImageLoaded
-    this.image.onerror = this.handleImageError
-  }
   render() {
-    console.log(this.props.image)
+    console.log(this.props)
     return (
       <HeroContainer height={this.props.height ? this.props.height : 'auto'}>
-        <Img resolutions={this.props.image.childImageSharp.sizes} />
+        <ImageWrapper><Img resolutions={this.props.image.childImageSharp.sizes} /></ImageWrapper>
         <TextContainer>
           <div className="padding">
             <TextBlock className="bottom" triggerOnce="true">

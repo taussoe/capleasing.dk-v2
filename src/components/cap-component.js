@@ -1,13 +1,13 @@
 import React from 'react'
 import Hero from './hero'
 import Statement from './statement'
-import ResponsiveImage from './responsive-image'
 import TextBlock from './textblock'
 import Instagram from '../components/instagram'
 import Kontakt from '../components/kontakt'
 import ParallaxImage from '../components/parallax-image'
 import MarkdownRenderer from 'react-markdown-renderer'
 import { OptimizedImage } from './optimized-image'
+import Img from "gatsby-image"
 
 const CapComponent = class CapComponent extends React.Component {
   render() {
@@ -25,6 +25,7 @@ const CapComponent = class CapComponent extends React.Component {
           </Statement>
         )
       case 'PictureRight':
+        console.log(this.props.data.image.childImageSharp.sizes)
         return (
           <div className="container">
             <div className="row spacing">
@@ -50,14 +51,15 @@ const CapComponent = class CapComponent extends React.Component {
                   triggerOnce={true}
                   padding="0px"
                 >
-                  <ResponsiveImage
-                    src={OptimizedImage(this.props.data.image, 750)}
+                  <Img
+                    sizes={this.props.data.image.childImageSharp.sizes}
                   />
                 </TextBlock>
               </div>
             </div>
           </div>
         )
+        /*
       case 'PictureLeft':
         return (
           <div className="container">
@@ -70,8 +72,8 @@ const CapComponent = class CapComponent extends React.Component {
                   triggerOnce={true}
                   padding="0px"
                 >
-                  <ResponsiveImage
-                    src={OptimizedImage(this.props.data.image, 750)}
+                  <Img
+                    src={this.props.data.image}
                   />
                 </TextBlock>
               </div>
@@ -128,7 +130,7 @@ const CapComponent = class CapComponent extends React.Component {
               <MarkdownRenderer markdown={this.props.data.text} />
             </span>
           </ParallaxImage>
-        )
+        ) */
       default:
         return <div>Component not recognized</div>
     }

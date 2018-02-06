@@ -56,13 +56,23 @@ export const pageQuery = graphql`
             sizes(maxWidth: 1200) {
               tracedSVG
               sizes
+              src
             }
           }
         }
         components {
           sektioner {
             component
-            image
+            image {
+              id
+              childImageSharp {
+                sizes(maxWidth: 1200) {
+                  tracedSVG
+                  sizes
+                  src
+                }
+              }
+            }
             overskrift
             text
           }

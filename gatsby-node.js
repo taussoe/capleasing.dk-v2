@@ -96,6 +96,14 @@ exports.onCreateNode = ({
     if (components) {
       components.sektioner.forEach(e => {
         console.log(e.component)
+        if(e.image) {
+          if (e.image.indexOf('/img') === 0) {
+            e.image = path.relative(
+              path.dirname(node.fileAbsolutePath),
+              path.join(__dirname, '/static/', e.image)
+            )
+          }
+        }
       })
     }
     if (image) {
