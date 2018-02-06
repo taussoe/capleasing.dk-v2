@@ -68,24 +68,34 @@ const TextBlockStyle = styled.div`
       transform: scaleX(0);
     }
   }
+  min-height: ${props => (props.minHeight ? props.minHeight : 'auto')};
+  height: 100%;
+  .gatsby-image-outer-wrapper {
+    height: 100%;
+    .gatsby-image-wrapper {
+      height: 100%;
+    }
+  }
 `
 
 export default props => (
-  <Observer triggerOnce={props.triggerOnce} threshold={0}>
+  <Observer
+    triggerOnce={props.triggerOnce}
+    threshold={0}
+    style={{ height: '100%' }}
+  >
     {inView => (
       <TextBlockStyle
         translateFrom={
           props.translateFrom ? props.translateFrom : 'translateY(-10px)'
         }
         translateTo={props.translateTo ? props.translateTo : 'translateY(0px)'}
-        show={inView =>
-          requestIdleCallback(() => {
-            return inView
-          })}
+        show={inView}
         className={props.className}
         transitionDelay={props.transitionDelay ? props.transitionDelay : '0s'}
         padding={props.padding}
         maxWidth={props.maxWidth}
+        minHeight={props.minHeight}
       >
         {props.children}
       </TextBlockStyle>

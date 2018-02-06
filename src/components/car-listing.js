@@ -2,8 +2,8 @@ import React from 'react'
 import styled from 'styled-components'
 import Observer from 'react-intersection-observer'
 import Link from 'gatsby-link'
-import { OptimizedImage } from './optimized-image'
 import { media } from '../components/media-query'
+import Img from 'gatsby-image'
 
 const CarContainer = styled.div`
   ul {
@@ -84,14 +84,12 @@ export default props => (
               <CarLi key={`car-list-${i}`} show={inView}>
                 <div className="car-container">
                   <div className="car-flex">
-                    <div
+                    <Img
                       className="thumb"
-                      style={{
-                        backgroundImage: `url(${OptimizedImage(
-                          e.node.frontmatter.pictures.picturelist[0].image,
-                          200
-                        )})`,
-                      }}
+                      sizes={
+                        e.node.frontmatter.pictures.picturelist[0].image
+                          .childImageSharp.sizes
+                      }
                     />
                   </div>
                   <div className="car-flex flex-grow car-info-container">

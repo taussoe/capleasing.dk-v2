@@ -89,6 +89,7 @@ export default class Showroom extends React.Component {
   }
 
   render() {
+    console.log(this.props)
     let sortedModels = this.props.data.carmodel.edges
     sortedModels.sort(function(a, b) {
       if (a.title < b.title) return -1
@@ -96,6 +97,7 @@ export default class Showroom extends React.Component {
       return 0
     })
     let cars = sortedModels.map((e, i) => {
+      console.log(e)
       let component = i % 2 === 0 ? 'PictureRight' : 'PictureLeft'
       let data = {
         component: component,
@@ -103,9 +105,11 @@ export default class Showroom extends React.Component {
         text: e.node.frontmatter.text,
         image: e.node.frontmatter.carimage,
       }
+      console.log(data)
       let listing = this.props.data.cars.edges.filter(
         elem => elem.node.frontmatter.carmodel === e.node.frontmatter.title
       )
+      console.log(listing)
       return (
         <div key={`carmodel-${i}`}>
           <div className="text">
@@ -163,6 +167,7 @@ export const pageQuery = graphql`
             sizes(maxWidth: 1200) {
               tracedSVG
               sizes
+              src
             }
           }
         }
@@ -210,7 +215,16 @@ export const pageQuery = graphql`
           frontmatter {
             path
             title
-            carimage
+            carimage {
+              id
+              childImageSharp {
+                sizes(maxWidth: 1200) {
+                  tracedSVG
+                  sizes
+                  src
+                }
+              }
+            }
             text
           }
         }
@@ -227,7 +241,16 @@ export const pageQuery = graphql`
             title
             pictures {
               picturelist {
-                image
+                image {
+                  id
+                  childImageSharp {
+                    sizes(maxWidth: 1200) {
+                      tracedSVG
+                      sizes
+                      src
+                    }
+                  }
+                }
               }
             }
             year

@@ -1,8 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
-import ResponsiveImage from '../components/responsive-image'
 import { OptimizedImage } from './optimized-image'
 import { media } from '../components/media-query'
+import Img from 'gatsby-image'
 
 const HalfHeroContainer = styled.div`
   min-height: 100vh;
@@ -122,6 +122,7 @@ export default class HalfHero extends React.Component {
     window.removeEventListener('scroll', this.handleS)
   }
   render() {
+    console.log(this.props.src.childImageSharp.sizes)
     return (
       <HalfHeroContainer showHeader={this.state.showHeader}>
         <div className="header">
@@ -186,7 +187,7 @@ export default class HalfHero extends React.Component {
             </div>
           </div>
           <div className="hero-col sticky">
-            <ResponsiveImage src={OptimizedImage(this.props.src, 1200)} />
+            <Img sizes={this.props.src.childImageSharp.sizes} />
           </div>
         </div>
       </HalfHeroContainer>

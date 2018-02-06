@@ -6,12 +6,10 @@ import Instagram from '../components/instagram'
 import Kontakt from '../components/kontakt'
 import ParallaxImage from '../components/parallax-image'
 import MarkdownRenderer from 'react-markdown-renderer'
-import { OptimizedImage } from './optimized-image'
-import Img from "gatsby-image"
+import Img from 'gatsby-image'
 
 const CapComponent = class CapComponent extends React.Component {
   render() {
-    console.log(this.props)
     const c = this.props.data.component
     switch (c) {
       case 'Hero':
@@ -25,7 +23,6 @@ const CapComponent = class CapComponent extends React.Component {
           </Statement>
         )
       case 'PictureRight':
-        console.log(this.props.data.image.childImageSharp.sizes)
         return (
           <div className="container">
             <div className="row spacing">
@@ -50,16 +47,14 @@ const CapComponent = class CapComponent extends React.Component {
                   transitionDelay={`0.2s`}
                   triggerOnce={true}
                   padding="0px"
+                  minHeight="400px"
                 >
-                  <Img
-                    sizes={this.props.data.image.childImageSharp.sizes}
-                  />
+                  <Img sizes={this.props.data.image.childImageSharp.sizes} />
                 </TextBlock>
               </div>
             </div>
           </div>
         )
-        /*
       case 'PictureLeft':
         return (
           <div className="container">
@@ -71,10 +66,9 @@ const CapComponent = class CapComponent extends React.Component {
                   transitionDelay={`0.2s`}
                   triggerOnce={true}
                   padding="0px"
+                  minHeight="400px"
                 >
-                  <Img
-                    src={this.props.data.image}
-                  />
+                  <Img sizes={this.props.data.image.childImageSharp.sizes} />
                 </TextBlock>
               </div>
               <div className="col-md-5 col-xs-12 margin-top-auto">
@@ -124,13 +118,13 @@ const CapComponent = class CapComponent extends React.Component {
         )
       case 'Parallax':
         return (
-          <ParallaxImage image={this.props.data.image}>
+          <ParallaxImage image={this.props.data.image.childImageSharp.sizes}>
             <h2 className="white">{this.props.data.overskrift}</h2>
             <span className="white">
               <MarkdownRenderer markdown={this.props.data.text} />
             </span>
           </ParallaxImage>
-        ) */
+        )
       default:
         return <div>Component not recognized</div>
     }

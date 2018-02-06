@@ -24,7 +24,7 @@ const ParallaxImageContainer = styled.div`
 `
 
 export default props => (
-  <Parallax bgImage={props.image} strength={200}>
+  <Parallax bgImage={props.image.src} strength={200}>
     <div className="container">
       <div className="row">
         <div className="col-md-12 center">

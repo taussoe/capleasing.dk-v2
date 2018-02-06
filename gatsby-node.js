@@ -5,62 +5,13 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(
-        sort: { order: DESC, fields: [frontmatter___date] }
-        limit: 1000
-      ) {
+      allMarkdownRemark {
         edges {
           node {
-            excerpt(pruneLength: 400)
-            html
             id
             frontmatter {
-              templateKey
               path
-              date
-              title
-              image
-              heading
-              description
-              intro {
-                blurbs {
-                  image
-                  text
-                }
-                heading
-                description
-              }
-              main {
-                heading
-                description
-                image1 {
-                  alt
-                  image
-                }
-                image2 {
-                  alt
-                  image
-                }
-                image3 {
-                  alt
-                  image
-                }
-              }
-              testimonials {
-                author
-                quote
-              }
-              full_image
-              pricing {
-                heading
-                description
-                plans {
-                  description
-                  items
-                  plan
-                  price
-                }
-              }
+              templateKey
             }
           }
         }
@@ -73,6 +24,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       if (node.frontmatter.templateKey) {
+        console.log(`create page ${node.frontmatter.templateKey}`)
         createPage({
           path: node.frontmatter.path,
           component: path.resolve(
@@ -92,11 +44,23 @@ exports.onCreateNode = ({
 }) => {
   const { frontmatter } = node
   if (frontmatter) {
-    const { image, components } = frontmatter
+    const { image, components, carimage, pictures } = frontmatter
     if (components) {
       components.sektioner.forEach(e => {
         console.log(e.component)
-        if(e.image) {
+        if (e.image) {
+          if (e.image.indexOf('/img') === 0) {
+            e.image = path.relative(
+              path.dirname(node.fileAbsolutePath),
+              path.join(__dirname, '/static/', e.image)
+            )
+          }
+        }
+      })
+    }
+    if (pictures) {
+      pictures.picturelist.forEach(e => {
+        if (e.image) {
           if (e.image.indexOf('/img') === 0) {
             e.image = path.relative(
               path.dirname(node.fileAbsolutePath),
@@ -111,6 +75,14 @@ exports.onCreateNode = ({
         frontmatter.image = path.relative(
           path.dirname(node.fileAbsolutePath),
           path.join(__dirname, '/static/', image)
+        )
+      }
+    }
+    if (carimage) {
+      if (carimage.indexOf('/img') === 0) {
+        frontmatter.carimage = path.relative(
+          path.dirname(node.fileAbsolutePath),
+          path.join(__dirname, '/static/', carimage)
         )
       }
     }
