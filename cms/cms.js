@@ -1,15 +1,15 @@
 import React from 'react'
 import CMS from 'netlify-cms'
 
-import Features from 'site/components/Features'
+/* import Features from 'site/components/Features'
 import Testimonials from 'site/components/Testimonials'
 import Pricing from 'site/components/Pricing'
 
-import { AboutPageTemplate } from 'site/templates/about-page';
-import { ProductPageTemplate } from 'site/templates/product-page';
-import { BlogPostTemplate } from 'site/templates/blog-post';
+import { AboutPageTemplate } from 'site/templates/about-page'
+import { ProductPageTemplate } from 'site/templates/product-page'
+import { BlogPostTemplate } from 'site/templates/blog-post' */
 
-const AboutPagePreview = ({ entry, widgetFor }) =>
+/* const AboutPagePreview = ({ entry, widgetFor }) =>
   <AboutPageTemplate title={entry.getIn(['data', 'title'])} content={widgetFor('body')} />;
 
 const BlogPostPreview = ({ entry, widgetFor }) => (
@@ -65,4 +65,4 @@ const ProductPagePreview = ({ entry, widgetFor, getAsset }) => {
 CMS.registerPreviewStyle('/styles.css')
 CMS.registerPreviewTemplate('about', AboutPagePreview)
 CMS.registerPreviewTemplate('products', ProductPagePreview)
-CMS.registerPreviewTemplate('blog', BlogPostPreview)
+CMS.registerPreviewTemplate('blog', BlogPostPreview) */
