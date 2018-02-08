@@ -9,8 +9,7 @@ import ReactDOM from 'react-dom'
 
 const TemplateWrapper = class TemplateWrapper extends React.Component {
   state = {
-    scrollTo: undefined,
-    showMenu: true,
+    scrollTo: undefined
   }
   handleScroll = (id, duration) => {
     if (ReactDOM.findDOMNode(this.state.childRef[id])) {
@@ -47,13 +46,20 @@ const TemplateWrapper = class TemplateWrapper extends React.Component {
     const setRefs = this.setRefs.bind(this)
     const handleShowMenu = this.showMenu.bind(this)
     const handleHideMenu = this.hideMenu.bind(this)
+    const {location} = this.props
+    let showMenu = true
+    if (this.props.location.pathname.split('/').length>2) {
+      showMenu = false
+    }
+    console.log(this.props.location.pathname)
+    console.log(this.props.location.pathname.split('/').length)
     return (
       <div>
         <Helmet title="Cap Leasing" />
         <Menu
           interScroll={this.handleScroll}
           data={this.props.data}
-          showMenu={this.state.showMenu}
+          showMenu={showMenu}
         />
         <div>
           {this.props.children({

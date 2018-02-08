@@ -1,9 +1,10 @@
 import React from 'react'
 import styled from 'styled-components'
 import Observer from 'react-intersection-observer'
-import Link from 'gatsby-link'
 import { media } from '../components/media-query'
 import Img from 'gatsby-image'
+import slug from 'slug'
+import Link, { navigateTo } from "gatsby-link"
 
 const CarContainer = styled.div`
   ul {
@@ -119,11 +120,7 @@ export default props => (
                   </div>
                   <div className="car-flex car-cta">
                     <Link
-                      to={`/showroom`}
-                      onClick={event => {
-                        event.preventDefault()
-                        props.openOverlay(e)
-                      }}
+                      to={`/showroom/${slug(e.node.fields.slug)}`}
                     >
                       Læs mere
                     </Link>

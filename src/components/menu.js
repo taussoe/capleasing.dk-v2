@@ -207,7 +207,7 @@ const Menu = class Menu extends React.Component {
             </Observer>
           </ul>
           <div className="logo">
-            <img src="img/cap-leasing-logo.svg" />
+            <img src="/img/cap-leasing-logo.svg" />
           </div>
         </Navigation>
       </div>

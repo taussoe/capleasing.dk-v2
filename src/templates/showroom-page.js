@@ -63,27 +63,16 @@ export default class Showroom extends React.Component {
       showOverlay: true,
       overlayData: elem,
     })
-    document.body.classList.add('no-overflow')
+    // document.body.classList.add('no-overflow')
   }
   closeOverlay() {
     this.props.handleShowMenu()
     this.setState({
       showOverlay: false,
     })
-    document.body.classList.remove('no-overflow')
+    // document.body.classList.remove('no-overflow')
   }
-  handleScriptLoad() {
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on('init', user => {
-        if (!user) {
-          window.netlifyIdentity.on('login', () => {
-            document.location.href = '/admin/'
-          })
-        }
-      })
-    }
-    window.netlifyIdentity.init()
-  }
+  
 
   handleScroll = (id, duration) => {
     InterScroll(ReactDOM.findDOMNode(this.refs[id]), 2000)
@@ -91,6 +80,9 @@ export default class Showroom extends React.Component {
   scrollToBrand(e) {
     let carmodelid = `carmodel-${e}`
     this.handleScroll(carmodelid, 2000)
+  }
+  componentDidMount() {
+    console.log('mount')
   }
   render() {
     let sortedModels = this.props.data.carmodel.edges
@@ -118,7 +110,6 @@ export default class Showroom extends React.Component {
             <CapComponent data={data} alldata={this.props.data} />
           </div>
           <CarListing
-            openOverlay={this.openOverlay.bind(this)}
             data={listing}
           />
         </div>
@@ -131,10 +122,6 @@ export default class Showroom extends React.Component {
             showOverlay={this.state.showOverlay}
             closeOverlay={this.closeOverlay.bind(this)}
             overlayData={this.state.overlayData}
-          />
-          <Script
-            url="https://identity.netlify.com/v1/netlify-identity-widget.js"
-            onLoad={this.handleScriptLoad.bind(this)}
           />
           <HalfHero
             src={this.props.data.markdownRemark.frontmatter.image}
@@ -156,7 +143,7 @@ export default class Showroom extends React.Component {
 }
 
 export const pageQuery = graphql`
-  query indexShowroom($path: String!) {
+  query indexShowroom {
     home: markdownRemark(frontmatter: { path: { eq: "/" } }) {
       html
       frontmatter {
@@ -237,6 +224,9 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
+          fields {
+            slug
+          }
           frontmatter {
             path
             carmodel
@@ -279,7 +269,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+    markdownRemark(frontmatter: { path: { eq: "/showroom" } }) {
       frontmatter {
         title
         image {

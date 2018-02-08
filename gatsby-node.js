@@ -1,4 +1,6 @@
 const path = require('path')
+/* const slug = require('slug') */
+const { createFilePath } = require(`gatsby-source-filesystem`);
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators
@@ -9,9 +11,13 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         edges {
           node {
             id
+            fields {
+              slug
+            }
             frontmatter {
               path
               templateKey
+              title
             }
           }
         }
@@ -23,13 +29,26 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       return Promise.reject(result.errors)
     }
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+      if (node.frontmatter.path && node.frontmatter.path === '/cars') {
+        createPage({
+          path: `/showroom/${node.fields.slug}`,
+          component: path.resolve(
+            `src/templates/car-detail.js`
+          ),
+          context: {
+            slug: node.fields.slug
+          }, // additional data can be passed via context
+        })
+      }
       if (node.frontmatter.templateKey) {
         createPage({
           path: node.frontmatter.path,
           component: path.resolve(
             `src/templates/${String(node.frontmatter.templateKey)}.js`
           ),
-          context: {}, // additional data can be passed via context
+          context: {
+            slug: node.fields.slug
+          }, // additional data can be passed via context
         })
       }
     })
@@ -41,6 +60,18 @@ exports.onCreateNode = ({
   loadNodeContent,
   boundActionCreators,
 }) => {
+  // add slug field
+  const { createNodeField } = boundActionCreators
+  if (node.internal.type === `MarkdownRemark`) {
+    const slug = createFilePath({ node, getNode, basePath: `pages` })
+    const arr = slug.split('/').filter(e=> e.length>0)
+    createNodeField({
+      node,
+      name: `slug`,
+      value: arr[arr.length-1],
+    })
+  }
+
   const { frontmatter } = node
   if (frontmatter) {
     const { image, components, carimage, pictures } = frontmatter

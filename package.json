@@ -6,7 +6,7 @@
   "dependencies": {
     "axios": "^0.17.1",
     "flexboxgrid": "^6.3.1",
-    "gatsby": "^1.9.63",
+    "gatsby": "^1.9.183",
     "gatsby-image": "^1.0.34",
     "gatsby-link": "^1.6.21",
     "gatsby-plugin-react-helmet": "^1.0.5",
@@ -32,7 +32,9 @@
     "styled-components": "^2.4.0",
     "swiper": "^4.1.0"
   },
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
