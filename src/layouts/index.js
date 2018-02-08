@@ -47,9 +47,12 @@ const TemplateWrapper = class TemplateWrapper extends React.Component {
     const handleShowMenu = this.showMenu.bind(this)
     const handleHideMenu = this.hideMenu.bind(this)
     const {location} = this.props
+    let p = this.props.location.pathname.split('/')
     let showMenu = true
-    console.log(this.props.location)
-    if (this.props.location.pathname.replace('://','').split('/').length>2) {
+    if (p.length>2 && p[p.length-1].length>0) {
+      console.log(this.props.location.pathname)
+      console.log(this.props.location.pathname.split('/').length)
+      console.log('hide menu')
       showMenu = false
     }
     return (

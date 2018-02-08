@@ -120,13 +120,13 @@ export default props => (
       <div className="row">
         <div className="col-md-12 col-xs-12 center padding">
           <a href="#" target="_blank" className="social-link">
-            <img src="img/instagram.png" alt="Instagram" />
+            <img src="/img/instagram.png" alt="Instagram" />
           </a>
           <a href="#" target="_blank" className="social-link">
-            <img src="img/linkedin.png" alt="LinkedIn" />
+            <img src="/img/linkedin.png" alt="LinkedIn" />
           </a>
           <a href="#" target="_blank" className="social-link">
-            <img src="img/facebook.png" alt="Facebook" />
+            <img src="/img/facebook.png" alt="Facebook" />
           </a>
         </div>
       </div>
