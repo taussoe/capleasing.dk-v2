@@ -120,7 +120,7 @@ export default props => (
                   </div>
                   <div className="car-flex car-cta">
                     <Link
-                      to={`/showroom/${slug(e.node.fields.slug)}`}
+                      to={`/showroom/${e.node.fields.slug}`}
                     >
                       Læs mere
                     </Link>
