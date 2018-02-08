@@ -51,8 +51,6 @@ const TemplateWrapper = class TemplateWrapper extends React.Component {
     if (this.props.location.pathname.split('/').length>2) {
       showMenu = false
     }
-    console.log(this.props.location.pathname)
-    console.log(this.props.location.pathname.split('/').length)
     return (
       <div>
         <Helmet title="Cap Leasing" />

@@ -197,9 +197,7 @@ const fineNumber = intNumber => {
 }
 
 const stripTags = html => {
-    var tmp = document.createElement('DIV')
-    tmp.innerHTML = html
-    return tmp.textContent || tmp.innerText || ''
+    return html.replace(/<(?:.|\n)*?>/gm, '');
 }
 
 export default class Showroom extends React.Component {
@@ -232,7 +230,6 @@ export default class Showroom extends React.Component {
     this.setState({showOverlay: true})
   }
   render() {
-    console.log(this.props.data.markdownRemark)
     let slide = {}
     let thumbs = {}
     if (this.props.data.markdownRemark) {
@@ -266,7 +263,7 @@ export default class Showroom extends React.Component {
             { name: 'description', content: this.props.data.markdownRemark.frontmatter.title },
             { property: 'og:title', content: `Cap Leasing | ${this.props.data.markdownRemark.frontmatter.title}` || '' },
             { property: 'og:description', content: stripTags(this.props.data.markdownRemark.html) },
-            { property: 'og:url', content: window.location.href },
+            { property: 'og:url', content: `https://capleasing.dk/${this.props.location.pathname}`},
             { property: 'og:image:secure_url', content: `https://capleasing.dk${this.props.data.markdownRemark.frontmatter.pictures.picturelist[0].image.childImageSharp.sizes}` },
             { property: 'og:image:secure_url', content: `https://capleasing.dk${this.props.data.markdownRemark.frontmatter.pictures.picturelist[0].image.childImageSharp.sizes}` },
           ]}
@@ -628,6 +625,7 @@ export const pageQuery = graphql`
         topfart
         nultilhundrede
       }
+      html
     }
   }
 `
