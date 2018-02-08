@@ -57,21 +57,7 @@ export default class Showroom extends React.Component {
     showOverlay: false,
     overlayData: {},
   }
-  openOverlay(elem) {
-    this.props.handleHideMenu()
-    this.setState({
-      showOverlay: true,
-      overlayData: elem,
-    })
-    // document.body.classList.add('no-overflow')
-  }
-  closeOverlay() {
-    this.props.handleShowMenu()
-    this.setState({
-      showOverlay: false,
-    })
-    // document.body.classList.remove('no-overflow')
-  }
+  
   
 
   handleScroll = (id, duration) => {
@@ -118,11 +104,6 @@ export default class Showroom extends React.Component {
     return (
       <div>
         <Main>
-          <Overlay
-            showOverlay={this.state.showOverlay}
-            closeOverlay={this.closeOverlay.bind(this)}
-            overlayData={this.state.overlayData}
-          />
           <HalfHero
             src={this.props.data.markdownRemark.frontmatter.image}
             text={this.props.data.markdownRemark.frontmatter.text}

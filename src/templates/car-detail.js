@@ -228,6 +228,7 @@ export default class Showroom extends React.Component {
     this.swiper.controller.control = this.thumbswiper
     this.thumbswiper.controller.control = this.swiper
     this.setState({showOverlay: true})
+    console.log('test')
   }
   render() {
     let slide = {}
