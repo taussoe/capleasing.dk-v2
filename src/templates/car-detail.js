@@ -8,6 +8,15 @@ import Link, { navigateTo } from 'gatsby-link'
 import Swiper from 'swiper'
 import Helmet from 'react-helmet'
 
+const encode = (data) => {
+  return Object.keys(data)
+    .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+    .join("&");
+}
+const FormSubmittedContainer = styled.div`
+padding-top: 100px;
+height: 300px;
+`
 const OverlayContainer = styled.div`
   opacity: ${props => (props.showOverlay ? '1' : '0')};
   transition: opacity 1s ease-in-out;
@@ -192,7 +201,7 @@ const Contracted = styled.div`
 const fineNumber = intNumber => {
   return parseInt(intNumber)
     .toFixed(0)
-    .replace(/./g, function(c, i, a) {
+    .replace(/./g, function (c, i, a) {
       return i && c !== '.' && (a.length - i) % 3 === 0 ? '.' + c : c
     })
 }
@@ -206,6 +215,7 @@ export default class Showroom extends React.Component {
     udvidetinfo: false,
     kontakt: false,
     showOverlay: false,
+    formSubmitted: false
   }
   swiperConfig = {
     loop: false,
@@ -235,6 +245,19 @@ export default class Showroom extends React.Component {
         .childImageSharp.sizes.src
     )
   }
+  handleChange = e => this.setState({ [e.target.name]: e.target.value });
+  submitForm() {
+    fetch("/contact.html", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({ "form-name": "contact", "Navn:": this.state.name, "Email:": this.state.email, "Telefon:": this.state.phone, "Bil:": window.location.href })
+    })
+      .then(() => console.log("Success!"))
+      .catch(error => alert(error));
+    this.setState({
+      formSubmitted: true
+    })
+  }
   render() {
     let slide = {}
     let thumbs = {}
@@ -260,7 +283,7 @@ export default class Showroom extends React.Component {
         }
       )
     }
-
+    const { name, email, message, phone } = this.state;
     return (
       <OverlayContainer showOverlay={this.state.showOverlay}>
         <Helmet
@@ -567,44 +590,65 @@ export default class Showroom extends React.Component {
                   </div>
                 </div>
                 <div className="row">
-                  <div className="col-md-12 center">
-                    <TextBlock
-                      translateFrom={`translateX(-20px)`}
-                      translateTo={`translateX(0px)`}
-                      transitionDelay={`0.2s`}
-                      triggerOnce={true}
-                      padding="0px 0px 10px 40px"
-                    >
-                      <h2 className="center">Kontakt mig vedr. denne bil</h2>
-                      <div className="smallwidth center">
-                        Ydfyld nedenstående kontaktformular og en af vores
-                        sælgere vil vende tilbage til dig og svare på alle dine
-                        spørgsmål
-                      </div>
-                    </TextBlock>
-                    <div className="smallspacing" />
-                    <div className="form">
-                      <CapInput
-                        placeholder="Navn"
-                        width="80%"
-                        margin="15px 0px"
-                      />
-                      <CapInput
-                        placeholder="Email adresse"
-                        width="80%"
-                        margin="15px 0px"
-                      />
-                      <CapInput
-                        placeholder="Telefonnummer"
-                        width="80%"
-                        margin="15px 0px"
-                      />
-                    </div>
-                    <div className="cta">
-                      <Link className="contact" to="/">
-                        Kontakt mig
-                      </Link>
-                    </div>
+                  <div className="col-md-12 col-sm-12 col-xs-12 center">
+                    {
+                      this.state.formSubmitted
+                        ? <FormSubmittedContainer><h2 className="center">Tak for din interesse</h2>En af vores sælgere kontakter dig hurtigst muligt.</FormSubmittedContainer>
+                        :
+                        <div>
+                          <div>
+                            <TextBlock
+                              translateFrom={`translateX(-20px)`}
+                              translateTo={`translateX(0px)`}
+                              transitionDelay={`0.2s`}
+                              triggerOnce={true}
+                              padding="0px 0px 10px 40px"
+                            >
+                              <h2 className="center">Kontakt mig vedr. denne bil</h2>
+                              <div className="smallwidth center">
+                                Ydfyld nedenstående kontaktformular og en af vores
+                                sælgere vil vende tilbage til dig og svare på alle dine
+                                spørgsmål
+                        </div>
+                            </TextBlock>
+                          </div>
+                          <div className="smallspacing" />
+                          <div className="form">
+                            <form onSubmit={this.handleSubmit}>
+                              <CapInput
+                                placeholder="Navn"
+                                width="80%"
+                                margin="15px 0px"
+                                name="name"
+                                value={name}
+                                onChange={this.handleChange}
+                              />
+                              <CapInput
+                                placeholder="Email adresse"
+                                width="80%"
+                                margin="15px 0px"
+                                name="email"
+                                value={email}
+                                onChange={this.handleChange}
+                              />
+                              <CapInput
+                                placeholder="Telefonnummer"
+                                width="80%"
+                                margin="15px 0px"
+                                name="phone"
+                                value={phone}
+                                onChange={this.handleChange}
+                              />
+                            </form>
+                          </div>
+                          <div className="cta">
+                            <a className="contact" onClick={() => this.submitForm()}>
+                              Kontakt mig
+                        </a>
+                          </div>
+                        </div>
+                    }
+
                   </div>
                 </div>
               </Contracted>
