@@ -239,18 +239,13 @@ export default class Showroom extends React.Component {
     this.swiper.controller.control = this.thumbswiper
     this.thumbswiper.controller.control = this.swiper
     this.setState({ showOverlay: true })
-    console.log('test')
-    console.log(
-      this.props.data.markdownRemark.frontmatter.pictures.picturelist[0].image
-        .childImageSharp.sizes.src
-    )
   }
   handleChange = e => this.setState({ [e.target.name]: e.target.value });
   submitForm() {
     fetch("/contact.html", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "contact", "Navn:": this.state.name, "Email:": this.state.email, "Telefon:": this.state.phone, "Bil:": window.location.href })
+      body: encode({ "form-name": "contact", "Navn": this.state.name, "Email": this.state.email, "Telefon": this.state.phone, "Bil": window.location.href })
     })
       .then(() => console.log("Success!"))
       .catch(error => alert(error));
