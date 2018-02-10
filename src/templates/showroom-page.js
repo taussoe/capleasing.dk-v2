@@ -185,7 +185,6 @@ export const pageQuery = graphql`
                   id
                   childImageSharp {
                     sizes(maxWidth: 400) {
-                      tracedSVG
                       sizes
                       src
                     }
