@@ -281,7 +281,7 @@ export default class Showroom extends React.Component {
             },
             {
               property: 'og:description',
-              content: stripTags(this.props.data.markdownRemark.html),
+              content: this.props.data.markdownRemark.title,
             },
             {
               property: 'og:url',
