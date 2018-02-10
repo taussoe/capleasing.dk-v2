@@ -192,27 +192,7 @@ export const pageQuery = graphql`
                 }
               }
             }
-            year
-            monthlycost
-            firstcost
-            value
-            volume
-            cylindre
-            ventiler
-            gear
-            traek
-            type
-            foerstereg
-            kilometer
-            braendstof
-            farve
-            doere
-            effekt
-            moment
-            topfart
-            nultilhundrede
           }
-          html
         }
       }
     }
