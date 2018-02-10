@@ -134,48 +134,12 @@ export const pageQuery = graphql`
         path
         description
         title
-        image {
-          id
-          childImageSharp {
-            sizes(maxWidth: 1200) {
-              tracedSVG
-              sizes
-              src
-            }
-          }
-        }
         components {
           sektioner {
             component
-            image {
-              id
-              childImageSharp {
-                sizes(maxWidth: 1200) {
-                  tracedSVG
-                  sizes
-                  src
-                }
-              }
-            }
             overskrift
             text
             menuname
-          }
-        }
-      }
-    }
-    kontaktpersoner: allMarkdownRemark(
-      filter: { frontmatter: { path: { regex: "/kontaktpersoner/" } } }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            contactimage
-            title
-            contacttitle
-            contacteducation
-            contacttelephone
-            contactemail
           }
         }
       }
@@ -220,7 +184,7 @@ export const pageQuery = graphql`
                 image {
                   id
                   childImageSharp {
-                    sizes(maxWidth: 1200) {
+                    sizes(maxWidth: 400) {
                       tracedSVG
                       sizes
                       src
