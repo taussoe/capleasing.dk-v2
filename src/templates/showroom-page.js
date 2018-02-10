@@ -50,6 +50,13 @@ const Main = styled.div`
     padding: 50px;
     `};
   }
+  ${media.phone`
+  .row {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    }
+  `};
 `
 
 export default class Showroom extends React.Component {
@@ -57,8 +64,6 @@ export default class Showroom extends React.Component {
     showOverlay: false,
     overlayData: {},
   }
-  
-  
 
   handleScroll = (id, duration) => {
     InterScroll(ReactDOM.findDOMNode(this.refs[id]), 2000)
@@ -95,9 +100,7 @@ export default class Showroom extends React.Component {
           <div className="text">
             <CapComponent data={data} alldata={this.props.data} />
           </div>
-          <CarListing
-            data={listing}
-          />
+          <CarListing data={listing} />
         </div>
       )
     })

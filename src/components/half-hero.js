@@ -86,6 +86,9 @@ const HalfHeroContainer = styled.div`
           font-weight: 700;
           font-size: 25px;
           text-transform: uppercase;
+          ${media.phone`
+          font-size: 13px;
+          `};
         }
         .price {
           flex-grow: 1;

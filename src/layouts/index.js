@@ -9,7 +9,11 @@ import ReactDOM from 'react-dom'
 
 const TemplateWrapper = class TemplateWrapper extends React.Component {
   state = {
-    scrollTo: undefined
+    scrollTo: undefined,
+  }
+  interScrollTo = {
+    scrollTo: null,
+    scrollDuration: null,
   }
   handleScroll = (id, duration) => {
     if (ReactDOM.findDOMNode(this.state.childRef[id])) {
@@ -42,22 +46,37 @@ const TemplateWrapper = class TemplateWrapper extends React.Component {
       showMenu: false,
     })
   }
+  interScroll(e, m) {
+    this.setState(
+      {
+        scrollTo: m,
+      },
+      () => {
+        this.handleScroll(this.state.scrollTo, 2000)
+      }
+    )
+  }
   render() {
     const setRefs = this.setRefs.bind(this)
     const handleShowMenu = this.showMenu.bind(this)
     const handleHideMenu = this.hideMenu.bind(this)
-    const {location} = this.props
+    const { location } = this.props
     let p = this.props.location.pathname.split('/')
     let showMenu = false
-    if (this.props.location.pathname === '/showroom' || this.props.location.pathname === '/showroom/' || this.props.location.pathname === '/' || this.props.location.pathname === '') {
+    if (
+      this.props.location.pathname === '/showroom' ||
+      this.props.location.pathname === '/showroom/' ||
+      this.props.location.pathname === '/' ||
+      this.props.location.pathname === ''
+    ) {
       showMenu = true
     }
-    
+
     return (
       <div>
         <Helmet title="Cap Leasing" />
         <Menu
-          interScroll={this.handleScroll}
+          interScroll={(event, m) => this.interScroll(event, m)}
           data={this.props.data}
           showMenu={showMenu}
         />

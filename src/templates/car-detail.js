@@ -4,12 +4,12 @@ import { media } from '../components/media-query'
 import Img from 'gatsby-image'
 import TextBlock from '../components/textblock'
 import CapInput from '../components/cap-input'
-import Link, {navigateTo} from 'gatsby-link'
+import Link, { navigateTo } from 'gatsby-link'
 import Swiper from 'swiper'
 import Helmet from 'react-helmet'
 
 const OverlayContainer = styled.div`
-  opacity: ${props => props.showOverlay ? '1': '0'};
+  opacity: ${props => (props.showOverlay ? '1' : '0')};
   transition: opacity 1s ease-in-out;
   .closeOverlayContainer {
     text-align: right;
@@ -47,7 +47,8 @@ const OverlayContainer = styled.div`
     width: 100%;
     height: calc(100vh - 200px - 50px);
     ${media.phone`
-    height: calc(100vh - 80px - 50px);
+    
+    height: 300px;
     `};
     margin-left: auto;
     margin-right: auto;
@@ -197,14 +198,14 @@ const fineNumber = intNumber => {
 }
 
 const stripTags = html => {
-    return html.replace(/<(?:.|\n)*?>/gm, '');
+  return html.replace(/<(?:.|\n)*?>/gm, '')
 }
 
 export default class Showroom extends React.Component {
   state = {
     udvidetinfo: false,
     kontakt: false,
-    showOverlay: false
+    showOverlay: false,
   }
   swiperConfig = {
     loop: false,
@@ -227,7 +228,7 @@ export default class Showroom extends React.Component {
     this.thumbswiper = new Swiper(this.refs.thumbswiper, this.swiperThumbConfig)
     this.swiper.controller.control = this.thumbswiper
     this.thumbswiper.controller.control = this.swiper
-    this.setState({showOverlay: true})
+    this.setState({ showOverlay: true })
     console.log('test')
   }
   render() {
@@ -255,18 +256,45 @@ export default class Showroom extends React.Component {
         }
       )
     }
-    
+
     return (
       <OverlayContainer showOverlay={this.state.showOverlay}>
-      <Helmet
-          title={`Cap Leasing | ${this.props.data.markdownRemark.frontmatter.title}` || ''}
+        <Helmet
+          title={
+            `Cap Leasing | ${this.props.data.markdownRemark.frontmatter
+              .title}` || ''
+          }
           meta={[
-            { name: 'description', content: this.props.data.markdownRemark.frontmatter.title },
-            { property: 'og:title', content: `Cap Leasing | ${this.props.data.markdownRemark.frontmatter.title}` || '' },
-            { property: 'og:description', content: stripTags(this.props.data.markdownRemark.html) },
-            { property: 'og:url', content: `https://capleasing.dk/${this.props.location.pathname}`},
-            { property: 'og:image:secure_url', content: `https://capleasing.dk${this.props.data.markdownRemark.frontmatter.pictures.picturelist[0].image.childImageSharp.sizes}` },
-            { property: 'og:image:secure_url', content: `https://capleasing.dk${this.props.data.markdownRemark.frontmatter.pictures.picturelist[0].image.childImageSharp.sizes}` },
+            {
+              name: 'description',
+              content: this.props.data.markdownRemark.frontmatter.title,
+            },
+            {
+              property: 'og:title',
+              content:
+                `Cap Leasing | ${this.props.data.markdownRemark.frontmatter
+                  .title}` || '',
+            },
+            {
+              property: 'og:description',
+              content: stripTags(this.props.data.markdownRemark.html),
+            },
+            {
+              property: 'og:url',
+              content: `https://capleasing.dk/${this.props.location.pathname}`,
+            },
+            {
+              property: 'og:image:secure_url',
+              content: `https://capleasing.dk${this.props.data.markdownRemark
+                .frontmatter.pictures.picturelist[0].image.childImageSharp
+                .sizes}`,
+            },
+            {
+              property: 'og:image:secure_url',
+              content: `https://capleasing.dk${this.props.data.markdownRemark
+                .frontmatter.pictures.picturelist[0].image.childImageSharp
+                .sizes}`,
+            },
           ]}
         />
         {this.props.data.markdownRemark && (
@@ -279,10 +307,10 @@ export default class Showroom extends React.Component {
                       className="closeOverlay"
                       onClick={() => {
                         if (this.props.location.action === 'PUSH') {
-                            this.props.history.goBack();
-                          } else {
-                            navigateTo("/showroom")
-                          }
+                          this.props.history.goBack()
+                        } else {
+                          navigateTo('/showroom')
+                        }
                       }}
                     >
                       <span />
@@ -569,7 +597,9 @@ export default class Showroom extends React.Component {
                       />
                     </div>
                     <div className="cta">
-                      <Link className="contact" to="/">Kontakt mig</Link>
+                      <Link className="contact" to="/">
+                        Kontakt mig
+                      </Link>
                     </div>
                   </div>
                 </div>

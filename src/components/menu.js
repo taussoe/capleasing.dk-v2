@@ -165,7 +165,10 @@ const Menu = class Menu extends React.Component {
             <MenuLi tDelay={i * 0.1} show={inView}>
               <Link
                 to={`/`}
-                onClick={event => this.menuClick(event, e.menuname)}
+                onClick={event => {
+                  this.setState({ mobileOpen: false })
+                  this.props.interScroll(event, slug(e.menuname))
+                }}
               >
                 {e.menuname}
               </Link>

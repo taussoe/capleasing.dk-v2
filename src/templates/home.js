@@ -116,6 +116,13 @@ const Main = styled.div`
   }
   
   `};
+  ${media.phone`
+  .row {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    }
+  `};
 `
 
 export default class IndexPage extends React.Component {
@@ -124,15 +131,15 @@ export default class IndexPage extends React.Component {
   }
   handleScriptLoad() {
     if (window.netlifyIdentity) {
-        window.netlifyIdentity.on('init', user => {
-          if (!user) {
-            window.netlifyIdentity.on('login', () => {
-              document.location.href = '/admin/'
-            })
-          }
-        })
-      }
-      window.netlifyIdentity.init()
+      window.netlifyIdentity.on('init', user => {
+        if (!user) {
+          window.netlifyIdentity.on('login', () => {
+            document.location.href = '/admin/'
+          })
+        }
+      })
+    }
+    window.netlifyIdentity.init()
   }
 
   render() {
