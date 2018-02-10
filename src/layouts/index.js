@@ -71,10 +71,40 @@ const TemplateWrapper = class TemplateWrapper extends React.Component {
     ) {
       showMenu = true
     }
-
+    console.log(this.props.data.home)
     return (
       <div>
-        <Helmet title="Cap Leasing" />
+        <Helmet
+          title={`Cap Leasing`}
+          meta={[
+            {
+              name: 'description',
+              content: this.props.data.home.frontmatter.description,
+            },
+            {
+              property: 'og:title',
+              content: `Cap Leasing`,
+            },
+            {
+              property: 'og:description',
+              content: this.props.data.home.frontmatter.description,
+            },
+            {
+              property: 'og:url',
+              content: `https://capleasing.dk${this.props.location.pathname}`,
+            },
+            {
+              property: 'og:image:secure_url',
+              content: `https://capleasing.dk${this.props.data.home.frontmatter
+                .image.childImageSharp.sizes.src}`,
+            },
+            {
+              property: 'og:image:secure_url',
+              content: `https://capleasing.dk${this.props.data.home.frontmatter
+                .image.childImageSharp.sizes.src}`,
+            },
+          ]}
+        />
         <Menu
           interScroll={(event, m) => this.interScroll(event, m)}
           data={this.props.data}
