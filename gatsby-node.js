@@ -1,6 +1,6 @@
 const path = require('path')
 /* const slug = require('slug') */
-const { createFilePath } = require(`gatsby-source-filesystem`);
+const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators
@@ -32,11 +32,9 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       if (node.frontmatter.path && node.frontmatter.path === '/cars') {
         createPage({
           path: `/showroom/${node.fields.slug}`,
-          component: path.resolve(
-            `src/templates/car-detail.js`
-          ),
+          component: path.resolve(`src/templates/car-detail.js`),
           context: {
-            slug: node.fields.slug
+            slug: node.fields.slug,
           }, // additional data can be passed via context
         })
       }
@@ -47,7 +45,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             `src/templates/${String(node.frontmatter.templateKey)}.js`
           ),
           context: {
-            slug: node.fields.slug
+            slug: node.fields.slug,
           }, // additional data can be passed via context
         })
       }
@@ -64,11 +62,11 @@ exports.onCreateNode = ({
   const { createNodeField } = boundActionCreators
   if (node.internal.type === `MarkdownRemark`) {
     const slug = createFilePath({ node, getNode, basePath: `pages` })
-    const arr = slug.split('/').filter(e=> e.length>0)
+    const arr = slug.split('/').filter(e => e.length > 0)
     createNodeField({
       node,
       name: `slug`,
-      value: arr[arr.length-1],
+      value: arr[arr.length - 1],
     })
   }
 
@@ -88,9 +86,10 @@ exports.onCreateNode = ({
       })
     }
     if (pictures) {
-      pictures.picturelist.forEach(e => {
+      pictures.picturelist.forEach((e, i) => {
         if (e.image) {
           if (e.image.indexOf('/img') === 0) {
+            e.id = i
             e.image = path.relative(
               path.dirname(node.fileAbsolutePath),
               path.join(__dirname, '/static/', e.image)

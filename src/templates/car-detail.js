@@ -230,6 +230,10 @@ export default class Showroom extends React.Component {
     this.thumbswiper.controller.control = this.swiper
     this.setState({ showOverlay: true })
     console.log('test')
+    console.log(
+      this.props.data.markdownRemark.frontmatter.pictures.picturelist[0].image
+        .childImageSharp.sizes.src
+    )
   }
   render() {
     let slide = {}
@@ -281,19 +285,19 @@ export default class Showroom extends React.Component {
             },
             {
               property: 'og:url',
-              content: `https://capleasing.dk/${this.props.location.pathname}`,
+              content: `https://capleasing.dk${this.props.location.pathname}`,
             },
             {
               property: 'og:image:secure_url',
               content: `https://capleasing.dk${this.props.data.markdownRemark
-                .frontmatter.pictures.picturelist[0].image.childImageSharp
-                .sizes}`,
+                .frontmatter.pictures.picturelist[0].image.childImageSharp.sizes
+                .src}`,
             },
             {
               property: 'og:image:secure_url',
               content: `https://capleasing.dk${this.props.data.markdownRemark
-                .frontmatter.pictures.picturelist[0].image.childImageSharp
-                .sizes}`,
+                .frontmatter.pictures.picturelist[0].image.childImageSharp.sizes
+                .src}`,
             },
           ]}
         />
