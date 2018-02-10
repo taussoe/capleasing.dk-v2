@@ -10,6 +10,7 @@ import CarListing from '../components/car-listing'
 import Overlay from '../components/overlay'
 import { media } from '../components/media-query'
 import ReactDOM from 'react-dom'
+import Helmet from 'react-helmet'
 
 const Main = styled.div`
   margin-bottom: 434px;
@@ -104,8 +105,38 @@ export default class Showroom extends React.Component {
         </div>
       )
     })
+    console.log(this.props)
     return (
       <div>
+        <Helmet
+          title={`Cap Leasing`}
+          meta={[
+            {
+              name: 'description',
+              content: this.props.data.markdownRemark.frontmatter.text,
+            },
+            {
+              property: 'og:title',
+              content: `Cap Leasing | Showroom`,
+            },
+            {
+              property: 'og:description',
+              content: this.props.data.markdownRemark.frontmatter.text,
+            },
+            {
+              property: 'og:url',
+              content: `https://capleasing.dk${this.props.location.pathname}`,
+            },
+            {
+              property: 'og:image:secure_url',
+              content: `https://capleasing.dk${this.props.data.markdownRemark.frontmatter.image.childImageSharp.sizes.src}`,
+            },
+            {
+              property: 'og:image',
+              content: `https://capleasing.dk${this.props.data.markdownRemark.frontmatter.image.childImageSharp.sizes.src}`,
+            },
+          ]}
+        />
         <Main>
           <HalfHero
             src={this.props.data.markdownRemark.frontmatter.image}
