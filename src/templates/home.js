@@ -171,7 +171,7 @@ export default class IndexPage extends React.Component {
                 .image.childImageSharp.sizes.src}`,
             },
             {
-              property: 'og:image:secure_url',
+              property: 'og:image',
               content: `https://capleasing.dk${this.props.data.home.frontmatter
                 .image.childImageSharp.sizes.src}`,
             },

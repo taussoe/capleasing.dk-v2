@@ -281,7 +281,7 @@ export default class Showroom extends React.Component {
             },
             {
               property: 'og:description',
-              content: this.props.data.markdownRemark.title,
+              content: stripTags(this.props.data.markdownRemark.html),
             },
             {
               property: 'og:url',
@@ -294,7 +294,7 @@ export default class Showroom extends React.Component {
                 .src}`,
             },
             {
-              property: 'og:image:secure_url',
+              property: 'og:image',
               content: `https://capleasing.dk${this.props.data.markdownRemark
                 .frontmatter.pictures.picturelist[0].image.childImageSharp.sizes
                 .src}`,
