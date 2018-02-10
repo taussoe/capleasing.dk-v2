@@ -93,8 +93,7 @@ components:
       text: |-
         Kattegatvej 39
         2150 Nordhavn
-        Tlf.: 72 22 48 00
-        info@cap-leasing.dk
+        info@capleasing.dk
     - component: Instagram
       overskrift: INSTAGRAM
       text: ''

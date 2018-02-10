@@ -113,8 +113,7 @@ export default props => (
           Kattegatvej 39 <br />
           2150 Nordhavn<br />
           CVR. 33588666<br />
-          72 22 48 00<br />
-          info@cap-leasing.dk
+          info@capleasing.dk
         </div>
       </div>
       <div className="row">
