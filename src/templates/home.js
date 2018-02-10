@@ -146,6 +146,37 @@ export default class IndexPage extends React.Component {
     const c = this.props.data.home.frontmatter.components.sektioner
     return (
       <div>
+        <Helmet
+          title={`Cap Leasing`}
+          meta={[
+            {
+              name: 'description',
+              content: this.props.data.home.frontmatter.description,
+            },
+            {
+              property: 'og:title',
+              content: `Cap Leasing`,
+            },
+            {
+              property: 'og:description',
+              content: this.props.data.home.frontmatter.description,
+            },
+            {
+              property: 'og:url',
+              content: `https://capleasing.dk${this.props.location.pathname}`,
+            },
+            {
+              property: 'og:image:secure_url',
+              content: `https://capleasing.dk${this.props.data.home.frontmatter
+                .image.childImageSharp.sizes.src}`,
+            },
+            {
+              property: 'og:image:secure_url',
+              content: `https://capleasing.dk${this.props.data.home.frontmatter
+                .image.childImageSharp.sizes.src}`,
+            },
+          ]}
+        />
         <Main>
           <Script
             url="https://identity.netlify.com/v1/netlify-identity-widget.js"
