@@ -222,6 +222,9 @@ export const pageQuery = graphql`
             path
             carmodel
             title
+            monthlycost
+            kilometer
+            year
             pictures {
               picturelist {
                 image {
