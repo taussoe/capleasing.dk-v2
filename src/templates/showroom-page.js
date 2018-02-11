@@ -58,6 +58,16 @@ const Main = styled.div`
     overflow: hidden;
     }
   `};
+  ${media.tablet`
+  .row {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    }
+    .container {
+      width: auto;
+    }
+  `};
 `
 
 export default class Showroom extends React.Component {
@@ -129,11 +139,13 @@ export default class Showroom extends React.Component {
             },
             {
               property: 'og:image:secure_url',
-              content: `https://capleasing.dk${this.props.data.markdownRemark.frontmatter.image.childImageSharp.sizes.src}`,
+              content: `https://capleasing.dk${this.props.data.markdownRemark
+                .frontmatter.image.childImageSharp.sizes.src}`,
             },
             {
               property: 'og:image',
-              content: `https://capleasing.dk${this.props.data.markdownRemark.frontmatter.image.childImageSharp.sizes.src}`,
+              content: `https://capleasing.dk${this.props.data.markdownRemark
+                .frontmatter.image.childImageSharp.sizes.src}`,
             },
           ]}
         />

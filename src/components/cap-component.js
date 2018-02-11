@@ -26,7 +26,7 @@ const CapComponent = class CapComponent extends React.Component {
         return (
           <div className="container">
             <div className="row spacing">
-              <div className="col-md-5 margin-top-auto order-2 col-xs-12">
+              <div className="col-md-5 col-sm-5 margin-top-auto order-2 col-xs-12">
                 <div className="text-padding-right">
                   <TextBlock
                     translateFrom={`translateX(-20px)`}
@@ -40,7 +40,7 @@ const CapComponent = class CapComponent extends React.Component {
                   </TextBlock>
                 </div>
               </div>
-              <div className="col-md-7 order-1 col-xs-12">
+              <div className="col-md-7 col-sm-7 order-1 col-xs-12">
                 <TextBlock
                   translateFrom={`translateX(20px)`}
                   translateTo={`translateX(0px)`}
@@ -59,7 +59,7 @@ const CapComponent = class CapComponent extends React.Component {
         return (
           <div className="container">
             <div className="row spacing">
-              <div className="col-md-7 col-xs-12">
+              <div className="col-md-7 col-sm-7 col-xs-12">
                 <TextBlock
                   translateFrom={`translateX(-20px)`}
                   translateTo={`translateX(0px)`}
@@ -71,7 +71,7 @@ const CapComponent = class CapComponent extends React.Component {
                   <Img sizes={this.props.data.image.childImageSharp.sizes} />
                 </TextBlock>
               </div>
-              <div className="col-md-5 col-xs-12 margin-top-auto">
+              <div className="col-md-5 col-sm-5 col-xs-12 margin-top-auto">
                 <div className="text-padding-left">
                   <TextBlock
                     translateFrom={`translateX(20px)`}
@@ -94,7 +94,7 @@ const CapComponent = class CapComponent extends React.Component {
         return (
           <div className="container">
             <div className="row">
-              <div className="col-md-12 col-xs-12 center">
+              <div className="col-md-12 col-sm-12 col-xs-12 center">
                 <TextBlock
                   translateFrom={`translateX(20px)`}
                   translateTo={`translateX(0px)`}
@@ -110,7 +110,7 @@ const CapComponent = class CapComponent extends React.Component {
               </div>
             </div>
             <div className="row spacing">
-              <div className="col-md-12 col-xs-12">
+              <div className="col-md-12 col-sm-12 col-xs-12">
                 <Kontakt data={this.props.alldata.kontaktpersoner.edges} />
               </div>
             </div>

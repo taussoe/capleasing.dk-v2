@@ -68,7 +68,7 @@ export default props => (
   <FooterContainer>
     <div className="container">
       <div className="row">
-        <div className="col-md-6 col-xs-12 hidden-xs">
+        <div className="col-md-6 col-sm-12 col-xs-12 hidden-sm hidden-xs">
           <div className="text">
             <b>Nyhedsbrev</b> <br />
             <br />
@@ -84,7 +84,7 @@ export default props => (
             <button>Tilmeld</button>
           </div>
         </div>
-        <div className="col-md-3 col-xs-12 hidden-xs">
+        <div className="col-md-3 col-sm-12 col-xs-12 hidden-sm hidden-xs">
           <b>Links</b>
           <br />
           <br />
@@ -106,7 +106,7 @@ export default props => (
               ))}
           </ul>
         </div>
-        <div className="col-md-3 col-xs-12 center">
+        <div className="col-md-3 col-sm-12 col-xs-12 center">
           <b>Kontakt</b>
           <br />
           <br />
@@ -117,7 +117,7 @@ export default props => (
         </div>
       </div>
       <div className="row">
-        <div className="col-md-12 col-xs-12 center padding">
+        <div className="col-md-12 col-sm-12 col-xs-12 center padding">
           <a href="#" target="_blank" className="social-link">
             <img src="/img/instagram.png" alt="Instagram" />
           </a>
@@ -130,7 +130,7 @@ export default props => (
         </div>
       </div>
       <div className="row">
-        <div className="col-md-12 col-xs-12 center">
+        <div className="col-md-12 col-sm-12 col-xs-12 center">
           &copy; Copyright 2015, Cap Leasing
         </div>
       </div>

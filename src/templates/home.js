@@ -57,6 +57,9 @@ h1, h2 {
     .visible-xl{display:none}
     .hidden-xs{display:none}
 }
+@media screen and (max-width:768px) {
+    .hidden-sm{display:none}
+}
 `
 
 const Main = styled.div`
@@ -121,6 +124,16 @@ const Main = styled.div`
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
+    }
+  `};
+  ${media.tablet`
+  .row {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    }
+    .container {
+      width: auto;
     }
   `};
 `

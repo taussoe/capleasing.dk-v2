@@ -4,7 +4,7 @@ import Observer from 'react-intersection-observer'
 import { media } from '../components/media-query'
 import Img from 'gatsby-image'
 import slug from 'slug'
-import Link, { navigateTo } from "gatsby-link"
+import Link, { navigateTo } from 'gatsby-link'
 
 const CarContainer = styled.div`
   ul {
@@ -56,6 +56,7 @@ const CarLi = styled.li`
         font-size: 16px;
         color: #ffffff;
         text-decoration: none;
+        white-space: nowrap;
       }
       ${media.phone`
       padding: 20px 0px;
@@ -119,11 +120,7 @@ export default props => (
                     </div>
                   </div>
                   <div className="car-flex car-cta">
-                    <Link
-                      to={`/showroom/${e.node.fields.slug}`}
-                    >
-                      Læs mere
-                    </Link>
+                    <Link to={`/showroom/${e.node.fields.slug}`}>Læs mere</Link>
                   </div>
                 </div>
               </CarLi>
