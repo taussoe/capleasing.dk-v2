@@ -163,7 +163,7 @@ export default class Showroom extends React.Component {
             </div>
           </div>
         </Main>
-        <Footer interScroll={this.handleScroll} data={this.props.data} />
+        <Footer interScroll={(event, m) => this.props.interScroll(event, m)} data={this.props.data} />
       </div>
     )
   }
