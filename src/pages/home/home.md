@@ -9,33 +9,24 @@ components:
     - component: Hero
       image: /img/leasing-hero.jpg
       overskrift: ALLE FORMER FOR LEASING
-      text: >-
+      text: |-
         Cap Leasing tilbyder alle former for leasing
 
-
         * Sæsonleasing
-
         * Deleleasing/splitleasing
-
         * Privat og erhvervsleasing
-
         * Finansiel / operationel leasing
-
-
-        Du kan læse mere om de forskellige leasingformer på nedenstående link:
-        https://www.interdan-leasing.dk/leasing
     - component: Statement
       menuname: Leasing
       overskrift: VI ER I GODT SELSKAB
       text: >-
-        CapLeasing samarbejder med 3 af de største, ældste og dygtigste
-        finansieringsselskaber i branchen. De blander sigikke i vores daglige
+        CAP Leasing samarbejder med 3 af de største, ældste og dygtigste
+        finansieringsselskaber i branchen. De blander sig ikke i vores daglige
         drift. Men netop vores samarbejde med de største og mest etablerede
         selskaber giver ikke alene frihed til os - det giver selvfølgelig også
-        dig en tryghed som leasingtager. Og netop fordi leasing kan være svært
-        at gennemskue, er det så meget desto mere vigtigt, at alt i papirgangen
-        og alt omkring finansiering kører en smule konservativt og helt
-        snorlige.
+        dig en tryghed som leasingtager. Netop fordi leasing kan være svært at
+        gennemskue, er det så meget desto mere vigtigt, at alt i papirgangen og
+        alt omkring finansiering kører konservativt.
     - component: PictureRight
       image: /img/forsikre.jpg
       overskrift: OG BILEN TIL DIG...
@@ -47,9 +38,9 @@ components:
       image: /img/plads-til-drenge.jpg
       overskrift: PLADS TIL DRENGEDRØMME
       text: >-
-        CapLeasing bor for enden af Kattegatvej ude i Nordhavn. Lige ved siden
-        af vores kontor, ligger en af Danmarks mest eksklusive garager proppet
-        med drømmebiler - lige fra gamle Porsche 356 Speedster, til de nyere
+        CAP Leasing bor for enden af Kattegatvej i Nordhavn. Lige ved siden af
+        vores kontor, ligger en af Danmarks mest eksklusive garager proppet med
+        drømmebiler - lige fra gamle Porsche 356 Speedster, til de nyere
         Lamborghini. Og det betyder, vi kan tilbyde at opbevare dit legetøj uden
         for sæsonen i et fantastisk og eksklusivt miljø sammen med andre
         bilentusiaster med benzin i blodet.
@@ -61,7 +52,7 @@ components:
       image: /img/forsikre.jpg
       overskrift: VI KAN FORSIKRE DIG
       text: >-
-        CapLeasing tilbyder en billig kaskoforsikring – også selvom du ikke er
+        CAP Leasing tilbyder en billig kaskoforsikring – også selvom du ikke er
         ældre end 18 år. Vi samarbejder med IF, Købstædernes og Alm. Brand - og
         rådgiver gerne, hvad der passer bedst til din situation.
     - component: Parallax
@@ -83,7 +74,7 @@ components:
 
 
         Vores hjemtagelser af bilerne foregår professionelt og alle biler får en
-        grundig gennemgang af eksperter inden turen hjem til os. Og før de
+        grundig gennemgang af eksperter inden turen hjem til os. Før de
         importerede biler skal til syn, får de endnu en gennemgang fra A til Z
         hos Autopartner – ligesom den bliver klargjort hos Olivers Autoshine for
         at få den sidste kærlighed før det nye ægteskab.
