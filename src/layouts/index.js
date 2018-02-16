@@ -59,6 +59,8 @@ const TemplateWrapper = class TemplateWrapper extends React.Component {
     const setRefs = this.setRefs.bind(this)
     const handleShowMenu = this.showMenu.bind(this)
     const handleHideMenu = this.hideMenu.bind(this)
+    const interScroll = this.interScroll.bind(this)
+    
     const { location } = this.props
     let p = this.props.location.pathname.split('/')
     let showMenu = false
@@ -70,11 +72,10 @@ const TemplateWrapper = class TemplateWrapper extends React.Component {
     ) {
       showMenu = true
     }
-    console.log(this.props.data.home)
     return (
       <div>
         <Menu
-          interScroll={(event, m) => this.interScroll(event, m)}
+          interScroll={(event, m) => interScroll(event, m)}
           data={this.props.data}
           showMenu={showMenu}
         />
@@ -84,6 +85,7 @@ const TemplateWrapper = class TemplateWrapper extends React.Component {
             setRefs,
             handleHideMenu,
             handleShowMenu,
+            interScroll
           })}
         </div>
       </div>

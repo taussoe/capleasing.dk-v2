@@ -55,14 +55,6 @@ const FooterContainer = styled.footer`
   }
 `
 
-const menunav = [
-  { name: 'Leasing', link: '/clients/' },
-  { name: 'Profil', link: '/news-and-work/' },
-  { name: 'Showroom', link: '/what-we-do/' },
-  { name: 'Import', link: '/job/' },
-  { name: 'Komission', link: '/contact/' },
-  { name: 'Kontakt', link: '/contact/' },
-]
 
 export default props => (
   <FooterContainer>
@@ -94,10 +86,10 @@ export default props => (
               .map((menuitem, i) => (
                 <li key={`footer-link-${i}`}>
                   <Link
-                    to={`/${menuitem.link}`}
+                    to={`/`}
                     onClick={event => {
-                      event.preventDefault()
-                      props.interScroll(slug(menuitem.menuname), 2000)
+
+                      props.interScroll(event, slug(menuitem.menuname))
                     }}
                   >
                     {menuitem.menuname}
