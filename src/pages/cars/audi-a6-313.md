@@ -13,9 +13,9 @@ pictures:
     - image: /img/img_3858.jpg
     - image: /img/img_3855.jpg
 year: '2012'
-monthlycost: 3.933 kr. inkl. moms
-firstcost: 69.000 kr. ink. moms
-value: 180.000 kr. eks moms/afgift
+monthlycost: 3933 kr. inkl. moms
+firstcost: 69000 kr. ink. moms
+value: 180000 kr. eks moms/afgift
 volume: '3,0'
 cylindre: '6'
 ventiler: '24'
