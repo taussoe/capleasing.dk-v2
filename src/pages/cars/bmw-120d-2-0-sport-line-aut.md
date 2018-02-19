@@ -38,9 +38,7 @@ moment: 380 Nm
 topfart: '228'
 nultilhundrede: '7,2'
 ---
-8 mdr. leasing periode, bilen er på lager, kontakt for mere info og bestil en prøvetur.
-
-
+Kontakt for mere info og bestil en prøvetur.
 
 \- Fri km. 
 
