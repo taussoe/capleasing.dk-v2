@@ -5,7 +5,6 @@ title: 'Audi A6 3,0 TDi 313 Avant quattro Tiptr. 5d '
 pictures:
   picturelist:
     - image: /img/img_3849.jpg
-    - image: /img/img_3849.jpg
     - image: /img/img_3850.jpg
     - image: /img/img_3863.jpg
     - image: /img/img_3853.jpg
