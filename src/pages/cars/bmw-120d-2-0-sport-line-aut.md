@@ -18,7 +18,7 @@ pictures:
         /img/bmw-120d-20-sport-line-aut-17022255_387991681557425_1745874168908861017_n.jpg
     - image: >-
         /img/bmw-120d-20-sport-line-aut-17098406_387991614890765_1307572568620579490_n.jpg
-year: '0'
+year: '2012'
 monthlycost: '3405'
 firstcost: '25000'
 value: '116000'
