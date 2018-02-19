@@ -14,9 +14,9 @@ pictures:
     - image: /img/img-9581.jpg
     - image: /img/img-9580.jpg
 year: '2013'
-monthlycost: 3.900 kr. inkl. moms
-firstcost: 54.000 kr. inkl.  moms
-value: '165.000'
+monthlycost: 3900 kr. inkl. moms
+firstcost: 54000 kr. inkl.  moms
+value: '165000'
 volume: '3,0'
 cylindre: '6'
 ventiler: '24'
