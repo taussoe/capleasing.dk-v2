@@ -73,11 +73,17 @@ const OverlayContainer = styled.div`
   .swiper-slide {
     background-size: cover;
     background-position: center;
+    img {
+      object-fit: contain !important;
+    }
   }
   .thumbswiper {
     height: 20vh;
     box-sizing: border-box;
     padding: 10px 0;
+    img {
+      object-fit: cover !important;
+    }
   }
   .thumbswiper .swiper-slide {
     width: 25%;
