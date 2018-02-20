@@ -9,7 +9,7 @@ pictures:
     - image: /img/vw-passat-20-tdi-170-highline-bmt-img_8864.jpg
     - image: /img/vw-passat-20-tdi-170-highline-bmt-img_8870.jpg
     - image: /img/vw-passat-20-tdi-170-highline-bmt-img_8873.jpg
-year: '0'
+year: '2011'
 monthlycost: 2361 kr. inkl. moms
 firstcost: 21000 kr. inkl. moms
 value: 65000 eks moms/afgift
