@@ -3,7 +3,7 @@ templateKey: home
 path: /
 title: CAP Leasing
 image: /img/leasing-hero.jpg
-description: Cap Leasing tilbyder alle former for leasing
+description: CAP Leasing tilbyder alle former for leasing
 components:
   sektioner:
     - component: Hero
