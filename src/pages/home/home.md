@@ -2,7 +2,7 @@
 templateKey: home
 path: /
 title: CAP Leasing
-image: /img/2017_09_15_capleasing_088.jpg
+image: /img/2017_09_15_capleasing_088 kopi.jpg
 description: CAP Leasing tilbyder alle former for leasing
 components:
   sektioner:
