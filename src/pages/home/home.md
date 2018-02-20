@@ -59,7 +59,22 @@ components:
       image: /img/parallax.jpg
       menuname: Garanti
       overskrift: OG DET MED GARANTI
-      text: "Som en ekstra tryghed for dig, tilbyder vi dig en garanti på vores biler gennem Autoconcept, der har en bred paraply af garantipakker - herunder:\r\r\n\n*  Forlængelse af ny bils garanti\r\n* Garantiforsikringer til brugte biler\n* KeyProtect - tillægsforsikringer\n* Road Assist - tillægsforsikringer\n\n\r\rDu kan læse mere om Autoconcept og deres garantipakker på dette link: <https://www.autoconcept.dk/Produkter>"
+      text: >-
+        Som en ekstra tryghed for dig, tilbyder vi dig en garanti på vores biler
+        gennem Autoconcept, der har en bred paraply af garantipakker - herunder:
+
+
+        * Forlængelse af ny bils garanti
+
+        *  Garantiforsikringer til brugte biler
+
+        * KeyProtect - tillægsforsikringer
+
+        * Road Assist - tillægsforsikringer
+
+
+        Du kan læse mere om Autoconcept og deres garantipakker på dette link:
+        <https://www.autoconcept.dk/Produkter>
     - component: Kontakt
       menuname: Kontakt
       overskrift: KORT FORTALT
