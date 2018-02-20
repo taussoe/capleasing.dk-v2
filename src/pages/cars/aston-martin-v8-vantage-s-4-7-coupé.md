@@ -14,14 +14,14 @@ pictures:
     - image: /img/aston-img_8585.jpg
     - image: /img/aston-img_8586.jpg
     - image: /img/aston-img_8592.jpg
-year: '0'
-monthlycost: '10804'
-firstcost: '103106'
+year: '2014'
+monthlycost: 6300 kr. inkl. moms (6 aktive mdr.)
+firstcost: 74.000 kr. inkl. moms (debositum)
 value: '460000'
 volume: '4,7'
 cylindre: '8'
-ventiler: '0'
-gear: '6'
+ventiler: '24'
+gear: '7'
 traek: Nej
 type: Coupé
 foerstereg: 09-05-2014
@@ -32,7 +32,7 @@ doere: '2'
 effekt: 436 hk
 moment: '470'
 topfart: '305'
-nultilhundrede: '4,6'
+nultilhundrede: '4,2'
 ---
 Denne Vantage S V8 kommer med fuld alcantara-pakke samt garanti i hele Europa via Aston Martin (premium). Udover detaljer som kuglepen i instrumentbordet, nøgle af safirglas og en helt ekstraordinær lyd, kører den som en ægte superbil - skal ses og prøves!
 
