@@ -17,13 +17,13 @@ pictures:
     - image: /img/volvo-xc60-d4-awd-19105727_438025556554037_519572466227985275_n.jpg
     - image: >-
         /img/volvo-xc60-d4-awd-19106029_438025566554036_6124169761589138333_n.jpg
-year: '0'
-monthlycost: '3499'
-firstcost: '36500'
-value: '140000'
+year: '2012'
+monthlycost: 3499 kr. inkl. moms
+firstcost: 36500 kr. inkl. moms
+value: Ring for info
 volume: '2,4'
 cylindre: '5'
-ventiler: '0'
+ventiler: '24'
 gear: '6'
 traek: Nej
 type: Personbil
@@ -37,24 +37,56 @@ moment: '400'
 topfart: '190'
 nultilhundrede: '10,9'
 ---
-Kontakt for mere info og bestil en prøvetur.
+ERHVERVSLEASING:
+
+Førstegangsydelse: 29200 kr. eks. moms
+
+Månedlig ydelse: kr. 2.799 eks. Moms
+
+Restværdi: Ring for info.
 
 
 
-\- Fri km. 
+PRIVATLEASING
 
-\- Klar til levering.
+Førstegangsydelse: 36.500 kr. inkl. moms
 
-\- Mulighed for mekaniskgaranti.
+Månedlig ydelse: 3.499 kr. inkl. moms
+
+Restværdi: Ring for info.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
- ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
+Forsikring Tilbydes
 
- ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
+Fra 625 kr./mdr. ned til 18 år. 
 
- ✔ Mulighed for billig forsikring 
+Løbetid: 12 måneder med mulighed for forlængelse.
 
- ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
+
+
+I øvrigt
+
+\* Vi tilbyder fri kilometer i hele leasingperioden.
+
+\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
+
+\* Vi tilbyder kaskoforsikring på alle vores biler
+
+\* Privat, sæson, split og erhverv – vi har det hele.
+
+\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+
+\* Vi opbevarer også gerne din bil over vinteren
+
+\* Har vi ikke bilen på lager, dedikere vi os til at finde 
+
+den helt rigtige og står for importen.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
+
+Udstyr/beskrivelse:, Summum topmodel med stor sikkerhedspakke, aut.gear/tiptronic, 18" alufælge, 2 zone klima, navigation, diesel partikel filter, tonede ruder, servo, esp, abs, læderrat, tågelygter, xenonlys, el indst. forsæder, el indst. førersæde, udv. temp. måler, startspærre, kørecomputer, parkeringssensor, fjernb. c.lås, motorkabinevarmer, adaptiv fartpilot, el betjent bagklap, multifunktionsrat, bluetooth, isofix, bagagerumsdækken, blindvinkelsassistent, aftag. træk, lev. nysynet, ikke ryger, indfarvede kofangere, automatisk nødbremsesystem, el-spejle m/varme, 4x el-ruder, 8 airbags, forbehold for fejl i beskrivelsen, fin og velpasset med alle service overholdt hos Volvo
