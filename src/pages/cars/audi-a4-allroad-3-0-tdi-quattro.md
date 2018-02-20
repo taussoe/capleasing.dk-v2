@@ -20,7 +20,7 @@ pictures:
         /img/audi-a4-allroad-30-tdi-quattro-18423928_422765761413350_8534003955051128395_n.jpg
     - image: >-
         /img/audi-a4-allroad-30-tdi-quattro-18425002_422765751413351_6005185729733354479_n.jpg
-year: '0'
+year: '2014'
 monthlycost: '3800'
 firstcost: '59000'
 value: '189000'
