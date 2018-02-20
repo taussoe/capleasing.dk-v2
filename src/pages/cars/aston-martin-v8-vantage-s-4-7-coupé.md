@@ -34,11 +34,48 @@ moment: '470'
 topfart: '305'
 nultilhundrede: '4,2'
 ---
-Denne Vantage S V8 kommer med fuld alcantara-pakke samt garanti i hele Europa via Aston Martin (premium). Udover detaljer som kuglepen i instrumentbordet, nøgle af safirglas og en helt ekstraordinær lyd, kører den som en ægte superbil - skal ses og prøves!
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-* Vi tilbyder fri kilometer i hele leasingperioden
-* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
-* Vi tilbyder kaskoforsikring på alle vores biler
-* Sæson, split/deleleasing og erhvervsleasing – vi har hele paletten.
-* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-* Har vi ikke bilen på lager, dedikere vi os til at finde den helt rigtige og står for importen.
+ERHVERVSLEASING:
+
+Førstegangsydelse: kr. 103.106 eks. moms
+
+Månedlig ydelse: kr. 10.804 eks. Moms
+
+Restværdi: 460.000 kr. eks. moms/afgift
+
+
+
+PRIVATLEASING
+
+Førstegangsydelse: kr. 128.882 inkl. moms
+
+Månedlig ydelse: kr. 13.505 inkl. moms
+
+Restværdi: kr. 460.000 eks. moms/afgift
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Forsikring Tilbydes
+
+Fra 625 kr./mdr. ned til 18 år.
+
+Løbetid: 12 måneder med mulighed for forlængelse.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+I øvrigt tilbyder vi fri kilometer i hele leasingperioden.
+
+Cap Approved Garantiforsikring i hele leasingperioden. (valgfri) Vi tilbyder kaskoforsikring på alle vores biler
+
+Privat, sæson, split og erhverv – vi har det hele.
+
+Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+
+Vi opbevarer også gerne din bil over vinteren
+
+Har vi ikke bilen på lager, dedikere vi os til at finde
+
+den helt rigtige og står for importen. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+aut., aut.gear/tiptronic, 6 gear, alu., 19" alufælge, fuldaut. klima, sædevarme, højdejust. forsæde, el-ruder, el-spejle, cd/radio, airbag, esp, servo, 1 ejer, ikke ryger, service ok, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, kopholder, veloursæder, dellæder, lygtevasker, tågelygter, xenonlys, regnsensor, udv. temp. måler, auto. nedbl. bakspejl, varme i forrude, startspærre, infocenter, kørecomputer, fartpilot, ratgearskifte, parkeringssensor, fjernb. c.lås, c.lås, alarm
