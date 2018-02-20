@@ -17,17 +17,16 @@ components:
         * Privat og erhvervsleasing
         * Finansiel / operationel leasing
     - component: Statement
-      image: /img/logo-payoff.jpg
       menuname: Leasing
       overskrift: VI ER I GODT SELSKAB
       text: >-
-        CAP Leasing samarbejder med 3 af de største, ældste og dygtigste
+        CAP Leasing samarbejder med de største, ældste og dygtigste
         finansieringsselskaber i branchen. De blander sig ikke i vores daglige
-        drift. Men netop vores samarbejde med de største og mest etablerede
-        selskaber giver ikke alene frihed til os - det giver selvfølgelig også
+        drift, men netop vores samarbejde med de største og mest etablerede
+        selskaber, giver ikke alene frihed til os - det giver selvfølgelig også
         dig en tryghed som leasingtager. Netop fordi leasing kan være svært at
-        gennemskue, er det så meget desto mere vigtigt, at alt i papirgangen og
-        alt omkring finansiering kører konservativt.
+        gennemskue, er det så meget desto mere vigtigt, at alt omkring
+        leasingaftale og finansiering er gennemsigtig og efter lovskrifter.
     - component: PictureRight
       image: /img/forsikre.jpg
       overskrift: OG BILEN TIL DIG...
