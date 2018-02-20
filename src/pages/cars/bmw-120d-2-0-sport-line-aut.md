@@ -38,20 +38,58 @@ moment: 380 Nm
 topfart: '228'
 nultilhundrede: '7,2'
 ---
-Kontakt for mere info og bestil en prøvetur.
+ ERHVERVSLEASING:
 
-\- Fri km. 
 
-\- Klar til levering.
 
-\- Mulighed for mekaniskgaranti.
+ Førstegangsydelse: 20.000 kr. eks. moms
 
- ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
+ Månedlig ydelse: 2.720kr. eks. Moms
 
- ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
+ Restværdi: Ring for info
 
- ✔ Mulighed for billig forsikring 
+ 
 
- ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.
+PRIVATLEASING:
 
- ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
+Førstegangsydelse: 25.000 kr. inkl. 
+
+moms
+
+ Månedlig ydelse: 3.400 kr. inkl. moms
+
+ Restværdi: Ring for info
+
+
+
+ SPLITLEASING TILBYDES
+
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ Forsikring Tilbydes:
+
+ Fra 500 kr./mdr. ned til 18 år.
+
+ Løbetid: 12 ma°neder med mulighed for forlængelse.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+I øvrigt
+
+\* Vi tilbyder fri kilometer i hele leasingperioden.
+
+\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
+
+\* Vi tilbyder kaskoforsikring på alle vores biler.
+
+\* Privat, sæson, split og erhverv – vi har det hele.
+
+\* Du vælger selv perioden: 6, 12, 24 eller 36 ma°neder.
+
+\* Vi opbevarer også gerne din bil over vinteren
+
+\* Har vi ikke bilen på lager, samarbejder vi med over 50 forhandlere i Tyskland og står for importen.
+
+
+
+aut., aut.gear/tiptronic, 20" alufælge, fuldaut. klima, 2 zone klima, alarm, fjernb. c.lås, parkeringssensor, fartpilot, kørecomputer, infocenter, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, el-soltag, 4x el-ruder, el-spejle, nøglefri betjening, bakkamera, automatisk start/stop, el betjent bagklap, dæktryksmåler, navigation, multifunktionsrat, håndfrit til mobil, armlæn, kopholder, læderindtræk, læderrat, lygtevasker, tågelygter, xenonlys, automatisk lys, led forlygter, airbag, antispin, esp, servo, abs, hvide blink, tonede ruder, ikke ryger, lev. nysynet, service ok
