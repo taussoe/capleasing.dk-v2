@@ -14,7 +14,7 @@ pictures:
     - image: /img/porsche-cayenne-30-d-tiptr-5d-img_8956.jpg
     - image: /img/porsche-cayenne-30-d-tiptr-5d-img_8959.jpg
     - image: /img/porsche-cayenne-30-d-tiptr-5d-img_8964.jpg
-year: '0'
+year: '2011'
 monthlycost: '5120'
 firstcost: '67920'
 value: '253000'
