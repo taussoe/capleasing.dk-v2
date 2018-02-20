@@ -1,6 +1,6 @@
 ---
 path: /carmodels
-carimage: /img/s1.jpg
+carimage: /img/skærmbillede 2018-02-20 kl. 12.21.29.png
 title: Mercedes-Benz
 text: >-
   Mercedes-Benz ofte blot Mercedes er et tysk bilmærke under Daimler AG.
