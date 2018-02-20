@@ -12,13 +12,13 @@ pictures:
     - image: /img/porsche-panamera-30d-pa6.jpg
     - image: /img/porsche-panamera-30d-pa7.jpg
     - image: /img/porsche-panamera-30d-pa8.jpg
-year: '0'
-monthlycost: '5900'
-firstcost: '112000'
-value: '338000'
+year: '2012'
+monthlycost: 5900 kr. inkl. moms
+firstcost: 90000 kr. inkl. moms
+value: 210000 kr. eks moms/afgift
 volume: '0'
 cylindre: '6'
-ventiler: '0'
+ventiler: '24'
 gear: Aut.
 traek: Baghjul
 type: Saloon
