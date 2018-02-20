@@ -17,6 +17,7 @@ components:
         * Privat og erhvervsleasing
         * Finansiel / operationel leasing
     - component: Statement
+      image: /img/logo-payoff.jpg
       menuname: Leasing
       overskrift: VI ER I GODT SELSKAB
       text: >-
@@ -28,7 +29,7 @@ components:
         gennemskue, er det så meget desto mere vigtigt, at alt omkring
         leasingaftale og finansiering er gennemsigtig og efter lovskrifter.
     - component: PictureRight
-      image: /img/forsikre.jpg
+      image: /img/aston.jpg
       overskrift: OG BILEN TIL DIG...
       text: >-
         Men hvis vi alligevel ikke har din drømmebil på lager, så går vi i gang
@@ -59,22 +60,7 @@ components:
       image: /img/parallax.jpg
       menuname: Garanti
       overskrift: OG DET MED GARANTI
-      text: >-
-        Som en ekstra tryghed for dig, tilbyder vi dig en garanti på vores biler
-        gennem Autoconcept, der har en bred paraply af garantipakker - herunder:
-
-
-        * Forlængelse af ny bils garanti
-
-        *  Garantiforsikringer til brugte biler
-
-        * KeyProtect - tillægsforsikringer
-
-        * Road Assist - tillægsforsikringer
-
-
-        Du kan læse mere om Autoconcept og deres garantipakker på dette link:
-        <https://www.autoconcept.dk/Produkter>
+      text: "Som en ekstra tryghed for dig, tilbyder vi dig en garanti på vores biler gennem Autoconcept, der har en bred paraply af garantipakker - herunder:\r\r\n\n*  Forlængelse af ny bils garanti\r\n* Garantiforsikringer til brugte biler\n* KeyProtect - tillægsforsikringer\n* Road Assist - tillægsforsikringer\n\n\r\rDu kan læse mere om Autoconcept og deres garantipakker på dette link: <https://www.autoconcept.dk/Produkter>"
     - component: Kontakt
       menuname: Kontakt
       overskrift: KORT FORTALT
