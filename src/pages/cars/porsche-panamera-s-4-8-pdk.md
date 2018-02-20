@@ -4,22 +4,20 @@ carmodel: PORSCHE
 title: 'Porsche Panamera S 4,8 PDK'
 pictures:
   picturelist:
-    - image: /img/porsche-panamera-s-4-8-pdk-2017_09_15_capleasing_058.jpg
     - image: /img/porsche-panamera-s-4-8-pdk-2017_09_15_capleasing_061.jpg
     - image: /img/porsche-panamera-s-4-8-pdk-img_8594.jpg
-    - image: /img/porsche-panamera-s-4-8-pdk-img_8598.jpg
     - image: /img/porsche-panamera-s-4-8-pdk-img_8599.jpg
     - image: /img/porsche-panamera-s-4-8-pdk-img_8601.jpg
     - image: /img/porsche-panamera-s-4-8-pdk-img_8602.jpg
     - image: /img/porsche-panamera-s-4-8-pdk-img_8603.jpg
     - image: /img/porsche-panamera-s-4-8-pdk-img_8604.jpg
-year: '0'
-monthlycost: '6241'
-firstcost: '66000'
-value: '240000'
+year: '2010'
+monthlycost: 5943 kr. inkl. moms
+firstcost: '66000 kr. inkl. moms/afgift '
+value: '230000 kr. eks moms/afgift '
 volume: '4,8'
 cylindre: '8'
-ventiler: '0'
+ventiler: '24'
 gear: '7'
 traek: Nej
 type: Personbil
@@ -28,27 +26,63 @@ kilometer: '107000'
 braendstof: Benzin
 farve: Sortmetal
 doere: '5'
-effekt: 550 Hk
-moment: 759 Nm
-topfart: '360'
-nultilhundrede: '3,8'
+effekt: 400 Hk
+moment: 500 Nm
+topfart: 283 km(t
+nultilhundrede: '4,6 sek'
 ---
-Bilen er på lager, kontakt for mere info og bestil en prøvetur.
+ERHVERVSLEASING:
+
+Førstegangsydelse: 52.800 kr. eks. moms
+
+Månedlig ydelse: 4.754 kr. eks. Moms
+
+Restværdi: 230.000 kr. eks. moms/afgift
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+PRIVATLEASING:
+
+Førstegangsydelse: 66.000 kr. inkl. moms
+
+Månedlig ydelse: 5.943 kr. inkl. moms
+
+Restværdi: 230.000 kr. eks. moms/afgift
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+SPLITLEASINGTILBYDES
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+Forsikring Tilbydes
+
+Fra 500 kr./mdr. ned til 18 år. 
+
+Løbetid: 12 måneder med mulighed for forlængelse.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
-\- Fri km. 
+I øvrigt
 
-\- Klar til levering.
+\* Vi tilbyder fri kilometer i hele leasingperioden.
 
-\- Mulighed for mekaniskgaranti.
+\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
 
- ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
+\* Vi tilbyder kaskoforsikring på alle vores biler
 
- ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
+\* Privat, sæson, split og erhverv – vi har det hele.
 
- ✔ Mulighed for billig forsikring 
+\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
 
- ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.
+\* Vi opbevarer også gerne din bil over vinteren
 
- ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
+\* Har vi ikke bilen på lager, dedikere vi os til at finde 
+
+den helt rigtige og står for importen.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
+
+, aut., aut.gear/tiptronic, alu., sædevarme, el indst. forsæder, el-soltag, airbag, 8 airbags, esp, servo, 4x el-ruder, el-ruder, el-spejle, cd/radio, 19" alufælge, fuldaut. klima, 2 zone klima, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, alarm, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, xenonlys, tågelygter, lygtevasker, læderrat, læderindtræk, kopholder, service ok, nysynet, ikke ryger
