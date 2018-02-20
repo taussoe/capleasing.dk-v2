@@ -14,9 +14,9 @@ pictures:
     - image: /img/porsche-macan-turbo-3-6-pdk-10.jpg
     - image: /img/porsche-macan-turbo-3-6-pdk-11.jpg
     - image: /img/porsche-macan-turbo-3-6-pdk-12.jpg
-year: '0'
-monthlycost: '8300'
-firstcost: '126000'
+year: '2014'
+monthlycost: 8300 kr. inkl. moms
+firstcost: 126000 kr. inkl. moms
 value: '360000'
 volume: '3,6'
 cylindre: '6'
