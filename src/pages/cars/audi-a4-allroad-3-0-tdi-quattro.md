@@ -5,8 +5,6 @@ title: Audi A4 Allroad 3.0 TDI Quattro
 pictures:
   picturelist:
     - image: >-
-        /img/audi-a4-allroad-30-tdi-quattro-18341748_422765784746681_3625659621983111591_n.jpg
-    - image: >-
         /img/audi-a4-allroad-30-tdi-quattro-18341996_422765748080018_2405627982922374487_n.jpg
     - image: >-
         /img/audi-a4-allroad-30-tdi-quattro-18342047_422765828080010_6923614638562945403_n.jpg
