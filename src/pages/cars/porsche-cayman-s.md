@@ -9,12 +9,12 @@ pictures:
     - image: /img/13244627_245590759130852_1314625965099958295_n.jpg
     - image: /img/13244819_245590785797516_9173643575240718431_n.jpg
     - image: /img/13254525_245590895797505_9012418692581305370_n.jpg
-year: '0'
+year: '2009'
 monthlycost: '4600'
 firstcost: '67000'
-value: '168000'
+value: '148000'
 volume: '0'
-cylindre: '0'
+cylindre: '6'
 ventiler: '0'
 gear: Aut.
 traek: Baghjul
