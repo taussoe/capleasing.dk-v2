@@ -10,7 +10,7 @@ components:
       image: /img/leasing-hero.jpg
       overskrift: ALLE FORMER FOR LEASING
       text: |-
-        Cap Leasing tilbyder alle former for leasing
+        CAP Leasing tilbyder alle former for leasing
 
         * Sæsonleasing
         * Deleleasing/splitleasing
