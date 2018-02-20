@@ -12,13 +12,13 @@ pictures:
     - image: /img/volvo-xc60-18268464_420137291676197_3479553607399112762_n.jpg
     - image: /img/volvo-xc60-18300955_420137331676193_7561110564544605715_n.jpg
     - image: /img/volvo-xc60-18342101_420137268342866_8690250574684280426_n.jpg
-year: '0'
-monthlycost: '3600'
-firstcost: '45000'
-value: '144000'
+year: '2012'
+monthlycost: 3600 kr. inkl. moms
+firstcost: 45000 kr. inkl. moms
+value: 144000 kr. eks moms/afgift
 volume: '2,4'
 cylindre: '5'
-ventiler: '0'
+ventiler: '24'
 gear: '6'
 traek: Nej
 type: Personbil
@@ -32,24 +32,60 @@ moment: '400'
 topfart: '195'
 nultilhundrede: '14,7'
 ---
-Kontakt for mere info og bestil en prøvetur.
+ERHVERVSLEASING:
 
+Førstegangsydelse 36.000 kr. eks moms/afgift 
 
+Månedlig ydelse 2.880 kr. eks moms/afgift 
 
-\- Fri km. 
+Restværdi: 144.000 kr. eks moms/afgift 
 
-\- Klar til levering.
+Beskatningsgrundlag: 441.160,- + miljøtillæg 
 
-\- Mulighed for mekaniskgaranti.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
+PRIVATLEASING:
 
+Udbetaling: 45.000 kr. inkl. moms
 
- ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
+Ydelse: 3.600 kr. inkl. moms
 
- ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
+Periode: 12 måneder 
 
- ✔ Mulighed for billig forsikring 
+Restværdi: 144.000 kr. eks moms/afgift 
 
- ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
- ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
+SPLITLEASING TILBYDES
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+BILENS NYVOGNSPRIS 987.500,- 
+
+BILEN ER PÅ LAGER 
+
+Forsikring Tilbydes
+
+Fra 500 kr./mdr. ned til 18 år.
+
+Løbetid: 12 måneder med mulighed for forlængelse.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+I øvrigt tilbyder vi fri kilometer i hele leasingperioden.
+
+Cap Approved Garantiforsikring i hele leasingperioden. (valgfri) Vi tilbyder kaskoforsikring på alle vores biler
+
+Privat, sæson, split og erhverv – vi har det hele.
+
+Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+
+Vi opbevarer også gerne din bil over vinteren
+
+Har vi ikke bilen på lager, dedikere vi os til at finde
+
+den helt rigtige og står for importen.
+
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Saphirsortmetallic, Sorte el-indstillelige læder sportssæder med emory, 18" Volvo alufælge model zephyr, Multifunktionsrat, Adaptiv fartpilot, Volvo Navigation, Oliefyr, Blind Spot Indicator System (BLIS), Parkeringssensorer i for og bag og bakkamera, Adaptiv Bi-Xenon med LED kørelys, Ambiente belysning, Interiørlister i aluminuim, Audio Sound High Performance, Bluetooth med audiostreaming, Klimaanlæg, Tonede ruder, Lyssensor, City-safe system, Digital instrumentering, Sædevarme, Tagræling, El-Spejle klapbare og aut afblændbar, El-ruder, El-bagklap, Bakspejl aut. afblændbar
