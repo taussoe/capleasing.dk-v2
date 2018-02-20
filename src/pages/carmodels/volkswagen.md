@@ -1,6 +1,6 @@
 ---
 path: /carmodels
-carimage: /img/vw.jpg
+carimage: /img/volkswagen-emblem.jpg
 title: Volkswagen
 text: >-
   Volkswagen (VW) (moderselskab Volkswagen Group) er et tysk bilmærke med
