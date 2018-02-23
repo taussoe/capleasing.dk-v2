@@ -4,15 +4,15 @@ carmodel: Mercedes-Benz
 title: 'Mercedes C220 2,2 CDi Coupé BE'
 pictures:
   picturelist:
-    - image: /img/mercedes-c220-22-cdi-coup-be-2146790763_1.jpg
-    - image: /img/mercedes-c220-22-cdi-coup-be-2146790763_2.jpg
-    - image: /img/mercedes-c220-22-cdi-coup-be-2146790763_3.jpg
-    - image: /img/mercedes-c220-22-cdi-coup-be-2146790763_4.jpg
-    - image: /img/mercedes-c220-22-cdi-coup-be-2146790763_5.jpg
-    - image: /img/mercedes-c220-22-cdi-coup-be-2146790763_6.jpg
-    - image: /img/mercedes-c220-22-cdi-coup-be-2146790763_7.jpg
-    - image: /img/mercedes-c220-22-cdi-coup-be-2146790763_8.jpg
-    - image: /img/mercedes-c220-22-cdi-coup-be-2146790763.jpg
+    - image: /img/img_8565.jpg
+    - image: /img/img_8566.jpg
+    - image: /img/img_8568.jpg
+    - image: /img/img_8570.jpg
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
 year: '0'
 monthlycost: '2800'
 firstcost: '29000'
