@@ -4,19 +4,15 @@ carmodel: LAND ROVER
 title: 'Land Rover Defender 2,2 TD4 110" SW SE'
 pictures:
   picturelist:
-    - image: /img/landrover-2017_09_15_capleasing_039.jpg
-    - image: /img/landrover-2017_09_15_capleasing_040.jpg
-    - image: /img/landrover-23843584_507637462926179_1591891408842903264_n.jpg
-    - image: /img/landrover-23844715_507637459592846_3915920946151939554_n.jpg
-    - image: /img/landrover-2146779381_1.jpg
-    - image: /img/landrover-2146779381_4.jpg
-    - image: /img/landrover-2146779381_5.jpg
-    - image: /img/landrover-2146779381_6.jpg
-    - image: /img/landrover-2146779381.jpg
-year: '0'
-monthlycost: '6000'
-firstcost: '90000'
-value: '243000'
+    - image: /img/2017_11_12_capleasing_portrætter_060.jpeg
+    - image: /img/2017_11_12_capleasing_portrætter_062.jpeg
+    - image: /img/2017_09_15_capleasing_040.jpg
+    - image: /img/fullsizeoutput_180.jpeg
+    - image: /img/fullsizeoutput_17f.jpeg
+year: '2010'
+monthlycost: 6000 kr. inkl. moms
+firstcost: 90000 kr. inkl. moms
+value: 243000 kr. eks moms/afgift
 volume: '2,2'
 cylindre: '4'
 ventiler: '0'
@@ -29,26 +25,68 @@ braendstof: Diesel
 farve: Sort
 doere: '5'
 effekt: 122 Hk
-moment: '0'
+moment: '2,2'
 topfart: '0'
 nultilhundrede: '0'
 ---
-Bilen er på lager, kontakt for mere info og bestil en prøvetur.
+Unik Land Rover Defender med monteret parkeringsensor, navigationsskærm, LED forlygter, sorte fælge, bluetooth, subwoofer og meget mere - en rigtig Herregårds-bil med speciel udstyrspakke. 
 
 
 
-\- Fri km. 
+Ring for mere info. 
 
-\- Klar til levering.
 
-\- Mulighed for mekaniskgaranti.
 
- ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
+ERHVERVSLEASING:
 
- ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
+Førstegangsydelse: 71.200 kr. eks. moms
 
- ✔ Mulighed for billig forsikring 
+Månedlig ydelse: 4.800 kr. eks. Moms
 
- ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.
+Restværdi: 234.000 kr. eks. moms/afgift
 
- ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
+
+
+PRIVATLEASING
+
+Førstegangsydelse: 89.000 kr. inkl. moms
+
+Månedlig ydelse: 6.000 kr. inkl. moms
+
+Restværdi: 234.000 kr. eks. moms/afgift
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+Forsikring Tilbydes
+
+Fra 625 kr./mdr. ned til 18 år. 
+
+Løbetid: 12 måneder med mulighed for forlængelse.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+I øvrigt
+
+\* Vi tilbyder fri kilometer i hele leasingperioden.
+
+\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
+
+\* Vi tilbyder kaskoforsikring på alle vores biler
+
+\* Privat, sæson, split og erhverv – vi har det hele.
+
+\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+
+\* Vi opbevarer også gerne din bil over vinteren
+
+\* Har vi ikke bilen på lager, dedikere vi os til at finde 
+
+den helt rigtige og står for importen.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
+
+, alu., sædevarme, højdejust. forsæde, servo, 4x el-ruder, cd/radio, el-ruder, vinterhjul, airc., ikke ryger, nysynet, service ok, træk, diesel partikel filter, tågelygter, kopholder, stofindtræk, armlæn, alarm, fjernb. c.lås, c.lås, udv. temp. måler, airbag, 19" alufælge, navigation, bluetooth, parkeringssensor, infocenter
