@@ -27,7 +27,7 @@ doere: '5'
 effekt: 122 Hk
 moment: '2,2'
 topfart: '0'
-nultilhundrede: '0'
+nultilhundrede: Kommer an på vind og vejr;)
 ---
 Unik Land Rover Defender med monteret parkeringsensor, navigationsskærm, LED forlygter, sorte fælge, bluetooth, subwoofer og meget mere - en rigtig Herregårds-bil med speciel udstyrspakke. 
 
