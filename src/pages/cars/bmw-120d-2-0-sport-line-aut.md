@@ -4,23 +4,16 @@ carmodel: BMW
 title: 'BMW 120d 2,0 Sport Line aut.'
 pictures:
   picturelist:
-    - image: >-
-        /img/bmw-120d-20-sport-line-aut-16997902_387991561557437_7347857504659259051_n.jpg
-    - image: >-
-        /img/bmw-120d-20-sport-line-aut-16997916_387991641557429_588714766483908079_n.jpg
-    - image: >-
-        /img/bmw-120d-20-sport-line-aut-17021694_387991691557424_2534218375592081846_n.jpg
-    - image: >-
-        /img/bmw-120d-20-sport-line-aut-17021904_387991601557433_7338551249683368474_n.jpg
-    - image: >-
-        /img/bmw-120d-20-sport-line-aut-17022145_387991631557430_9118252897495664174_n.jpg
-    - image: >-
-        /img/bmw-120d-20-sport-line-aut-17022255_387991681557425_1745874168908861017_n.jpg
-    - image: >-
-        /img/bmw-120d-20-sport-line-aut-17098406_387991614890765_1307572568620579490_n.jpg
+    - image: /img/img_2759.jpg
+    - image: /img/img_2761.jpg
+    - image: /img/img_2770.jpg
+    - image: /img/img_2769 (1).jpg
+    - image: /img/img_2767.jpg
+    - image: ''
+    - image: ''
 year: '2012'
-monthlycost: '3405'
-firstcost: '25000'
+monthlycost: 3405 inkl. moms.
+firstcost: 25000 inkl. moms.
 value: '116000'
 volume: '2,0'
 cylindre: '4'
