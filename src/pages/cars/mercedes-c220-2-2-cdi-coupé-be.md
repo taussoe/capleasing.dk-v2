@@ -33,22 +33,62 @@ moment: 400 Nm
 topfart: '232'
 nultilhundrede: '8,4'
 ---
-Bilen er på lager, kontakt for mere info og bestil en prøvetur.
+PRIVATLEASING
+
+Førstegangsydelse 44.000 kr. inkl. moms
+
+Månedlig ydelse 3.159 kr. inkl. moms
+
+Restværdi Ring for info
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
-\- Fri km. 
+ERHVERVSLEASING:
 
-\- Klar til levering.
+Førstegangsydelse: 35.200 kr. eks. moms
 
-\- Mulighed for mekaniskgaranti.
+Månedlig ydelse: 2.527 kr. eks. Moms
 
- ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
+Restværdi: Ring for info
 
- ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- ✔ Mulighed for billig forsikring 
 
- ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.
 
- ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
+Forsikring Tilbydes
+
+Fra 625 kr./mdr. ned til 18 år. 
+
+Løbetid: 12 måneder med mulighed for forlængelse.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+I øvrigt
+
+\* Vi tilbyder fri kilometer i hele leasingperioden.
+
+\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
+
+\* Vi tilbyder kaskoforsikring på alle vores biler
+
+\* Privat, sæson, split og erhverv – vi har det hele.
+
+\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+
+\* Vi opbevarer også gerne din bil over vinteren
+
+\* Har vi ikke bilen på lager, dedikere vi os til at finde 
+
+   den helt rigtige og står for importen.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
+
+
+
+AMG udstyrspakke, xenon, LED, soltag, læderkabine, 18 tommer AMG og meget mere.
+
+, aut., aut.gear/tiptronic, 6 gear, alu., 19" alufælge, airc., fuldaut. klima, 2 zone klima, sædevarme, el indst. forsæder, el-soltag, glastag, el-ruder, el-spejle, cd/radio, airbag, db. airbags, abs, antispin, esp, servo, alarm, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, isofix, kopholder, tonede ruder, ikke ryger, service ok, diesel partikel filter, xenonlys, tågelygter, lygtevasker, læderrat, læderindtræk, dellæder, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor
