@@ -12,7 +12,7 @@ pictures:
     - image: /img/land-rover-range-rover-44-sdv8-autobiography-8l.jpg
     - image: /img/land-rover-range-rover-44-sdv8-autobiography-9l.jpg
     - image: /img/land-rover-range-rover-44-sdv8-autobiography-l1.jpg
-year: '0'
+year: '2014'
 monthlycost: '6541'
 firstcost: '80000'
 value: '340000'
