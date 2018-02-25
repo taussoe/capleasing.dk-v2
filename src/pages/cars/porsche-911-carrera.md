@@ -18,7 +18,7 @@ pictures:
         /img/porsche-911-carrera-18814174_433140930375833_3196063571489156684_n.jpg
     - image: >-
         /img/porsche-911-carrera-18920601_433140750375851_4571159200737717029_n.jpg
-year: '0'
+year: '2014'
 monthlycost: '11000'
 firstcost: '150000'
 value: '440000'
