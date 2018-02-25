@@ -17,10 +17,10 @@ pictures:
 year: '2014'
 monthlycost: 8300 kr. inkl. moms
 firstcost: 126000 kr. inkl. moms
-value: '360000'
+value: 360000 kr. eks moms/afgift
 volume: '3,6'
 cylindre: '6'
-ventiler: '0'
+ventiler: '24'
 gear: '7'
 traek: Nej
 type: Personbil
