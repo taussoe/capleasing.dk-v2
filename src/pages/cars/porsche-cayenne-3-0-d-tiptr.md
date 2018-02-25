@@ -4,23 +4,23 @@ carmodel: PORSCHE
 title: 'Porsche Cayenne 3,0 D Tiptr.'
 pictures:
   picturelist:
-    - image: /img/porsche-cayenne-30-d-tiptr-2146790728_1.jpg
-    - image: /img/porsche-cayenne-30-d-tiptr-2146790728_2.jpg
-    - image: /img/porsche-cayenne-30-d-tiptr-2146790728_3.jpg
-    - image: /img/porsche-cayenne-30-d-tiptr-2146790728_4.jpg
-    - image: /img/porsche-cayenne-30-d-tiptr-2146790728_5.jpg
-    - image: /img/porsche-cayenne-30-d-tiptr-2146790728_6.jpg
-    - image: /img/porsche-cayenne-30-d-tiptr-2146790728_7.jpg
-    - image: /img/porsche-cayenne-30-d-tiptr-2146790728_8.jpg
-    - image: /img/porsche-cayenne-30-d-tiptr-2146790728_9.jpg
-    - image: /img/porsche-cayenne-30-d-tiptr-2146790728.jpg
+    - image: /img/img_2528.jpg
+    - image: /img/img_2530.jpg
+    - image: /img/img_2531.jpg
+    - image: /img/img_2535.jpg
+    - image: /img/img_2539.jpg
+    - image: /img/img_2541.jpg
+    - image: /img/img_2543.jpg
+    - image: /img/img_2545.jpg
+    - image: /img/img_2549.jpg
+    - image: /img/img_2552.jpg
 year: '2013'
-monthlycost: '6800'
-firstcost: '68000'
-value: '258000'
+monthlycost: 5595 kr. inkl. moms
+firstcost: 75000 kr. inkl. moms
+value: 221000 kr. eks moms/afgift
 volume: '3,0'
 cylindre: '6'
-ventiler: '0'
+ventiler: '24'
 gear: '8'
 traek: Nej
 type: Personbil
@@ -29,27 +29,61 @@ kilometer: '102000'
 braendstof: Diesel
 farve: Sortmetal
 doere: '5'
-effekt: 245 Hk
+effekt: 285 Hk
 moment: 550 Nm
-topfart: '220'
-nultilhundrede: '7,6'
+topfart: '240'
+nultilhundrede: '7,8'
 ---
-Kontakt for mere info og bestil en prøvetur.
+PRIVATLEASING
+
+Månedlig ydelse: 5.595 kr. inkl. moms
+
+Førstegangsydelse: 75.000 kr. inkl. moms
+
+Restværdi: 221.000 kr. eks. moms/afgift
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+ERHVERVSLEASING:
+
+Månedlig ydelse: 4.476 kr. eks. Moms
+
+Førstegangsydelse: 60.000 kr. eks. moms
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 
 
-\- Fri km. 
+Forsikring Tilbydes
 
-\- Klar til levering.
+Fra 500 kr./mdr. ned til 18 år. 
 
-\- Mulighed for mekaniskgaranti.
+Løbetid: 12 måneder med mulighed for forlængelse.
 
- ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
 
- ✔ Mulighed for billig forsikring 
 
- ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.
+I øvrigt
 
- ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
+\* Vi tilbyder fri kilometer i hele leasingperioden.
+
+\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
+
+\* Vi tilbyder kaskoforsikring på alle vores biler
+
+\* Privat, sæson, split og erhverv – vi har det hele.
+
+\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+
+\* Vi opbevarer også gerne din bil over vinteren
+
+\* Har vi ikke bilen på lager, dedikere vi os til at finde 
+
+   den helt rigtige og står for importen.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+aut.gear/tiptronic, 4 zone klima, motorkabinevarmer, fjernb. c.lås, parkeringssensor/kamera, ratgearskifte, fartpilot, infocenter, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, glastag, 4x el-ruder, el-spejle, adaptiv undervogn, navigation, cd/radio, multifunktionsrat, bluetooth, læderrat, isofix, armlæn, læderindtræk, tågelygter, xenonlys, kurvelys, airbag, ikke ryger, mørktonede ruder i bag, service ok, diesel partikel filter, bakkamera, el betjent bagklap
