@@ -13,7 +13,7 @@ pictures:
     - image: ''
     - image: ''
     - image: ''
-year: '0'
+year: '2013'
 monthlycost: '2800'
 firstcost: '29000'
 value: '117000'
