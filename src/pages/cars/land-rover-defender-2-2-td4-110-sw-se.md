@@ -45,7 +45,7 @@ Månedlig ydelse: 4.800 kr. eks. Moms
 
 Restværdi: 234.000 kr. eks. moms/afgift
 
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 PRIVATLEASING
 
