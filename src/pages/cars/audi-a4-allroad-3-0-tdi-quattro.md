@@ -21,9 +21,9 @@ pictures:
     - image: >-
         /img/audi-a4-allroad-30-tdi-quattro-18425002_422765751413351_6005185729733354479_n.jpg
 year: '2014'
-monthlycost: '3800'
-firstcost: '59000'
-value: '189000'
+monthlycost: 3442 kr. inkl. moms
+firstcost: 55000 kr. inkl. moms
+value: 150000 kr. eks moms/afgift
 volume: '3,0'
 cylindre: '6'
 ventiler: '0'
@@ -35,10 +35,10 @@ kilometer: '90000'
 braendstof: Diesel
 farve: Sort
 doere: '5'
-effekt: '218'
-moment: '400'
-topfart: '231'
-nultilhundrede: '6,6'
+effekt: 177 hk
+moment: .
+topfart: .
+nultilhundrede: '8,3 sek'
 ---
 Kontakt for mere info og bestil en prøvetur.
 
