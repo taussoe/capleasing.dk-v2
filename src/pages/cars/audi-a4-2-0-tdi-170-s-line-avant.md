@@ -13,17 +13,17 @@ pictures:
     - image: /img/audi-a4-20-tdi-170-s-line-avant-2146779338_7.jpg
     - image: /img/audi-a4-20-tdi-170-s-line-avant-2146779338.jpg
 year: '2010'
-monthlycost: '2400'
-firstcost: '29000'
-value: '108000'
+monthlycost: 2400 kr. inkl. moms
+firstcost: 25000 kr. inkl. moms
+value: 60000 kr. eks. moms/afgift
 volume: '2,0'
 cylindre: '4'
-ventiler: '0'
+ventiler: '16'
 gear: '6'
 traek: Ja
 type: Personbil
-foerstereg: 01-08-2011
-kilometer: '92000'
+foerstereg: 01-08-2010
+kilometer: '173000'
 braendstof: Benzin
 farve: Sort
 doere: '5'
@@ -34,27 +34,23 @@ nultilhundrede: '9,9'
 ---
 \*\*\*\* Kampagne pris \*\*\*\*
 
-
-
 ERHVERVSLEASING:
 
-Førstegangsydelse: 19.200 kr. eks. moms
+Førstegangsydelse: 20.000 kr. eks. moms
 
 Månedlig ydelse: 1.920 kr. eks. Moms
 
-Restværdi: 60.000 kr. eks. moms/afgift
-
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 PRIVATLEASING
 
-Førstegangsydelse: 24.000 kr. inkl. moms
+Førstegangsydelse: 25.000  kr. inkl. moms
 
 Månedlig ydelse: 2.400 kr. inkl. moms
 
 Restværdi: 60.000 kr. eks. moms/afgift
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 Forsikring Tilbydes
 
@@ -62,7 +58,7 @@ Fra 500 kr./mdr. ned til 18 år.
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 I øvrigt
 
@@ -78,6 +74,6 @@ I øvrigt
 
 \* Har vi ikke bilen på lager, dedikere vi os til at finde
 
-den helt rigtige og står for importen. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+den helt rigtige og står for importen. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-16" alufælge, aut.gear/tiptronic, 6 gear, 2 zone klima, fuldaut. klima, fjernb. c.lås, parkeringssensor, kørecomputer, infocenter, startspærre, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, højdejust. forsæde, el-ruder, navigation, multifunktionsrat, bluetooth, armlæn, isofix, kopholder, stofindtræk, læderrat, tågelygter, xenonlys, lygtevasker, automatisk lys, led forlygter, airbag, hvide blink, mørktonede ruder i bag, ikke ryger, service ok, aftag. træk, diesel partikel filter
+17" alufælge, aut.gear/tiptronic, 6 gear, 2 zone klima, fuldaut. klima, fjernb. c.lås, parkeringssensor, kørecomputer, infocenter, startspærre, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, højdejust. forsæde, el-ruder, navigation, multifunktionsrat, bluetooth, armlæn, isofix, kopholder, stofindtræk, læderrat, tågelygter, xenonlys, lygtevasker, automatisk lys, led forlygter, airbag, hvide blink, mørktonede ruder i bag, ikke ryger, service ok, aftag. træk, diesel partikel filter
