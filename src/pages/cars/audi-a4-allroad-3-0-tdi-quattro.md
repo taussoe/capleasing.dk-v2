@@ -37,7 +37,7 @@ farve: Sort
 doere: '5'
 effekt: 177 hk
 moment: .
-topfart: .
+topfart: 215 km/t
 nultilhundrede: '8,3 sek'
 ---
 Kontakt for mere info og bestil en prøvetur.
