@@ -1,7 +1,7 @@
 ---
 path: /cars
 carmodel: Volkswagen
-title: 'VW Passat 2,0 TDi 170 Highline BMT'
+title: 'VW Passat 2,0 TDi 170 Highline AUT. DSG'
 pictures:
   picturelist:
     - image: /img/vw-passat-20-tdi-170-highline-bmt-img_8859.jpg
@@ -11,8 +11,8 @@ pictures:
     - image: /img/vw-passat-20-tdi-170-highline-bmt-img_8873.jpg
 year: '2011'
 monthlycost: 2361 kr. inkl. moms
-firstcost: 21000 kr. inkl. moms
-value: 65000 eks moms/afgift
+firstcost: 25.000 kr. inkl. moms
+value: 80000 eks moms/afgift
 volume: '2,0'
 cylindre: '4'
 ventiler: '24'
@@ -20,7 +20,7 @@ gear: '7'
 traek: Nej
 type: Personbil
 foerstereg: 31-05-2011
-kilometer: '160000'
+kilometer: '120000'
 braendstof: Diesel
 farve: Sortmetal
 doere: '5'
@@ -31,13 +31,11 @@ nultilhundrede: '8,6'
 ---
 ERHVERVSLEASING:
 
-Førstegangsydelse: 16.800 kr. eks. moms
+Førstegangsydelse: 20.000 kr. eks. moms
 
 Månedlig ydelse: 1.888 kr. eks. Moms
 
 Restværdi: 90.000 kr. eks. moms/afgift
-
-
 
 PRIVATLEASING
 
@@ -49,8 +47,6 @@ Restværdi: 90.000 kr. eks. moms/afgift
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 Forsikring Tilbydes
 
 Fra 625 kr./mdr. ned til 18 år. 
@@ -58,8 +54,6 @@ Fra 625 kr./mdr. ned til 18 år.
 Løbetid: 12 måneder med mulighed for forlængelse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 I øvrigt
 
@@ -80,7 +74,5 @@ I øvrigt
 den helt rigtige og står for importen.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 aut.gear/tiptronic, sædevarme, højdejust. forsæde, airbag, abs, antispin, esp, servo, 4x el-ruder, el-spejle, cd/radio, 18" alufælge, fuldaut. klima, 2 zone klima, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, startspærre, infocenter, varme i forrude, udv. temp. måler, regnsensor, xenonlys, tågelygter, lygtevasker, læderrat, læderindtræk, kopholder, bagagerumsdækken, armlæn, service ok, ikke ryger
