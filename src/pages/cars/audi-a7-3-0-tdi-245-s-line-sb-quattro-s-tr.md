@@ -34,7 +34,7 @@ nultilhundrede: '6,3'
 ---
 ￼ERHVERVSLEASING:
 
-￼Førstegangsydelse 55.200 : kr. eks. moms
+￼Førstegangsydelse 51.200 : kr. eks. moms
 
 ￼Månedlig ydelse: 3.379 kr. eks. Moms
 
@@ -44,11 +44,9 @@ nultilhundrede: '6,3'
 
 ￼PRIVATLEASING:
 
-￼Førstegangsydelse 69.000: kr. inkl. moms
+￼Førstegangsydelse 64.000: kr. inkl. moms
 
 ￼Månedlig ydelse: 4.249 kr. inkl. moms
-
-￼Restværdi: 180.000 kr. eks. moms/afgift
 
 ￼\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
