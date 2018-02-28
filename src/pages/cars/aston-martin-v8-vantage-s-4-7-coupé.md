@@ -34,31 +34,31 @@ moment: '470'
 topfart: '305'
 nultilhundrede: '4,2'
 ---
+Sæsonleasing 6 aktive måneder / 6 passive 
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ERHVERVSLEASING:
 
-Førstegangsydelse: kr. 103.106 eks. moms
+Førstegangsydelse: kr. 66.500 eks. moms
 
-Månedlig ydelse: kr. 10.804 eks. Moms
+Månedlig ydelse: kr. 6.800 eks. Moms
 
-Restværdi: 460.000 kr. eks. moms/afgift
+Restværdi: 445.000 kr. eks. moms/afgift
 
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 PRIVATLEASING
 
-Førstegangsydelse: kr. 128.882 inkl. moms
+Førstegangsydelse: 83.125 kr.  inkl. moms
 
-Månedlig ydelse: kr. 13.505 inkl. moms
+Månedlig ydelse: kr. 8.500 inkl. moms
 
-Restværdi: kr. 460.000 eks. moms/afgift
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Forsikring Tilbydes
 
-Fra 625 kr./mdr. ned til 18 år.
+Fra 500 kr./mdr. ned til 18 år.
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
