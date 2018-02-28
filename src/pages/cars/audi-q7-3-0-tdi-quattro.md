@@ -18,33 +18,27 @@ pictures:
         /img/audi-q7-30-tdi-quattro-23632298_504639656559293_4187588567301224777_o.jpg
     - image: >-
         /img/audi-q7-30-tdi-quattro-23632864_504639549892637_992090415145392736_o.jpg
-year: '0'
-monthlycost: '3758'
-firstcost: '39200'
-value: '188000'
+year: '2012'
+monthlycost: 4698 kr. inkl. moms
+firstcost: 48.000 kr. inkl. moms
+value: 188000 kr. eks moms/afgift
 volume: '3,0'
 cylindre: '6'
-ventiler: '0'
-gear: '0'
+ventiler: '24'
+gear: '7'
 traek: Nej
 type: '0'
 foerstereg: 20-10-2012
-kilometer: '130000'
+kilometer: 120000 km
 braendstof: Diesel
 farve: Sort
 doere: '0'
-effekt: '245'
-moment: '550'
-topfart: '0'
-nultilhundrede: '8'
+effekt: 245 hk
+moment: 550 nm
+topfart: 215 m/t
+nultilhundrede: '7,8 sek'
 ---
-LESINGAFTALEN LØBER 8 MDR. OG KAN FORLÆNGES.
-
-
-
-Panorama soltag, aut.gear/tiptronic, 6 gear, alu., 21\" alufælge, airc., fuldaut. klima, 2 zone klima, sædevarme, el indst. forsæder, el-soltag, glastag, 4x el-ruder, el-spejle, cd/radio, navigation, multifunktionsrat, bluetooth, airbag, esp, servo, indfarvede kofangere, hækspoiler, skørter, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, armlæn, isofix, bagagerumsdækken, kopholder, læderindtræk, læderrat, lygtevasker, tågelygter, xenonlys, diesel partikel filter, service ok, ikke ryger
-
-
+Panorama soltag, aut.gear/tiptronic, 6 gear, alu., 21" alufælge, airc., fuldaut. klima, 2 zone klima, sædevarme, el indst. forsæder, el-soltag, glastag, 4x el-ruder, el-spejle, cd/radio, navigation, multifunktionsrat, bluetooth, airbag, esp, servo, indfarvede kofangere, hækspoiler, skørter, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, armlæn, isofix, bagagerumsdækken, kopholder, læderindtræk, læderrat, lygtevasker, tågelygter, xenonlys, diesel partikel filter, service ok, ikke ryger
 
 I øvrigt  
 
