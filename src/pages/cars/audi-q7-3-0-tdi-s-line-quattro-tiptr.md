@@ -14,7 +14,7 @@ pictures:
     - image: /img/img_8537.jpg
     - image: /img/img_8540.jpg
     - image: /img/img_8542.jpg
-year: '0'
+year: '2011'
 monthlycost: '4300'
 firstcost: '61250'
 value: '205000'
