@@ -17,7 +17,7 @@ pictures:
 year: '2009'
 monthlycost: 3400 kr. inkl. moms
 firstcost: 39000 kr. inkl. moms
-value: 10800 kr. eks moms/afgift
+value: 108000 kr. eks moms/afgift
 volume: '3,0'
 cylindre: '6'
 ventiler: '24'
