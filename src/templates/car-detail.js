@@ -281,22 +281,26 @@ export default class Showroom extends React.Component {
     if (this.props.data.markdownRemark) {
       slide = this.props.data.markdownRemark.frontmatter.pictures.picturelist.map(
         (item, index) => {
-          return (
-            <div key={`slide-${index}`} id={item.id} className="swiper-slide">
-              <Img sizes={item.image.childImageSharp.sizes} />
-            </div>
-          )
+          if (item.image && item.image.childImageSharp) {
+            return (
+              <div key={`slide-${index}`} id={item.id} className="swiper-slide">
+                <Img sizes={item.image.childImageSharp.sizes} />
+              </div>
+            )
+          }
         }
       )
     }
     if (this.props.data.markdownRemark) {
       thumbs = this.props.data.markdownRemark.frontmatter.pictures.picturelist.map(
         (item, index) => {
-          return (
-            <div key={`thumb-${index}`} className="swiper-slide">
-              <Img sizes={item.image.childImageSharp.sizes} />
-            </div>
-          )
+          if (item.image && item.image.childImageSharp) {
+            return (
+              <div key={`thumb-${index}`} className="swiper-slide">
+                <Img sizes={item.image.childImageSharp.sizes} />
+              </div>
+            )
+          }
         }
       )
     }
