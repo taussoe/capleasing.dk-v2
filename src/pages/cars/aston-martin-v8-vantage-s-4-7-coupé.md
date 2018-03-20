@@ -1,7 +1,7 @@
 ---
 path: /cars
 carmodel: ASTON MARTIN
-title: 'Aston Martin V8 Vantage S 4,7 Coupé'
+title: 'Aston Martin V8 Vantage S '
 pictures:
   picturelist:
     - image: /img/aston-2017_09_15_capleasing_033.jpg
@@ -16,33 +16,33 @@ pictures:
     - image: /img/aston-img_8592.jpg
 year: '2014'
 monthlycost: 6300 kr. inkl. moms (6 aktive mdr.)
-firstcost: 74.000 kr. inkl. moms (debositum)
-value: '460000'
+firstcost: '83125 kr. inkl. moms '
+value: 460000 kr. eks moms/afgift
 volume: '4,7'
 cylindre: '8'
-ventiler: '24'
+ventiler: '32'
 gear: '7'
 traek: Nej
 type: Coupé
 foerstereg: 09-05-2014
 kilometer: '34000'
 braendstof: Benzin
-farve: Sort
+farve: Gråmetal
 doere: '2'
 effekt: 436 hk
 moment: '470'
 topfart: '305'
-nultilhundrede: '4,2'
+nultilhundrede: '4,3'
 ---
-Sæsonleasing 6 aktive måneder / 6 passive 
+Sæsonleasing:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ERHVERVSLEASING:
 
-Førstegangsydelse: kr. 66.500 eks. moms
+Førstegangsydelse: 66.500 kr. eks. moms
 
-Månedlig ydelse: kr. 6.800 eks. Moms
+Månedlig ydelse: 9.146 kr. eks. Moms
 
 Restværdi: 445.000 kr. eks. moms/afgift
 
@@ -52,7 +52,7 @@ PRIVATLEASING
 
 Førstegangsydelse: 83.125 kr.  inkl. moms
 
-Månedlig ydelse: kr. 8.500 inkl. moms
+Månedlig ydelse 11.432 kr. inkl. moms
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
