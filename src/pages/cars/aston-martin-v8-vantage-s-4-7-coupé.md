@@ -15,7 +15,7 @@ pictures:
     - image: /img/aston-img_8586.jpg
     - image: /img/aston-img_8592.jpg
 year: '2014'
-monthlycost: 6300 kr. inkl. moms (6 aktive mdr.)
+monthlycost: 11.432 kr. inkl. moms
 firstcost: '83125 kr. inkl. moms '
 value: 460000 kr. eks moms/afgift
 volume: '4,7'
