@@ -18,7 +18,7 @@ pictures:
     - image: /img/img_4029.jpg
 year: '2012'
 monthlycost: 5620 kr. inkl. moms
-firstcost: 750000 kr. inkl. moms
+firstcost: 75000 kr. inkl. moms
 value: 230000 kr. eks moms/afgift
 volume: '4,4'
 cylindre: '8'
