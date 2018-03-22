@@ -1,10 +1,10 @@
 ---
+path: /kontaktpersoner
 contactimage: /img/madsfischer.jpg
 title: Mads Fischer
-contacttitle: 'Partner, Salgsansvarlig'
+contacttitle: 'Flådeadministrator '
 contacteducation: Cand. Merc. SMc
 contacttelephone: +45 53705222
 contactemail: mf@capleasing.dk
-path: /kontaktpersoner
 ---
 
