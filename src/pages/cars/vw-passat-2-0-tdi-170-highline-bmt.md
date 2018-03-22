@@ -39,7 +39,7 @@ Restværdi: 90.000 kr. eks. moms/afgift
 
 PRIVATLEASING
 
-Førstegangsydelse: 21.000 kr. inkl. moms
+Førstegangsydelse: 25.000 kr. inkl. moms
 
 Månedlig ydelse: 2.361 kr. inkl. moms
 
@@ -49,7 +49,7 @@ Restværdi: 90.000 kr. eks. moms/afgift
 
 Forsikring Tilbydes
 
-Fra 625 kr./mdr. ned til 18 år. 
+Fra 580 kr./mdr. ned til 18 år. 
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
