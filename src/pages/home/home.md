@@ -29,14 +29,15 @@ components:
         gennemskue, er det så meget desto mere vigtigt, at alt omkring
         leasingaftale og finansiering er gennemsigtig og efter lovskrifter.
     - component: PictureRight
-      image: /img/aston.jpg
+      image: /img/bmw-320d-20-touring-aut-img_8916.jpg
       overskrift: OG BILEN TIL DIG...
       text: >-
-        Men hvis vi alligevel ikke har din drømmebil på lager, så går vi i gang
-        med at søge i Tyskland – lige indtil den er lige i skabet. Og vi stopper
-        ikke før. Det skal være det bedste af det bedste.
+        Men hvis vi alligevel ikke har din drømmebil på lager, har vi tæt
+        samarbejde med mere end 50 forhandlere i Tyskland. Fra vi finder den
+        helt rigtige bil, kan den importeres og være klar til levering inden for
+        få arbejdsdage.
     - component: PictureLeft
-      image: /img/plads-til-drenge.jpg
+      image: /img/audi-a4-avant-20-tdi-s-line-3.jpg
       overskrift: PLADS TIL DRENGEDRØMME
       text: >-
         CAP Leasing bor for enden af Kattegatvej i Nordhavn. Lige ved siden af
@@ -50,7 +51,7 @@ components:
       overskrift: VASK OG PLEJE
       text: "Hvis din bil skal blive ved med at stå ”smuk som et stjerneskud” kan vi tilbyde professionel klargøring hos Olivers Autoshine, som er vores anden nabo i Nordhavn:\rDu kan læse mere om Olivers Autoshine og deres produkter på nedenstående link:\rhttp://www.oliversautoshine.dk"
     - component: PictureLeft
-      image: /img/forsikre.jpg
+      image: /img/img_0734 kopi.jpg
       overskrift: VI KAN FORSIKRE DIG
       text: >-
         CAP Leasing tilbyder en billig kaskoforsikring – også selvom du ikke er
