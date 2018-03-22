@@ -17,7 +17,7 @@ components:
         * Privat og erhvervsleasing
         * Finansiel / operationel leasing
     - component: Statement
-      image: /img/logo-payoff.jpg
+      image: /img/1.jpg
       menuname: Leasing
       overskrift: VI ER I GODT SELSKAB
       text: >-
