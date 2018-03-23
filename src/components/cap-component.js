@@ -13,7 +13,7 @@ const CapComponent = class CapComponent extends React.Component {
     const c = this.props.data.component
     switch (c) {
       case 'Hero':
-        return <Hero height="100vh" image={this.props.data.image} />
+        return <Hero height="100vh" image={this.props.data.image} data={this.props.data} />
         break
       case 'Statement':
         return (

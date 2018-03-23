@@ -74,6 +74,7 @@ const Hero = class Hero extends React.Component {
     console.log('error loading image')
   }
   render() {
+    console.log(this.props)
     return (
       <HeroContainer height={this.props.height ? this.props.height : 'auto'}>
         <ImageWrapper>
@@ -82,15 +83,9 @@ const Hero = class Hero extends React.Component {
         <TextContainer>
           <div className="padding">
             <TextBlock className="bottom" triggerOnce="true">
-              <h1>ALLE FORMER FOR LEASING</h1>
+              <h1>{this.props.data.overskrift}</h1>
               <span>
-                Cap Leasing tilbyder alle former for leasing
-                <ul>
-                  <li>Sæsonleasing</li>
-                  <li>Deleleasing/splitleasing</li>
-                  <li>Privat og erhvervsleasing</li>
-                  <li>Finansiel / operationel leasing</li>
-                </ul>
+                {this.props.data.text}
                 
               </span>
             </TextBlock>

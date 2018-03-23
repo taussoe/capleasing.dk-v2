@@ -43,8 +43,10 @@ const Instagram = class Instagram extends React.Component {
     this.instarequest = axios
       .get('https://www.instagram.com/capleasing/?__a=1')
       .then(result => {
+        // result.data.user.media.nodes
+        console.log(result.data.graphql.user.edge_owner_to_timeline_media.edges)
         instathis.setState({
-          data: result.data.user.media.nodes,
+          data: result.data.graphql.user.edge_owner_to_timeline_media.edges,
         })
       })
   }
@@ -66,8 +68,8 @@ const Instagram = class Instagram extends React.Component {
             padding="0px"
           >
             <ResponsiveImage
-              src={e.thumbnail_src}
-              alt={e.thumbnail_src}
+              src={e.node.display_url}
+              alt={e.node.display_url}
               key={`insta-${i}`}
             />
           </TextBlock>
