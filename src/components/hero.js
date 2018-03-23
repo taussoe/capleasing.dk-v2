@@ -91,8 +91,7 @@ const Hero = class Hero extends React.Component {
                   <li>Privat og erhvervsleasing</li>
                   <li>Finansiel / operationel leasing</li>
                 </ul>
-                Du kan læse mere om de forskellige leasingformer på nedenstående
-                link: https://www.interdan-leasing.dk/leasing
+                
               </span>
             </TextBlock>
           </div>
