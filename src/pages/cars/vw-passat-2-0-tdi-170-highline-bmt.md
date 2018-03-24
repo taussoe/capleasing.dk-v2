@@ -19,7 +19,7 @@ ventiler: '24'
 gear: '7'
 traek: Nej
 type: Personbil
-foerstereg: 31-05-2011
+foerstereg: 20-10-2011
 kilometer: '110000'
 braendstof: Diesel
 farve: Sortmetal
