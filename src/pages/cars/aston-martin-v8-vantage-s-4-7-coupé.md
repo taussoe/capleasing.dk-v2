@@ -17,7 +17,7 @@ pictures:
     - image: /img/fullsizeoutput_1a4.jpeg
     - image: /img/fullsizeoutput_1a2.jpeg
 year: '2014'
-monthlycost: 11.432 kr. inkl. moms
+monthlycost: 11432 kr. inkl. moms
 firstcost: '83125 kr. inkl. moms '
 value: 460000 kr. eks moms/afgift
 volume: '4,7'
