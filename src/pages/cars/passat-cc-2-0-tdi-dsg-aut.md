@@ -1,6 +1,6 @@
 ---
 path: /cars
-carmodel: VW
+carmodel: Volkswagen
 title: 'Passat CC 2,0 TDI DSG aut. '
 pictures:
   picturelist:
