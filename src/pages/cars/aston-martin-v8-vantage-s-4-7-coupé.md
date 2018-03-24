@@ -4,16 +4,18 @@ carmodel: ASTON MARTIN
 title: 'Aston Martin V8 Vantage S '
 pictures:
   picturelist:
-    - image: /img/aston-2017_09_15_capleasing_033.jpg
-    - image: /img/aston-2017_09_15_capleasing_038.jpg
-    - image: /img/aston-2017_09_15_capleasing_073.jpg
-    - image: /img/aston-img_8578.jpg
-    - image: /img/aston-img_8579.jpg
-    - image: /img/aston-img_8580.jpg
-    - image: /img/aston-img_8583.jpg
-    - image: /img/aston-img_8585.jpg
-    - image: /img/aston-img_8586.jpg
-    - image: /img/aston-img_8592.jpg
+    - image: /img/fullsizeoutput_199.jpeg
+    - image: /img/fullsizeoutput_19a.jpeg
+    - image: /img/fullsizeoutput_19b.jpeg
+    - image: /img/fullsizeoutput_19d.jpeg
+    - image: /img/fullsizeoutput_19d.jpeg
+    - image: /img/fullsizeoutput_19c.jpeg
+    - image: /img/fullsizeoutput_19e.jpeg
+    - image: /img/fullsizeoutput_19f.jpeg
+    - image: /img/fullsizeoutput_1a1.jpeg
+    - image: /img/fullsizeoutput_1a0.jpeg
+    - image: /img/fullsizeoutput_1a4.jpeg
+    - image: /img/fullsizeoutput_1a2.jpeg
 year: '2014'
 monthlycost: 11.432 kr. inkl. moms
 firstcost: '83125 kr. inkl. moms '
@@ -58,7 +60,7 @@ Månedlig ydelse 11.432 kr. inkl. moms
 
 Forsikring Tilbydes
 
-Fra 500 kr./mdr. ned til 18 år.
+Fra 580 kr./mdr. ned til 18 år.
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
@@ -76,6 +78,7 @@ Vi opbevarer også gerne din bil over vinteren
 
 Har vi ikke bilen på lager, dedikere vi os til at finde
 
-den helt rigtige og står for importen. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+den helt rigtige og står for importen. \
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 aut., aut.gear/tiptronic, 6 gear, alu., 19" alufælge, fuldaut. klima, sædevarme, højdejust. forsæde, el-ruder, el-spejle, cd/radio, airbag, esp, servo, 1 ejer, ikke ryger, service ok, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, kopholder, veloursæder, dellæder, lygtevasker, tågelygter, xenonlys, regnsensor, udv. temp. måler, auto. nedbl. bakspejl, varme i forrude, startspærre, infocenter, kørecomputer, fartpilot, ratgearskifte, parkeringssensor, fjernb. c.lås, c.lås, alarm
