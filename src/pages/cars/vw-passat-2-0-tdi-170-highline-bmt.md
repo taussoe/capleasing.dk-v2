@@ -20,7 +20,7 @@ gear: '7'
 traek: Nej
 type: Personbil
 foerstereg: 31-05-2011
-kilometer: '120000'
+kilometer: '110000'
 braendstof: Diesel
 farve: Sortmetal
 doere: '5'
@@ -29,13 +29,7 @@ moment: '350'
 topfart: '224'
 nultilhundrede: '8,6'
 ---
-ERHVERVSLEASING:
 
-Førstegangsydelse: 20.000 kr. eks. moms
-
-Månedlig ydelse: 1.888 kr. eks. Moms
-
-Restværdi: 90.000 kr. eks. moms/afgift
 
 PRIVATLEASING
 
