@@ -1,7 +1,7 @@
 ---
 path: /cars
 carmodel: Volkswagen
-title: 'VW Passat 2,0 TDi 170 Highline AUT. DSG'
+title: 'Passat 2,0 TDi 170 Highline AUT. DSG'
 pictures:
   picturelist:
     - image: /img/vw-passat-20-tdi-170-highline-bmt-img_8859.jpg
