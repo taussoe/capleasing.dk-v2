@@ -12,7 +12,6 @@ pictures:
     - image: /img/img_4094.jpeg
     - image: /img/img_4096.jpeg
     - image: /img/img_4097.jpg
-    - image: /img/img_4085.jpg
     - image: /img/img_4086.jpg
     - image: /img/img_4101.jpeg
     - image: /img/img_4090.jpeg
