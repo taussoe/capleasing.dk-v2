@@ -1,7 +1,7 @@
 ---
 path: /cars
 carmodel: JEEP
-title: 'Jeep Wrangler Unlimited 2,8 CRD Sport aut.'
+title: 'Wrangler Unlimited 2,8 CRD Sport aut.'
 pictures:
   picturelist:
     - image: /img/jeep-img_8431.jpg
