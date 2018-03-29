@@ -16,9 +16,9 @@ pictures:
     - image: /img/10.jpg
     - image: /img/fullsizeoutput_1bf.jpeg
 year: '2014'
-monthlycost: 8300 kr. inkl. moms
-firstcost: 126000 kr. inkl. moms
-value: 360000 kr. eks moms/afgift
+monthlycost: 9937 kr. eks. moms
+firstcost: 80000 kr. eks moms
+value: 300000 kr. eks moms/afgift
 volume: '3,6'
 cylindre: '6'
 ventiler: '24'
@@ -39,17 +39,19 @@ PDK 7 trin, PSM Sport m. Sport Plus, Chrono., 21" alufælge, fuldaut. klima, 2 z
 
 
 
-12 Måneders leasingperiode. 
+24 Måneders leasingperiode. 
 
 ERHVERVSLEASING: 
 
-Månedlig ydelse: 8.142 kr. eks. moms 
+Månedlig ydelse: 9.937 kr. eks. moms 
 
-Førstegangsydelse: 100.000 kr. eks. moms 
+Førstegangsydelse: 80.000 kr. eks. moms 
 
 Restværdi: 340.000 kr. eks moms/eks afgift 
 
 
+
+12 måneders leasingperiode 
 
 PRIVATLEASING: 
 
@@ -68,6 +70,8 @@ BESKATNINGSGRUNDLAG: 1.257.430
 Forsikring tilbydes: Fra 580 kr. per måned. ned til 18 år. 
 
 Kontakt os for mere info.
+
+
 
 I øvrigt
 
