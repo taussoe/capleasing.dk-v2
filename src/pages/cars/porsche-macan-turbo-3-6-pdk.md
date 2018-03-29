@@ -4,16 +4,17 @@ carmodel: PORSCHE
 title: 'Porsche Macan Turbo 3,6 PDK'
 pictures:
   picturelist:
-    - image: /img/porsche-macan-turbo-3-6-pdk-1.jpg
-    - image: /img/porsche-macan-turbo-3-6-pdk-2.jpg
-    - image: /img/porsche-macan-turbo-3-6-pdk-3.jpg
-    - image: /img/porsche-macan-turbo-3-6-pdk-4.jpg
-    - image: /img/porsche-macan-turbo-3-6-pdk-6.jpg
-    - image: /img/porsche-macan-turbo-3-6-pdk-7.jpg
-    - image: /img/porsche-macan-turbo-3-6-pdk-9.jpg
-    - image: /img/porsche-macan-turbo-3-6-pdk-10.jpg
-    - image: /img/porsche-macan-turbo-3-6-pdk-11.jpg
-    - image: /img/porsche-macan-turbo-3-6-pdk-12.jpg
+    - image: /img/fullsizeoutput_1ca.jpeg
+    - image: /img/fullsizeoutput_1b4.jpeg
+    - image: /img/fullsizeoutput_1b5.jpeg
+    - image: /img/fullsizeoutput_1b7.jpeg
+    - image: /img/fullsizeoutput_1b8.jpeg
+    - image: /img/lir.jpg
+    - image: /img/12.jpg
+    - image: /img/6.jpg
+    - image: /img/7.jpg
+    - image: /img/10.jpg
+    - image: /img/fullsizeoutput_1bf.jpeg
 year: '2014'
 monthlycost: 8300 kr. inkl. moms
 firstcost: 126000 kr. inkl. moms
@@ -34,43 +35,39 @@ moment: '550'
 topfart: '266'
 nultilhundrede: '4,8'
 ---
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-ERHVERVSLEASING:
-
-Førstegangsydelse: 91.000 kr. eks. moms
-
-Månedlig ydelse: 6.372 kr. eks. Moms
-
-Restværdi: 360.000 kr. eks. moms/afgift
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-PRIVATLEASING:
-
-Førstegangsydelse: 113.750 kr. inkl. moms
-
-Månedlig ydelse: 7.965 kr. inkl. moms
-
-Restværdi: 360.000 kr. eks. moms/afgift
+PDK 7 trin, PSM Sport m. Sport Plus, Chrono., 21" alufælge, fuldaut. klima, 2 zone klima, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, el-soltag, glastag, el-ruder, bakkamera, el betjent bagklap, dæktryksmåler, navigation, multifunktionsrat, bluetooth, isofix, bagagerumsdækken, xenonlys, led forlygter, kurvelys og meget mere. 
 
 
 
-SPLITLEASING TILBYDES:
+12 Måneders leasingperiode. 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ERHVERVSLEASING: 
 
+Månedlig ydelse: 8.142 kr. eks. moms 
 
+Førstegangsydelse: 100.000 kr. eks. moms 
 
-Forsikring Tilbydes
-
-Fra 500 kr./mdr. ned til 18 år. 
-
-Løbetid: 12 måneder med mulighed for forlængelse.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Restværdi: 340.000 kr. eks moms/eks afgift 
 
 
+
+PRIVATLEASING: 
+
+Månedlig ydelse: 10.178 kr. inkl. moms 
+
+Førstegangsydelse: 125.000 kr. inkl. moms 
+
+
+
+SPLITLEASING TILBYDES: 
+
+BESKATNINGSGRUNDLAG: 1.257.430 
+
+
+
+Forsikring tilbydes: Fra 580 kr. per måned. ned til 18 år. 
+
+Kontakt os for mere info.
 
 I øvrigt
 
@@ -89,7 +86,3 @@ I øvrigt
 \* Har vi ikke bilen på lager, dedikere vi os til at finde 
 
 den helt rigtige og står for importen.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	elektrisk panoramaglastag, 21" sport classic alufælge, elektrisk svingbart træk, sorte GTS sportssæder i fuldlæder, 18-vejs el indst. forsæder m. memory, sport chrono, loftshimmel i sort alcantara, el-bagklap, Porsche navigationssystem m. offroad navigation, bakkamera, BOSE soundsystem, Porsche Dynamic Light System (PDLS), sport design pakke, 7-trins aut.gear, parkeringssensor for og bag, 3-eget læder sportsrat m. multifunktion og varme, Porsche Communication Management (PCM), dynamisk fjernlys, el indst. ratstamme m. memory, Porsche Active Suspension Management (PASM), læder på instrumentbord, garageportsåbner, xenonlys, 2 zone klima, ratgearskifte, bluetooth, fartpilot m. hastighedsbegrænser, automatisk skiltegenkendelse, el-spejle m/varme og klapfunktion, interiørlister i sort klaverlak, radio m. CD-boks, dæktrykskontrol, sædevarme, tågelygter, regnsensor, auto start/stop, rødlakerede bremsekalibre, fjernb. c.lås, kørecomputer, infocenter, startspærre, udv. temp. måler, lygtevasker, håndfrit til mobil, 4x el-ruder, abs, esp, servo, indfarvede kofangere, AUX-
-
-og USB-indgang, frakobling af passagerairbag, bagagerumsdækken, armlæn, isofix, kopholder, splitbagsæde, læderrat, tagræling, ikke ryger, diesel partikel filter, lev. nysynet, kan også leveres som VAN,
