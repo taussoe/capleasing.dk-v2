@@ -39,21 +39,23 @@ PDK 7 trin, PSM Sport m. Sport Plus, Chrono., 21" alufælge, fuldaut. klima, 2 z
 
 
 
-24 Måneders leasingperiode. 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ KAMPAGNETPRIS \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 ERHVERVSLEASING: 
 
+24 måneder
+
 Månedlig ydelse: 9.937 kr. eks. moms 
 
-Førstegangsydelse: 80.000 kr. eks. moms 
+Førstegangsydelse: 70.000 kr. eks. moms 
 
 Restværdi: 340.000 kr. eks moms/eks afgift 
 
-
-
-12 måneders leasingperiode 
+ 
 
 PRIVATLEASING: 
+
+12 måneder
 
 Månedlig ydelse: 10.178 kr. inkl. moms 
 
