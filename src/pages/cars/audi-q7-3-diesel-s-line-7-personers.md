@@ -1,7 +1,7 @@
 ---
 path: /cars
 carmodel: AUDI
-title: 'AUDI Q7 3, Diesel S-Line 7 Personers'
+title: AUDI Q7 3.0 Diesel S-Line 7 Personers
 pictures:
   picturelist:
     - image: /img/audi-q7-3-diesel-s-line-img_3632.jpg
