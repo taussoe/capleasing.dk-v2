@@ -1,7 +1,7 @@
 ---
 path: /cars
 carmodel: BMW
-title: 530d xDrive M-pakke
+title: BMW 530d xDrive M-pakke
 pictures:
   picturelist:
     - image: /img/img-9569.jpg
