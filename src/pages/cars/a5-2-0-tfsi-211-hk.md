@@ -1,7 +1,7 @@
 ---
 path: /cars
 carmodel: AUDI
-title: A5 2.0 TFSI 211 hk
+title: Audi A5 2.0 TFSI 211 hk
 pictures:
   picturelist:
     - image: /img/img_0734 kopi.jpg
