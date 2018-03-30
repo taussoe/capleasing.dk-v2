@@ -1,6 +1,6 @@
 ---
 path: /cars
-carmodel: Mercedes-Benz
+carmodel: MERCEDES
 title: C220 Coupé
 pictures:
   picturelist:
