@@ -16,7 +16,7 @@ pictures:
     - image: /img/bmw-320d-20-touring-aut-img_8936.jpg
 year: '0'
 monthlycost: '2226'
-firstcost: '120000'
+firstcost: '39000'
 value: '120000'
 volume: '2,4'
 cylindre: '4'
