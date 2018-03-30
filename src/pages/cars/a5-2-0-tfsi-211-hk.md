@@ -40,6 +40,8 @@ Månedlig ydelse: 31.200 kr. eks. Moms
 
 Restværdi: Ring for info
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
 PRIVATLEASING
 
 Førstegangsydelse: 39.000kr. inkl. moms
