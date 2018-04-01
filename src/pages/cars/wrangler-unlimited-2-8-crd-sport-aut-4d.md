@@ -50,9 +50,9 @@ ERHVERVSLEASING:
 
 36 måneder
 
-Månedlig ydelse: 0 kr. eks. Moms 
+Månedlig ydelse: 4.305 kr. eks. Moms 
 
-Førstegangsydelse: 4.305 kr. eks. Moms
+Førstegangsydelse: 0 kr. eks. Moms
 
 Restværdi: 85.000 kr. eks. moms/afgift
 
