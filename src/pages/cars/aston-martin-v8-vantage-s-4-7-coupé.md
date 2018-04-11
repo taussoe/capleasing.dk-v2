@@ -36,15 +36,17 @@ moment: '470'
 topfart: '305'
 nultilhundrede: '4,3'
 ---
-Sæsonleasing:
+12 mdr. aktiv aftale 
+
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ERHVERVSLEASING:
 
-Førstegangsydelse: 66.500 kr. eks. moms
+Førstegangsydelse: 80.500 kr. eks. moms
 
-Månedlig ydelse: 9.146 kr. eks. Moms
+Månedlig ydelse: 7.925 kr. eks. Moms
 
 Restværdi: 445.000 kr. eks. moms/afgift
 
@@ -52,9 +54,9 @@ Restværdi: 445.000 kr. eks. moms/afgift
 
 PRIVATLEASING
 
-Førstegangsydelse: 83.125 kr.  inkl. moms
+Førstegangsydelse: 100.000 kr.  inkl. moms
 
-Månedlig ydelse 11.432 kr. inkl. moms
+Månedlig ydelse 9.907 kr. inkl. moms
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
