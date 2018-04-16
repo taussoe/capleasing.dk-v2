@@ -64,27 +64,29 @@ collections:
     fields:
       - {label: "Path", name: "path", widget: "hidden", default: "/cars"}
       - {label: "Bilmærke", name: "carmodel", widget: "relation", collection: "carmodels", searchFields:[title], valueField: "title"}
-      - {label: "Bil", name: "title", widget: "string"}
-      - {label: "Tekst", name: "body", widget: "markdown"}
-      - {label: Billeder, name: pictures, widget: object, fields: [{label: Billeder, name: picturelist, widget: list, fields: [{label: Image, name: image, widget: image}]}]}
-      - {label: "Årgang", name: "year", widget: "string"}
-      - {label: "Mdl. ydelse", name: "monthlycost", widget: "string"}
-      - {label: "Førstegangs ydelse", name: "firstcost", widget: "string"}
-      - {label: "Restværdi", name: "value", widget: "string"}
-      - {label: "Volumen", name: "volume", widget: "string"}
-      - {label: "Cylindre", name: "cylindre", widget: "string"}
-      - {label: "Antal ventiler", name: "ventiler", widget: "string"}
-      - {label: "Gear", name: "gear", widget: "string"}
-      - {label: "Træk", name: "traek", widget: "string"}
-      - {label: "Type", name: "type", widget: "string"}
-      - {label: "Første reg.", name: "foerstereg", widget: "string"}
-      - {label: "Kilometer", name: "kilometer", widget: "string"}
-      - {label: "Brændstof", name: "braendstof", widget: "string"}
-      - {label: "Farve", name: "farve", widget: "string"}
-      - {label: "Døre", name: "doere", widget: "string"}
-      - {label: "Effekt", name: "effekt", widget: "string"}
-      - {label: "Moment", name: "moment", widget: "string"}
-      - {label: "Topfart", name: "topfart", widget: "string"}
-      - {label: "0-100", name: "nultilhundrede", widget: "string"}
+      - {label: "Bilbasen url", name: "bilinfourl", widget: "string"}
+      - {label: "Hent automatisk", name: "downloaded", widget: "boolean", default: true}
+      - {label: "Bil", name: "title", widget: "string", required: true}
+      - {label: "Tekst", name: "body", widget: "markdown", required: false}
+      - {label: Billeder, name: pictures, widget: object, fields: [{label: Billeder, name: picturelist, widget: list, required: false, fields: [{label: Image, name: image, widget: image}]}], required: false}
+      - {label: "Årgang", name: "year", widget: "string", required: false}
+      - {label: "Mdl. ydelse", name: "monthlycost", widget: "string", required: false}
+      - {label: "Førstegangs ydelse", name: "firstcost", widget: "string", required: false}
+      - {label: "Restværdi", name: "value", widget: "string", required: false}
+      - {label: "Volumen", name: "volume", widget: "string", required: false}
+      - {label: "Cylindre", name: "cylindre", widget: "string", required: false}
+      - {label: "Antal ventiler", name: "ventiler", widget: "string", required: false}
+      - {label: "Gear", name: "gear", widget: "string", required: false}
+      - {label: "Træk", name: "traek", widget: "string", required: false}
+      - {label: "Type", name: "type", widget: "string", required: false}
+      - {label: "Første reg.", name: "foerstereg", widget: "string", required: false}
+      - {label: "Kilometer", name: "kilometer", widget: "string", required: false}
+      - {label: "Brændstof", name: "braendstof", widget: "string", required: false}
+      - {label: "Farve", name: "farve", widget: "string", required: false}
+      - {label: "Døre", name: "doere", widget: "string", required: false}
+      - {label: "Effekt", name: "effekt", widget: "string", required: false}
+      - {label: "Moment", name: "moment", widget: "string", required: false}
+      - {label: "Topfart", name: "topfart", widget: "string", required: false}
+      - {label: "0-100", name: "nultilhundrede", widget: "string", required: false}
 
 
