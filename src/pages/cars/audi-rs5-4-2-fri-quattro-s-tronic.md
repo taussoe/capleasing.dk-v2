@@ -1,7 +1,7 @@
 ---
 path: /cars
 carmodel: AUDI
-bilinfourl: 'https://capleasing.dk/'
+bilinfourl: www.capleasing.dk
 downloaded: false
 title: 'AUDI RS5 4,2 FRI QUATTRO S-Tronic'
 pictures:
