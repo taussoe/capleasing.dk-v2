@@ -22,7 +22,7 @@ pictures:
 year: '2014'
 monthlycost: '9200'
 firstcost: '99000'
-value: '420000'
+value: '420000 kr. eks moms/afgift '
 volume: '3,4'
 cylindre: '6'
 ventiler: '32'
