@@ -12,10 +12,13 @@ components:
       text: |-
         CAP Leasing tilbyder alle former for leasing
 
-        * Sæsonleasing
-        * Deleleasing/splitleasing
-        * Privat & erhvervsleasing
-        * Finansiel & operationel leasing
+        Sæsonleasing
+
+        Deleleasing/splitleasing
+
+        Privat & erhvervsleasing
+
+        Finansiel & operationel leasing
     - component: Statement
       image: /img/1.jpg
       menuname: Leasing
