@@ -4,20 +4,6 @@ carmodel: AUDI
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/audi/a4/20-tdi-177-avant-multitr-5d/3667818'
 downloaded: false
 title: 'A4 2.0 TDI S-line Avant '
-year: 12/2012
-monthlycost: '2980'
-firstcost: '39.000'
-value: '120.000 '
-effekt: '177'
-moment: '380'
-nultilhundrede: '8,1'
-topfart: '211'
-cylindre: '4'
-gear: 8 gear
-doere: '5'
-kilometer: '150.000'
-foerstereg: null
-farve: Sortmetal
 pictures:
   picturelist:
     - image: /img/bot/2146502765.jpg
@@ -28,6 +14,19 @@ pictures:
     - image: /img/bot/2146502765_5.jpg
     - image: /img/bot/2146502765_6.jpg
     - image: /img/bot/2146502765_7.jpg
+year: 12/2012
+monthlycost: '2980'
+firstcost: '39000'
+value: '120.000 '
+cylindre: '4'
+gear: 8 gear
+kilometer: '150.000'
+farve: Sortmetal
+doere: '5'
+effekt: '177'
+moment: '380'
+topfart: '211'
+nultilhundrede: '8,1'
 ---
 PRIVATLEASING: 
 Førstegangsydelse: kr. 39.000 inkl. moms
