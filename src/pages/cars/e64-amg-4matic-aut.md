@@ -39,7 +39,7 @@ kilometer: '80000'
 braendstof: benzon
 farve: Daytona gray metallik
 doere: '4'
-effekt: 557 hk
+effekt: 585 hk
 moment: 720 nm
 topfart: 250 km/t
 nultilhundrede: '3,6'
