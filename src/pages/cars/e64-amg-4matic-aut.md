@@ -1,9 +1,29 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
-bilinfourl: 'https://www.bilbasen.dk/brugt/bil/mercedes/e63/55-amg-aut-4-m-4d/3698232'
+bilinfourl: capleaisng.dk
 downloaded: true
 title: MERCEDES E63 AMG 4MATIC AUT.
+pictures:
+  picturelist:
+    - image: /img/img_4450.jpg
+    - image: /img/img_4451.jpg
+    - image: /img/img_4452.jpg
+    - image: /img/img_4453.jpg
+    - image: /img/img_4454.jpg
+    - image: /img/img_4456.jpg
+    - image: /img/img_4458.jpg
+    - image: /img/img_4460.jpg
+    - image: /img/img_4459.jpg
+    - image: /img/img_4461.jpg
+    - image: /img/img_4465.jpg
+    - image: /img/img_4466.jpg
+    - image: /img/img_4470.jpg
+    - image: /img/img_4471.jpg
+    - image: /img/img_4463.jpg
+    - image: /img/img_4464.jpg
+    - image: /img/img_4473.jpg
+    - image: /img/img_4474.jpg
 year: '2015'
 monthlycost: '6880'
 firstcost: '96000'
