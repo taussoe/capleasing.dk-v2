@@ -3,7 +3,7 @@ path: /cars
 carmodel: Mercedes-Benz
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/mercedes/e63/55-amg-aut-4-m-4d/3698232'
 downloaded: true
-title: E64 AMG 4MATIC AUT.
+title: E63 AMG 4MATIC AUT.
 year: '2015'
 monthlycost: '6880'
 firstcost: '96000'
