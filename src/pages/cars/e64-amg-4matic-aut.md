@@ -2,8 +2,8 @@
 path: /cars
 carmodel: Mercedes-Benz
 bilinfourl: capleaisng.dk
-downloaded: true
-title: MERCEDES E63 AMG 4MATIC AUT.
+downloaded: false
+title: Mercedes E63 AMG 4MATIC AUT.
 pictures:
   picturelist:
     - image: /img/img_4450.jpg
