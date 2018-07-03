@@ -20,8 +20,7 @@ collections:
       - {label: "Uddannelse", name: "contacteducation", widget: "string", required: false}
       - {label: "Telefon", name: "contacttelephone", widget: "string"}
       - {label: "Email", name: "contactemail", widget: "string"}
-    meta:
-      - {label: "Order", name: "order", widget: "number"}
+      - {label: "Order", name: "order", widget: "number", required: false}
   - name: "pages"
     label: "Pages"
     editor:
