@@ -6,5 +6,6 @@ contacttitle: 'Juridisk ansvarlig  '
 contacteducation: 'Advokat '
 contacttelephone: +45 30906030
 contactemail: fa@advoco.dk
+order: '3'
 ---
 
