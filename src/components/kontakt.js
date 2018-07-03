@@ -5,11 +5,13 @@ import { media } from './media-query'
 
 const KontaktContainer = styled.div`
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   ${media.phone`
     flex-direction: column;
   `};
   .kontaktperson {
+    width: 250px;
     margin: 10px;
     ${media.phone`
       padding-bottom: 40px;
@@ -45,7 +47,7 @@ export default props => (
           {e.node.frontmatter.contactimage && (
             <div className="image-container">
               <ResponsiveImage
-                src={e.node.frontmatter.contactimage}
+                src={encodeURIComponent(e.node.frontmatter.contactimage)}
                 width="250px"
               />
             </div>
@@ -62,7 +64,7 @@ export default props => (
             <div className="info">{e.node.frontmatter.contacteducation}</div>
           )}
           {e.node.frontmatter.contacttelephone && (
-            <div className="info">{e.node.frontmatter.contacttelephone}</div>
+            <div className="info"><a href={`tel:${e.node.frontmatter.contacttelephone}`}>{e.node.frontmatter.contacttelephone}</a></div>
           )}
           {e.node.frontmatter.contactemail && (
             <div className="info">
