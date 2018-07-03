@@ -9,6 +9,7 @@ const KontaktContainer = styled.div`
   justify-content: center;
   ${media.phone`
     flex-direction: column;
+    align-items: center;
   `};
   .kontaktperson {
     width: 250px;
@@ -18,6 +19,7 @@ const KontaktContainer = styled.div`
       `};
     .image-container {
       margin-bottom: 30px;
+      height: 350px;
       ${media.phone`
       height: 500px;
       `};
@@ -38,10 +40,29 @@ const KontaktContainer = styled.div`
     }
   }
 `
+ function compare(a, b) {
+  // Use toUpperCase() to ignore character casing
+  const genreA = a.Order.toUpperCase();
+  const genreB = b.Order.toUpperCase();
 
+  let comparison = 0;
+  if (genreA > genreB) {
+    comparison = 1;
+  } else if (genreA < genreB) {
+    comparison = -1;
+  }
+  return comparison;
+}
+const contactSort = (props) => {
+  let sorted = props.data
+  sorted.sort((a,b)=>{
+    return parseInt(a.node.frontmatter.order) - parseInt(b.node.frontmatter.order)
+  })
+  return sorted
+}
 export default props => (
   <KontaktContainer>
-    {props.data.map((e, i) => {
+    {contactSort(props).map((e, i) => {
       return (
         <div key={`kontaktperson-${i}`} className="kontaktperson">
           {e.node.frontmatter.contactimage && (

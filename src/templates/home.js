@@ -264,6 +264,7 @@ export const pageQuery = graphql`
             contacteducation
             contacttelephone
             contactemail
+            order
           }
         }
       }
