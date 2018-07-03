@@ -6,5 +6,6 @@ contacttitle: 'Økonomi '
 contacteducation: 'Cand. Merc. '
 contacttelephone: '40205729'
 contactemail: finance@capleasing.dk
+order: '4'
 ---
 
