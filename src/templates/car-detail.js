@@ -278,7 +278,7 @@ export default class Showroom extends React.Component {
   render() {
     let slide = {}
     let thumbs = {}
-    if (this.props.data.markdownRemark) {
+    if (this.props.data.markdownRemark && this.props.data.markdownRemark.frontmatter.pictures) {
       slide = this.props.data.markdownRemark.frontmatter.pictures.picturelist.map(
         (item, index) => {
           if (item.image && item.image.childImageSharp) {
@@ -291,7 +291,7 @@ export default class Showroom extends React.Component {
         }
       )
     }
-    if (this.props.data.markdownRemark) {
+    if (this.props.data.markdownRemark && this.props.data.markdownRemark.frontmatter.pictures) {
       thumbs = this.props.data.markdownRemark.frontmatter.pictures.picturelist.map(
         (item, index) => {
           if (item.image && item.image.childImageSharp) {
@@ -334,14 +334,15 @@ export default class Showroom extends React.Component {
             {
               property: 'og:image:secure_url',
               content: `https://capleasing.dk${this.props.data.markdownRemark
+              .frontmatter.pictures ? this.props.data.markdownRemark
                 .frontmatter.pictures.picturelist[0].image.childImageSharp.sizes
-                .src}`,
+                .src : '/img/plads-til-drenge.jpg'}`,
             },
             {
               property: 'og:image',
-              content: `https://capleasing.dk${this.props.data.markdownRemark
+              content: `https://capleasing.dk${this.props.data.markdownRemark.frontmatter.pictures ? this.props.data.markdownRemark
                 .frontmatter.pictures.picturelist[0].image.childImageSharp.sizes
-                .src}`,
+                .src : '/img/plads-til-drenge.jpg'}`,
             },
           ]}
         />
