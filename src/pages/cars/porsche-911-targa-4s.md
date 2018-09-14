@@ -8,8 +8,21 @@ year: '2014'
 monthlycost: '14500'
 firstcost: '175000'
 value: '597000'
+volume: '3,8'
+cylindre: '6'
+ventiler: '24'
+gear: '7'
+traek: 4-hjulstræk
+type: Targa
 foerstereg: '2014'
 kilometer: '32000'
+braendstof: Benzin
+farve: Sort
+doere: '2'
+effekt: 400 HK
+moment: '440'
+topfart: '297'
+nultilhundrede: '4,3'
 ---
 PRIVATLEASING:
 
