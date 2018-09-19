@@ -40,6 +40,17 @@ const Instagram = class Instagram extends React.Component {
   }
   getInstagram = () => {
     const instathis = this
+    const userInfoSource = axios.get('https://www.instagram.com/capleasing/').then(result => {
+      const jsonObject = result.data.match(/<script type="text\/javascript">window\._sharedData = (.*)<\/script>/)[1].slice(0, -1)
+      const jsonArr = JSON.parse(jsonObject)
+      instathis.setState({
+        data: jsonArr.entry_data.ProfilePage[0].graphql.user.edge_owner_to_timeline_media.edges
+      })
+    })
+
+    // userInfoSource.data contains the HTML from Axios
+    //return JSON.parse(jsonObject)
+    /*
     this.instarequest = axios
       .get('https://www.instagram.com/capleasing/?__a=1')
       .then(result => {
@@ -49,6 +60,7 @@ const Instagram = class Instagram extends React.Component {
           data: result.data.graphql.user.edge_owner_to_timeline_media.edges,
         })
       })
+      */
   }
   componentDidMount() {
     this.getInstagram()
