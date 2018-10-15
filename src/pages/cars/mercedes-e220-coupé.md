@@ -32,19 +32,11 @@ Månedlig ydelse: kr. 4.000 inkl. moms
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ERHVERVSLEASING:
 
+Førstegangsydelse: kr. 52.800 ex. moms
 
-
-Førstegangsydelse: kr. 52.800 inkl. moms
-
-Månedlig ydelse: kr. 3.200 inkl. moms
-
-
-
-
+Månedlig ydelse: kr. 3.200 ex. moms
 
 Forsikring Tilbydes:
 
@@ -53,8 +45,6 @@ Fra 500 kr./mdr. ned til 18 år.
 Løbetid: 12 måneder med mulighed for forlængelse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 \* Fri kilometer i hele leasingperioden.
 
@@ -69,8 +59,6 @@ Løbetid: 12 måneder med mulighed for forlængelse.
 \* Vi opbevarer også gerne din bil over vinteren
 
 \* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
