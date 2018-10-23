@@ -20,10 +20,10 @@ pictures:
     - image: /img/bot/2146311811_11.jpg
     - image: /img/bot/2146311811_12.jpg
 year: 12/2013
-monthlycost: '9800'
-firstcost: '125.000'
-value: '355.000'
-volume: '4.806'
+monthlycost: '7598'
+firstcost: '125000'
+value: '355000'
+volume: '4806'
 cylindre: '8'
 ventiler: '32'
 gear: 7 gear
