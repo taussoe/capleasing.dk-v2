@@ -5,5 +5,6 @@ title: Toke Schäffer
 contacttitle: 'Import & Hjemtagelse '
 contacttelephone: '25703860'
 contactemail: info@capleasing.dk
+order: '5'
 ---
 
