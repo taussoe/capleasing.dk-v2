@@ -1,6 +1,6 @@
 ---
 path: /kontaktpersoner
-contactimage: /img/nyholm .jpg
+contactimage: /img/fullsizeoutput_7f0.jpeg
 title: Asger Broberg
 contacttitle: 'Leasingrådgiver '
 contacttelephone: '29990100'
