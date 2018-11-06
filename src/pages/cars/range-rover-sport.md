@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: LAND ROVER
+bilinfourl: '0'
+downloaded: false
 title: Range Rover Sport
 pictures:
   picturelist:
@@ -19,10 +21,10 @@ volume: '3,0'
 cylindre: '6'
 ventiler: '24'
 gear: '6'
-traek: nej
-type: Personbil
+traek: 4x4
+type: SUV
 foerstereg: 20.10.2011
-kilometer: '99.000 km. '
+kilometer: '99000 km. '
 braendstof: Diesel
 farve: Koksgråmetal
 doere: Kokgrå
