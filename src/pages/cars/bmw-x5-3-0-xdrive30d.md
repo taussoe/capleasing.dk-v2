@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: BMW
+bilinfourl: '0'
+downloaded: false
 title: 'BMW X5, 3,0 xDrive30d'
 pictures:
   picturelist:
@@ -14,7 +16,7 @@ pictures:
     - image: /img/bmw-x5-30-xdrive30d-img_8852.jpg
     - image: /img/bmw-x5-30-xdrive30d-img_8853.jpg
     - image: /img/bmw-x5-30-xdrive30d-img_8856.jpg
-year: '0'
+year: '2011'
 monthlycost: '3244'
 firstcost: '47200'
 value: '141375'
