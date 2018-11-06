@@ -1,19 +1,22 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
+bilinfourl: '0'
+downloaded: false
 title: 'Mercedes GL320 3,0 CDi aut. 4-M 5d'
 pictures:
   picturelist:
-    - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8877.jpg
-    - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8878.jpg
-    - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8880.jpg
-    - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8884.jpg
     - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8887.jpg
-    - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8890.jpg
-    - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8892.jpg
-    - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8895.jpg
+    - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8877.jpg
     - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8897.jpg
-    - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8898.jpg
+    - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8884.jpg
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - {}
 year: '0'
 monthlycost: '2337'
 firstcost: '23200'
