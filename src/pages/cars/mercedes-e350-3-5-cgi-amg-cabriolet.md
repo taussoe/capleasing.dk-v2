@@ -1,26 +1,23 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
+bilinfourl: '0'
+downloaded: false
 title: 'Mercedes E350 3,5 CGi AMG Cabriolet'
 pictures:
   picturelist:
-    - image: /img/mercedes-e350-3-5-cgi-amg-cabriolet-5.jpg
-    - image: >-
-        /img/mercedes-e350-3-5-cgi-amg-cabriolet-22520174_493678870988705_6217093832221091832_o.jpg
-    - image: >-
-        /img/mercedes-e350-3-5-cgi-amg-cabriolet-22538807_493679057655353_3119002132310711943_o.jpg
     - image: >-
         /img/mercedes-e350-3-5-cgi-amg-cabriolet-22548597_493678874322038_3044463994989859696_o.jpg
     - image: >-
-        /img/mercedes-e350-3-5-cgi-amg-cabriolet-22548734_493678930988699_8953699761004981834_o.jpg
-    - image: >-
-        /img/mercedes-e350-3-5-cgi-amg-cabriolet-22550323_493678867655372_7258972026022402567_o.jpg
+        /img/mercedes-e350-3-5-cgi-amg-cabriolet-22520174_493678870988705_6217093832221091832_o.jpg
     - image: >-
         /img/mercedes-e350-3-5-cgi-amg-cabriolet-22552979_493678927655366_867409914313332469_o.jpg
-    - image: >-
-        /img/mercedes-e350-3-5-cgi-amg-cabriolet-22553125_493678997655359_2804091354089130028_o.jpg
-    - image: >-
-        /img/mercedes-e350-3-5-cgi-amg-cabriolet-22713371_493678990988693_4904721637357496668_o.jpg
+    - image: /img/mercedes-e350-3-5-cgi-amg-cabriolet-5.jpg
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
 year: '0'
 monthlycost: '3493'
 firstcost: '45000'
