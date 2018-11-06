@@ -22,9 +22,9 @@ firstcost: '47200'
 value: '141375'
 volume: '3,0'
 cylindre: '6'
-ventiler: '0'
+ventiler: '24'
 gear: '8'
-traek: Nej
+traek: 4-hjulstræk
 type: Personbil
 foerstereg: 01-04-2011
 kilometer: '160000'
