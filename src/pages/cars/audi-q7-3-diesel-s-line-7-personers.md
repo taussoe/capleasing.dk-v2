@@ -1,7 +1,9 @@
 ---
 path: /cars
 carmodel: AUDI
-title: AUDI Q7 3.0 Diesel S-Line 7 Personers
+bilinfourl: '0'
+downloaded: false
+title: Audi Q7 3.0 TDI S-Line 7 Personer
 pictures:
   picturelist:
     - image: /img/audi-q7-3-diesel-s-line-img_3632.jpg
@@ -15,16 +17,16 @@ pictures:
     - image: /img/audi-q7-3-diesel-s-line-img_3648.jpg
     - image: /img/audi-q7-3-diesel-s-line-img_3649.jpg
     - image: /img/audi-q7-3-diesel-s-line-img_3650.jpg
-year: '0'
+year: '2010'
 monthlycost: '3120'
 firstcost: '36000'
 value: '134000'
 volume: '3,0'
 cylindre: '6'
-ventiler: '0'
-gear: '0'
-traek: '0'
-type: '0'
+ventiler: '24'
+gear: '7'
+traek: 4-hjulstræk
+type: 'SUV '
 foerstereg: 10-11-2009
 kilometer: '173500'
 braendstof: Diesel
