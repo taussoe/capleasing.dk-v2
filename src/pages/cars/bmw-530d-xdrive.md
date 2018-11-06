@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: BMW
+bilinfourl: '0'
+downloaded: false
 title: BMW 530D xDrive
 pictures:
   picturelist:
@@ -13,16 +15,16 @@ pictures:
     - image: /img/bmw-530d-xdrive-img_8501.jpg
     - image: /img/bmw-530d-xdrive-img_8503.jpg
     - image: /img/bmw-530d-xdrive-img_8504.jpg
-year: '0'
+year: '2012'
 monthlycost: '3148'
 firstcost: '32000'
 value: '130000'
 volume: '3,0'
 cylindre: '6'
-ventiler: '0'
-gear: '0'
-traek: '0'
-type: '0'
+ventiler: '24'
+gear: '7'
+traek: Baghjul
+type: Sedan
 foerstereg: '2011'
 kilometer: '125000'
 braendstof: Diesel
