@@ -37,17 +37,19 @@ nultilhundrede: '6,4'
 ---
 PRIVATLEASING: 
 Førstegangsydelse: kr. 39.000 inkl. moms
-Md. ydelse : kr. 5.600 inkl. Moms
-__________________________________________
+Md. ydelse: kr. 5.600 inkl. moms
+
+- - -
 
 ERHVERVSLEASING: 
 Førstegangsydelse: kr. 31.200 ex. moms.
 Md. ydelse : kr. 4.480 ex. moms. 
 
-Forsikring Tilbydes:
+Forsikring tilbydes:
 Fra 500 kr./mdr. ned til 18 år. 
 Løbetid: 12 måneder med mulighed for forlængelse.
-__________________________________________
+
+- - -
 
 * Fri kilometer i hele leasingperioden.
 * Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
@@ -56,9 +58,6 @@ __________________________________________
 * Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
 * Vi opbevarer også gerne din bil over vinteren
 * Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
-
-
-
 
 aut.gear/tiptronic, 19" alufælge, fuldaut. klima, fjernb. c.lås, parkeringssensor, fartpilot, kørecomputer, infocenter, startspærre, auto. nedbl. bakspejl, udv. temp. måler, el indst. forsæder, glastag, el-soltag, 4x el-ruder, el-spejle, el-spejle m/varme, bakkamera, adaptiv fartpilot, automatisk start/stop, el betjent bagklap, dæktryksmåler, adaptiv undervogn, cd/radio, radio med cd-boks, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, nightvision, armlæn, isofix, bagagerumsdækken, kopholder, læderindtræk, læderrat, lygtevasker, tågelygter, xenonlys, automatisk lys, led forlygter, kurvelys, abs, antispin, esp, servo, hvide blink, tonede ruder, lev. nysynet, service ok, ikke ryger, nysynet
 Farve: Hvid
