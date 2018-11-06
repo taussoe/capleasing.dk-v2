@@ -3,7 +3,7 @@ path: /cars
 carmodel: AUDI
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/audi/q7/30-tdi-245-quattro-tiptr-5d/3668317'
 downloaded: false
-title: 'Audi Q7 4,2 TDI Quattro S-Line'
+title: 'Audi Q7 4,2 TDI quattro S-Line'
 pictures:
   picturelist:
     - image: /img/bot/2146502233.jpg
