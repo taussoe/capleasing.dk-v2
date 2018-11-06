@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: JEEP
+bilinfourl: '0'
+downloaded: false
 title: 'Wrangler Unlimited 2,8 CRD Sport aut. 4d'
 pictures:
   picturelist:
