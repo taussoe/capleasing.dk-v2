@@ -1,7 +1,9 @@
 ---
 path: /cars
 carmodel: BMW
-title: 'KAMPAGNE BMW 335i 3,0 Cabriolet aut. 2d'
+bilinfourl: '0'
+downloaded: false
+title: BMW 335i Cabriolet
 pictures:
   picturelist:
     - image: /img/bmw-335i-30-cabriolet-aut-2d-img_8370.jpg
@@ -13,15 +15,15 @@ pictures:
     - image: /img/bmw-335i-30-cabriolet-aut-2d-img_8378.jpg
     - image: /img/bmw-335i-30-cabriolet-aut-2d-img_8382.jpg
     - image: /img/bmw-335i-30-cabriolet-aut-2d-img_8385.jpg
-year: '0'
+year: '2012'
 monthlycost: '2720'
 firstcost: '30500'
 value: '140000'
 volume: '3,0'
 cylindre: '6'
-ventiler: '0'
+ventiler: '24'
 gear: '7'
-traek: Nej
+traek: Baghjul
 type: Personbil
 foerstereg: 28-03-2012
 kilometer: '200000'
