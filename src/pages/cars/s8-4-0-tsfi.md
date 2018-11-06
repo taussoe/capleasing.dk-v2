@@ -3,24 +3,7 @@ path: /cars
 carmodel: AUDI
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/audi/s8/40-tfsi-quattro-tiptr-4d/3751117'
 downloaded: false
-title: 'S8 4,0 TSFI'
-year: 3/2015
-monthlycost: '9200'
-firstcost: '99000'
-value: '370000'
-volume: '4,0'
-cylindre: '8'
-ventiler: '36'
-gear: 8 gear
-foerstereg: null
-kilometer: '65.000'
-braendstof: benzin
-farve: Metal
-effekt: '520'
-moment: '650'
-topfart: '250'
-nultilhundrede: '4,1'
-doere: '4'
+title: 'Audi S8 4,0 TFSI'
 pictures:
   picturelist:
     - image: /img/bot/2146423723.jpg
@@ -41,6 +24,24 @@ pictures:
     - image: /img/bot/2146423723_15.jpg
     - image: /img/bot/2146423723_16.jpg
     - image: /img/bot/2146423723_17.jpg
+year: 3/2015
+monthlycost: '9200'
+firstcost: '99000'
+value: '370000'
+volume: '4,0'
+cylindre: '8'
+ventiler: '36'
+gear: 8 gear
+traek: 4-hjulstræk
+type: Sedan
+kilometer: '65000'
+braendstof: Benzin
+farve: Metal
+doere: '4'
+effekt: '520'
+moment: '650'
+topfart: '250'
+nultilhundrede: '4,1'
 ---
 PRIVATLEASING:
 Førstegangsydelse: 99.000 kr. inkl. moms
