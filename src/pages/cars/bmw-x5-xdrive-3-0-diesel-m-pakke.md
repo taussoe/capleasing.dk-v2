@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: BMW
+bilinfourl: '0'
+downloaded: false
 title: 'BMW X5 xDrive 3,0 Diesel M-Pakke'
 pictures:
   picturelist:
@@ -14,13 +16,13 @@ pictures:
     - image: /img/bmw-x5-xdrive-3-0-diesel-m-pakke-img_8518.jpg
     - image: /img/bmw-x5-xdrive-3-0-diesel-m-pakke-img_8521.jpg
     - image: /img/bmw-x5-xdrive-3-0-diesel-m-pakke-img_8524.jpg
-year: '0'
+year: '2011'
 monthlycost: '2880'
 firstcost: '44800'
 value: '170000'
 volume: '3,0'
 cylindre: '6'
-ventiler: '0'
+ventiler: '24'
 gear: '8'
 traek: Nej
 type: Personbil
