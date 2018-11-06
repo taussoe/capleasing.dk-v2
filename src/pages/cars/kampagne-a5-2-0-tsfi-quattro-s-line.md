@@ -1,7 +1,9 @@
 ---
 path: /cars
 carmodel: AUDI
-title: 'KAMPAGNE A5 2,0 TSFI Quattro S-Line'
+bilinfourl: '0'
+downloaded: false
+title: 'Audi A5 2,0 TSFI Quattro S-Line'
 pictures:
   picturelist:
     - image: /img/audi-a5-20-tsfi-quattro-s-line-img_9257.jpg
@@ -12,13 +14,13 @@ pictures:
     - image: /img/audi-a5-20-tsfi-quattro-s-line-img_9269.jpg
     - image: /img/audi-a5-20-tsfi-quattro-s-line-img_9272.jpg
     - image: /img/audi-a5-20-tsfi-quattro-s-line-img_9273.jpg
-year: '0'
+year: '2011'
 monthlycost: '1807'
 firstcost: '23200'
 value: '100000'
 volume: '2,0'
 cylindre: '4'
-ventiler: '24'
+ventiler: '16'
 gear: '6'
 traek: Nej
 type: Personbil
