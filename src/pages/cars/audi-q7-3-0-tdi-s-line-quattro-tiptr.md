@@ -1,7 +1,9 @@
 ---
 path: /cars
 carmodel: AUDI
-title: 'Audi Q7 3,0 TDi S-line quattro Tiptr'
+bilinfourl: '0'
+downloaded: false
+title: 'Audi Q7 3,0 TDI S-line quattro Tiptr'
 pictures:
   picturelist:
     - image: /img/img_8526.jpg
