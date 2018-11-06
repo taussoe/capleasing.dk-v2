@@ -1,22 +1,21 @@
 ---
 path: /cars
 carmodel: VOLVO
+bilinfourl: o
+downloaded: false
 title: Volvo XC60 D4 AWD
 pictures:
   picturelist:
     - image: >-
-        /img/volvo-xc60-d4-awd-19030376_438025599887366_3154608922990326459_n.jpg
-    - image: >-
-        /img/volvo-xc60-d4-awd-19030507_438025609887365_7902672227560195803_n.jpg
-    - image: >-
-        /img/volvo-xc60-d4-awd-19030762_438025603220699_6243299983122537764_n.jpg
-    - image: >-
         /img/volvo-xc60-d4-awd-19059326_438025559887370_7901870713900760804_n.jpg
     - image: >-
-        /img/volvo-xc60-d4-awd-19059825_438025563220703_2585290636407684022_n.jpg
-    - image: /img/volvo-xc60-d4-awd-19105727_438025556554037_519572466227985275_n.jpg
-    - image: >-
         /img/volvo-xc60-d4-awd-19106029_438025566554036_6124169761589138333_n.jpg
+    - image: >-
+        /img/volvo-xc60-d4-awd-19030762_438025603220699_6243299983122537764_n.jpg
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
 year: '2012'
 monthlycost: 3499 kr. inkl. moms
 firstcost: 36500 kr. inkl. moms
