@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
+bilinfourl: '0'
+downloaded: false
 title: MERCEDES C220 aut. st.
 pictures:
   picturelist:
@@ -14,7 +16,7 @@ pictures:
     - image: /img/mercedes-c220-aut-st-img_3668.jpg
     - image: /img/mercedes-c220-aut-st-img_3669.jpg
     - image: /img/mercedes-c220-aut-st-img_3670.jpg
-year: '0'
+year: '2015'
 monthlycost: '2704'
 firstcost: '46000'
 value: '160000'
