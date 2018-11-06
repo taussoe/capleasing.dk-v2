@@ -3,7 +3,7 @@ path: /cars
 carmodel: AUDI
 bilinfourl: www.capleasing.dk
 downloaded: false
-title: 'AUDI RS5 4,2 FRI QUATTRO S-Tronic'
+title: 'AUDI RS5 4,2 FSI quattro S-Tronic'
 pictures:
   picturelist:
     - image: /img/fullsizeoutput_1e4.jpeg
@@ -29,7 +29,7 @@ gear: '7'
 traek: Nej
 type: Coupé
 foerstereg: 19.11.2010
-kilometer: '116.000'
+kilometer: '116000'
 braendstof: Benzin
 farve: Daytona grey
 doere: '2'
