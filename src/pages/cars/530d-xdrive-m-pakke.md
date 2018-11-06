@@ -1,7 +1,9 @@
 ---
 path: /cars
 carmodel: BMW
-title: BMW 530d xDrive M-pakke
+bilinfourl: '0'
+downloaded: false
+title: 'BMW 530d xDrive '
 pictures:
   picturelist:
     - image: /img/img-9569.jpg
@@ -21,10 +23,10 @@ volume: '3,0'
 cylindre: '6'
 ventiler: '24'
 gear: '6'
-traek: Nej
+traek: Baghjul
 type: Sedan
 foerstereg: 10.01.2013
-kilometer: '78.000'
+kilometer: '78000'
 braendstof: Diesel
 farve: Sortmetal
 doere: '4'
