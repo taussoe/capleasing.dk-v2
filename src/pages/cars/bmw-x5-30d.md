@@ -4,25 +4,6 @@ carmodel: BMW
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/bmw/x5/30-xdrive30d-aut-5d/4054940'
 downloaded: false
 title: BMW X5 xDrive30d
-year: 4/2012
-monthlycost: '6375'
-firstcost: '39.000'
-value: '165.000'
-volume: '3.0'
-cylindre: '6'
-ventiler: '24'
-gear: 8 gear
-traek: 4-hjulstræk
-type: SUV
-foerstereg: null
-kilometer: '112.000'
-braendstof: Diesel
-farve: Sortmetal
-doere: '5'
-effekt: '245'
-moment: '540'
-topfart: '222'
-nultilhundrede: '7,6'
 pictures:
   picturelist:
     - image: /img/bot/2146352390.jpg
@@ -39,6 +20,24 @@ pictures:
     - image: /img/bot/2146352390_11.jpg
     - image: /img/bot/2146352390_12.jpg
     - image: /img/bot/2146352390_13.jpg
+year: 4/2012
+monthlycost: '6375'
+firstcost: '39.000'
+value: '165.000'
+volume: '3.0'
+cylindre: '6'
+ventiler: '24'
+gear: 8 gear
+traek: 4-hjulstræk
+type: SUV
+kilometer: '112000'
+braendstof: Diesel
+farve: Sortmetal
+doere: '5'
+effekt: '245'
+moment: '540'
+topfart: '222'
+nultilhundrede: '7,6'
 ---
 24 måneders aftale:
 
