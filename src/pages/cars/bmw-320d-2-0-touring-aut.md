@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: BMW
+bilinfourl: '0'
+downloaded: false
 title: 'BMW 320d 2,0 Touring aut.'
 pictures:
   picturelist:
@@ -14,7 +16,7 @@ pictures:
     - image: /img/bmw-320d-20-touring-aut-img_8926.jpg
     - image: /img/bmw-320d-20-touring-aut-img_8932.jpg
     - image: /img/bmw-320d-20-touring-aut-img_8936.jpg
-year: '0'
+year: '2012'
 monthlycost: '2226'
 firstcost: '39000'
 value: '120000'
