@@ -3,26 +3,7 @@ path: /cars
 carmodel: AUDI
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/audi/q7/30-tdi-245-quattro-tiptr-5d/3668317'
 downloaded: false
-title: 'Audo Q7 4,2 TDI Quattro S-Line'
-year: 8/2011
-monthlycost: '4480'
-firstcost: '39000 '
-value: '155000'
-volume: '4,2'
-cylindre: '6'
-ventiler: '32'
-gear: 8 gear
-traek: ja
-type: 4x4
-foerstereg: null
-kilometer: '172.000'
-braendstof: diesel
-farve: Hvid
-doere: '5'
-effekt: '245'
-moment: '550'
-topfart: '215'
-nultilhundrede: '7,8'
+title: 'Audi Q7 4,2 TDI Quattro S-Line'
 pictures:
   picturelist:
     - image: /img/bot/2146502233.jpg
@@ -35,6 +16,24 @@ pictures:
     - image: /img/bot/2146502233_7.jpg
     - image: /img/bot/2146502233_8.jpg
     - image: /img/bot/2146502233_9.jpg
+year: 8/2011
+monthlycost: '4480'
+firstcost: '39000 '
+value: '155000'
+volume: '4,2'
+cylindre: '6'
+ventiler: '32'
+gear: 8 gear
+traek: ja
+type: 4x4
+kilometer: '172000'
+braendstof: diesel
+farve: Hvid
+doere: '5'
+effekt: '245'
+moment: '550'
+topfart: '215'
+nultilhundrede: '7,8'
 ---
 PRIVATLEASING: 
 Førstegangsydelse: kr. 39.000 inkl. moms
