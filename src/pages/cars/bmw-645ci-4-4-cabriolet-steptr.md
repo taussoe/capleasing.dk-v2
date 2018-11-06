@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: BMW
+bilinfourl: '0'
+downloaded: false
 title: 'BMW 645Ci 4,4 Cabriolet Steptr.'
 pictures:
   picturelist:
@@ -13,13 +15,13 @@ pictures:
     - image: /img/bmw-645ci-44-cabriolet-steptr-2146792141_7.jpg
     - image: /img/bmw-645ci-44-cabriolet-steptr-2146792141_8.jpg
     - image: /img/bmw-645ci-44-cabriolet-steptr-2146792141.jpg
-year: '0'
+year: '2004'
 monthlycost: '3145'
 firstcost: '45000'
 value: '134000'
 volume: '4,4'
 cylindre: '8'
-ventiler: '0'
+ventiler: '32'
 gear: '6'
 traek: Nej
 type: Personbil
