@@ -21,19 +21,19 @@ monthlycost: '4480'
 firstcost: '39000 '
 value: '155000'
 volume: '4,2'
-cylindre: '6'
+cylindre: '8'
 ventiler: '32'
 gear: 8 gear
-traek: ja
-type: 4x4
+traek: 4-hjulstræk
+type: 4-hjulstræk
 kilometer: '172000'
-braendstof: diesel
+braendstof: Diesel
 farve: Hvid
 doere: '5'
-effekt: '245'
-moment: '550'
-topfart: '215'
-nultilhundrede: '7,8'
+effekt: '326'
+moment: '760'
+topfart: '236'
+nultilhundrede: '6,4'
 ---
 PRIVATLEASING: 
 Førstegangsydelse: kr. 39.000 inkl. moms
