@@ -4,7 +4,7 @@ carmodel: LAND ROVER
 bilinfourl: >-
   https://www.bilbasen.dk/brugt/bil/land-rover/range-rover-sport/30-sdv6-hse-dynamic-aut-5d/3728406
 downloaded: false
-title: 'Range Rover Sport 3.0 '
+title: Range Rover Sport
 pictures:
   picturelist:
     - image: /img/bot/2146444331.jpg
@@ -13,17 +13,17 @@ pictures:
     - image: /img/bot/2146444331_3.jpg
     - image: /img/bot/2146444331_4.jpg
     - image: /img/bot/2146444331_5.jpg
-year: 2/2015
+year: '2015'
 monthlycost: '9000'
 firstcost: '90000'
 value: '315000'
 volume: '0'
 cylindre: '6'
-ventiler: '0'
+ventiler: '24'
 gear: 8 gear
 traek: 4x4
-type: '0'
-kilometer: '45.000'
+type: SUV
+kilometer: '45000'
 braendstof: 'Diesel '
 farve: Gråmetal
 doere: '5'
