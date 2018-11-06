@@ -3,7 +3,7 @@ path: /cars
 carmodel: AUDI
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/audi/a4/20-tdi-177-avant-multitr-5d/3667818'
 downloaded: false
-title: 'A4 2.0 TDI S-line Avant '
+title: 'Audi A4 2.0 TDI S-line Avant '
 pictures:
   picturelist:
     - image: /img/bot/2146502765.jpg
@@ -18,9 +18,13 @@ year: 12/2012
 monthlycost: '2980'
 firstcost: '39000'
 value: '120.000 '
+volume: '1968'
 cylindre: '4'
+ventiler: '16'
 gear: 8 gear
-kilometer: '150.000'
+type: 'Stationcar '
+kilometer: '150000'
+braendstof: Diesel
 farve: Sortmetal
 doere: '5'
 effekt: '177'
