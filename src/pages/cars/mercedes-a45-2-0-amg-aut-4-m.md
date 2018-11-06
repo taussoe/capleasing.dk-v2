@@ -19,7 +19,7 @@ firstcost: '63000'
 value: '210000'
 volume: '2,0'
 cylindre: '4'
-ventiler: '0'
+ventiler: '16'
 gear: '7'
 traek: Nej
 type: Personbil
