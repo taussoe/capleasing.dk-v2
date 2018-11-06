@@ -25,12 +25,12 @@ components:
       overskrift: VI ER I GODT SELSKAB
       text: >-
         CAP Leasing samarbejder med de største, ældste og dygtigste
-        finansieringsselskaber i branchen. De blander sig ikke i vores daglige
-        drift, men netop vores samarbejde med de største og mest etablerede
-        selskaber, giver ikke alene frihed til os - det giver selvfølgelig også
-        dig en tryghed som leasingtager. Netop fordi leasing kan være svært at
-        gennemskue, er det så meget desto mere vigtigt, at alt omkring
-        leasingaftale og finansiering er gennemsigtig og efter lovskrifter.
+        finansieringsselskaber i branchen. Vores samarbejde med de største og
+        mest etablerede selskaber, giver ikke alene frihed til os - det giver
+        selvfølgelig også dig en tryghed som leasingtager. Netop fordi leasing
+        kan være svært at gennemskue, er det så meget desto mere vigtigt, at alt
+        omkring leasingaftale og finansiering er gennemsigtig og efter
+        lovskrifter.
     - component: PictureRight
       image: /img/bmw-320d-20-touring-aut-img_8916.jpg
       overskrift: OG BILEN TIL DIG...
