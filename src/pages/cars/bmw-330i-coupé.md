@@ -4,25 +4,6 @@ carmodel: BMW
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/bmw/330i/30-coup-2d/4058664'
 downloaded: false
 title: BMW 330i Coupé
-year: 7/2006
-monthlycost: '2300'
-firstcost: '35.000,- inkl. moms'
-value: '88.900,- ex. moms/afgift'
-volume: '3.0'
-cylindre: '6'
-ventiler: '24'
-gear: 6 gear
-traek: Baghjulstræk
-type: 'Coupé '
-foerstereg: null
-kilometer: '134.000'
-braendstof: Benzin
-farve: Sortmetal
-doere: '2'
-effekt: '272'
-moment: '315'
-topfart: '250'
-nultilhundrede: '6,1'
 pictures:
   picturelist:
     - image: /img/bot/2146348270.jpg
@@ -34,6 +15,24 @@ pictures:
     - image: /img/bot/2146348270_6.jpg
     - image: /img/bot/2146348270_7.jpg
     - image: /img/bot/2146348270_8.jpg
+year: 7/2006
+monthlycost: '2300'
+firstcost: '35.000,- inkl. moms'
+value: '88.900,- ex. moms/afgift'
+volume: '3.0'
+cylindre: '6'
+ventiler: '24'
+gear: 6 gear
+traek: Baghjulstræk
+type: 'Coupé '
+kilometer: '134000'
+braendstof: Benzin
+farve: Sortmetal
+doere: '2'
+effekt: '272'
+moment: '315'
+topfart: '250'
+nultilhundrede: '6,1'
 ---
 12 måneders aftale:
 
