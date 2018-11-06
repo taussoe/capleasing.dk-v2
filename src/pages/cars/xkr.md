@@ -1,7 +1,9 @@
 ---
 path: /cars
 carmodel: JAGUAR
-title: XKR
+bilinfourl: '0'
+downloaded: false
+title: Jaguar XKR
 pictures:
   picturelist:
     - image: /img/fullsizeoutput_189.jpeg
