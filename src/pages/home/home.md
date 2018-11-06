@@ -7,7 +7,7 @@ description: CAP Leasing tilbyder alle former for leasing
 components:
   sektioner:
     - component: Hero
-      image: /img/2017_09_15_capleasing_088 kopi.jpg
+      image: /img/2017_09_15_capleasing_065 kopi.jpg
       overskrift: ALLE FORMER FOR LEASING
       text: |-
         CAP Leasing tilbyder alle former for leasing
