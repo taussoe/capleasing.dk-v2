@@ -4,20 +4,6 @@ carmodel: AUDI
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/audi/a5/20-tdi-190-coup-2d/3654119'
 downloaded: false
 title: A5 2.0 TDI Coupé S-line
-year: 9/2014
-monthlycost: '2900'
-firstcost: '36500'
-value: '130000'
-effekt: '190'
-moment: '400'
-nultilhundrede: '7,7'
-topfart: '240'
-cylindre: '4'
-gear: 6 gear
-doere: '2'
-kilometer: '105.000'
-foerstereg: null
-farve: Sortmetal
 pictures:
   picturelist:
     - image: /img/bot/2146515941.jpg
@@ -26,6 +12,22 @@ pictures:
     - image: /img/bot/2146515941_3.jpg
     - image: /img/bot/2146515941_4.jpg
     - image: /img/bot/2146515941_5.jpg
+year: 9/2014
+monthlycost: '2900'
+firstcost: '36500'
+value: '130000'
+volume: '1968'
+cylindre: '4'
+ventiler: '16'
+gear: 6 gear
+kilometer: '105000'
+braendstof: 'Diesel '
+farve: Sortmetal
+doere: '2'
+effekt: '190'
+moment: '400'
+topfart: '240'
+nultilhundrede: '7,7'
 ---
 PRIVATLEASING: 
 Månedlig ydelse: kr. 36.500 inkl. moms
