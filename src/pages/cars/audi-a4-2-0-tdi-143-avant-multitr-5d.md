@@ -24,12 +24,12 @@ firstcost: '29000'
 value: '92500'
 volume: '2,0'
 cylindre: '4'
-ventiler: '24'
-gear: .
+ventiler: '16'
+gear: ''
 traek: ja
 type: Stationcar
 foerstereg: 01.02.2012
-kilometer: '185.000'
+kilometer: '185000'
 braendstof: Diesel
 farve: Sort
 doere: '5'
