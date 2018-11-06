@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
+bilinfourl: '0'
+downloaded: false
 title: 'Mercedes A45 2,0 AMG aut. 4-M'
 pictures:
   picturelist:
@@ -11,7 +13,7 @@ pictures:
     - image: /img/mercedes-a45-20-amg-aut-4-m-2146790749_5.jpg
     - image: /img/mercedes-a45-20-amg-aut-4-m-2146790749_6.jpg
     - image: /img/mercedes-a45-20-amg-aut-4-m-2146790749.jpg
-year: '0'
+year: '2013'
 monthlycost: '5089'
 firstcost: '63000'
 value: '210000'
