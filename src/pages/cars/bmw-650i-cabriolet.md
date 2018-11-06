@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: BMW
+bilinfourl: '0'
+downloaded: false
 title: BMW 650i Cabriolet
 pictures:
   picturelist:
@@ -24,10 +26,10 @@ volume: '4,4'
 cylindre: '8'
 ventiler: '32'
 gear: '8'
-traek: Nej
+traek: Baghjul
 type: Cabriolet
 foerstereg: 20.10.2012
-kilometer: '73.000'
+kilometer: '73000'
 braendstof: Benzin
 farve: Sortmetal
 doere: '2'
