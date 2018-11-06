@@ -1,7 +1,9 @@
 ---
 path: /cars
 carmodel: AUDI
-title: 'Audi Q7 4,2 Tdi quattro - 7 Personer '
+bilinfourl: '0'
+downloaded: false
+title: 'Audi Q7 4,2 TDI quattro - 7 Personer '
 pictures:
   picturelist:
     - image: /img/audi-q7-42-tdi-quattro-img_8701.jpg
