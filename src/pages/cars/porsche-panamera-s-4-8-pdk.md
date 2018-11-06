@@ -1,10 +1,12 @@
 ---
 path: /cars
 carmodel: PORSCHE
+bilinfourl: '0'
+downloaded: false
 title: 'Porsche Panamera S 4,8 PDK'
 pictures:
   picturelist:
-    - image: /img/porsche-panamera-s-4-8-pdk-2017_09_15_capleasing_061.jpg
+    - image: ''
     - image: /img/porsche-panamera-s-4-8-pdk-img_8594.jpg
     - image: /img/porsche-panamera-s-4-8-pdk-img_8599.jpg
     - image: /img/porsche-panamera-s-4-8-pdk-img_8601.jpg
