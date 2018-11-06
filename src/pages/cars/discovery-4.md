@@ -4,21 +4,7 @@ carmodel: LAND ROVER
 bilinfourl: >-
   https://www.bilbasen.dk/brugt/bil/land-rover/discovery-4/30-sdv6-hse-aut-5d/3654464
 downloaded: false
-title: Discovery 4
-year: 11/2012
-monthlycost: '4200'
-firstcost: '66000'
-value: '190000'
-effekt: '255'
-moment: '600'
-nultilhundrede: '-'
-topfart: '180'
-cylindre: '6'
-gear: 6 gear
-doere: '5'
-kilometer: '91.000'
-foerstereg: null
-farve: Gråmetal
+title: Land Rover Discovery 4
 pictures:
   picturelist:
     - image: /img/bot/2146515590.jpg
@@ -27,6 +13,24 @@ pictures:
     - image: /img/bot/2146515590_3.jpg
     - image: /img/bot/2146515590_4.jpg
     - image: /img/bot/2146515590_5.jpg
+year: '2012'
+monthlycost: '4200'
+firstcost: '66000'
+value: '190000'
+volume: '3,0'
+cylindre: '6'
+ventiler: '24'
+gear: 6 gear
+traek: 4-hjulstræk
+type: SUV
+kilometer: '91000'
+braendstof: Diesel
+farve: Gråmetal
+doere: '5'
+effekt: '255'
+moment: '600'
+topfart: '180'
+nultilhundrede: '-'
 ---
 PRIVATLEASING: 
 Månedlig ydelse: kr. 66.000 inkl. moms
