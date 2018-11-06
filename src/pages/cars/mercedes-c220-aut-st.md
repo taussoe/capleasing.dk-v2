@@ -21,8 +21,8 @@ monthlycost: '2704'
 firstcost: '46000'
 value: '160000'
 volume: '2,0'
-cylindre: '0'
-ventiler: '0'
+cylindre: '4'
+ventiler: '16'
 gear: '7'
 traek: Svingbart træk
 type: Stationcar
