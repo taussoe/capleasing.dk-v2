@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: JEEP
+bilinfourl: '0'
+downloaded: false
 title: 'Wrangler Unlimited 2,8 CRD Sport aut.'
 pictures:
   picturelist:
@@ -11,7 +13,7 @@ pictures:
     - image: /img/jeep-img_8437.jpg
     - image: /img/jeep-img_8439.jpg
     - image: /img/jeep-img_8441.jpg
-year: '0'
+year: '2008'
 monthlycost: '2204'
 firstcost: '28000'
 value: '105000'
