@@ -12,10 +12,6 @@ pictures:
         /img/volvo-xc60-d4-awd-19106029_438025566554036_6124169761589138333_n.jpg
     - image: >-
         /img/volvo-xc60-d4-awd-19030762_438025603220699_6243299983122537764_n.jpg
-    - image: ''
-    - image: ''
-    - image: ''
-    - image: ''
 year: '2012'
 monthlycost: 3499 kr. inkl. moms
 firstcost: 36500 kr. inkl. moms

@@ -13,9 +13,6 @@ pictures:
     - image: /img/porsche-cayenne-30-d-tiptr-2146790728_6.jpg
     - image: /img/porsche-cayenne-30-d-tiptr-2146790728_7.jpg
     - image: /img/porsche-cayenne-30-d-tiptr-2146790728_9.jpg
-    - image: ''
-    - image: ''
-    - image: ''
 year: '2011'
 monthlycost: 4900 kr. inkl. moms
 firstcost: 64000 kr. inkl. moms

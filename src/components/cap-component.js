@@ -49,7 +49,7 @@ const CapComponent = class CapComponent extends React.Component {
                   padding="0px"
                   minHeight="400px"
                 >
-                  <Img sizes={this.props.data.image.childImageSharp.sizes} />
+                  {this.props.data.image && <Img sizes={this.props.data.image.childImageSharp.sizes} /> }
                 </TextBlock>
               </div>
             </div>
@@ -68,7 +68,7 @@ const CapComponent = class CapComponent extends React.Component {
                   padding="0px"
                   minHeight="400px"
                 >
-                  <Img sizes={this.props.data.image.childImageSharp.sizes} />
+                  {this.props.data.image && <Img sizes={this.props.data.image.childImageSharp.sizes} /> }
                 </TextBlock>
               </div>
               <div className="col-md-5 col-sm-5 col-xs-12 margin-top-auto">
@@ -118,7 +118,7 @@ const CapComponent = class CapComponent extends React.Component {
         )
       case 'Parallax':
         return (
-          <ParallaxImage image={this.props.data.image.childImageSharp.sizes}>
+          <ParallaxImage image={this.props.data.image && this.props.data.image.childImageSharp.sizes}>
             <h2 className="white">{this.props.data.overskrift}</h2>
             <span className="white">
               <MarkdownRenderer markdown={this.props.data.text} />

@@ -8,11 +8,6 @@ pictures:
     - image: /img/img_8566.jpg
     - image: /img/img_8568.jpg
     - image: /img/img_8570.jpg
-    - image: ''
-    - image: ''
-    - image: ''
-    - image: ''
-    - image: ''
 year: '2013'
 monthlycost: '2800'
 firstcost: '29000'

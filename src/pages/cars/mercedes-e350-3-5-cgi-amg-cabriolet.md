@@ -13,11 +13,6 @@ pictures:
     - image: >-
         /img/mercedes-e350-3-5-cgi-amg-cabriolet-22552979_493678927655366_867409914313332469_o.jpg
     - image: /img/mercedes-e350-3-5-cgi-amg-cabriolet-5.jpg
-    - image: ''
-    - image: ''
-    - image: ''
-    - image: ''
-    - image: ''
 year: '0'
 monthlycost: '3493'
 firstcost: '45000'

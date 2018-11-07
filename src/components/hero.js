@@ -77,9 +77,9 @@ const Hero = class Hero extends React.Component {
     console.log(this.props)
     return (
       <HeroContainer height={this.props.height ? this.props.height : 'auto'}>
-        <ImageWrapper>
+        {this.props.image && <ImageWrapper>
           <Img resolutions={this.props.image.childImageSharp.sizes} />
-        </ImageWrapper>
+        </ImageWrapper>}
         <TextContainer>
           <div className="padding">
             <TextBlock className="bottom" triggerOnce="true">

@@ -9,8 +9,6 @@ pictures:
     - image: /img/img_2770.jpg
     - image: /img/img_2769 (1).jpg
     - image: /img/img_2767.jpg
-    - image: ''
-    - image: ''
 year: '2012'
 monthlycost: 3405 inkl. moms.
 firstcost: 25000 inkl. moms.

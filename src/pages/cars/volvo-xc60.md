@@ -10,10 +10,6 @@ pictures:
     - image: /img/volvo-xc60-18222434_420137281676198_3537490293479332597_n.jpg
     - image: /img/volvo-xc60-18221999_420137315009528_3956666612367596853_n.jpg
     - image: /img/volvo-xc60-18221837_420137348342858_5892107367188305783_n.jpg
-    - image: ''
-    - image: ''
-    - image: ''
-    - image: ''
 year: '2012'
 monthlycost: 3600 kr. inkl. moms
 firstcost: 45000 kr. inkl. moms

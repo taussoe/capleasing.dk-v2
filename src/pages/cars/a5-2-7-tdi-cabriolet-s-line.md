@@ -1,6 +1,6 @@
 ---
 path: /cars
-carmodel: 'Audi '
+carmodel: AUDI
 bilinfourl: >-
   https://www.bilbasen.dk/brugt/bil/audi/a5/27-tdi-190-cabriolet-multitr-2d/3656621
 downloaded: false

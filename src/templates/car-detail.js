@@ -334,13 +334,13 @@ export default class Showroom extends React.Component {
             {
               property: 'og:image:secure_url',
               content: `https://capleasing.dk${this.props.data.markdownRemark
-              .frontmatter.pictures ? this.props.data.markdownRemark
+              .frontmatter.pictures && this.props.data.markdownRemark.frontmatter.pictures.picturelist[0] && this.props.data.markdownRemark.frontmatter.pictures.picturelist[0].image && this.props.data.markdownRemark.frontmatter.pictures.picturelist[0].image.childImageSharp ? this.props.data.markdownRemark
                 .frontmatter.pictures.picturelist[0].image.childImageSharp.sizes
                 .src : '/img/plads-til-drenge.jpg'}`,
             },
             {
               property: 'og:image',
-              content: `https://capleasing.dk${this.props.data.markdownRemark.frontmatter.pictures ? this.props.data.markdownRemark
+              content: `https://capleasing.dk${this.props.data.markdownRemark.frontmatter.pictures && this.props.data.markdownRemark.frontmatter.pictures.picturelist[0] && this.props.data.markdownRemark.frontmatter.pictures.picturelist[0].image && this.props.data.markdownRemark.frontmatter.pictures.picturelist[0].image.childImageSharp ? this.props.data.markdownRemark
                 .frontmatter.pictures.picturelist[0].image.childImageSharp.sizes
                 .src : '/img/plads-til-drenge.jpg'}`,
             },

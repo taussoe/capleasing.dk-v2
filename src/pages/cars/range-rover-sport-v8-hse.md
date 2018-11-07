@@ -15,7 +15,6 @@ pictures:
     - image: /img/img_4358.jpg
     - image: /img/img_4360.jpg
     - image: /img/img_4363.jpg
-    - {}
 year: '2011'
 monthlycost: '4400'
 firstcost: '54000'

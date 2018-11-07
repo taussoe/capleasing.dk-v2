@@ -10,13 +10,6 @@ pictures:
     - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8877.jpg
     - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8897.jpg
     - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8884.jpg
-    - image: ''
-    - image: ''
-    - image: ''
-    - image: ''
-    - image: ''
-    - image: ''
-    - {}
 year: '2007'
 monthlycost: '2337'
 firstcost: '23200'

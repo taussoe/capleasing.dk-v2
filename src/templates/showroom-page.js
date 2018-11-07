@@ -88,11 +88,14 @@ export default class Showroom extends React.Component {
   }
   render() {
     let sortedModels = this.props.data.carmodel.edges
+    console.log(this.props.data.carmodel.edges)
+    console.log(sortedModels)
     sortedModels.sort(function(a, b) {
       if (a.title < b.title) return -1
       if (a.title > b.title) return 1
       return 0
     })
+    console.log(sortedModels)
     let cars = sortedModels.map((e, i) => {
       let component = i % 2 === 0 ? 'PictureRight' : 'PictureLeft'
       let carmodelid = `carmodel-${i}`
@@ -106,6 +109,8 @@ export default class Showroom extends React.Component {
       let listing = this.props.data.cars.edges.filter(
         elem => elem.node.frontmatter.carmodel === e.node.frontmatter.title
       )
+      console.log(e.node.frontmatter.carimage)
+      console.log(listing)
       return (
         <div key={`carmodel-${i}`} ref={carmodelid}>
           <div className="text">
@@ -115,6 +120,7 @@ export default class Showroom extends React.Component {
         </div>
       )
     })
+    console.log(cars)
     console.log(this.props)
     return (
       <div>

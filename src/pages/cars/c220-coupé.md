@@ -17,7 +17,6 @@ pictures:
     - image: /img/img_4154.jpg
     - image: /img/fullsizeoutput_1d5.jpeg
     - image: /img/fullsizeoutput_1d3.jpeg
-    - {}
 year: '2012'
 monthlycost: '2854'
 firstcost: '31500'
