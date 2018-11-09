@@ -2,7 +2,7 @@
 path: /cars
 carmodel: Volkswagen
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: 'Passat 2,0 TDi 170 Highline AUT. DSG'
 pictures:
   picturelist:
