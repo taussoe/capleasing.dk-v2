@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: Volkswagen
+bilinfourl: www.capleasing.dk
+downloaded: true
 title: 'Passat 2,0 TDi 170 Highline AUT. DSG'
 pictures:
   picturelist:
@@ -10,8 +12,8 @@ pictures:
     - image: /img/vw-passat-20-tdi-170-highline-bmt-img_8870.jpg
     - image: /img/vw-passat-20-tdi-170-highline-bmt-img_8873.jpg
 year: '2011'
-monthlycost: 2361 kr. inkl. moms
-firstcost: 25.000 kr. inkl. moms
+monthlycost: '2800'
+firstcost: '39500'
 value: 80000 eks moms/afgift
 volume: '2,0'
 cylindre: '4'
@@ -20,7 +22,7 @@ gear: '7'
 traek: Nej
 type: Personbil
 foerstereg: 20-10-2011
-kilometer: '110000'
+kilometer: '94000'
 braendstof: Diesel
 farve: Sortmetal
 doere: '5'
@@ -29,21 +31,19 @@ moment: '350'
 topfart: '224'
 nultilhundrede: '8,6'
 ---
-
-
 PRIVATLEASING
 
-Førstegangsydelse: 25.000 kr. inkl. moms
+Førstegangsydelse: 29.500kr. inkl. moms
 
-Månedlig ydelse: 2.361 kr. inkl. moms
+Månedlig ydelse: 2.800 kr. inkl. moms
 
-Restværdi: 90.000 kr. eks. moms/afgift
+Restværdi: 88.000 kr. eks. moms/afgift
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Forsikring Tilbydes
 
-Fra 580 kr./mdr. ned til 18 år. 
+Fra 450 kr./mdr. ned til 18 år. 
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
