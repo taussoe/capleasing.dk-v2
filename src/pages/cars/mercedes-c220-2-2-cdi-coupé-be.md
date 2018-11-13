@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
+bilinfourl: '0'
+downloaded: false
 title: 'Mercedes C220 2,2 CDi Coupé BE'
 pictures:
   picturelist:
@@ -19,7 +21,7 @@ gear: '6'
 traek: Nej
 type: Personbil
 foerstereg: 01-08-2011
-kilometer: '118000'
+kilometer: '72000'
 braendstof: Diesel
 farve: Koksmetal
 doere: '2'
