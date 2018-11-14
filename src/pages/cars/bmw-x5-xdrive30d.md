@@ -1,0 +1,79 @@
+---
+path: /cars
+carmodel: BMW
+bilinfourl: 'https://www.bilbasen.dk/brugt/bil/bmw/x5/30-xdrive30d-aut-5d/4121144'
+downloaded: true
+title: BMW X5 xDrive30d
+year: '2013'
+monthlycost: '3500'
+firstcost: '47000'
+value: '130000'
+volume: '2993'
+cylindre: '6'
+ventiler: '24'
+gear: '8'
+traek: 4-hjulstræk
+type: SUV
+foerstereg: 30/03-2013
+kilometer: '122000'
+braendstof: Diesel
+farve: Sølvmetal
+doere: '5'
+effekt: '245'
+moment: '540'
+topfart: '250'
+nultilhundrede: '7,6 sek.'
+---
+PRIVATLEASING:
+
+Førstegangsydelse: 47.000 kr. inkl. moms
+
+Månedlig ydelse: 3.500 kr. inkl. moms
+
+Restværdi: 130.000 kr. eks moms/afgift
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+ERHVERVSLEASING:
+
+førstegangsydelse: 37.600 kr. eks. Moms 
+
+Månedlig ydelse: 2.800 kr. eks. Moms
+
+Restværdi: 130.000 kr. eks. moms/afgift
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+Forsikring Tilbydes:
+
+Fra 550 kr./mdr. ned til 18 år. 
+
+Løbetid: 12 måneder med mulighed for forlængelse.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+\* Fri kilometer i hele leasingperioden.
+
+\* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
+
+\* Billig kaskoforsikring.
+
+\* Privat, sæson, split og erhverv – vi har det hele.
+
+\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+
+\* Vi opbevarer også gerne din bil over vinteren
+
+\* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+aut., aut.gear/tiptronic, 19" alufælge, airc., fuldaut. klima, 2 zone klima, motorkabinevarmer, køl i handskerum, alarm, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, højdejust. forsæde, el indst. forsæder, el indst. førersæde, el-soltag, glastag, 4x el-ruder, el-spejle m/varme, nøglefri betjening, bakkamera, adaptiv fartpilot, automatisk start/stop, el betjent bagklap, dæktryksmåler, adaptiv undervogn, cd/radio, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, headup display, armlæn, isofix, bagagerumsdækken, kopholder, læderindtræk, læderrat, splitbagsæde, lygtevasker, tågelygter, xenonlys, el komfortsæder, automatisk lys, kurvelys, led forlygter, 8 airbags, antispin, abs, esp, servo, indfarvede kofangere, hvide blink, tagræling, ikke ryger, nysynet, lev. nysynet, service ok, aftag. træk, diesel partikel filter
