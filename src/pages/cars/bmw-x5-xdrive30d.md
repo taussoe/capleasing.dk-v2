@@ -4,25 +4,6 @@ carmodel: BMW
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/bmw/x5/30-xdrive30d-aut-5d/4121144'
 downloaded: false
 title: BMW X5 xDrive30d
-year: 3/2013
-monthlycost: '3500'
-firstcost: '47000'
-value: '130000'
-volume: '2993'
-cylindre: '6'
-ventiler: '24'
-gear: 8 gear
-traek: 4-hjulstræk
-type: SUV
-foerstereg: null
-kilometer: '122.000'
-braendstof: Diesel
-farve: Sølvmetal
-doere: '5'
-effekt: '245'
-moment: '540'
-topfart: '222'
-nultilhundrede: '7,6'
 pictures:
   picturelist:
     - image: /img/bot/2146272471.jpg
@@ -36,6 +17,24 @@ pictures:
     - image: /img/bot/2146272471_8.jpg
     - image: /img/bot/2146272471_9.jpg
     - image: /img/bot/2146272471_10.jpg
+year: 3/2013
+monthlycost: '3500'
+firstcost: '47000'
+value: '130000'
+volume: '2993'
+cylindre: '6'
+ventiler: '24'
+gear: 8 gear
+traek: 4-hjulstræk
+type: SUV
+kilometer: '122000'
+braendstof: Diesel
+farve: Sølvmetal
+doere: '5'
+effekt: '245'
+moment: '540'
+topfart: '222'
+nultilhundrede: '7,6'
 ---
 PRIVATLEASING:
 Førstegangsydelse: 47.000 kr. inkl. moms
