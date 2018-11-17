@@ -1,23 +1,15 @@
 ---
 path: /cars
 carmodel: PORSCHE
+bilinfourl: 'https://www.bilbasen.dk/brugt/bil/porsche/panamera-4s/48-pdk-5d/4125477'
+downloaded: true
 title: 'Porsche Panamera 4S 4,8 PDK'
 pictures:
-  picturelist:
-    - image: /img/porsche-panamera-4s-48-pdk-1.jpg
-    - image: /img/porsche-panamera-4s-48-pdk-2.jpg
-    - image: /img/porsche-panamera-4s-48-pdk-3.jpg
-    - image: /img/porsche-panamera-4s-48-pdk-4.jpg
-    - image: /img/porsche-panamera-4s-48-pdk-6.jpg
-    - image: /img/porsche-panamera-4s-48-pdk-7.jpg
-    - image: /img/porsche-panamera-4s-48-pdk-8.jpg
-    - image: /img/porsche-panamera-4s-48-pdk-9.jpg
-    - image: /img/porsche-panamera-4s-48-pdk-11.jpg
-    - image: /img/porsche-panamera-4s-48-pdk-12.jpg
+  picturelist: []
 year: '2013'
-monthlycost: 7999 kr. inkl. moms
-firstcost: 12500 kr. inkl. moms
-value: 275000 kr. eks moms/afgift
+monthlycost: '7977'
+firstcost: '106000'
+value: '320000'
 volume: '4,8'
 cylindre: '8'
 ventiler: '24'
@@ -25,69 +17,57 @@ gear: '7'
 traek: Nej
 type: Personbil
 foerstereg: 30-05-2013
-kilometer: '99000'
+kilometer: '120000'
 braendstof: Benzin
 farve: Sort
 doere: '5'
-effekt: '400'
-moment: '500'
-topfart: '282'
-nultilhundrede: '4,5'
+effekt: 400 hk
+moment: 500 nm
+topfart: 282 km/t
+nultilhundrede: '4,5 sek'
 ---
-ERHVERVSLEASING:
+PORSCHE PANAMERA 4S - KOMPLET LYS LÆDERKABINE, SPORTSCHRONO, 20 FÆLGE, APPROVED HISTORIK 🎯
 
-Førstegangsydelse: 90.000 kr. eks. moms
+￼\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Månedlig ydelse: 6.479 kr. eks. Moms
+￼PRIVATLEASING:
 
-Restværdi: 275.000 kr. eks. moms/afgift
+￼Månedlig ydelse: 7.977 kr. inkl. moms
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+￼Førstegangsydelse: 106.000 kr. inkl. Moms
 
-PRIVATLEASING:
+Restværdi: 400.000 kr. inkl. moms
 
-Førstegangsydelse: 112.500 kr. inkl. moms
+￼\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Månedlig ydelse : 7.999 kr. inkl. moms
+￼ERHVERVSLEASING:
 
-Restværdi: 275.000 kr. eks. moms/afgift
+￼Månedlig ydelse: 6.381,6 kr. eks. moms
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+￼Førstegangsydelse: 84.800 kr. eks. Moms
 
-SPLITLEASING TILBYDES:
+￼Restværdi: 320.000 kr. eks. moms/afgift￼\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+￼Forsikring Tilbydes:
 
+￼Fra 792 kr./mdr. ned til 18 år.
 
+￼Løbetid: 12 måneder med mulighed for forlængelse.
 
-Forsikring Tilbydes
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Fra 500 kr./mdr. ned til 18 år. 
+✔️ Fri kilometer i hele leasingperioden
 
-Løbetid: 12 måneder med mulighed for forlængelse.
+✔️ Garanti i hele leasingperioden (valgfri)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+✔️ Bilig forsikring
 
+✔️ Privat, sæson, og erhverv – vi har det hele.
 
+✔️ Du vælger selv perioden: 6, 12, 24 eller 36 måneder
 
-I øvrigt
+✔️ Vi opbevarer også gerne din bil over vinteren
 
-\* Vi tilbyder fri kilometer i hele leasingperioden.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
-
-\* Vi tilbyder kaskoforsikring på alle vores biler
-
-\* Privat, sæson, split og erhverv – vi har det hele.
-
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-
-\* Vi opbevarer også gerne din bil over vinteren
-
-\* Har vi ikke bilen på lager, dedikere vi os til at finde 
-
-den helt rigtige og står for importen.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
-
-Sortmetal, beige læder, læder på instrumentbord, TURBO udstyrspakke, 14-vejs sportsstole, Ventilation i sæder for og bag, Varme i sæder for og bag, Memory sæder for, Sports Chrono pakke, 20" Sports design fælge, Porsche Dynamic Light System (PDLS), Porsche Rear Seat Entertainment, Bluetooth til håndfri mobil, Bluetooth til streaming af musik, El-bagklap, Digital DAB+ Radio, Multifunktionslæderrat, Fartpilot, Parkeringssensor for og bag, Porsche Communication Management (PCM), Bluetooth Porsche Active Suspension Management (PASM), Porsche Dobbelt koblings gearkasse (PDK),
+aut.gear/tiptronic, 7 gear, 20" alufælge Porsche 2K, Burmeister lydanlæg, Turbo-pakke, el-gardiner bag, fuldaut. klima, 4 zone klima, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, el-soltag, 4x el-ruder, el-spejle m/varme, bakkamera, adaptiv fartpilot, el betjent bagklap, dæktryksmåler, adaptiv undervogn, cd/radio, navigation, multifunktionsrat, bluetooth, armlæn, bagagerumsdækken, kopholder, læderrat, læderindtræk, xenonlys, tågelygter, lygtevasker, el komfortsæder, automatisk lys, kurvelys, led forlygter, 10 airbags, esp, servo, ikke ryger, service ok
