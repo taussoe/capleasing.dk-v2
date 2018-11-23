@@ -112,6 +112,8 @@ components:
       text: |-
         Kattegatvej 39
         2150 Nordhavn
+
+        +45 70270265
         info@capleasing.dk
     - component: Instagram
       overskrift: INSTAGRAM
