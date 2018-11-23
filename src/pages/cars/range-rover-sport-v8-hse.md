@@ -15,24 +15,25 @@ pictures:
     - image: /img/img_4358.jpg
     - image: /img/img_4360.jpg
     - image: /img/img_4363.jpg
-year: '2011'
-monthlycost: '4400'
-firstcost: '54000'
-value: '155000'
+year: '2010'
+monthlycost: '3954'
+firstcost: '49000'
+value: 160000 kr. eks moms
 volume: '3,8'
-cylindre: '8'
+cylindre: '32'
 ventiler: '32'
-gear: '7'
+gear: '6'
 traek: nej
 type: 4X4
-foerstereg: 20.11.2011
+foerstereg: 01-12-2010
 kilometer: '130000'
 braendstof: Diesel
+farve: Koks
 doere: '5'
-effekt: 286 HK
-moment: .
-topfart: .
-nultilhundrede: .
+effekt: 272 HK
+moment: 640 NM
+topfart: 209 km/t
+nultilhundrede: '9,2 sek'
 ---
 PRIVATLEASING:
 
