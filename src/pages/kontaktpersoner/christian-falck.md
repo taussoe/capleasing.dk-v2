@@ -6,6 +6,6 @@ contacttitle: 'Økonomi & Administration '
 contacteducation: Cand. Merc. FIR
 contacttelephone: +45 40205729
 contactemail: finance@capleasing.dk
-order: '4'
+order: '5'
 ---
 
