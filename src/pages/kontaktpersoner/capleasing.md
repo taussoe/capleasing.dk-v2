@@ -1,9 +1,9 @@
 ---
 path: /kontaktpersoner
-contactimage: /img/13265903_246807929009135_7502980154832987031_n.png
+contactimage: /img/skærmbillede 2018-11-23 kl. 16.18.08.png
 title: 'CAPLEASING '
 contacttitle: NORDHAVN
-contacteducation: 'LEASING & FINANSIERING '
+contacteducation: ''
 contacttelephone: +45 70270265
 contactemail: info@CAPLEASING.DK
 order: '1'
