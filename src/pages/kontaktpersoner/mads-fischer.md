@@ -6,6 +6,6 @@ contacttitle: 'Salg & Administration '
 contacteducation: Cand. Merc. SMC
 contacttelephone: +45 53705222
 contactemail: mf@capleasing.dk
-order: '1'
+order: '2'
 ---
 
