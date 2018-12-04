@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
+bilinfourl: '0'
+downloaded: false
 title: Mercedes C220 Coupé
 pictures:
   picturelist:
@@ -18,12 +20,12 @@ pictures:
     - image: /img/fullsizeoutput_1d5.jpeg
     - image: /img/fullsizeoutput_1d3.jpeg
 year: '2012'
-monthlycost: '2854'
-firstcost: '31500'
-value: 105000 kr. eks moms/afgift
+monthlycost: '2984'
+firstcost: '38500'
+value: 129000 kr. eks moms/afgift
 volume: '2,0'
 cylindre: '4'
-ventiler: '24'
+ventiler: '16'
 gear: '7'
 traek: nej
 type: Coupé
@@ -39,29 +41,23 @@ nultilhundrede: '8,1 sek.'
 ---
 Fuld AMG pakke med alt i udstyr - skal ses og prøves. 
 
-aut.gear/tiptronic, AMG style alu, 2 zone klima, ratgearskifte, parkeringssensor, kørecomputer, auto. nedbl. bakspejl, udv. temp. måler, sædevarme, el indst. førersæde, Panorama soltag, dæktryksmåler, navigation, multifunktionsrat, bluetooth, læderindtræk, xenonlys, LED-lys, kurvelys, 
+aut.gear/tiptronic, AMG style alu, 2 zone klima, ratgearskifte, parkeringssensor, kørecomputer, auto. nedbl. bakspejl, udv. temp. måler, sædevarme, el indst. førersæde, Panorama soltag, dæktryksmåler, navigation, multifunktionsrat, bluetooth, læderindtræk, xenonlys, LED-lys, kurvelys, PRIVATLEASING
 
- ERHVERVSLEASING:
+Førstegangsydelse: 38.500 kr. inkl. moms
 
- 12 måneder 
+Månedlig ydelse: 2.984 kr. inkl. moms
 
- Månedlig ydelse: 2.854 kr. eks. Moms
+Restværdi: 129.000 eks. moms/afgift 
 
- Førstegangsydelse: 31.500 kr. eks. Moms
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
- Restværdi: 105.000 kr. eks. moms/afgift
+ERHVERVSLEASING:
 
+Førstegangsydelse: 30.800 kr. eks. moms
 
+Månedlig ydelse: 2.387 kr. eks. moms
 
- PRIVATLEASING:
-
- 12 måneder
-
- Månedlig ydelse: 3.568 kr. inkl. moms
-
- Førstegangsydelse: 39.000 kr. inkl. Moms
-
- SPLITLEASING TILBYDES:
+Restværdi: 129.000 kr. eks. moms/afgift  SPLITLEASING TILBYDES:
 
  BESKATNINGSGRUNDLAG: 357.000 kr. 
 
