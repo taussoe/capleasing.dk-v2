@@ -14,8 +14,6 @@ components:
 
         Sæsonleasing
 
-        Deleleasing/splitleasing
-
         Privat & erhvervsleasing
 
         Finansiel & operationel leasing
