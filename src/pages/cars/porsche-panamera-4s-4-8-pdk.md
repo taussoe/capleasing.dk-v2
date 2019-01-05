@@ -1,82 +1,70 @@
 ---
 path: /cars
-carmodel: PORSCHE
+carmodel: '***JANUAR UDSALG***'
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/porsche/panamera-4s/48-pdk-5d/4125477'
-downloaded: false
-title: 'Porsche Panamera 4S 4,8 PDK'
-pictures:
-  picturelist:
-    - image: /img/bot/2146267144.jpg
-    - image: /img/bot/2146267144_1.jpg
-    - image: /img/bot/2146267144_2.jpg
-    - image: /img/bot/2146267144_3.jpg
-    - image: /img/bot/2146267144_4.jpg
-    - image: /img/bot/2146267144_5.jpg
-    - image: /img/bot/2146267144_6.jpg
-    - image: /img/bot/2146267144_7.jpg
-    - image: /img/bot/2146267144_8.jpg
-    - image: /img/bot/2146267144_9.jpg
-    - image: /img/bot/2146267144_10.jpg
-    - image: /img/bot/2146267144_11.jpg
-year: 5/2013
-monthlycost: '6111 '
-firstcost: '99000'
+downloaded: true
+title: 'PORSCHE PANAMERA 4S 4,8 PDK'
+year: '2013'
+monthlycost: '5339'
+firstcost: '80000'
 value: '320000'
 volume: '4,8'
 cylindre: '8'
-ventiler: '24'
-gear: 7 gear
+ventiler: '32'
+gear: '7'
 traek: Nej
-type: Personbil
-foerstereg: 30-05-2013
-kilometer: '122.000'
+type: '0'
+foerstereg: 01-05-2013
+kilometer: '122000'
 braendstof: Benzin
-farve: Sort
+farve: Sortmetal
 doere: '5'
-effekt: '400'
-moment: '500'
-topfart: '282'
-nultilhundrede: '4,4 '
+effekt: 400 hk
+moment: 500 nm
+topfart: '0'
+nultilhundrede: '0'
 ---
-￼PRIVATLEASING:
+LØBETID 12 MÅNEDER
 
-￼Månedlig ydelse: 6.674 kr. inkl. moms
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-￼Førstegangsydelse: 99.000 kr. inkl. moms
+ERHVERVSLEASING:
+
+Førstegangsydelse: 80.000 kr. eks. moms
+
+Månedlig ydelse 5.339,20 kr. eks. moms
+
+Restværdi 320.000 kr. eks moms/afgift
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PRIVATLEASING:
+
+Førstegangsydelse: 99.000 kr. inkl. moms
+
+Månedlig ydelse: 6.674 kr. inkl. moms
 
 Restværdi: 400.000 kr. inkl. moms - eks. afgift
 
-￼\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-￼ERHVERVSLEASING:
+Forsikring Tilbydes:
 
-￼Månedlig ydelse: 5.339 kr. eks. moms
-
-￼Førstegangsydelse: 80.000 kr. eks. moms
-
-￼Restværdi: 320.000 kr. eks. moms/afgift￼
+Fra 500 kr./mdr. ned til 23 år
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-￼Forsikring Tilbydes:
+\*Fri kilometer i hele leasingperioden (tilvalg)
 
-￼Fra 792 kr./mdr. ned til 23 år.
+\* Garanti i hele leasingperioden (valgfri)
 
-￼Løbetid: 12 måneder med mulighed for forlængelse.
+\* Bilig forsikring
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\* Privat, sæson, og erhverv – vi har det hele.
 
-✔️ Fri kilometer i hele leasingperioden (tilvalg)
+\* Du vælger selv perioden: 6, 12, 24 eller 36 ma°neder
 
-✔️ Garanti i hele leasingperioden (valgfri)
-
-✔️ Bilig forsikring
-
-✔️ Privat, sæson, og erhverv – vi har det hele.
-
-✔️ Du vælger selv perioden: 6, 12, 24 eller 36 måneder
-
-✔️ Vi opbevarer også gerne din bil over vinteren
+\* Vi opbevarer ogsa° gerne din bil over vinteren
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
