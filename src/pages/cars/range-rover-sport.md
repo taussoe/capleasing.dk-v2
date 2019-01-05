@@ -43,8 +43,6 @@ Restværdi: 170.000 kr. eks. moms/afgift
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ERHVERVSLEASING:
 
 Månedlig ydelse: 3.128 kr. eks. Moms 
@@ -55,16 +53,6 @@ Restværdi: 170.000 kr. eks. moms/afgift
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-SPLITLEASING TILBYDES:
-
-
-
-BESKATNINGSGRUNDLAG: 459.000 kr. 
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
 Forsikring Tilbydes:
 
 Fra 500 kr./mdr. ned til 18 år. 
@@ -72,8 +60,6 @@ Fra 500 kr./mdr. ned til 18 år.
 Løbetid: 12 måneder med mulighed for forlængelse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-
 
 I øvrigt
 
