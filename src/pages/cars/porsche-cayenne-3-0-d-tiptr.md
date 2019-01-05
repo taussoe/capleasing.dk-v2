@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: PORSCHE
+bilinfourl: www.capleasing.dk
+downloaded: true
 title: 'Porsche Cayenne 3,0 D Tiptr.'
 pictures:
   picturelist:
