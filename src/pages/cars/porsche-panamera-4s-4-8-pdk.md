@@ -40,27 +40,23 @@ nultilhundrede: '4,4 '
 ---
 ￼PRIVATLEASING:
 
-￼Månedlig ydelse: 6.100kr. inkl. moms
+￼Månedlig ydelse: 6.674 kr. inkl. moms
 
-￼Førstegangsydelse: 99.000 kr. inkl. Moms
+￼Førstegangsydelse: 99.000 kr. inkl. moms
 
-Restværdi: 400.000 kr. inkl. moms
+Restværdi: 400.000 kr. inkl. moms - eks. afgift
 
 ￼\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ￼ERHVERVSLEASING:
 
-￼Månedlig ydelse: 4880 kr. eks. moms
+￼Månedlig ydelse: 5.339 kr. eks. moms
 
-￼Førstegangsydelse: 79.200 kr. eks. Moms
+￼Førstegangsydelse: 80.000 kr. eks. moms
 
 ￼Restværdi: 320.000 kr. eks. moms/afgift￼
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 ￼Forsikring Tilbydes:
 
@@ -69,8 +65,6 @@ Restværdi: 400.000 kr. inkl. moms
 ￼Løbetid: 12 måneder med mulighed for forlængelse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 ✔️ Fri kilometer i hele leasingperioden (tilvalg)
 
@@ -85,7 +79,5 @@ Restværdi: 400.000 kr. inkl. moms
 ✔️ Vi opbevarer også gerne din bil over vinteren
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 aut.gear/tiptronic, 7 gear, 20" alufælge Porsche 2K, Burmeister lydanlæg, Turbo-pakke, el-gardiner bag, fuldaut. klima, 4 zone klima, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, el-soltag, 4x el-ruder, el-spejle m/varme, bakkamera, adaptiv fartpilot, el betjent bagklap, dæktryksmåler, adaptiv undervogn, cd/radio, navigation, multifunktionsrat, bluetooth, armlæn, bagagerumsdækken, kopholder, læderrat, læderindtræk, xenonlys, tågelygter, lygtevasker, el komfortsæder, automatisk lys, kurvelys, led forlygter, 10 airbags, esp, servo, ikke ryger, service ok
