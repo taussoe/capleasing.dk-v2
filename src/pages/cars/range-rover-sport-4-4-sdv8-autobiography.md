@@ -23,26 +23,26 @@ pictures:
     - image: /img/bot/2146278294_13.jpg
     - image: /img/bot/2146278294_14.jpg
 year: 6/2015
-monthlycost: '8398'
-firstcost: '104000'
-value: '320000'
+monthlycost: '6719'
+firstcost: '80000'
+value: '260000'
 volume: '4,4'
 cylindre: '8'
 ventiler: '32'
 gear: 8 gear
 traek: ja
 type: 4X4
-kilometer: 84.000.000
+kilometer: '84.000'
 braendstof: Diesel
 farve: Sortmetal
 doere: '5'
 effekt: '339'
 moment: '700'
-topfart: '210'
-nultilhundrede: '6,9'
+topfart: 210 km/t
+nultilhundrede: '6,9 hk'
 ---
 ERHVERVSLEASING:
-Månedlig ydelse: 6.718,4 kr. eks. Moms
+Månedlig ydelse: 6.719 kr. eks. Moms
 Førstegangsydelse: 64.200 kr. eks. Moms
 Restværdi: 260.000 kr. eks. moms/afgift
 
