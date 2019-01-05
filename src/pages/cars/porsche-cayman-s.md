@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: PORSCHE
+bilinfourl: www.capleasing.dk
+downloaded: true
 title: Porsche Cayman S
 pictures:
   picturelist:
@@ -39,8 +41,6 @@ Restværdi: 150.000 kr. eks. moms/afgift
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ERHVERVSLEASING:
 
 Månedlig ydelse: 3.135 kr. eks. Moms 
@@ -49,16 +49,6 @@ Førstegangsydelse: 42.000 kr. eks. moms
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-SPLITLEASING TILBYDES:
-
-
-
-BESKATNINGSGRUNDLAG: 488.000 kr. 
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
 Forsikring Tilbydes:
 
 Fra 500 kr./mdr. ned til 18 år. 
@@ -66,8 +56,6 @@ Fra 500 kr./mdr. ned til 18 år.
 Løbetid: 12 måneder med mulighed for forlængelse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-
 
 I øvrigt
 
