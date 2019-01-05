@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
+bilinfourl: www.capleasing.dk
+downloaded: true
 title: 'Mercedes E350 3,5 CGi Avantgarde Cab. aut. BE'
 pictures:
   picturelist:
@@ -35,11 +37,7 @@ nultilhundrede: '6,8'
 ---
 6 Måneders leasing aftale.
 
-
-
 Bilen er på lager, kontakt for mere info og bestil en prøvetur.
-
-
 
 \- Fri km. 
 
@@ -52,7 +50,5 @@ Bilen er på lager, kontakt for mere info og bestil en prøvetur.
  ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
 
  ✔ Mulighed for billig forsikring 
-
- ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.
 
  ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
