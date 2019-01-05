@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
+bilinfourl: www.capleasing.dk
+downloaded: true
 title: Mercedes CLS SHOOTING BRAKE 350 CDI 4MATIC
 pictures:
   picturelist:
@@ -36,22 +38,16 @@ nultilhundrede: '6,6'
 ---
 Kontakt for mere info og bestil en prøvetur.
 
-
-
 \- Fri km. 
 
 \- Klar til levering.
 
 \- Mulighed for mekaniskgaranti.
 
-
-
  ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
 
  ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
 
  ✔ Mulighed for billig forsikring 
-
- ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.
 
  ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
