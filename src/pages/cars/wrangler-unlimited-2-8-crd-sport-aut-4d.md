@@ -70,12 +70,6 @@ Førstegangsydelse: 39.000 kr. inkl. Moms
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-SPLITLEASING TILBYDES:
-
-BESKATNINGSGRUNDLAG: 368.000 kr. 
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 Forsikring Tilbydes:
 
 Fra 580 kr./mdr. ned til 18 år. 
