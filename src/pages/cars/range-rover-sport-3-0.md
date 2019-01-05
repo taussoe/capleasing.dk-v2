@@ -56,7 +56,7 @@ Løbetid: 12 måneder med mulighed for forlængelse.
 * Fri kilometer i hele leasingperioden.
 * Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
 * Billig kaskoforsikring.
-* Privat, sæson, split og erhverv – vi har det hele.
+* Privat, sæson og erhverv – vi har det hele.
 * Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
 * Vi opbevarer også gerne din bil over vinteren
 * Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
