@@ -1,75 +1,70 @@
 ---
 path: /cars
-carmodel: LAND ROVER
+carmodel: '***JANUAR UDSALG***'
 bilinfourl: >-
   https://www.bilbasen.dk/brugt/bil/land-rover/range-rover-sport/44-sdv8-autobiography-dynamic-aut-5d/4116364
 downloaded: true
 title: 'RANGE ROVER SPORT 4,4 SDV8 AUTOBIOGRAPHY'
-pictures:
-  picturelist:
-    - image: /img/bot/2146278294.jpg
-    - image: /img/bot/2146278294_1.jpg
-    - image: /img/bot/2146278294_2.jpg
-    - image: /img/bot/2146278294_3.jpg
-    - image: /img/bot/2146278294_4.jpg
-    - image: /img/bot/2146278294_5.jpg
-    - image: /img/bot/2146278294_6.jpg
-    - image: /img/bot/2146278294_7.jpg
-    - image: /img/bot/2146278294_8.jpg
-    - image: /img/bot/2146278294_9.jpg
-    - image: /img/bot/2146278294_10.jpg
-    - image: /img/bot/2146278294_11.jpg
-    - image: /img/bot/2146278294_12.jpg
-    - image: /img/bot/2146278294_13.jpg
-    - image: /img/bot/2146278294_14.jpg
-year: 6/2015
-monthlycost: '6719'
-firstcost: '80000'
-value: '260000'
+year: '2015'
+monthlycost: '6718'
+firstcost: '64000'
+value: '320000'
 volume: '4,4'
-cylindre: '8'
+cylindre: '32'
 ventiler: '32'
-gear: 8 gear
-traek: ja
+gear: '7'
+traek: JA
 type: 4X4
-kilometer: '84.000'
-braendstof: Diesel
-farve: Sortmetal
+foerstereg: 10-08-2015
+kilometer: '88000'
+braendstof: DIESEL
+farve: SORTMETAL
 doere: '5'
-effekt: '339'
-moment: '700'
-topfart: 210 km/t
-nultilhundrede: '6,9 hk'
+effekt: 339 HK
+moment: 700 NM
+topfart: '0'
+nultilhundrede: '0'
 ---
 ERHVERVSLEASING:
-Månedlig ydelse: 6.719 kr. eks. Moms
-Førstegangsydelse: 64.200 kr. eks. Moms
+
+Månedlig ydelse: 6.718,4 kr. eks. moms
+
+Førstegangsydelse: 64.000 kr. eks. moms
+
 Restværdi: 320.000 kr. eks. moms/afgift
 
-- - -
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 PRIVATLEASING:
-Månedlig ydelse:  8.398 kr. inkl. moms
-Førstegangsydelse: 80.000 kr. inkl. Moms
+
+Månedlig ydelse: 8.398 kr. inkl. moms
+
+Førstegangsydelse: 80.000 kr. inkl. moms
+
 Restværdi 400.000 kr. inkl. moms
 
-- - -
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Forsikring Tilbydes:
-Fra 450 kr./mdr. ned til 18 år.
-Løbetid: 12 måneder med mulighed for forlængelse.
 
-- - -
+Fra 450 kr./mdr. ned til 18 år.
 
-* Fri kilometer i hele leasingperioden.
-* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
-* Billig kaskoforsikring.
-* Privat, sæson og erhverv – vi har det hele.
-* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-* Vi opbevarer også gerne din bil over vinteren
-* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-- - -
+\* Fri kilometer i hele leasingperioden.
+
+\* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
+
+\* Billig kaskoforsikring.
+
+\* Privat, sæson, split og erhverv – vi har det hele.
+
+\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+
+\* Vi opbevarer også gerne din bil over vinteren
+
+\* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 .aut.gear/tiptronic, 21" alufælge, fuldaut. klima /4 zone, motorkabinevarmer, alarm, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder/bagsæder, el-soltag, glastag, 4x el-ruder, el-spejle m/varme, bakkamera, automatisk start/stop, el betjent bagklap, dæktryksmåler, adaptiv undervogn, cd/radio, navigation, multifunktionsrat, bluetooth, headup display, armlæn, isofix, bagagerumsdækken, kopholder, læderindtræk, læderrat, el komfortsæder, lygtevasker, tågelygter, xenonlys, automatisk lys, kurvelys, led forlygter, fjernlysassistent, 8 airbags, abs, esp, servo, blindvinkelsassistent, automatisk nødbremsesystem, hvide blink, ikke ryger, nysynet, service ok, diesel partikel filter
-Farve: Sortmetal
