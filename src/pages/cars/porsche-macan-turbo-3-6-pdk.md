@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: PORSCHE
+bilinfourl: www.capleasing.dk
+downloaded: false
 title: 'Porsche Macan Turbo 3,6 PDK'
 pictures:
   picturelist:
@@ -41,25 +43,27 @@ PDK 7 trin, PSM Sport m. Sport Plus, Chrono., 21" alufælge, fuldaut. klima, 2 z
 
 ERHVERVSLEASING: 
 
-24 måneder
+12 måneder
 
-Månedlig ydelse: 7.878 kr. eks. moms 
+Månedlig ydelse: 6.878 kr. eks. moms 
 
 Førstegangsydelse: 63.500 kr. eks. moms 
 
-Restværdi: 360.000 kr. eks moms/eks afgift 
+Restværdi: 260.000 kr. eks moms - eks afgift 
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 PRIVATLEASING: 
 
 12 måneder
 
-Månedlig ydelse: 9.848 kr. inkl. moms 
+Månedlig ydelse: 8.598 kr. inkl. moms 
 
 Førstegangsydelse: 79.375 kr. inkl. moms 
 
-SPLITLEASING TILBYDES: 
+Restværdi: 325.000 kr. inkl. moms - eks afgift
 
-BESKATNINGSGRUNDLAG: 1.257.430 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 Forsikring tilbydes: Fra 580 kr. per måned. ned til 18 år. 
 
