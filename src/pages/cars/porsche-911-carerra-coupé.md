@@ -49,8 +49,6 @@ Restværdi: 420.000 kr. eks moms/afgift
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ERHVERVSLEASING:
 
 førstegangsydelse: 79.200 kr. eks. Moms 
@@ -58,18 +56,6 @@ førstegangsydelse: 79.200 kr. eks. Moms
 Månedlig ydelse: 7.360 kr. eks. Moms
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-OPERATIONEL (INGEN RESTVÆRDI) 
-
-SPLITLEASING TILBYDES:
-
-BESKATNINGSGRUNDLAG: Ring for info
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 Forsikring Tilbydes:
 
@@ -79,22 +65,18 @@ Løbetid: 12 måneder med mulighed for forlængelse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 \* Fri kilometer i hele leasingperioden.
 
 \* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
 
 \* Billig kaskoforsikring.
 
-\* Privat, sæson, operationel, split og erhverv – vi har det hele.
+\* Privat, sæson, operationel og erhverv – vi har det hele.
 
 \* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
 
 \* Vi opbevarer også gerne din bil over vinteren
 
 \* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
-
-
 
 el indst. forsæder m.memory, sort læder, PASM aktive suspension, sportsudstødning, PCM cummunication m.navigation og,bluetooth, PDLS dynamic light, parkeringssensor for og bag, Bose soundsystem, fartpilot, multifunktionsrat, kørecomputer, regnsensor, auto. nedbl. bakspejl, el-ruder, el-spejle m/varme, el-indf.sidespejle, fjernb. c.lås, 2 zone klima lysdesing pakke, led lygter, servo plus, læderrat, armlæn, sædevarme, esp, abs, 6 airbags, 20" alufælge, 50 Jahre 911 pakke, 1 ejer, ikke ryger, service ok hos Porsche, bilen fremtræder som ny med det helt rigtige udstyr
