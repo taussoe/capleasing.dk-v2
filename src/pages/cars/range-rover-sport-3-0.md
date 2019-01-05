@@ -33,18 +33,17 @@ moment: 600 NM
 topfart: 210 km/t
 nultilhundrede: '7,2 sek'
 ---
-PRIVATLEASING:
-Førstegangsydelse: 80.000 kr. incl. Moms
-Månedlig ydelse: 8.032 kr. incl. Moms
-Restværdi: 325.000 kr. inkl. moms - eks afgift 
+ERHVERVSLEASING:
+Førstegangsydelse: 64.000 kr. eks. moms 
+Månedlig ydelse: 5.792 kr. eks. moms
+Restværdi: 260.000 kr. eks. moms/afgift 
 
 - - -
 
-ERHVERVSLEASING
-Førstegangsydelse 64.000 kr. eks. moms.
-Månedlig ydelse: 6.584 kr. eks. moms.
-
-Restværdi 260.000 kr. eks moms - eks afgift 
+PRIVATLEASING:
+Førstegangsydelse: 80.000 kr. inkl. moms.
+Månedlig ydelse: 7.240 kr. inkl. moms.\
+Restværdi: 325.000 kr. inkl. moms - eks afgift 
 
 - - -
 
