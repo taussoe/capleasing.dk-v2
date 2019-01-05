@@ -1,7 +1,7 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
-bilinfourl: '0'
+bilinfourl: www.capleasing.dk
 downloaded: false
 title: 'Mercedes E350 3,5 CGi AMG Cabriolet'
 pictures:
@@ -35,11 +35,7 @@ nultilhundrede: '6,8'
 ---
 Fuld AMG-pakke i sort med sort læder:
 
-
-
-aut.gear/tiptronic, alu., sædevarme, airbag, abs, esp, servo, antispin, 18\" alufælge, 4x el-ruder, el-spejle, højdejust. forsæde, cd/radio, navigation, multifunktionsrat, airc., fuldaut. klima, 2 zone klima, bluetooth, armlæn, ikke ryger, service ok, kopholder, bagagerumsdækken, læderindtræk, læderrat, lygtevasker, tågelygter, xenonlys, regnsensor, udv. temp. måler, auto. nedbl. bakspejl, varme i forrude, startspærre, infocenter, kørecomputer, fartpilot, ratgearskifte, parkeringssensor, fjernb. c.lås, alarm, c.lås, el indst. førersæde
-
-
+aut.gear/tiptronic, alu., sædevarme, airbag, abs, esp, servo, antispin, 18" alufælge, 4x el-ruder, el-spejle, højdejust. forsæde, cd/radio, navigation, multifunktionsrat, airc., fuldaut. klima, 2 zone klima, bluetooth, armlæn, ikke ryger, service ok, kopholder, bagagerumsdækken, læderindtræk, læderrat, lygtevasker, tågelygter, xenonlys, regnsensor, udv. temp. måler, auto. nedbl. bakspejl, varme i forrude, startspærre, infocenter, kørecomputer, fartpilot, ratgearskifte, parkeringssensor, fjernb. c.lås, alarm, c.lås, el indst. førersæde
 
 I øvrigt  
 
@@ -49,7 +45,7 @@ I øvrigt
 
 \* Vi tilbyder kaskoforsikring på alle vores biler  
 
-\* Privat, sæson, split og erhverv – vi har det hele.  
+\* Privat, sæson, og erhverv – vi har det hele.  
 
 \* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.  
 
