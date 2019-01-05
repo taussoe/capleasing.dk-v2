@@ -44,19 +44,14 @@ nultilhundrede: '6,9 hk'
 ERHVERVSLEASING:
 Månedlig ydelse: 6.719 kr. eks. Moms
 Førstegangsydelse: 64.200 kr. eks. Moms
-Restværdi: 260.000 kr. eks. moms/afgift
+Restværdi: 320.000 kr. eks. moms/afgift
 
 - - -
 
 PRIVATLEASING:
-Månedlig ydelse:8.398 kr. inkl. moms
+Månedlig ydelse:  8.398 kr. inkl. moms
 Førstegangsydelse: 80.000 kr. inkl. Moms
-Restværdi 325.000 kr. inkl. moms
-
-- - -
-
-SPLITLEASING TILBYDES:
-BESKATNINGSGRUNDLAG:
+Restværdi 400.000 kr. inkl. moms
 
 - - -
 
@@ -69,7 +64,7 @@ Løbetid: 12 måneder med mulighed for forlængelse.
 * Fri kilometer i hele leasingperioden.
 * Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
 * Billig kaskoforsikring.
-* Privat, sæson, split og erhverv – vi har det hele.
+* Privat, sæson og erhverv – vi har det hele.
 * Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
 * Vi opbevarer også gerne din bil over vinteren
 * Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader
