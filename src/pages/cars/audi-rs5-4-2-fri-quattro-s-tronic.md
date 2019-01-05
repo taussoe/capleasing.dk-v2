@@ -19,9 +19,9 @@ pictures:
     - image: /img/fullsizeoutput_1e9.jpeg
     - image: /img/fullsizeoutput_1eb.jpeg
 year: '2010'
-monthlycost: '6000'
-firstcost: '35000'
-value: '200000'
+monthlycost: '3939'
+firstcost: '47200'
+value: '185000'
 volume: '4,2'
 cylindre: '8'
 ventiler: '32'
@@ -55,12 +55,6 @@ førstegangsydelse: 47.200 kr. eks. moms
 Månedlig ydelse: 3.939 kr. eks. moms
 
 Restværdi: 185.000 kr. eks. moms/afgift
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-SPLITLEASING TILBYDES:
-
-BESKATNINGSGRUNDLAG: 622.000
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
