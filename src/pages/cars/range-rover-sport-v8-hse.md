@@ -53,10 +53,6 @@ Månedlig ydelse: 3.520 kr. eks. Moms
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-SPLITLEASING TILBYDES:
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 Forsikring Tilbydes:
 
 Fra 650 kr./mdr. ned til 18 år. 
@@ -78,7 +74,5 @@ Løbetid: 12 måneder med mulighed for forlængelse.
 \* Vi opbevarer også gerne din bil over vinteren
 
 \* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
-
-
 
 Xenon med LED teknik, navigation med farveskærm, adaptiv luftundervogn, 2 zone fuld aut. klima, lædersæder med el/memory, el-ratstamme, Harman-Kardon soundsystem, sædevarme, PDC parkeringssencor for/bag, bakkamera, 20" alufælge, multilæderrat, bluetooth, fartpilot, aft. træk 3500kg, aut. nebl bakspejl, bagagerumsdækken, 4 el-ruder, el-spejle, start/stop funktion (nøglefri), armlæn, kopholder, tågelygter, lygtevasker, CD, 12v udtag, mørk ton. ruder, info-center, udv. temp måler, fjb. c-lås
