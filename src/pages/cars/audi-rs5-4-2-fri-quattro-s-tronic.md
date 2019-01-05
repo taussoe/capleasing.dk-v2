@@ -40,33 +40,29 @@ nultilhundrede: '4,6'
 ---
 PRIVATLEASING:
 
-Førstegangsydelse: 35.000 kr. inkl. moms
+Førstegangsydelse: 59.000 kr. inkl. moms
 
-Månedlig ydelse: 6.000 kr. inkl. Moms
+Månedlig ydelse: 4.923 kr. inkl. moms
 
-Restværdi: 200.000 kr. eks moms/afgift
+Restværdi: 231.250 kr. inkl. moms - eks afgift 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 ERHVERVSLEASING:
 
-førstegangsydelse: 28.000 kr. eks. Moms 
+førstegangsydelse: 47.200 kr. eks. moms 
 
-Månedlig ydelse: 4.800 kr. eks. Moms
+Månedlig ydelse: 3.939 kr. eks. moms
+
+Restværdi: 185.000 kr. eks. moms/afgift
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 SPLITLEASING TILBYDES:
 
 BESKATNINGSGRUNDLAG: 622.000
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 Forsikring Tilbydes:
 
@@ -75,8 +71,6 @@ Fra 650 kr./mdr. ned til 18 år.
 Løbetid: 12 måneder med mulighed for forlængelse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 \* Fri kilometer i hele leasingperioden.
 
