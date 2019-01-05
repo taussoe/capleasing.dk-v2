@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: PORSCHE
+bilinfourl: www.capleasing.dk
+downloaded: true
 title: 'Porsche 911 Carrera 4S 3,8 Coupé PDK'
 pictures:
   picturelist:
@@ -33,8 +35,6 @@ nultilhundrede: '4,3'
 ---
 Bilen er på lager, kontakt for mere info og bestil en prøvetur.
 
-
-
 \- Fri km. 
 
 \- Klar til levering.
@@ -46,7 +46,5 @@ Bilen er på lager, kontakt for mere info og bestil en prøvetur.
  ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
 
  ✔ Mulighed for billig forsikring 
-
- ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.
 
  ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
