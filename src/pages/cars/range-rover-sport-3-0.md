@@ -2,7 +2,7 @@
 path: /cars
 carmodel: 'LAND ROVER '
 bilinfourl: >-
-  https://www.bilbasen.dk/brugt/bil/land-rover/range-rover-sport/30-sdv6-hse-dynamic-aut-5d/3728406
+  https://www.bilbasen.dk/brugt/bil/land-rover/range-rover-sport/30-sdv6-hse-dynamic-aut-5d/4052082
 downloaded: true
 title: Range Rover Sport SDV6 Autobiography Black Edition
 pictures:
@@ -13,11 +13,11 @@ pictures:
     - image: /img/bot/2146444331_3.jpg
     - image: /img/bot/2146444331_4.jpg
     - image: /img/bot/2146444331_5.jpg
-year: '2015'
-monthlycost: '6985'
-firstcost: '99000'
-value: '300000'
-volume: '0'
+year: '2014'
+monthlycost: '6584'
+firstcost: '64000'
+value: '260000 '
+volume: '3,0'
 cylindre: '6'
 ventiler: '24'
 gear: 8 gear
@@ -28,10 +28,10 @@ kilometer: '58000'
 braendstof: 'Diesel '
 farve: Gråmetal
 doere: '5'
-effekt: '292'
-moment: '600'
-topfart: '210'
-nultilhundrede: '7,2'
+effekt: 292 HK
+moment: 600 NM
+topfart: 210 km/t
+nultilhundrede: '7,2 sek'
 ---
 PRIVATLEASING:
 Førstegangsydelse: 80.000 kr. incl. Moms
