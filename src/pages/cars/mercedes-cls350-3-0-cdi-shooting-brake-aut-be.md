@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
+bilinfourl: www.capleasing.dk
+downloaded: true
 title: 'Mercedes CLS350 3,0 CDi Shooting Brake aut. BE'
 pictures:
   picturelist:
@@ -36,8 +38,6 @@ nultilhundrede: '6,6'
 ---
 Kontakt for mere info og bestil en prøvetur.
 
-
-
 \- Fri km. 
 
 \- Klar til levering.
@@ -49,7 +49,5 @@ Kontakt for mere info og bestil en prøvetur.
  ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
 
  ✔ Mulighed for billig forsikring 
-
- ✔ Vaskekort til Cirkel K: Vask bilen i hele landet hos Cirkel K.
 
  ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
