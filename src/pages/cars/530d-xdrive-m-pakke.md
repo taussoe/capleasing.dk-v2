@@ -2,7 +2,7 @@
 path: /cars
 carmodel: BMW
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/bmw/530d/30-xdrive-aut-4d/4148945'
-downloaded: false
+downloaded: true
 title: 'BMW 530d xDrive '
 pictures:
   picturelist:
@@ -39,30 +39,35 @@ moment: '560'
 topfart: '250'
 nultilhundrede: '6,1'
 ---
-PRIVATLEASING: 
+
+PRIVATLEASING:
 Førstegangsydelse: kr. 57.375 inkl. moms
 Månedlig ydelse: kr. 4.360 inkl. moms
-Restværdi: 160.000,- ex. moms/afgift. 
-________________________________________________
+Restværdi: 160.000,- ex. moms/afgift.
+
+---
 
 ERHVERVSLEASING:
 Førstegangsydelse: kr. 45.900 ex. moms
 Månedlig ydelse: kr. 3.488 ex. moms
-________________________________________________
+
+---
 
 Forsikring Tilbydes:
-Fra 500 kr./mdr. ned til 18 år. 
+Fra 500 kr./mdr. ned til 18 år.
 Løbetid: 12 måneder med mulighed for forlængelse.
-________________________________________________
 
-* Fri kilometer i hele leasingperioden.
-* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
-* Billig kaskoforsikring.
-* Privat, sæson, split og erhverv – vi har det hele.
-* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-* Vi opbevarer også gerne din bil over vinteren
-* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
-________________________________________________
+---
+
+- Fri kilometer i hele leasingperioden.
+- Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
+- Billig kaskoforsikring.
+- Privat, sæson, split og erhverv – vi har det hele.
+- Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+- Vi opbevarer også gerne din bil over vinteren
+- Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
+
+---
 
 aut.gear/tiptronic, 18" alufælge, airc., fuldaut. klima, 2 zone klima, køl i handskerum, alarm, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, højdejust. forsæde, el indst. forsæder, soltag, el-soltag, 4x el-ruder, el-spejle m/varme, nøglefri betjening, automatisk parkerings system, bakkamera, adaptiv fartpilot, automatisk start/stop, el betjent bagklap, dæktryksmåler, adaptiv undervogn, radio med cd-boks, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, headup display, armlæn, isofix, kopholder, læderindtræk, læderrat, splitbagsæde, træindlæg, el komfortsæder, lygtevasker, tågelygter, xenonlys, automatisk lys, fjernlysassistent, kurvelys, led forlygter, 8 airbags, abs, antispin, esp, servo, lane assist, blindvinkelsassistent, hvide blink, indfarvede kofangere, tonede ruder, ikke ryger, nysynet, lev. nysynet, service ok, diesel partikel filter
 Farve: Sort
