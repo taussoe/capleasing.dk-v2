@@ -3,18 +3,18 @@ path: /cars
 carmodel: 'LAND ROVER '
 bilinfourl: >-
   https://www.bilbasen.dk/brugt/bil/land-rover/range-rover-sport/30-sdv6-hse-dynamic-aut-5d/4052082
-downloaded: true
+downloaded: false
 title: Range Rover Sport SDV6 Autobiography Black Edition ***JANUAR UDSALG***
 pictures:
   picturelist:
-    - image: /img/bot/2146444331.jpg
-    - image: /img/bot/2146444331_1.jpg
-    - image: /img/bot/2146444331_2.jpg
-    - image: /img/bot/2146444331_3.jpg
-    - image: /img/bot/2146444331_4.jpg
-    - image: /img/bot/2146444331_5.jpg
-year: '2014'
-monthlycost: '6584'
+    - image: /img/bot/s-l1600.jpg
+    - image: /img/bot/s-l1600.jpg
+    - image: /img/bot/s-l1600.jpg
+    - image: /img/bot/s-l1600.jpg
+    - image: /img/bot/s-l1600.jpg
+    - image: /img/bot/s-l1600.jpg
+year: 2/2015
+monthlycost: '6985'
 firstcost: '64000'
 value: '260000 '
 volume: '3,0'
@@ -23,35 +23,34 @@ ventiler: '24'
 gear: 8 gear
 traek: 4x4
 type: SUV
-foerstereg: 20-06-2015
-kilometer: '58000'
+foerstereg: null
+kilometer: '58.000'
 braendstof: 'Diesel '
-farve: Gråmetal
+farve: Koksmetal
 doere: '5'
-effekt: 292 HK
-moment: 600 NM
-topfart: 210 km/t
-nultilhundrede: '7,2 sek'
+effekt: '292'
+moment: '600'
+topfart: '210'
+nultilhundrede: '7,2'
 ---
-ERHVERVSLEASING:
-Førstegangsydelse: 64.000 kr. eks. moms 
-Månedlig ydelse: 5.792 kr. eks. moms
-Restværdi: 260.000 kr. eks. moms/afgift 
+LØBETID 12 MÅNEDER 
 
-- - -
+ERHVERVSLEASING
+Førstegangsydelse 64.000 kr. eks. moms.
+Månedlig ydelse 5.792,00 kr. eks moms 
+Restværdi: 260.000 kr. eks moms (eks afgift)
+______________________________
 
 PRIVATLEASING:
-Førstegangsydelse: 80.000 kr. inkl. moms.
-Månedlig ydelse: 7.240 kr. inkl. moms.\
-Restværdi: 325.000 kr. inkl. moms - eks afgift 
-
-- - -
+1.gangsydelse: 80.000 kr. inkl. moms
+Mdr. ydelse: 6.985 kr. inkl. moms
+Restværdi: 325.000 kr. inkl. moms (eks afgift)
+* Kan leases operationelt *
+________________________________
 
 Forsikring Tilbydes:
 Fra 500 kr./mdr. ned til 18 år.
-Løbetid: 12 måneder med mulighed for forlængelse.
-
-- - -
+________________________________
 
 * Fri kilometer i hele leasingperioden.
 * Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
@@ -60,6 +59,8 @@ Løbetid: 12 måneder med mulighed for forlængelse.
 * Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
 * Vi opbevarer også gerne din bil over vinteren
 * Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
+________________________________
 
-aut.gear/tiptronic, 6 gear, 21" alufælge, 2 zone klima, fuldaut. klima, motorkabinevarmer, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, el indst. forsæder, glastag, 4x el-ruder, el-spejle m/varme, nøglefri betjening, automatisk parkerings system, bakkamera, adaptiv fartpilot, automatisk start/stop, el betjent bagklap, dæktryksmåler, adaptiv undervogn, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, nightvision, armlæn, isofix, bagagerumsdækken, kopholder, læderrat, læderindtræk, el komfortsæder, lygtevasker, tågelygter, xenonlys, automatisk lys, kurvelys, led forlygter, airbag, db. airbags, lane assist, automatisk nødbremsesystem, hvide blink, spoiler, indfarvede kofangere, mørktonede ruder i bag, ikke ryger, nysynet, service ok
-NysynetFarve: Gråmetal
+BLACK EDITION!!
+Røde bremsekalibre, aut., aut.gear/tiptronic, 6 gear, alu., 21" alufælge, airc., fuldaut. klima, 2 zone klima, motorkabinevarmer, alarm, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, el indst. forsæder, glastag, 4x el-ruder, el-spejle, nøglefri betjening, adaptiv fartpilot, automatisk start/stop, el betjent bagklap, dæktryksmåler, adaptiv undervogn, cd/radio, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, isofix, bagagerumsdækken, kopholder, læderindtræk, læderrat, el komfortsæder, lygtevasker, tågelygter, xenonlys, automatisk lys, fjernlysassistent, kurvelys, led forlygter, airbag, abs, antispin, esp, servo, automatisk nødbremsesystem, hvide blink, indfarvede kofangere, spoiler, tonede ruder, mørktonede ruder i bag, ikke ryger, nysynet, headup display
+Synet:6/2018Farve: Koksmetal
