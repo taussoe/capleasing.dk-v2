@@ -1,11 +1,10 @@
 ---
 path: /kontaktpersoner
-contactimage: /img/alexanderdrew.jpg
-title: Alexander Drew
-contacttitle: Salg
-contacteducation: ''
-contacttelephone: +45 42924116
-contactemail: ad@capleasing.dk
-order: '2'
+contactimage: /img/13417532_10206841369567757_6733496822369882049_n.jpeg
+title: Christian Falck
+contacttitle: 'Økonomi & Administration '
+contacteducation: Cand. Merc. FIR
+contacttelephone: +45 40205729
+contactemail: finance@capleasing.dk
+order: '5'
 ---
-
