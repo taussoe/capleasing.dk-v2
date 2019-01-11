@@ -153,7 +153,7 @@ export default class HalfHero extends React.Component {
 
             <div>
               <ul>
-                {this.props.carmodel.slice(0, 10).map((e, i) => {
+                {this.props.carmodel.map((e, i) => {
                   return (
                     <li
                       key={`menucarlisting-${i}`}
