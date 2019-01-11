@@ -2,7 +2,7 @@
 path: /cars
 carmodel: AUDI
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: 'AUDI RS5 4,2 FSI quattro S-Tronic ***JANUAR UDSALG***'
 pictures:
   picturelist:

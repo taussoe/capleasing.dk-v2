@@ -2,7 +2,7 @@
 path: /cars
 carmodel: AUDI
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: 'Audi A4 2,0 TDi 143 Avant Multitr. 5d'
 pictures:
   picturelist:

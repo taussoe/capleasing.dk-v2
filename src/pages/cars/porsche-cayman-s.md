@@ -2,7 +2,7 @@
 path: /cars
 carmodel: PORSCHE
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: Porsche Cayman S
 pictures:
   picturelist:
@@ -31,7 +31,8 @@ moment: '0'
 topfart: '0'
 nultilhundrede: '4,6'
 ---
-PRIVATLEASING: 
+
+PRIVATLEASING:
 
 Månedlig ydelse: 3.919 kr. inkl. moms
 
@@ -43,7 +44,7 @@ Restværdi: 150.000 kr. eks. moms/afgift
 
 ERHVERVSLEASING:
 
-Månedlig ydelse: 3.135 kr. eks. Moms 
+Månedlig ydelse: 3.135 kr. eks. Moms
 
 Førstegangsydelse: 42.000 kr. eks. moms
 
@@ -51,11 +52,11 @@ Førstegangsydelse: 42.000 kr. eks. moms
 
 Forsikring Tilbydes:
 
-Fra 500 kr./mdr. ned til 18 år. 
+Fra 500 kr./mdr. ned til 18 år.
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 I øvrigt
 
@@ -73,6 +74,6 @@ I øvrigt
 
 \* Har vi ikke bilen på lager, samarbejder vi med over 50 forhandlere i Tyskland og står for importen.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 aut.gear/tiptronic, 19" alufælge, 2 zone klima, fuldaut. klima, parkeringssensor, fjernb. c.lås, ratgearskifte, kørecomputer, fartpilot, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, sædevarme, el indst. forsæder, el-ruder, el-spejle, adaptiv undervogn, navigation, bluetooth, armlæn, læderrat, xenonlys, tågelygter, airbag, ikke ryger

@@ -2,7 +2,7 @@
 path: /cars
 carmodel: PORSCHE
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: 'Porsche 911 Carrera 4S 3,8 Coupé PDK'
 pictures:
   picturelist:
@@ -33,18 +33,19 @@ moment: 440 Nm
 topfart: '297'
 nultilhundrede: '4,3'
 ---
+
 Bilen er på lager, kontakt for mere info og bestil en prøvetur.
 
-\- Fri km. 
+\- Fri km.
 
 \- Klar til levering.
 
 \- Mulighed for mekaniskgaranti.
 
- ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
+✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
 
- ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
+✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
 
- ✔ Mulighed for billig forsikring 
+✔ Mulighed for billig forsikring
 
- ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
+✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.

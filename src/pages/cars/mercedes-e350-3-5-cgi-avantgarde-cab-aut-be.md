@@ -2,7 +2,7 @@
 path: /cars
 carmodel: Mercedes-Benz
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: 'Mercedes E350 3,5 CGi Avantgarde Cab. aut. BE'
 pictures:
   picturelist:
@@ -35,20 +35,21 @@ moment: 365 Nm.
 topfart: '250'
 nultilhundrede: '6,8'
 ---
+
 6 Måneders leasing aftale.
 
 Bilen er på lager, kontakt for mere info og bestil en prøvetur.
 
-\- Fri km. 
+\- Fri km.
 
 \- Klar til levering.
 
 \- Mulighed for mekaniskgaranti.
 
- ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
+✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
 
- ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
+✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
 
- ✔ Mulighed for billig forsikring 
+✔ Mulighed for billig forsikring
 
- ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
+✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.

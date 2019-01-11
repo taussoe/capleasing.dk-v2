@@ -2,7 +2,7 @@
 path: /cars
 carmodel: Mercedes-Benz
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: 'Mercedes CLS350 3,0 CDi Shooting Brake aut. BE'
 pictures:
   picturelist:
@@ -36,18 +36,19 @@ moment: 620 Nm
 topfart: '250'
 nultilhundrede: '6,6'
 ---
+
 Kontakt for mere info og bestil en prøvetur.
 
-\- Fri km. 
+\- Fri km.
 
 \- Klar til levering.
 
 \- Mulighed for mekaniskgaranti.
 
- ✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
+✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
 
- ✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
+✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
 
- ✔ Mulighed for billig forsikring 
+✔ Mulighed for billig forsikring
 
- ✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
+✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.

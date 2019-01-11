@@ -2,7 +2,7 @@
 path: /cars
 carmodel: LAND ROVER
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: Range Rover Sport V8 HSE
 pictures:
   picturelist:

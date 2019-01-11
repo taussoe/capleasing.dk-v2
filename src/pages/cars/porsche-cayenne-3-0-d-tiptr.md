@@ -2,7 +2,7 @@
 path: /cars
 carmodel: PORSCHE
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: 'Porsche Cayenne 3,0 D Tiptr.'
 pictures:
   picturelist:
@@ -36,6 +36,7 @@ moment: 550 Nm
 topfart: '240'
 nultilhundrede: '7,8'
 ---
+
 PRIVATLEASING
 
 Månedlig ydelse: 5.595 kr. inkl. moms
@@ -44,7 +45,7 @@ Førstegangsydelse: 75.000 kr. inkl. moms
 
 Restværdi: 221.000 kr. eks. moms/afgift
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ERHVERVSLEASING:
 
@@ -52,19 +53,15 @@ Månedlig ydelse: 4.476 kr. eks. Moms
 
 Førstegangsydelse: 60.000 kr. eks. moms
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Forsikring Tilbydes
 
-Fra 500 kr./mdr. ned til 18 år. 
+Fra 500 kr./mdr. ned til 18 år.
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 I øvrigt
 
@@ -80,12 +77,10 @@ I øvrigt
 
 \* Vi opbevarer også gerne din bil over vinteren
 
-\* Har vi ikke bilen på lager, dedikere vi os til at finde 
+\* Har vi ikke bilen på lager, dedikere vi os til at finde
 
-   den helt rigtige og står for importen.
+den helt rigtige og står for importen.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 aut.gear/tiptronic, 4 zone klima, motorkabinevarmer, fjernb. c.lås, parkeringssensor/kamera, ratgearskifte, fartpilot, infocenter, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, glastag, 4x el-ruder, el-spejle, adaptiv undervogn, navigation, cd/radio, multifunktionsrat, bluetooth, læderrat, isofix, armlæn, læderindtræk, tågelygter, xenonlys, kurvelys, airbag, ikke ryger, mørktonede ruder i bag, service ok, diesel partikel filter, bakkamera, el betjent bagklap

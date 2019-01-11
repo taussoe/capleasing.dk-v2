@@ -2,7 +2,7 @@
 path: /cars
 carmodel: PORSCHE
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: Porsche 911 Carerra Coupé
 pictures:
   picturelist:

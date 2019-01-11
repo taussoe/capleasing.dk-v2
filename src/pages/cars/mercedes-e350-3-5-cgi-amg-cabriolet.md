@@ -2,7 +2,7 @@
 path: /cars
 carmodel: Mercedes-Benz
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: 'Mercedes E350 3,5 CGi AMG Cabriolet'
 pictures:
   picturelist:

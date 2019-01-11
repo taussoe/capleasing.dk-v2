@@ -2,7 +2,7 @@
 path: /cars
 carmodel: Mercedes-Benz
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: 'Mercedes GL320 3,0 CDi aut. 4-M 5d'
 pictures:
   picturelist:
