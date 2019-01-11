@@ -2,7 +2,7 @@
 path: /cars
 carmodel: Mercedes-Benz
 bilinfourl: www.capleasing.dk
-downloaded: false
+downloaded: true
 title: 'Mercedes E350 3,5 CGi AMG Cabriolet'
 pictures:
   picturelist:
@@ -33,24 +33,25 @@ moment: '365'
 topfart: '250'
 nultilhundrede: '6,8'
 ---
+
 Fuld AMG-pakke i sort med sort læder:
 
 aut.gear/tiptronic, alu., sædevarme, airbag, abs, esp, servo, antispin, 18" alufælge, 4x el-ruder, el-spejle, højdejust. forsæde, cd/radio, navigation, multifunktionsrat, airc., fuldaut. klima, 2 zone klima, bluetooth, armlæn, ikke ryger, service ok, kopholder, bagagerumsdækken, læderindtræk, læderrat, lygtevasker, tågelygter, xenonlys, regnsensor, udv. temp. måler, auto. nedbl. bakspejl, varme i forrude, startspærre, infocenter, kørecomputer, fartpilot, ratgearskifte, parkeringssensor, fjernb. c.lås, alarm, c.lås, el indst. førersæde
 
-I øvrigt  
+I øvrigt
 
-\* Vi tilbyder fri kilometer i hele leasingperioden.  
+\* Vi tilbyder fri kilometer i hele leasingperioden.
 
-\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)  
+\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
 
-\* Vi tilbyder kaskoforsikring på alle vores biler  
+\* Vi tilbyder kaskoforsikring på alle vores biler
 
-\* Privat, sæson, og erhverv – vi har det hele.  
+\* Privat, sæson, og erhverv – vi har det hele.
 
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.  
+\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
 
-\* Vi opbevarer også gerne din bil over vinteren  
+\* Vi opbevarer også gerne din bil over vinteren
 
-\* Har vi ikke bilen på lager, dedikere vi os til at finde   
+\* Har vi ikke bilen på lager, dedikere vi os til at finde
 
 den helt rigtige og står for importen.

@@ -2,7 +2,7 @@
 path: /cars
 carmodel: Mercedes-Benz
 bilinfourl: www.capleasing.dk
-downloaded: false
+downloaded: true
 title: 'Mercedes GL320 3,0 CDi aut. 4-M 5d'
 pictures:
   picturelist:
@@ -30,6 +30,7 @@ moment: '510'
 topfart: '210'
 nultilhundrede: '9,5'
 ---
+
 7 Personers, panorama soltag og alt i udstyr.
 
 \* Vi tilbyder fri kilometer i hele leasingperioden.
@@ -38,7 +39,7 @@ nultilhundrede: '9,5'
 
 \* Vi tilbyder kaskoforsikring på alle vores biler
 
-\* Sæson, privat- og erhvervsleasing. 
+\* Sæson, privat- og erhvervsleasing.
 
 \* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
 

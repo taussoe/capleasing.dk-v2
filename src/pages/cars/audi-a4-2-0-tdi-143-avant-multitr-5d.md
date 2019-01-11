@@ -2,7 +2,7 @@
 path: /cars
 carmodel: AUDI
 bilinfourl: www.capleasing.dk
-downloaded: false
+downloaded: true
 title: 'Audi A4 2,0 TDi 143 Avant Multitr. 5d'
 pictures:
   picturelist:
@@ -38,6 +38,7 @@ moment: 320 NM
 topfart: 200 km/t
 nultilhundrede: '9,5 sek'
 ---
+
 PRIVATLEASING:
 
 Førstegangsydelse: 29.000 kr. inkl. moms
@@ -48,19 +49,15 @@ Restværdi: 92.500 kr. eks moms/afgift
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ERHVERVSLEASING:
 
-førstegangsydelse: 23.200 kr. eks. Moms 
+førstegangsydelse: 23.200 kr. eks. Moms
 
 Månedlig ydelse: 2.328 kr. eks. Moms
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-OPERATIONEL TILBYDES (ingen restværdi) 
+OPERATIONEL TILBYDES (ingen restværdi)
 
 SPLITLEASING TILBYDES
 
@@ -68,17 +65,13 @@ BESKATNINGSGRUNDLAG: 283.000 kr.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 Forsikring Tilbydes:
 
-Fra 650 kr./mdr. ned til 18 år. 
+Fra 650 kr./mdr. ned til 18 år.
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 \* Fri kilometer i hele leasingperioden.
 
@@ -92,8 +85,8 @@ Løbetid: 12 måneder med mulighed for forlængelse.
 
 \* Vi opbevarer også gerne din bil over vinteren
 
-\* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
+\* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 aut.gear/tiptronic, aut., adaptiv fartpilot, aftag. træk, xenonlys, navigation, led forlygter, 17" alufælge, fuldaut. klima, c.lås, fjernb. c.lås, parkeringssensor, kørecomputer, infocenter, startspærre, udv. temp. måler, regnsensor, sædevarme, el-ruder, 4x el-ruder, el-spejle, el-spejle m/varme, automatisk start/stop, cd/radio, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, isofix, bagagerumsdækken, splitbagsæde, læderrat, 8 airbags, abs, antispin, esp, servo, hvide blink, indfarvede kofangere, tonede ruder, 1 ejer, ikke ryger, service ok, træk, træk til 1900 kg, diesel partikel filter,

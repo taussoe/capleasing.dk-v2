@@ -2,7 +2,7 @@
 path: /cars
 carmodel: PORSCHE
 bilinfourl: www.capleasing.dk
-downloaded: false
+downloaded: true
 title: 'Porsche Macan Turbo 3,6 PDK'
 pictures:
   picturelist:
@@ -37,35 +37,36 @@ moment: '550'
 topfart: '266'
 nultilhundrede: '4,8'
 ---
-PDK 7 trin, PSM Sport m. Sport Plus, Chrono., 21" alufælge, fuldaut. klima, 2 zone klima, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, el-soltag, glastag, el-ruder, bakkamera, el betjent bagklap, dæktryksmåler, navigation, multifunktionsrat, bluetooth, isofix, bagagerumsdækken, xenonlys, led forlygter, kurvelys og meget mere. 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+PDK 7 trin, PSM Sport m. Sport Plus, Chrono., 21" alufælge, fuldaut. klima, 2 zone klima, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, el-soltag, glastag, el-ruder, bakkamera, el betjent bagklap, dæktryksmåler, navigation, multifunktionsrat, bluetooth, isofix, bagagerumsdækken, xenonlys, led forlygter, kurvelys og meget mere.
 
-ERHVERVSLEASING: 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-12 måneder
-
-Månedlig ydelse: 6.878 kr. eks. moms 
-
-Førstegangsydelse: 63.500 kr. eks. moms 
-
-Restværdi: 260.000 kr. eks moms - eks afgift 
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-PRIVATLEASING: 
+ERHVERVSLEASING:
 
 12 måneder
 
-Månedlig ydelse: 8.598 kr. inkl. moms 
+Månedlig ydelse: 6.878 kr. eks. moms
 
-Førstegangsydelse: 79.375 kr. inkl. moms 
+Førstegangsydelse: 63.500 kr. eks. moms
+
+Restværdi: 260.000 kr. eks moms - eks afgift
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PRIVATLEASING:
+
+12 måneder
+
+Månedlig ydelse: 8.598 kr. inkl. moms
+
+Førstegangsydelse: 79.375 kr. inkl. moms
 
 Restværdi: 325.000 kr. inkl. moms - eks afgift
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Forsikring tilbydes: Fra 580 kr. per måned. ned til 18 år. 
+Forsikring tilbydes: Fra 580 kr. per måned. ned til 18 år.
 
 Kontakt os for mere info.
 
@@ -83,6 +84,6 @@ I øvrigt
 
 \* Vi opbevarer også gerne din bil over vinteren
 
-\* Har vi ikke bilen på lager, dedikere vi os til at finde 
+\* Har vi ikke bilen på lager, dedikere vi os til at finde
 
 den helt rigtige og står for importen.

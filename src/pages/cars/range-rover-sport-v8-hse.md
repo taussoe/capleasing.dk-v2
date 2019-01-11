@@ -2,7 +2,7 @@
 path: /cars
 carmodel: LAND ROVER
 bilinfourl: www.capleasing.dk
-downloaded: false
+downloaded: true
 title: Range Rover Sport V8 HSE
 pictures:
   picturelist:
@@ -35,11 +35,12 @@ moment: 640 NM
 topfart: 209 km/t
 nultilhundrede: '9,2 sek'
 ---
+
 PRIVATLEASING:
 
 Førstegangsydelse: 54.000 kr. inkl. moms
 
- Månedlig ydelse: 4.400 kr. inkl. Moms
+Månedlig ydelse: 4.400 kr. inkl. Moms
 
 Restværdi: 155.000 kr. eks moms/afgift
 
@@ -47,7 +48,7 @@ Restværdi: 155.000 kr. eks moms/afgift
 
 ERHVERVSLEASING:
 
-førstegangsydelse: 43.200 kr. eks. Moms 
+førstegangsydelse: 43.200 kr. eks. Moms
 
 Månedlig ydelse: 3.520 kr. eks. Moms
 
@@ -55,7 +56,7 @@ Månedlig ydelse: 3.520 kr. eks. Moms
 
 Forsikring Tilbydes:
 
-Fra 650 kr./mdr. ned til 18 år. 
+Fra 650 kr./mdr. ned til 18 år.
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 

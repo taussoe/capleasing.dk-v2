@@ -2,7 +2,7 @@
 path: /cars
 carmodel: Volkswagen
 bilinfourl: www.capleasing.dk
-downloaded: false
+downloaded: true
 title: 'Passat 2,0 TDi 170 Highline AUT. DSG'
 pictures:
   picturelist:
@@ -31,6 +31,7 @@ moment: '350'
 topfart: '224'
 nultilhundrede: '8,6'
 ---
+
 PRIVATLEASING
 
 Førstegangsydelse: 29.500kr. inkl. moms
@@ -43,7 +44,7 @@ Restværdi: 88.000 kr. eks. moms/afgift
 
 Forsikring Tilbydes
 
-Fra 450 kr./mdr. ned til 18 år. 
+Fra 450 kr./mdr. ned til 18 år.
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
@@ -63,7 +64,7 @@ I øvrigt
 
 \* Vi opbevarer også gerne din bil over vinteren
 
-\* Har vi ikke bilen på lager, dedikere vi os til at finde 
+\* Har vi ikke bilen på lager, dedikere vi os til at finde
 
 den helt rigtige og står for importen.
 

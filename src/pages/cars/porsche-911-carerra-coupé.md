@@ -2,7 +2,7 @@
 path: /cars
 carmodel: PORSCHE
 bilinfourl: www.capleasing.dk
-downloaded: false
+downloaded: true
 title: Porsche 911 Carerra Coupé
 pictures:
   picturelist:
@@ -39,6 +39,7 @@ moment: 390 NM
 topfart: 290 km/t
 nultilhundrede: '4,4 sek'
 ---
+
 PRIVATLEASING:
 
 Førstegangsydelse: 99.000 kr. inkl. moms
@@ -51,7 +52,7 @@ Restværdi: 420.000 kr. eks moms/afgift
 
 ERHVERVSLEASING:
 
-førstegangsydelse: 79.200 kr. eks. Moms 
+førstegangsydelse: 79.200 kr. eks. Moms
 
 Månedlig ydelse: 7.360 kr. eks. Moms
 
@@ -59,7 +60,7 @@ Månedlig ydelse: 7.360 kr. eks. Moms
 
 Forsikring Tilbydes:
 
-Fra 650 kr./mdr. ned til 18 år. 
+Fra 650 kr./mdr. ned til 18 år.
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 

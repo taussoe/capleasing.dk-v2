@@ -2,7 +2,7 @@
 path: /cars
 carmodel: AUDI
 bilinfourl: www.capleasing.dk
-downloaded: false
+downloaded: true
 title: 'AUDI RS5 4,2 FSI quattro S-Tronic ***JANUAR UDSALG***'
 pictures:
   picturelist:
@@ -38,19 +38,20 @@ moment: '430'
 topfart: 300+
 nultilhundrede: '4,6'
 ---
+
 PRIVATLEASING:
 
 Førstegangsydelse: 59.000 kr. inkl. moms
 
 Månedlig ydelse: 4.923 kr. inkl. moms
 
-Restværdi: 231.250 kr. inkl. moms - eks afgift 
+Restværdi: 231.250 kr. inkl. moms - eks afgift
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ERHVERVSLEASING:
 
-førstegangsydelse: 47.200 kr. eks. moms 
+førstegangsydelse: 47.200 kr. eks. moms
 
 Månedlig ydelse: 3.939 kr. eks. moms
 
@@ -60,7 +61,7 @@ Restværdi: 185.000 kr. eks. moms/afgift
 
 Forsikring Tilbydes:
 
-Fra 650 kr./mdr. ned til 18 år. 
+Fra 650 kr./mdr. ned til 18 år.
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
