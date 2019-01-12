@@ -2,7 +2,7 @@
 path: /cars
 carmodel: AUDI
 bilinfourl: www.capleasing.dk
-downloaded: true
+downloaded: false
 title: 'Audi A4 Avant, 2,0 TDI S-line'
 pictures:
   picturelist:
