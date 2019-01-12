@@ -18,9 +18,9 @@ pictures:
     - image: /img/10.jpg
     - image: /img/fullsizeoutput_1bf.jpeg
 year: '2014'
-monthlycost: '5378 kr. '
-firstcost: '85345 kr. '
-value: '320000 kr. '
+monthlycost: '5762 kr. '
+firstcost: '84406 kr. '
+value: '320000 kr. eks afgift '
 volume: '3,6'
 cylindre: '6'
 ventiler: '24'
