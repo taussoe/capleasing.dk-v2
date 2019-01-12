@@ -25,19 +25,19 @@ nultilhundrede: '7,3'
 cylindre: '6'
 pictures:
   picturelist:
-    - image: /img/bot/3fzcqbun4rus-l1600.jpg
-    - image: /img/bot/xh3pv5w7njs-l1600.jpg
-    - image: /img/bot/e49quyr37vus-l1600.jpg
-    - image: /img/bot/lfzcfscccys-l1600.jpg
-    - image: /img/bot/b9itslou92s-l1600.jpg
-    - image: /img/bot/d9s0jyehr5s-l1600.jpg
-    - image: /img/bot/q0sakm430gs-l1600.jpg
-    - image: /img/bot/t2wzpk25us-l1600.jpg
-    - image: /img/bot/ip905dko5ms-l1600.jpg
-    - image: /img/bot/mm3gdg62d28s-l1600.jpg
-    - image: /img/bot/mwitu2m76tbs-l1600.jpg
-    - image: /img/bot/0dck3zkhu1aus-l1600.jpg
-    - image: /img/bot/wqlcxrknhxs-l1600.jpg
+    - image: /img/bot/6j60blesth4s-l1600.jpg
+    - image: /img/bot/b1ykkof0hpjs-l1600.jpg
+    - image: /img/bot/f9x5ekdrhdfs-l1600.jpg
+    - image: /img/bot/adjxzprp7zws-l1600.jpg
+    - image: /img/bot/c0rr01eurkjs-l1600.jpg
+    - image: /img/bot/xt6hygqvg2s-l1600.jpg
+    - image: /img/bot/gvhsj5rbgihs-l1600.jpg
+    - image: /img/bot/k11x6kq0hhs-l1600.jpg
+    - image: /img/bot/6tbx16nm9e9s-l1600.jpg
+    - image: /img/bot/mms9zotx3ds-l1600.jpg
+    - image: /img/bot/tjbwdb6plcjs-l1600.jpg
+    - image: /img/bot/txxfy2e5l1s-l1600.jpg
+    - image: /img/bot/mgckb44j9r9s-l1600.jpg
 ---
 Løbetid måneder:
 
