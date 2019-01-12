@@ -1,6 +1,6 @@
 ---
 path: /kontaktpersoner
-contactimage: /img/cap 1.jpg
+contactimage: /img/cap.png
 title: CapLeasing
 contacttitle: Kattegatvej 39
 contacteducation: ','
