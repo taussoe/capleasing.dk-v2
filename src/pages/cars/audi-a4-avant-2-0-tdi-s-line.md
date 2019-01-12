@@ -1,6 +1,8 @@
 ---
 path: /cars
 carmodel: AUDI
+bilinfourl: www.capleasing.dk
+downloaded: true
 title: 'Audi A4 Avant, 2,0 TDI S-line'
 pictures:
   picturelist:
@@ -23,45 +25,43 @@ ventiler: '16'
 gear: '7'
 traek: Nej
 type: Personbil
-foerstereg: 10-06-2012
-kilometer: 113500 km
+foerstereg: 10-06-2014
+kilometer: '132000'
 braendstof: Diesel
-farve: Koksmetal
+farve: Sortmetal
 doere: '5'
-effekt: 177 hk
+effekt: 150 hk
 moment: .
 topfart: 205 km/t
-nultilhundrede: '8,e sek'
+nultilhundrede: '8,0 sek'
 ---
+Løbetid: 12 måneder
+
 ERHVERVSLEASING:
 
-Førstegangsydelse: 20.000 kr. eks. moms
+Førstegangsydelse: 23.200 kr. eks. moms
 
-Månedlig ydelse: kr. 1.840 eks. Moms
+Månedlig ydelse: kr. 1.795 eks. Moms
 
-Restværdi: 70.000 kr. ex. moms. 
+Restværdi: 95.000 kr. ex. moms. 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 PRIVATLEASING
 
-Førstegangsydelse: 25.000 kr. inkl. moms
+Førstegangsydelse: 29.000 kr. inkl. moms
 
-Månedlig ydelse: 2.400 kr. inkl. moms
+Månedlig ydelse: 2.244 kr. inkl. moms
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 Forsikring Tilbydes
 
-Fra 625 kr./mdr. ned til 18 år. 
+Fra 554 kr./mdr. ned til 18 år. 
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 I øvrigt
 
@@ -82,7 +82,5 @@ I øvrigt
 den helt rigtige og står for importen.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
-
-
 
 aut., aut.gear/tiptronic, airc., 2 zone klima, fjernb. c.lås, parkeringssensor, c.lås, alarm, fartpilot, kørecomputer, infocenter, startspærre, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, 4x el-ruder, el-spejle, cd/radio, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, isofix, bagagerumsdækken, kopholder, dellæder, læderrat, lygtevasker, tågelygter, xenonlys, db. airbags, abs, antispin, esp, servo, tonede ruder, ikke ryger, nysynet, service ok, 18" alufælge, ratgearskifte, varme i forrude
