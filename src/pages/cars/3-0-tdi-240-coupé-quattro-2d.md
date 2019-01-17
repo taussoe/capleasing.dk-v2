@@ -25,15 +25,15 @@ nultilhundrede: '5,9'
 monthlycost: '1360'
 pictures:
   picturelist:
-    - image: /img/bot/7t8oektfuh4s-l1600.jpg
-    - image: /img/bot/lzx22zzl7kds-l1600.jpg
-    - image: /img/bot/ut6zas4wqs-l1600.jpg
-    - image: /img/bot/msfwcgpcxtcs-l1600.jpg
-    - image: /img/bot/2znklnmweays-l1600.jpg
-    - image: /img/bot/hk3fsns6d5s-l1600.jpg
-    - image: /img/bot/6nmcszhyxmls-l1600.jpg
-    - image: /img/bot/6nwoxi62k4s-l1600.jpg
-    - image: /img/bot/xfqizd6xitos-l1600.jpg
+    - image: /img/bot/7lwhwxb0zkts-l1600.jpg
+    - image: /img/bot/dds9lw6075is-l1600.jpg
+    - image: /img/bot/4eeumavarlts-l1600.jpg
+    - image: /img/bot/gdm4kzsbxnjs-l1600.jpg
+    - image: /img/bot/e0pb62wyz3us-l1600.jpg
+    - image: /img/bot/ilr9dkaauas-l1600.jpg
+    - image: /img/bot/bg8po82zu4fs-l1600.jpg
+    - image: /img/bot/8ymncx5defxs-l1600.jpg
+    - image: /img/bot/c7b2rg4e63ss-l1600.jpg
 ---
 Løbetid måneder: 12 mdr.
 
