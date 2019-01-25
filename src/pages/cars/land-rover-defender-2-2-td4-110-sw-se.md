@@ -1,6 +1,9 @@
 ---
 path: /cars
 carmodel: LAND ROVER
+bilinfourl: >-
+  https://www.bilbasen.dk/brugt/bil/land-rover/defender/22-td4-110-sw-se-5d/4190382
+downloaded: true
 title: 'Land Rover Defender 2,2 TD4 110" SW SE'
 pictures:
   picturelist:
@@ -29,53 +32,63 @@ moment: '2,2'
 topfart: '0'
 nultilhundrede: Kommer an på vind og vejr;)
 ---
-Unik Land Rover Defender med monteret parkeringsensor, navigationsskærm, LED forlygter, sorte fælge, bluetooth, subwoofer og meget mere - en rigtig Herregårds-bil med speciel udstyrspakke. 
+7 pers., Rough Edition, 16” sorte Land Rover alufælge, eftermonteret original lR LED lygter, våbenskab, hængsler efterlakeret, turbo skiftet m. garanti, Alpine anlæg med opgraderet høktaler-system, reservehjul monteret bag, ekstra lygter monteret på taget, alu. trinbræt, radio/CD afspiller, motorvarmer, opvarmet forrude,, sædevarme for, sportsrat i læder, klimaanlæg, anhængertræk, ikke ryger, lev. nysynet, service ok - kontakt for komplet udstyrliste
 
 
 
-Ring for mere info. 
+\*BILEN KAN FREMVISES FRA SHOWROOM
+
+
+
+Løbetid måneder:
 
 
 
 ERHVERVSLEASING:
 
-Førstegangsydelse: 71.200 kr. eks. moms
+førstegangsydelse: 58.796 kr. eks. Moms 
 
-Månedlig ydelse: 4.800 kr. eks. Moms
+Månedlig ydelse: 4.376 kr. eks. Moms
 
-Restværdi: 234.000 kr. eks. moms/afgift
+Restværdi: 215.000 kr. eks. moms/afgift
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-PRIVATLEASING
-
-Førstegangsydelse: 89.000 kr. inkl. moms
-
-Månedlig ydelse: 6.000 kr. inkl. moms
-
-Restværdi: 234.000 kr. eks. moms/afgift
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 
 
-Forsikring Tilbydes
+PRIVATLEASING:
 
-Fra 625 kr./mdr. ned til 18 år. 
+Førstegangsydelse: 73.495kr. inkl. moms
+
+Månedlig ydelse: 5.471kr. inkl. moms
+
+Restværdi: 268.750 kr. inkl. moms/ eks. afgift
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+
+
+Samlede omkostninger i leasingperioden: 113.314 eks. Moms
+
+Splitleasing tilbydes
+
+
+
+Forsikring Tilbydes:
+
+Fra 550 kr./mdr. ned til 18 år. 
 
 Løbetid: 12 måneder med mulighed for forlængelse.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 
 
-I øvrigt
+\* Fri kilometer i hele leasingperioden.
 
-\* Vi tilbyder fri kilometer i hele leasingperioden.
+\* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
 
-\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
-
-\* Vi tilbyder kaskoforsikring på alle vores biler
+\* Billig kaskoforsikring.
 
 \* Privat, sæson, split og erhverv – vi har det hele.
 
@@ -83,10 +96,4 @@ I øvrigt
 
 \* Vi opbevarer også gerne din bil over vinteren
 
-\* Har vi ikke bilen på lager, dedikere vi os til at finde 
-
-den helt rigtige og står for importen.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
-
-, alu., sædevarme, højdejust. forsæde, servo, 4x el-ruder, cd/radio, el-ruder, vinterhjul, airc., ikke ryger, nysynet, service ok, træk, diesel partikel filter, tågelygter, kopholder, stofindtræk, armlæn, alarm, fjernb. c.lås, c.lås, udv. temp. måler, airbag, 19" alufælge, navigation, bluetooth, parkeringssensor, infocenter
+\* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
