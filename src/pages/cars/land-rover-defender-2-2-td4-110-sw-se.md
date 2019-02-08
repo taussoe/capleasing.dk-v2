@@ -25,7 +25,7 @@ doere: '5'
 effekt: 122 Hk
 moment: '2,2'
 topfart: '200'
-nultilhundrede: Kommer an på vind og vejr;)
+nultilhundrede: Kommer an på vind og vejr ;)
 ---
 En Land Rover Defender er både tidløs og uforgængelig, men den vi har hentet i Tyskland, står som fabriksny og byder på den største og bedste udstyrspakke, som gør den fuldstændig opdateret både udvendigt og indvendigt. 
 
