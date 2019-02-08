@@ -12,7 +12,7 @@ volume: '3,0'
 cylindre: '6'
 ventiler: '24'
 gear: '6'
-traek: Nej
+traek: Ja
 type: Coupé
 foerstereg: 06-2010
 kilometer: '210000'
