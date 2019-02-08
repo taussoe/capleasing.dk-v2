@@ -1,28 +1,15 @@
 ---
 path: /cars
 carmodel: PORSCHE
-bilinfourl: www.capleasing.dk
-downloaded: false
+bilinfourl: 'https://www.bilbasen.dk/brugt/bil/porsche/911-carrera/34-coup-pdk-2d/4156515'
+downloaded: true
 title: Porsche 911 Carerra Coupé
 pictures:
-  picturelist:
-    - image: /img/img_4378.jpg
-    - image: /img/img_4379.jpg
-    - image: /img/img_4380.jpg
-    - image: /img/img_4381.jpg
-    - image: /img/img_4387.jpg
-    - image: /img/img_4397.jpg
-    - image: /img/img_4399.jpg
-    - image: /img/img_4390.jpg
-    - image: /img/img_4392.jpg
-    - image: /img/img_4395.jpg
-    - image: /img/img_4394.jpg
-    - image: /img/img_4389.jpg
-    - image: /img/img_4396.jpg
+  picturelist: []
 year: '2014'
-monthlycost: '9200'
-firstcost: '99000'
-value: '420000 kr. eks moms/afgift '
+monthlycost: '6986'
+firstcost: '139000'
+value: '410000'
 volume: '3,4'
 cylindre: '6'
 ventiler: '32'
@@ -39,45 +26,29 @@ moment: 390 NM
 topfart: 290 km/t
 nultilhundrede: '4,4 sek'
 ---
+Løbetid 12 måneder
 
 PRIVATLEASING:
 
-Førstegangsydelse: 99.000 kr. inkl. moms
+Førstegangsydelse: 139.000 kr. inkl. moms\
+Månedlig ydelse: 6.986 kr. inkl. moms\
+Restværdi: 410.000 kr. eks moms/afgift
 
-Månedlig ydelse: 9.200 kr. inkl. Moms
-
-Restværdi: 420.000 kr. eks moms/afgift
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ERHVERVSLEASING:
 
-førstegangsydelse: 79.200 kr. eks. Moms
+Førstegangsydelse: 111.200 kr. eks. Moms \
+Månedlig ydelse: 5.588 kr. eks. Moms\
+Restværdi: 410.000 kr. eks. moms/afgift
 
-Månedlig ydelse: 7.360 kr. eks. Moms
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Forsikring Tilbydes:
 
-Fra 650 kr./mdr. ned til 18 år.
-
+Fra 550 kr./mdr. ned til 18 år. \
 Løbetid: 12 måneder med mulighed for forlængelse.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\* Fri kilometer i hele leasingperioden.
-
-\* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
-
-\* Billig kaskoforsikring.
-
-\* Privat, sæson, operationel og erhverv – vi har det hele.
-
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-
-\* Vi opbevarer også gerne din bil over vinteren
-
-\* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
-
-el indst. forsæder m.memory, sort læder, PASM aktive suspension, sportsudstødning, PCM cummunication m.navigation og,bluetooth, PDLS dynamic light, parkeringssensor for og bag, Bose soundsystem, fartpilot, multifunktionsrat, kørecomputer, regnsensor, auto. nedbl. bakspejl, el-ruder, el-spejle m/varme, el-indf.sidespejle, fjernb. c.lås, 2 zone klima lysdesing pakke, led lygter, servo plus, læderrat, armlæn, sædevarme, esp, abs, 6 airbags, 20" alufælge, 50 Jahre 911 pakke, 1 ejer, ikke ryger, service ok hos Porsche, bilen fremtræder som ny med det helt rigtige udstyr
+Metal-lak, sort læder, Porsche Communications Management PCM navigation, sportsudstødning, Sport Chrono Pakke, el-sportssæder plus med varme, 20" Carrera S alufælge Platinum lakeret fartpilot, BOSE surround sound system, servotronic, Porsche Dynamic Light System, bi-xenonlygter, adaptiv kurvelys, bakkamera, parkassist med parkeringssensor for og bag, spærredifferentiale, klimaautomatik, aut. nedblænding af spejle, navkapsler med Porsche våbenskjold i farver, alcantara lofthimmel, tyverialarm, regn- og lyssensor, el-ruder, lygtevasker, el-spejle, LED-kørelys, røde bremsekalibre, stemmestyring, telefonmodul, m.m
