@@ -6,43 +6,36 @@ bilinfourl: >-
 downloaded: true
 title: 'Land Rover Defender 2,2 TD4 110" SW SE'
 pictures:
-  picturelist:
-    - image: /img/2017_11_12_capleasing_portrætter_060.jpeg
-    - image: /img/2017_11_12_capleasing_portrætter_062.jpeg
-    - image: /img/2017_09_15_capleasing_040.jpg
-    - image: /img/fullsizeoutput_180.jpeg
-    - image: /img/fullsizeoutput_17f.jpeg
+  picturelist: []
 year: '2010'
-monthlycost: 6000 kr. inkl. moms
-firstcost: 90000 kr. inkl. moms
-value: 243000 kr. eks moms/afgift
+monthlycost: 5471 kr. inkl. moms
+firstcost: 73495 kr. inkl. moms
+value: 215000 kr. eks moms/afgift
 volume: '2,2'
 cylindre: '4'
-ventiler: '0'
+ventiler: '16'
 gear: '6'
-traek: Nej
+traek: Ja
 type: Personbil
 foerstereg: 01-08-2012
-kilometer: '68000'
+kilometer: '80000'
 braendstof: Diesel
 farve: Sort
 doere: '5'
 effekt: 122 Hk
 moment: '2,2'
-topfart: '0'
+topfart: '200'
 nultilhundrede: Kommer an på vind og vejr;)
 ---
-7 pers., Rough Edition, 16” sorte Land Rover alufælge, eftermonteret original lR LED lygter, våbenskab, hængsler efterlakeret, turbo skiftet m. garanti, Alpine anlæg med opgraderet høktaler-system, reservehjul monteret bag, ekstra lygter monteret på taget, alu. trinbræt, radio/CD afspiller, motorvarmer, opvarmet forrude,, sædevarme for, sportsrat i læder, klimaanlæg, anhængertræk, ikke ryger, lev. nysynet, service ok - kontakt for komplet udstyrliste
+En Land Rover Defender er både tidløs og uforgængelig, men den vi har hentet i Tyskland, står som fabriksny og byder på den største og bedste udstyrspakke, som gør den fuldstændig opdateret både udvendigt og indvendigt. 
+
+110”. 2012. 78.000 km. Står fejlfrit. 7 sæder. Aircon. El-ruder. Varme i sæderne.
+
+Med motortuning 170 hk, originale 275/65 sorte fælge og dæk, LED forlygter og blink. Trinbræt. Sort trim udvendigt. Ombygget dashboard med Alpine infocenter med 6 tommer skærm, 2 x 150 watt Alpine subwoofer, wi-fi og bluetoth, 4 USB-stik, parkeringscensorer for og bag, måtter for og bag.
 
 
 
-\*BILEN KAN FREMVISES FRA SHOWROOM
-
-
-
-Løbetid måneder:
-
-
+\*RING OG BESTIL EN FREMVISNING
 
 ERHVERVSLEASING:
 
@@ -54,8 +47,6 @@ Restværdi: 215.000 kr. eks. moms/afgift
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-
-
 PRIVATLEASING:
 
 Førstegangsydelse: 73.495kr. inkl. moms
@@ -66,13 +57,9 @@ Restværdi: 268.750 kr. inkl. moms/ eks. afgift
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-
-
 Samlede omkostninger i leasingperioden: 113.314 eks. Moms
 
-Splitleasing tilbydes
-
-
+Splitleasing tilbydes - kontakt os for mere info. 
 
 Forsikring Tilbydes:
 
@@ -81,8 +68,6 @@ Fra 550 kr./mdr. ned til 18 år.
 Løbetid: 12 måneder med mulighed for forlængelse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-
 
 \* Fri kilometer i hele leasingperioden.
 
