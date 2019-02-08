@@ -1,9 +1,11 @@
 ---
 path: /cars
-carmodel: '***JANUAR UDSALG***'
+carmodel: PORSCHE
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/porsche/panamera-4s/48-pdk-5d/4125477'
-downloaded: false
+downloaded: true
 title: 'PORSCHE PANAMERA 4S 4,8 PDK'
+pictures:
+  picturelist: []
 year: 5/2013
 monthlycost: '6100'
 firstcost: '80000'
@@ -14,7 +16,7 @@ ventiler: '32'
 gear: 7 gear
 traek: Nej
 type: '0'
-foerstereg: null
+foerstereg: 05-2013
 kilometer: '122.000'
 braendstof: Benzin
 farve: Sort
@@ -23,20 +25,6 @@ effekt: '400'
 moment: '500'
 topfart: '282'
 nultilhundrede: '5,0'
-pictures:
-  picturelist:
-    - image: /img/bot/au8s-l1600.jpg
-    - image: /img/bot/2aws-l1600.jpg
-    - image: /img/bot/1ws-l1600.jpg
-    - image: /img/bot/ky8s-l1600.jpg
-    - image: /img/bot/kk8s-l1600.jpg
-    - image: /img/bot/sjrs-l1600.jpg
-    - image: /img/bot/lus-l1600.jpg
-    - image: /img/bot/zx7s-l1600.jpg
-    - image: /img/bot/hdos-l1600.jpg
-    - image: /img/bot/h9as-l1600.jpg
-    - image: /img/bot/5nss-l1600.jpg
-    - image: /img/bot/95ns-l1600.jpg
 ---
 LØBETID 12 MÅNEDER
 ________________________________
