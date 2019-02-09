@@ -4,7 +4,7 @@ carmodel: 'LAND ROVER '
 bilinfourl: >-
   https://www.bilbasen.dk/brugt/bil/land-rover/range-rover-sport/30-sdv6-hse-dynamic-aut-5d/4052082
 downloaded: false
-title: Range Rover Sport SDV6 Autobiography Black Edition ***JANUAR UDSALG***
+title: Range Rover Sport SDV6 Autobiography Black Edition
 pictures:
   picturelist:
     - image: /img/bot/q35s-l1600.jpg
@@ -23,7 +23,6 @@ ventiler: '24'
 gear: 8 gear
 traek: 4x4
 type: SUV
-foerstereg: null
 kilometer: '58.000'
 braendstof: 'Diesel '
 farve: Koksmetal
