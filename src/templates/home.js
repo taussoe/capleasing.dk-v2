@@ -225,7 +225,7 @@ export const pageQuery = graphql`
         image {
           id
           childImageSharp {
-            sizes(maxWidth: 1200) {
+            sizes(maxWidth: 1200, cropFocus: CENTER) {
               tracedSVG
               sizes
               src
@@ -238,7 +238,7 @@ export const pageQuery = graphql`
             image {
               id
               childImageSharp {
-                sizes(maxWidth: 1200) {
+                sizes(maxWidth: 1200, cropFocus: CENTER) {
                   tracedSVG
                   sizes
                   src

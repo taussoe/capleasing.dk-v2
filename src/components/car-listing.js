@@ -83,7 +83,7 @@ export default props => (
         return (
           <Observer triggerOnce={true} threshold={0} key={`car-list-${i}`}>
             {inView => (
-              e.node.frontmatter.pictures && e.node.frontmatter.pictures.picturelist[0].image &&
+              e.node.frontmatter.pictures && (e.node.frontmatter.pictures.picturelist.length>0) && e.node.frontmatter.pictures.picturelist[0].image &&
               <CarLi key={`car-list-${i}`} show={inView}>
                 <div className="car-container">
                   <div className="car-flex">
