@@ -2,83 +2,72 @@
 path: /cars
 carmodel: PORSCHE
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/porsche/cayenne/30-d-tiptr-5d/4190359'
-downloaded: true
+downloaded: false
 title: 'Porsche Cayenne 3,0 Triptr. 5d'
 pictures:
   picturelist:
-    - image: /img/skærmbillede 2019-01-25 kl. 18.20.09.png
-    - image: /img/skærmbillede 2019-01-25 kl. 18.20.19.png
-    - image: /img/skærmbillede 2019-01-25 kl. 18.20.28.png
-    - image: /img/skærmbillede 2019-01-25 kl. 18.20.38.png
-    - image: /img/skærmbillede 2019-01-25 kl. 18.20.47.png
-    - image: /img/skærmbillede 2019-01-25 kl. 18.20.57.png
-    - image: /img/skærmbillede 2019-01-25 kl. 18.22.55.png
-    - image: /img/skærmbillede 2019-01-25 kl. 18.23.09.png
-    - image: /img/skærmbillede 2019-01-25 kl. 18.23.22.png
-    - image: /img/skærmbillede 2019-01-25 kl. 18.23.39.png
-    - image: /img/skærmbillede 2019-01-25 kl. 18.24.00.png
-    - image: /img/skærmbillede 2019-01-25 kl. 18.24.24.png
-year: '2015'
+    - image: /img/bot/0oe13ge79bhls-l1600.jpg
+    - image: /img/bot/k82nkj60atbs-l1600.jpg
+    - image: /img/bot/tn76qjkcv9s-l1600.jpg
+    - image: /img/bot/emrf06na7w9s-l1600.jpg
+    - image: /img/bot/40m7kkhrnjes-l1600.jpg
+    - image: /img/bot/ba893uuwgihs-l1600.jpg
+    - image: /img/bot/jjx700r9ascs-l1600.jpg
+    - image: /img/bot/abhh2czak3s-l1600.jpg
+    - image: /img/bot/czeqzo3ks38s-l1600.jpg
+    - image: /img/bot/dxkge77zqv4s-l1600.jpg
+    - image: /img/bot/zf69atq7r1s-l1600.jpg
+    - image: /img/bot/42wi9wyvhy9s-l1600.jpg
+    - image: /img/bot/a4dm4l09766s-l1600.jpg
+    - image: /img/bot/mfhjzevp0wrs-l1600.jpg
+    - image: /img/bot/a33nd5rfbyus-l1600.jpg
+    - image: /img/bot/9zknisuv1r4s-l1600.jpg
+year: 6/2015
 monthlycost: '6096'
 firstcost: '77961'
 value: '286'
 volume: '3,0'
 cylindre: '6'
-gear: '8'
+gear: 8 gear
 traek: Ja
 type: Firehjulstrækker
-foerstereg: 01-06-2015
-kilometer: '65000'
+foerstereg: null
+kilometer: '65.000'
 braendstof: 'Diesel '
 farve: Sortmetal
 doere: '5'
-effekt: 262 hk
-moment: 580 Nm
-topfart: '-'
-nultilhundrede: '-'
+effekt: '262'
+moment: '580'
+topfart: '221'
+nultilhundrede: '7,3'
 ---
-Sortmetallic, 21” Porsche Cayenne Sport Edition alufælge,, Svingbart anhængertræk, mørkebrun lædersæder, el-sportssæder, Porsche Active Suspension Mangament – Luftundervogn med niveauregulering (PASM), Panoramasoltag, Klimaanlæg, Porsche Communication Mangament -Navigation (PCM), Bluetooth, Soft Close, BOSE Sound System. Porsche Dynamic Light System PLUS – LED forlygter (PDLS+), LED baglygter, LED kørelys, Sport Chrono, Sport design pakke, Parkeringssensorer i for og bag med kamera, Servostyring PLUS, Interiørlister i sort højglans, Tonede ruder i bag, Tagræling i sort optik, El-bagklap, El-ruder, El-spejle klapbare, Bakspejl aut. Afblændbar, Regnsensor, 100 Ltr. tank, ISOFIX, EURO6, Dæktryksmonitor.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
+sortmetallic, 21” Porsche Cayenne Sport Edition alufælge,, Svingbart anhængertræk, mørkebrun lædersæder, el-sportssæder, Porsche Active Suspension Mangament – Luftundervogn med niveauregulering (PASM), Panoramasoltag, Klimaanlæg, Porsche Communication Mangament -Navigation (PCM), Bluetooth, Soft Close, BOSE Sound System. Porsche Dynamic Light System PLUS – LED forlygter (PDLS+), LED baglygter, LED kørelys, Sport Chrono, Sport design pakke, Parkeringssensorer i for og bag med kamera, Servostyring PLUS, Interiørlister i sort højglans, Tonede ruder i bag, Tagræling i sort optik, El-bagklap, El-ruder, El-spejle klapbare, Bakspejl aut. Afblændbar, Regnsensor, 100 Ltr. tank, ISOFIX, EURO6, Dæktryksmonitor, 
+Løbetid måneder:
+_______________________________________
 ERHVERVSLEASING:
-
-førstegangsydelse: 77.961 kr. eks. moms 
-
-Månedlig ydelse: 6.096 kr. eks. moms
-
+førstegangsydelse: 77.961 kr. eks. Moms 
+Månedlig ydelse: 6.096 kr. eks. Moms
 Restværdi: 286.000 kr. eks. moms/afgift
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+_______________________________________
 
 PRIVATLEASING:
-
 Førstegangsydelse: 97.451 kr. inkl. moms
-
 Månedlig ydelse: 7.620 kr. inkl. moms
-
 Restværdi: 357.500 kr. inkl. moms/ eks. afgift
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+_______________________________________
 
 Forsikring Tilbydes:
-
 Fra 550 kr./mdr. ned til 18 år. 
-
 Løbetid: 12 måneder med mulighed for forlængelse.
+_______________________________________
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+* Fri kilometer i hele leasingperioden.
+* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
+* Billig kaskoforsikring.
+* Privat, sæson, split og erhverv – vi har det hele.
+* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+* Vi opbevarer også gerne din bil over vinteren
+* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
 
-\* Fri kilometer i hele leasingperioden.
 
-\* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
-
-\* Billig kaskoforsikring.
-
-\* Privat, sæson, split og erhverv – vi har det hele.
-
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-
-\* Vi opbevarer også gerne din bil over vinteren
-
-\* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
+Farve: Sortmetal

@@ -2,12 +2,23 @@
 path: /cars
 carmodel: PORSCHE
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/porsche/panamera-4s/48-pdk-5d/4125477'
-downloaded: true
+downloaded: false
 title: 'PORSCHE PANAMERA 4S 4,8 PDK'
 pictures:
-  picturelist: []
+  picturelist:
+    - image: /img/bot/cldy65lg4ms-l1600.jpg
+    - image: /img/bot/bhysjoppfads-l1600.jpg
+    - image: /img/bot/y4nklmak0wns-l1600.jpg
+    - image: /img/bot/8m6e4uakioes-l1600.jpg
+    - image: /img/bot/57yilk0rp1ts-l1600.jpg
+    - image: /img/bot/gs3udpiz3eos-l1600.jpg
+    - image: /img/bot/x03pr619prss-l1600.jpg
+    - image: /img/bot/isno3zgbojis-l1600.jpg
+    - image: /img/bot/leqehbna32ts-l1600.jpg
+    - image: /img/bot/lykbpt39mus-l1600.jpg
+    - image: /img/bot/qs9k1341st8s-l1600.jpg
 year: 5/2013
-monthlycost: '6100'
+monthlycost: '6674'
 firstcost: '80000'
 value: '320000'
 volume: '4,8'
@@ -16,7 +27,7 @@ ventiler: '32'
 gear: 7 gear
 traek: Nej
 type: '0'
-foerstereg: 05-2013
+foerstereg: null
 kilometer: '122.000'
 braendstof: Benzin
 farve: Sort
