@@ -25,24 +25,24 @@ topfart: '277'
 nultilhundrede: '5,0'
 pictures:
   picturelist:
-    - image: /img/bot/gijy1b2ee8ts-l1600.jpg
-    - image: /img/bot/act5ipk9aacs-l1600.jpg
-    - image: /img/bot/a3taf25hekjs-l1600.jpg
-    - image: /img/bot/9rbwmwe71sws-l1600.jpg
-    - image: /img/bot/tka0cziw9egs-l1600.jpg
-    - image: /img/bot/toraoljilns-l1600.jpg
-    - image: /img/bot/aulrejins6ps-l1600.jpg
-    - image: /img/bot/brxzvsup1nts-l1600.jpg
-    - image: /img/bot/zvtyjik4ryis-l1600.jpg
-    - image: /img/bot/e87oz0ar7tbs-l1600.jpg
-    - image: /img/bot/6ivyf9q8euss-l1600.jpg
-    - image: /img/bot/phpg2q605xs-l1600.jpg
-    - image: /img/bot/zmyn8jqd84s-l1600.jpg
-    - image: /img/bot/fimg0pb1aqs-l1600.jpg
-    - image: /img/bot/haan1tfvr9cs-l1600.jpg
-    - image: /img/bot/0tl2urg8yf5cs-l1600.jpg
-    - image: /img/bot/m03ifya0hvs-l1600.jpg
-    - image: /img/bot/m7kcwpb866bs-l1600.jpg
+    - image: /img/bot/l4waff0rxus-l1600.jpg
+    - image: /img/bot/8v9zmpeyges-l1600.jpg
+    - image: /img/bot/19bdh4fi69fs-l1600.jpg
+    - image: /img/bot/w8bwudlrxfes-l1600.jpg
+    - image: /img/bot/cghpva5tx6s-l1600.jpg
+    - image: /img/bot/4pdawqkz4oss-l1600.jpg
+    - image: /img/bot/w2qxnluibkps-l1600.jpg
+    - image: /img/bot/lw2vsl5e3jcs-l1600.jpg
+    - image: /img/bot/yy43dciyw7s-l1600.jpg
+    - image: /img/bot/b2mz42o6s14s-l1600.jpg
+    - image: /img/bot/2ub0qyvegs1s-l1600.jpg
+    - image: /img/bot/pakgzpc22g8s-l1600.jpg
+    - image: /img/bot/xa171bhgbccs-l1600.jpg
+    - image: /img/bot/pgevbvgaxps-l1600.jpg
+    - image: /img/bot/tmznmsp8es-l1600.jpg
+    - image: /img/bot/qnx09fwksids-l1600.jpg
+    - image: /img/bot/jndhcyagtxs-l1600.jpg
+    - image: /img/bot/cz46vf4ubrs-l1600.jpg
 ---
 PDK, læderpakke, bi-xenon Porsche Dynamic Light System, Parkassist, gråtonet øvre del af forrude, elektrisk foldbare sidespejle, roll-bars lakeret i vognfarve, Power steering Plus, Porsche Active Suspension managment (PASM), sportsafgangsrør, 20" Carrera S-hjul, fartpilot, Lane Change Assist, vejskiltegenkendelse, aut. nedblændelige bakspejle med integreret regnsensor, multifunktionsrat m. varme, sportssæder 14-vejs elektrisk, 2-zone klimaanlæg, sædevarme, navigationsmodul PCM, Bose sorroundsound, Connect Plus. Nypris inkl. ekstraudstyr kr. 1.655.121,-. Porsche Approved Garanti
 Farve: Koksmetal
