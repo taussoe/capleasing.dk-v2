@@ -3,7 +3,7 @@ path: /cars
 carmodel: LAND ROVER
 bilinfourl: >-
   https://www.bilbasen.dk/brugt/bil/land-rover/defender/22-td4-110-sw-se-5d/4190382
-downloaded: false
+downloaded: true
 title: 'Land Rover Defender 2,2 TD4 110" SW SE'
 pictures:
   picturelist:
@@ -28,7 +28,6 @@ ventiler: '16'
 gear: 6 gear
 traek: Ja
 type: Personbil
-foerstereg: null
 kilometer: '80.000'
 braendstof: Diesel
 farve: Sort
