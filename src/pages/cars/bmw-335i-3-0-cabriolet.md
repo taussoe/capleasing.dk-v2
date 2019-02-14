@@ -1,9 +1,16 @@
 ---
 path: /cars
-carmodel: '***JANUAR UDSALG***'
+carmodel: BMW
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/bmw/335i/30-cabriolet-aut-2d/4155063'
 downloaded: false
 title: 'BMW 335I 3,0 CABRIOLET '
+pictures:
+  picturelist:
+    - image: /img/bot/cwls-l1600.jpg
+    - image: /img/bot/cj7s-l1600.jpg
+    - image: /img/bot/ti8s-l1600.jpg
+    - image: /img/bot/8gss-l1600.jpg
+    - image: /img/bot/pmhs-l1600.jpg
 year: 7/2011
 monthlycost: '4500'
 firstcost: '31200'
@@ -14,7 +21,6 @@ ventiler: '24'
 gear: 7 gear
 traek: Nej
 type: Cabriolet
-foerstereg: null
 kilometer: '109.000'
 braendstof: Benzin
 farve: Sort
@@ -23,13 +29,6 @@ effekt: '306'
 moment: '400'
 topfart: '250'
 nultilhundrede: '5,7'
-pictures:
-  picturelist:
-    - image: /img/bot/cwls-l1600.jpg
-    - image: /img/bot/cj7s-l1600.jpg
-    - image: /img/bot/ti8s-l1600.jpg
-    - image: /img/bot/8gss-l1600.jpg
-    - image: /img/bot/pmhs-l1600.jpg
 ---
 ERHVERVSLEASING:
 Førstegangsydelse: 31.200 kr. eks. moms
