@@ -3,21 +3,21 @@ path: /cars
 carmodel: LAND ROVER
 bilinfourl: >-
   https://www.bilbasen.dk/brugt/bil/land-rover/defender/22-td4-110-sw-se-5d/4190382
-downloaded: true
+downloaded: false
 title: 'Land Rover Defender 2,2 TD4 110" SW SE'
 pictures:
   picturelist:
-    - image: /img/bot/kbzkdrfrdyis-l1600.jpg
-    - image: /img/bot/zbvxu0snugs-l1600.jpg
-    - image: /img/bot/jwdjgjf3kpos-l1600.jpg
-    - image: /img/bot/jod1727ru4rs-l1600.jpg
-    - image: /img/bot/7podt0jbtd6s-l1600.jpg
-    - image: /img/bot/1dyfhcqjcts-l1600.jpg
-    - image: /img/bot/xev0bzwu97s-l1600.jpg
-    - image: /img/bot/vrb2dni30zms-l1600.jpg
-    - image: /img/bot/cw86pvsv8krs-l1600.jpg
-    - image: /img/bot/nvop7bml3ns-l1600.jpg
-    - image: /img/bot/mepkqbu544as-l1600.jpg
+    - image: /img/bot/uuftzjcu70ls-l1600.jpg
+    - image: /img/bot/t9fyrymqex9s-l1600.jpg
+    - image: /img/bot/km85pglj6zs-l1600.jpg
+    - image: /img/bot/p2o0y4z95ms-l1600.jpg
+    - image: /img/bot/lth5mykhvss-l1600.jpg
+    - image: /img/bot/mkwup662m9s-l1600.jpg
+    - image: /img/bot/tvkzcu0vms9s-l1600.jpg
+    - image: /img/bot/l6ueha28559s-l1600.jpg
+    - image: /img/bot/5lfm1gdicaas-l1600.jpg
+    - image: /img/bot/oz4owu07k7os-l1600.jpg
+    - image: /img/bot/6wb23o7v5bis-l1600.jpg
 year: 2/2012
 monthlycost: '4376'
 firstcost: 73495 kr. inkl. moms
@@ -36,6 +36,7 @@ effekt: '122'
 moment: '-'
 topfart: '-'
 nultilhundrede: '-'
+foerstereg: null
 ---
 En Land Rover Defender er både tidløs og uforgængelig, men den vi har hentet i Tyskland, står som fabriksny og byder på den største og bedste udstyrspakke, som gør den fuldstændig opdateret både udvendigt og indvendigt. 
 
