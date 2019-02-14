@@ -1,7 +1,7 @@
 ---
 path: /kontaktpersoner
 contactimage: /img/cap.png
-title: CapLeasing
+title: Capleasing
 contacttitle: Kattegatvej 39
 contacteducation: ','
 contacttelephone: +45 70270265
