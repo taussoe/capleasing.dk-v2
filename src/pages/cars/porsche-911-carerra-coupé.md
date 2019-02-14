@@ -25,8 +25,7 @@ ventiler: '32'
 gear: 7 gear
 traek: Nej
 type: Coupé
-foerstereg: null
-kilometer: '83.000'
+kilometer: '105000'
 braendstof: Benzin
 farve: Brunmetal
 doere: '2'
