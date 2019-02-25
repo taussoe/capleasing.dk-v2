@@ -26,21 +26,15 @@ nultilhundrede: '6,1 sek'
 ---
 aut.gear/tiptronic, fuldaut. 4 zone klima, fjernb. c.lås, parkeringssensor m., bakkamera, ratgearskifte, headup display, fartpilot, kørecomputer, infocenter, auto. nedbl. bakspejl, udv. temp. måler, sædevarme, BMW komfortt el indst. forsæder og bagsæder m. memery, el-soltag, nøglefri betjening, automatisk start/stop, el betjent bagklap, adaptiv undervogn, radio med cd-boks, navigation, multifunktionsrat, bluetooth, læderindtræk, læderrat, xenonlys, tågelygter, lygtevasker, kurvelys, led forlygter, automatisk lys, ikke ryger, service ok, diesel partikel filter
 
-
-
 Løbetid 12 måneder med mulighed for forlængelse 
-
-
 
 ERHVERVSLEASING:
 
-førstegangsydelse: 32.000 kr. eks. Moms 
+Førstegangsydelse: 32.000 kr. eks. Moms 
 
 Månedlig ydelse: 2.976 kr. eks. Moms
 
 Restværdi: 115.000 kr. eks. moms/afgift
-
-
 
 PRIVATLEASING:
 
@@ -50,11 +44,7 @@ Månedlig ydelse: 3.720 kr. inkl. moms
 
 Restværdi: 143.750 kr. inkl. moms/ eks. Afgift
 
-
-
 PRIVAT, ERHVERV, SÆSON OG SPLITLEASING TILBYDES 
-
-
 
 ✔ Mekanisk garantiforsikring 
 
