@@ -32,6 +32,7 @@ ventiler: '32'
 gear: 8 gear
 traek: JA
 type: 4X4
+foerstereg: 01-06-2015
 kilometer: '84.000'
 braendstof: DIESEL
 farve: Sortmetal
