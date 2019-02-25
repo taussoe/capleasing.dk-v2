@@ -1,6 +1,6 @@
 ---
 path: /cars
-carmodel: 'LAND ROVER '
+carmodel: LAND ROVER
 bilinfourl: >-
   https://www.bilbasen.dk/brugt/bil/land-rover/range-rover-sport/30-sdv6-hse-dynamic-aut-5d/4052082
 downloaded: false
