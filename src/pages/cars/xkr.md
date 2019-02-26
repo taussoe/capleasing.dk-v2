@@ -1,27 +1,15 @@
 ---
 path: /cars
 carmodel: JAGUAR
-bilinfourl: '0'
-downloaded: false
+bilinfourl: 'https://www.bilbasen.dk/brugt/bil/jaguar/xkr/42-v8-coup-aut-2d/4223675'
+downloaded: true
 title: Jaguar XKR
 pictures:
-  picturelist:
-    - image: /img/fullsizeoutput_189.jpeg
-    - image: /img/fullsizeoutput_197.jpeg
-    - image: /img/fullsizeoutput_18a.jpeg
-    - image: /img/fullsizeoutput_18d.jpeg
-    - image: /img/fullsizeoutput_18e.jpeg
-    - image: /img/fullsizeoutput_18f.jpeg
-    - image: /img/fullsizeoutput_18b.jpeg
-    - image: /img/fullsizeoutput_190.jpeg
-    - image: /img/fullsizeoutput_194.jpeg
-    - image: /img/fullsizeoutput_191.jpeg
-    - image: /img/fullsizeoutput_193.jpeg
-    - image: /img/fullsizeoutput_195.jpeg
+  picturelist: []
 year: '2007'
-monthlycost: 5563 kr. inkl. moms
-firstcost: 59278 kr. inkl. moms
-value: '170000 kr. eks moms/afgift '
+monthlycost: '3385'
+firstcost: '43796'
+value: 160.0000 eks. moms/afgift
 volume: '4,2'
 cylindre: '8'
 ventiler: '32'
@@ -38,119 +26,55 @@ moment: '560'
 topfart: '250'
 nultilhundrede: '5,2 sek.'
 ---
+Jaguar XKR, meget flot og velholdt, alle service overholdt hos Jaguar. \
+Lagerbil, klar til omgående levering. 
+
+
+
+aut.gear/tiptronic, 19" alufælge, fuldaut. klima, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, højdejust. forsæde, el indst. forsæder, el indst. førersæde, el-ruder, el-spejle m/varme, nøglefri betjening, cd/radio, navigation, multifunktionsrat, armlæn, kopholder, læderrat, læderindtræk, træindlæg, el komfortsæder, lygtevasker, tågelygter, xenonlys, 8 airbags, abs, antispin, esp, servo, indfarvede kofangere, spoiler, ikke ryger, nysynet, lev. nysynet, service ok
+
+
+
+Løbetid 12 måneder med mulighed for forlængelse 
+
+
+
 ERHVERVSLEASING:
 
- Månedlig ydelse: 4.450 kr. eks. Moms
+førstegangsydelse: 43.796 kr. eks. moms 
 
- Førstegangsydelse: 47.422 kr. eks. Moms
+Månedlig ydelse: 3.385 kr. eks. moms
 
- Restværdi: 170.000 kr. eks. moms/afgift
+Restværdi: 160.000 kr. eks. moms/afgift
 
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- PRIVATLEASING:
 
- Månedlig ydelse: 5.563 kr. inkl. moms
+PRIVATLEASING:
 
- Førstegangsydelse: 59.278 kr. inkl. Moms
+Førstegangsydelse: 54.745 kr. inkl. moms
 
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Månedlig ydelse: 4.232 kr. inkl. moms
 
- Forsikring Tilbydes:
+Restværdi: 200.000 kr. inkl. moms/ eks. Afgift
 
- Fra 580 kr./mdr. ned til 18 år.
 
- Løbetid: 12 måneder med mulighed for forlængelse.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+PRIVAT, ERHVERV, SÆSON OG SPLITLEASING TILBYDES 
 
-\* Fri kilometer i hele leasingperioden.
 
-\* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
 
-\* Billig kaskoforsikring.
+✔ Mekanisk garantiforsikring  
 
-\* Privat, sæson, split og erhverv – vi har det hele.
+✔ Billig forsikring 
 
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+✔ Fri kilometer
 
-\* Vi opbevarer også gerne din bil over vinteren
+✔ Finansiel leasing, operationel leasing og fuld finansiering tilbydes
 
-\* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\
-Standardudstyr
+✔ Vi opbevarer også gerne din bil over vinteren 
 
-6 airbags 
+✔ Dækhotel med opbevaring af sommer/vinterdæk
 
-6 trins automatisk gearkasse 
-
-ABS bremser 
-
-Aut. el håndbremse 
-
-El ruder 
-
-El sidespejle 
-
-Fjernbetjent centrallås med alarm og elektronisk 3-vejs startspærre 
-
-Fuldautomatisk klimaanlæg med temperaturkontrol 
-
-Kørelys 
-
-Solskærm med lys 
-
-Traction control 
-
-Trip computer 
-
-Tågelygter 
-
-Varme i sidespejle
-
-Specialudstyr
-
-10 vejs el sæder med memory 
-
-20" Sportshjul Design " Zesus" 
-
-Bremo bremser med logo 
-
-F1 Gear 
-
-Keyless start/entry 
-
-Regnsensor 
-
-Sports sæde 
-
-Ægte læderinteriør
-
-Ekstraudstyr
-
-420 Watt Sound System med 8 højtalere fra "BOWERS & WILKIS
-
-Blootooth telefonsystem 
-
-Cats Suspension (Adaptive undervogn) 
-
-DSC-Dynamic Stability Control med brakeassist 
-
-JAGUAR Voice System 
-
-Luxus Sport Packet 
-
-Memory pack inkl. el justerbar ratstamme og memory for førersæde, spejle, ratstamme og el lændestøtt 
-
-Multimediecenter med farve Touchscreen indeh. bl.a. DVD baseret navigation, tlf. m.m. Ipod, USB
-
-Multirat ink. fartpilot og styring af telefon og CD 
-
-Parksensor både for og bag 
-
-Spejlpakke, aut. nedblænding 
-
-Vinterpakke f. opvarmet forrude og forsæder samt forlygtevask
-
-Alle service overholdt hos Jaguar.
+✔ Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
