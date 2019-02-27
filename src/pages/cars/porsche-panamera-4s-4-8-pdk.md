@@ -1,22 +1,22 @@
 ---
 path: /cars
 carmodel: PORSCHE
-bilinfourl: 'https://www.bilbasen.dk/brugt/bil/porsche/panamera-4s/48-pdk-5d/4125477'
-downloaded: false
-title: 'PORSCHE PANAMERA 4S 4,8 PDK'
+bilinfourl: 'https://www.bilbasen.dk/brugt/bil/porsche/panamera-4s/48-pdk-5d/4226023'
+downloaded: true
+title: 'Porsche Panamera 4S 4,8 PDK 5d'
 pictures:
   picturelist:
-    - image: /img/bot/cldy65lg4ms-l1600.jpg
-    - image: /img/bot/bhysjoppfads-l1600.jpg
-    - image: /img/bot/y4nklmak0wns-l1600.jpg
-    - image: /img/bot/8m6e4uakioes-l1600.jpg
-    - image: /img/bot/57yilk0rp1ts-l1600.jpg
-    - image: /img/bot/gs3udpiz3eos-l1600.jpg
-    - image: /img/bot/x03pr619prss-l1600.jpg
-    - image: /img/bot/isno3zgbojis-l1600.jpg
-    - image: /img/bot/leqehbna32ts-l1600.jpg
-    - image: /img/bot/lykbpt39mus-l1600.jpg
-    - image: /img/bot/qs9k1341st8s-l1600.jpg
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
 year: 5/2013
 monthlycost: '6674'
 firstcost: '80000'
@@ -27,7 +27,6 @@ ventiler: '32'
 gear: 7 gear
 traek: Nej
 type: '0'
-foerstereg: null
 kilometer: '122.000'
 braendstof: Benzin
 farve: Sort
@@ -37,32 +36,4 @@ moment: '500'
 topfart: '282'
 nultilhundrede: '5,0'
 ---
-LØBETID 12 MÅNEDER
-________________________________
-
-ERHVERVSLEASING:
-Førstegangsydelse: 80.000 kr. eks. moms
-Månedlig ydelse: 5.339,20 kr. eks. moms
-Restværdi: 320.000 kr. eks. moms/afgift
-________________________________
-
-PRIVATLEASING:
-Førstegangsydelse: 99.000 kr. inkl. moms
-Månedlig ydelse: 6.674 kr. inkl. moms
-Restværdi: 400.000 kr. inkl. moms - eks. afgift
-________________________________
-
-Forsikring Tilbydes:
-Fra 500 kr./mdr. ned til 23 år
-________________________________
-
-*Fri kilometer i hele leasingperioden (tilvalg)
-* Garanti i hele leasingperioden (valgfri)
-* Bilig forsikring
-* Privat, sæson, og erhverv – vi har det hele.
-* Du vælger selv perioden: 6, 12, 24 eller 36 ma°neder
-* Vi opbevarer ogsa° gerne din bil over vinteren
-________________________________
-
-aut.gear/tiptronic, 7 gear, 20" alufælge Porsche 2K, Burmeister lydanlæg, Turbo-pakke, el-gardiner bag, fuldaut. klima, 4 zone klima, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, el-soltag, 4x el-ruder, el-spejle m/varme, bakkamera, adaptiv fartpilot, el betjent bagklap, dæktryksmåler, adaptiv undervogn, cd/radio, navigation, multifunktionsrat, bluetooth, armlæn, bagagerumsdækken, kopholder, læderrat, læderindtræk, xenonlys, tågelygter, lygtevasker, el komfortsæder, automatisk lys, kurvelys, led forlygter, 10 airbags, esp, servo, ikke ryger, service ok
-Synet:10/2016Farve: Sort
+TOPUDSTYRET, aut.gear/tiptronic, 20" alufælge, fuldaut. klima, 4 zone klima, fjernbetjent motorkabinevarmer, fjernb. c.lås, parkeringssensor, ratgearskifte, kørecomputer, infocenter, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, el indst. forsæder og bagsæder med memory, pakeringsassistent med topview, el-soltag, 4x el-ruder, el-spejle m/varme, nøglefri betjening, bakkamera, adaptiv fartpilot, automatisk start/stop, el betjent bagklap, dæktryksmåler, cd/radio, BOSE-Lydpakke, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, isofix, bagagerumsdækken, kopholder, læderrat, lygtevasker, tågelygter, automatisk lys, fjernlysassistent, kurvelys, led forlygter, abs, esp, lane assist, blindvinkelsassistent, hækspoiler, mørktonede ruder i bag, ikke ryger, PDLS-Plus, aktiv sædeventilation for og bag samt sædevarme, Automatisk hækvinge, skiltegenkendelse, sportsudstødning, varme i rat, Luftundervogn med PDCC, 14 vejs forsæder, Porsche stability management PSM, HOMELINK, Porsche entry & drive KESSY, Bagsæder premium komfort, elektrisk rullegardin i sideruder samt bag, Klapbord H-V bag, Privacy glas, Softclose på alle døre, CARBONGRÅ METAL, service ok, MEGET flot og super velholdt bil med alle service overholdt hos Porsche selv, Vi tilbyder billig finansiering/Flexleasing på denne bil, Ring for mere info samt fremvisning, 2014
