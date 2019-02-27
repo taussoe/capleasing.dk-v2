@@ -3,7 +3,7 @@ path: /cars
 carmodel: PORSCHE
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/porsche/macan-turbo/36-pdk-5d/4175001'
 downloaded: true
-title: Porsche Macan Turbo
+title: 'Macan Turbo 3,6 PDK 5d'
 pictures:
   picturelist:
     - image: ''
