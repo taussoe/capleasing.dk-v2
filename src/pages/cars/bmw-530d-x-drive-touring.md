@@ -45,7 +45,7 @@ ERHVERVSLEASING:
 
 førstegangsydelse: 31.200 kr. eks. moms 
 
-Månedlig ydelse: 1.571 kr. eks. momst
+Månedlig ydelse: 1.571 kr. eks. moms
 
 
 
