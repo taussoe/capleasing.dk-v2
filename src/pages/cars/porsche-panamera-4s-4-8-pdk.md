@@ -19,8 +19,8 @@ pictures:
     - image: /img/bot/o7xqnjrs9fns-l1600.jpg
     - image: /img/bot/prtvgutx5s-l1600.jpg
 year: 6/2013
-monthlycost: '420000'
-firstcost: '80000'
+monthlycost: '7686'
+firstcost: '99000'
 value: '320000'
 volume: '4,8'
 cylindre: '8'
