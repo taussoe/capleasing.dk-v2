@@ -1,21 +1,22 @@
 ---
 path: /cars
 carmodel: BMW
-bilinfourl: '0'
-downloaded: false
-title: BMW 530D X-DRIVE TOURING
+bilinfourl: >-
+  https://www.bilbasen.dk/brugt/bil/bmw/530d/30-touring-luxury-line-xdrive-aut-5d/4228876
+downloaded: true
+title: '530d 3,0 Touring Luxury Line xDrive aut 5d'
 pictures:
   picturelist:
-    - image: /img/bmw-530d-x-drive-touring-img_3590.jpg
-    - image: /img/bmw-530d-x-drive-touring-img_3593.jpg
-    - image: /img/bmw-530d-x-drive-touring-img_3595.jpg
-    - image: /img/bmw-530d-x-drive-touring-img_3599.jpg
-    - image: /img/bmw-530d-x-drive-touring-img_3600.jpg
-    - image: /img/bmw-530d-x-drive-touring-img_3601.jpg
-    - image: /img/bmw-530d-x-drive-touring-img_3605.jpg
-    - image: /img/bmw-530d-x-drive-touring-img_3609.jpg
-    - image: /img/bmw-530d-x-drive-touring-img_3610.jpg
-    - image: /img/bmw-530d-x-drive-touring-img_3611.jpg
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
+    - image: ''
 year: '2014'
 monthlycost: '3547'
 firstcost: '43200'
@@ -36,4 +37,46 @@ moment: '0'
 topfart: '250'
 nultilhundrede: '6,4'
 ---
-Imperial Blue-metallic, M-sportspakke, LCI-model, xDrive 4x4, sportsaut. gear, navigation prof., head-up display, adaptive drive, driving assistant, el-komfortsæder m. memory, ekslusiv nappa læder, aktiv sædeventilation, Harman/Kardon surround sound system, vejstribe-alarm, speed-limit info, digital instrumentering, xenonlygter, fjernlysassistent, adaptiv kurvelys, panorama glastag, komfort adgang, M-sportslæderrat m. shiftpaddles, PDC for &amp; bag, bakkamera, el-bagklap, klimakomfort forrude, 4-zonet klimaaut., sædevarme, regnsenosr, fartpilot m. bremsefunk., el-lændestøtte, aut. antiblænd spejle inde/ude, LED tågelygter, 19\" M-style alu. fælge, alu. interiørlister, , ambient lys, solgardiner i bag, tonede ruder, tagræling, bluetooth m. USB, musik-streaming, 20 GB harddisk, nødopkald, real time traffic info, internet, BMW apps, tlf. system m. udvid. smartphone, i-drive system, alarm, splitbagsæde, driving experience control, kørecomputer, multirat, cd radio prof., armlæn, kopholder, el-ruder, el-spjle m. varme, lygtevask, hvide blink, DSC, 8 airbags, isofix, diesel partikelfilter, service ok, BEMÆRK FACELIFTET LCI-MODEL!, (søgeord: navigation, xenonlys, 19\" alufælge, 2 zone klima, parkeringssensor, ratgearskifte, fartpilot, regnsensor, sædevarme, el indst. forsæder, bluetooth),
+Løbetid 12 måneder med mulighed for forlængelse 
+
+
+
+ERHVERVSLEASING:
+
+førstegangsydelse: 31.200 kr. eks. moms 
+
+Månedlig ydelse: 1.571 kr. eks. momst
+
+
+
+PRIVATLEASING:
+
+Førstegangsydelse: 39.000 kr. inkl. moms
+
+Månedlig ydelse: 3.702 kr. inkl. moms
+
+
+
+PRIVAT, ERHVERV, SÆSON OG SPLITLEASING TILBYDES 
+
+
+
+✔ Mekanisk garantiforsikring 
+
+✔ Billig forsikring 
+
+✔ Fri kilometer
+
+✔ Finansiel leasing, operationel leasing og fuld finansiering tilbydes
+
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
+
+✔ Vi opbevarer også gerne din bil over vinteren 
+
+✔ Dækhotel med opbevaring af sommer/vinterdæk
+
+✔ Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
+
+
+
+Imperial Blue-metallic, sportspakke, LCI-model, xDrive 4x4, sportsaut. gear, navigation prof., head-up display, adaptive drive, driving assistant, el-komfortsæder m. memory, Harman/Kardon surround sound system, speed-limit info, digital instrumentering, xenonlygter, fjernlysassistent, adaptiv kurvelys, panorama glastag, komfort adgang, M-sportslæderrat m. shiftpaddles, PDC for & amp, bag, bakkamera, el-bagklap, klimakomfort forrude, 4-zonet klimaaut., regnsenosr, fartpilot m. bremsefunk., el-lændestøtte, aut. antiblænd spejle inde/ude, LED tågelygter, 19" alu. fælge, alu. interiørlister, ambient lys, solgardiner i bag, tonede ruder, tagræling, bluetooth m. USB, musik-streaming, 20 GB harddisk, nødopkald, real time traffic info, internet, BMW apps, tlf. system m. udvid. smartphone, i-drive system, alarm, splitbagsæde, driving experience control, kørecomputer, multirat, cd radio prof., armlæn, kopholder, el-ruder, el-spjle m. varme, lygtevask, hvide blink, DSC, 8 airbags, isofix, diesel partikelfilter, service ok, BEMÆRK FACELIFTET LCI-MODEL!,
