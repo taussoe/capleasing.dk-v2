@@ -49,7 +49,7 @@ Løbetid 12 måneder med mulighed for forlængelse
 
 ERHVERVSLEASING:
 førstegangsydelse: 31.200 kr. eks. moms 
-Månedlig ydelse: 1.571 kr. eks. momst
+Månedlig ydelse: 2.961 kr. eks. moms
 
 PRIVATLEASING:
 Førstegangsydelse: 39.000 kr. inkl. moms
