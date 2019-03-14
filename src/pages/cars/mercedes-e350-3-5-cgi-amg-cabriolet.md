@@ -3,7 +3,7 @@ path: /cars
 carmodel: Mercedes-Benz
 bilinfourl: www.capleasing.dk
 downloaded: false
-title: 'Mercedes E350 3,5 CGi AMG Cabriolet'
+title: 'Mercedes E350 3,5 CDi AMG Cabriolet'
 pictures:
   picturelist:
     - image: >-
@@ -13,45 +13,54 @@ pictures:
     - image: >-
         /img/mercedes-e350-3-5-cgi-amg-cabriolet-22552979_493678927655366_867409914313332469_o.jpg
     - image: /img/mercedes-e350-3-5-cgi-amg-cabriolet-5.jpg
-year: '0'
-monthlycost: '3493'
-firstcost: '45000'
-value: '170000'
+year: '2013'
+monthlycost: '2950,- ex. moms'
+firstcost: '31.200,- ex. moms. '
+value: '120.000,- ex. moms/afgift. '
 volume: '3,0'
 cylindre: '6'
-ventiler: '0'
+ventiler: '24'
 gear: '7'
 traek: Nej
 type: Personbil
 foerstereg: 25-05-2010
-kilometer: '116000'
-braendstof: Benzin
+kilometer: '159000'
+braendstof: Diesel
 farve: Sortmetal
 doere: '2'
-effekt: '292'
-moment: '365'
+effekt: '265'
+moment: '540'
 topfart: '250'
-nultilhundrede: '6,8'
+nultilhundrede: '6,4'
 ---
+Veludstyret cabriolet, 
 
-Fuld AMG-pakke i sort med sort læder:
+aut., aut.gear/tiptronic, 18" alufælge, airc., fuldaut. klima, 2 zone klima, køl i handskerum, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, 4x el-ruder, el-spejle m/varme, nøglefri betjening, automatisk start/stop, dæktryksmåler, cd/radio, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, isofix, kopholder, læderrat, el komfortsæder, lygtevasker, xenonlys, tågelygter, 8 airbags, abs, antispin, esp, servo, hvide blink, indfarvede kofangere, ikke ryger, nysynet, lev. nysynet, service ok
 
-aut.gear/tiptronic, alu., sædevarme, airbag, abs, esp, servo, antispin, 18" alufælge, 4x el-ruder, el-spejle, højdejust. forsæde, cd/radio, navigation, multifunktionsrat, airc., fuldaut. klima, 2 zone klima, bluetooth, armlæn, ikke ryger, service ok, kopholder, bagagerumsdækken, læderindtræk, læderrat, lygtevasker, tågelygter, xenonlys, regnsensor, udv. temp. måler, auto. nedbl. bakspejl, varme i forrude, startspærre, infocenter, kørecomputer, fartpilot, ratgearskifte, parkeringssensor, fjernb. c.lås, alarm, c.lås, el indst. førersæde
+Løbetid 12 måneder med mulighed for forlængelse 
 
-I øvrigt
 
-\* Vi tilbyder fri kilometer i hele leasingperioden.
 
-\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
+Førstegangsydelse: 31.200 kr. eks. Moms 
 
-\* Vi tilbyder kaskoforsikring på alle vores biler
+Månedlig ydelse: 2.950 kr. eks. Moms
 
-\* Privat, sæson, og erhverv – vi har det hele.
+Restværdi: 120.000 kr. eks. moms/afgift
 
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
 
-\* Vi opbevarer også gerne din bil over vinteren
 
-\* Har vi ikke bilen på lager, dedikere vi os til at finde
+Privatleasing tilbydes ligeledes.
 
-den helt rigtige og står for importen.
+
+
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
+
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
+
+✔ Vi opbevarer også gerne din bil over vinteren 
+
+✔ Udvidet garantiforsikring   
+
+✔ Billig forsikring 
+
+✔ Fri kilometer,
