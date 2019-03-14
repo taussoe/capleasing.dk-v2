@@ -2,23 +2,21 @@
 path: /cars
 carmodel: PORSCHE
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/porsche/cayman-s/34-tiptr-2d/4251173'
-downloaded: true
+downloaded: false
 title: Porsche Cayman S
 pictures:
   picturelist:
-    - image: /img/bot/ok8339vdq8is-l1600.jpg
-    - image: /img/bot/kzffycnk28ks-l1600.jpg
-    - image: /img/bot/6ooed13wwihs-l1600.jpg
-    - image: /img/bot/fivv41ft73vs-l1600.jpg
-    - image: /img/bot/u8ofsanzjgs-l1600.jpg
-    - image: /img/bot/l49guryenks-l1600.jpg
-    - image: /img/bot/9tlf6r3b387s-l1600.jpg
-    - image: /img/bot/2tr8wc27c8ls-l1600.jpg
-    - image: /img/bot/9ldb6b86llos-l1600.jpg
-    - image: /img/bot/vtaa1n1hngs-l1600.jpg
-    - image: /img/bot/zaiiivvcq1s-l1600.jpg
-    - image: /img/bot/ar8h1owfxzps-l1600.jpg
-    - image: /img/bot/md7rasgvb8s-l1600.jpg
+    - image: /img/bot/cn26ygh56iws-l1600.jpg
+    - image: /img/bot/wqnnjuyhhcs-l1600.jpg
+    - image: /img/bot/qkgulbeuwnss-l1600.jpg
+    - image: /img/bot/r19za4wjzpbs-l1600.jpg
+    - image: /img/bot/ttaq09wd6ks-l1600.jpg
+    - image: /img/bot/rfhr6qpzdrs-l1600.jpg
+    - image: /img/bot/phjd52gozx8s-l1600.jpg
+    - image: /img/bot/75hcr1ldd1hs-l1600.jpg
+    - image: /img/bot/vtu27padrps-l1600.jpg
+    - image: /img/bot/8zwscsgg1gcs-l1600.jpg
+    - image: /img/bot/c5doqn1jzos-l1600.jpg
 year: 12/2008
 monthlycost: '2967'
 firstcost: '41835,- ex. moms'
