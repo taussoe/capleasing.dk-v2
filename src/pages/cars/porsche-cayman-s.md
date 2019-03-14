@@ -2,7 +2,7 @@
 path: /cars
 carmodel: PORSCHE
 bilinfourl: 'https://www.bilbasen.dk/brugt/bil/porsche/cayman-s/34-tiptr-2d/4251173'
-downloaded: false
+downloaded: true
 title: Porsche Cayman S
 pictures:
   picturelist:
@@ -21,7 +21,7 @@ pictures:
     - image: /img/bot/md7rasgvb8s-l1600.jpg
 year: 12/2008
 monthlycost: '2967'
-firstcost: '41.835,- ex. moms'
+firstcost: '41835,- ex. moms'
 value: 156.000 kr. eks moms/afgift
 volume: '3,4'
 cylindre: '6'
