@@ -1,8 +1,8 @@
 ---
 path: /cars
 carmodel: Mercedes-Benz
-bilinfourl: www.capleasing.dk
-downloaded: false
+bilinfourl: 'https://www.bilbasen.dk/brugt/bil/mercedes/e350/30-cdi-stc-aut-be-5d/4231124'
+downloaded: true
 title: 'Mercedes E350 3,5 CDi AMG Cabriolet'
 pictures:
   picturelist:
