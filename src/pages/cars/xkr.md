@@ -32,7 +32,7 @@ gear: 6 gear
 traek: nej
 type: Coupé
 foerstereg: ''
-kilometer: '80.000'
+kilometer: '80000'
 braendstof: Benzin
 farve: Mørkblåmetal
 doere: '2'
