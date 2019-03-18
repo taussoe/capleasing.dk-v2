@@ -11,9 +11,9 @@ pictures:
     - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8897.jpg
     - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8884.jpg
 year: '2007'
-monthlycost: '2337,- ex. moms'
-firstcost: '23200,- ex. moms'
-value: '100.700,- ex. moms/afgift '
+monthlycost: '2337'
+firstcost: '23200'
+value: '100700'
 volume: '3,0'
 cylindre: '6'
 ventiler: '24'
