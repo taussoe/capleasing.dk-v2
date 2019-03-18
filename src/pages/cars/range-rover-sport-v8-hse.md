@@ -35,45 +35,25 @@ moment: 640 NM
 topfart: 209 km/t
 nultilhundrede: '9,2 sek'
 ---
+UDSTYR: Xenon med LED teknik, navigation med farveskærm, adaptiv luftundervogn, 2 zone fuld aut. klima, lædersæder med el/memory, el-ratstamme, Harman-Kardon soundsystem, sædevarme, PDC parkeringssencor for/bag, bakkamera, 20" alufælge, multilæderrat, bluetooth, fartpilot, aft. træk 3500kg, aut. nebl bakspejl, bagagerumsdækken, 4 el-ruder, el-spejle, start/stop funktion (nøglefri), armlæn, kopholder, tågelygter, lygtevasker, CD, 12v udtag, mørk ton. ruder, info-center, udv. temp måler, fjb. c-lås.\
+Løbetid 12 måneder med mulighed for forlængelse 
 
-PRIVATLEASING:
-
-Førstegangsydelse: 54.000 kr. inkl. moms
-
-Månedlig ydelse: 4.400 kr. inkl. Moms
-
-Restværdi: 155.000 kr. eks moms/afgift
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-ERHVERVSLEASING:
-
-førstegangsydelse: 43.200 kr. eks. Moms
+Førstegangsydelse: 43.200 kr. eks. Moms 
 
 Månedlig ydelse: 3.520 kr. eks. Moms
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Restværdi: 155.000 kr. eks. moms/afgift
 
-Forsikring Tilbydes:
+Privatleasing tilbydes ligeledes.
 
-Fra 650 kr./mdr. ned til 18 år.
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
 
-Løbetid: 12 måneder med mulighed for forlængelse.
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+✔ Vi opbevarer også gerne din bil over vinteren 
 
-\* Fri kilometer i hele leasingperioden.
+✔ Udvidet garantiforsikring   
 
-\* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
+✔ Billig forsikring 
 
-\* Billig kaskoforsikring.
-
-\* Privat, sæson, split og erhverv – vi har det hele.
-
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-
-\* Vi opbevarer også gerne din bil over vinteren
-
-\* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
-
-Xenon med LED teknik, navigation med farveskærm, adaptiv luftundervogn, 2 zone fuld aut. klima, lædersæder med el/memory, el-ratstamme, Harman-Kardon soundsystem, sædevarme, PDC parkeringssencor for/bag, bakkamera, 20" alufælge, multilæderrat, bluetooth, fartpilot, aft. træk 3500kg, aut. nebl bakspejl, bagagerumsdækken, 4 el-ruder, el-spejle, start/stop funktion (nøglefri), armlæn, kopholder, tågelygter, lygtevasker, CD, 12v udtag, mørk ton. ruder, info-center, udv. temp måler, fjb. c-lås
+✔ Fri kilometer
