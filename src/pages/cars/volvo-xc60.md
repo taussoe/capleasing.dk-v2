@@ -30,56 +30,36 @@ moment: '400'
 topfart: '195'
 nultilhundrede: '14,7'
 ---
-ERHVERVSLEASING:
-
-Førstegangsydelse 36.000 kr. eks moms/afgift 
-
-Månedlig ydelse 2.880 kr. eks moms/afgift 
-
-Restværdi: 144.000 kr. eks moms/afgift 
-
-Beskatningsgrundlag: 441.160,- + miljøtillæg 
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-PRIVATLEASING:
-
-Udbetaling: 45.000 kr. inkl. moms
-
-Ydelse: 3.600 kr. inkl. moms
-
-Periode: 12 måneder 
-
-Restværdi: 144.000 kr. eks moms/afgift 
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-BILENS NYVOGNSPRIS 987.500,- 
-
-BILEN ER PÅ LAGER 
-
-Forsikring Tilbydes
-
-Fra 500 kr./mdr. ned til 18 år.
-
-Løbetid: 12 måneder med mulighed for forlængelse.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-I øvrigt tilbyder vi fri kilometer i hele leasingperioden.
-
-Cap Approved Garantiforsikring i hele leasingperioden. (valgfri) Vi tilbyder kaskoforsikring på alle vores biler
-
-Privat, sæson, split og erhverv – vi har det hele.
-
-Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-
-Vi opbevarer også gerne din bil over vinteren
-
-Har vi ikke bilen på lager, dedikere vi os til at finde
-
-den helt rigtige og står for importen.
-
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+VOLVO XC60
 
 Saphirsortmetallic, Sorte el-indstillelige læder sportssæder med emory, 18" Volvo alufælge model zephyr, Multifunktionsrat, Adaptiv fartpilot, Volvo Navigation, Oliefyr, Blind Spot Indicator System (BLIS), Parkeringssensorer i for og bag og bakkamera, Adaptiv Bi-Xenon med LED kørelys, Ambiente belysning, Interiørlister i aluminuim, Audio Sound High Performance, Bluetooth med audiostreaming, Klimaanlæg, Tonede ruder, Lyssensor, City-safe system, Digital instrumentering, Sædevarme, Tagræling, El-Spejle klapbare og aut afblændbar, El-ruder, El-bagklap, Bakspejl aut. afblændbar
+
+
+
+Løbetid 12 måneder med mulighed for forlængelse 
+
+
+
+Førstegangsydelse: 24.063 kr. eks. moms 
+
+Månedlig ydelse: 2.284 kr. eks. moms
+
+Restværdi: 135.000 kr. eks. moms/afgift
+
+
+
+Privatleasing tilbydes ligeledes.
+
+
+
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
+
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
+
+✔ Vi opbevarer også gerne din bil over vinteren 
+
+✔ Udvidet garantiforsikring   
+
+✔ Billig forsikring 
+
+✔ Fri kilometer
