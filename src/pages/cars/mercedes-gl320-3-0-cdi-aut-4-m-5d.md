@@ -11,12 +11,12 @@ pictures:
     - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8897.jpg
     - image: /img/mercedes-gl320-30-cdi-aut-4-m-5d-img_8884.jpg
 year: '2007'
-monthlycost: '2337'
-firstcost: '23200'
-value: '100700'
+monthlycost: '2337,- ex. moms'
+firstcost: '23200,- ex. moms'
+value: '100.700,- ex. moms/afgift '
 volume: '3,0'
 cylindre: '6'
-ventiler: '0'
+ventiler: '24'
 gear: '7'
 traek: Ja
 type: Personbil
@@ -30,19 +30,32 @@ moment: '510'
 topfart: '210'
 nultilhundrede: '9,5'
 ---
+Mercedes-Benz, GL320, 3.0 CDI aut. 
 
-7 Personers, panorama soltag og alt i udstyr.
+Løbetid måneder: 12 mdr. med mulighed for forlængelse.
 
-\* Vi tilbyder fri kilometer i hele leasingperioden.
 
-\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
 
-\* Vi tilbyder kaskoforsikring på alle vores biler
+Førstegangsydelse: 23.200,- ex. moms 
 
-\* Sæson, privat- og erhvervsleasing.
+Månedlig ydelse: 2.337,- ex. moms
 
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
+Restværdi: 100.700,- ex. moms/afgift
 
-\* Har vi ikke bilen på lager, dedikere vi os til at finde den helt rigtige og står for importen.
 
-Kontakt for mere info og bestil en prøvetur.
+
+Privatleasing tilbydes ligeledes.
+
+
+
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
+
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
+
+✔ Vi opbevarer også gerne din bil over vinteren 
+
+✔ Udvidet garantiforsikring   
+
+✔ Billig forsikring 
+
+✔ Fri kilometer
