@@ -35,8 +35,7 @@ ventiler: '32'
 gear: 8 gear
 traek: JA
 type: 4X4
-foerstereg: null
-kilometer: '91.000'
+kilometer: '91000'
 braendstof: DIESEL
 farve: Sortmetal
 doere: '5'
@@ -45,7 +44,7 @@ moment: '700'
 topfart: '210'
 nultilhundrede: '6,9'
 ---
-SDV8 Autobiography i utrolig flot stand med en uendelig udstyrsliste som blandt andet byder på: aut.gear/tiptronic, 22" alufælge, Røde Brembo bremsekaliber, 4 zone klima, fjernbetjent oliefyr, alarm, fjernb. c.lås, parkeringssensor for + bag, bakkamera og 360 view funktion, ratgearskifte, fartpilot, kørecomputer, startspærre, TV Tuner, Meridan sound system, el justerbar ratstamme, utomatisk parkerings system, stemmestyring, infocenter, varme i forrude, udv. temp. måler, auto. nedbl. bakspejl, regnsensor, sædevarme for + bag, el indst. forsæder m. memory, el indst. førersæde m. memory, klima i forsæder (varme & nedkøling), el-soltag, glastag, 4x el-ruder, el foldbare spejle, nøglefri betjening, automatisk start/stop, el betjent bagklap, dæktryksmåler, luft undervogn, cd/radio, navigation, multifunktionsrat, bluetooth, armlæn, isofix, bagagerumsdækken, kopholder, læderindtræk, splitbagsæde, læderrat, el komfortsæder, lygtevasker, tågelygter, xenonlys, automatisk lys, fjernlysassistent, kurvelys, airbag, abs, esp, antispin, servo, blindvinkelsassistent, hvide blink, indfarvede kofangere, tonede ruder, ikke ryger, service ok, svingbar træk, diesel partikel filter og mere mere. 
+UDSTYR: SDV8 Autobiography i utrolig flot stand med en uendelig udstyrsliste som blandt andet byder på: aut.gear/tiptronic, 22" alufælge, Røde Brembo bremsekaliber, 4 zone klima, fjernbetjent oliefyr, alarm, fjernb. c.lås, parkeringssensor for + bag, bakkamera og 360 view funktion, ratgearskifte, fartpilot, kørecomputer, startspærre, TV Tuner, Meridan sound system, el justerbar ratstamme, utomatisk parkerings system, stemmestyring, infocenter, varme i forrude, udv. temp. måler, auto. nedbl. bakspejl, regnsensor, sædevarme for + bag, el indst. forsæder m. memory, el indst. førersæde m. memory, klima i forsæder (varme & nedkøling), el-soltag, glastag, 4x el-ruder, el foldbare spejle, nøglefri betjening, automatisk start/stop, el betjent bagklap, dæktryksmåler, luft undervogn, cd/radio, navigation, multifunktionsrat, bluetooth, armlæn, isofix, bagagerumsdækken, kopholder, læderindtræk, splitbagsæde, læderrat, el komfortsæder, lygtevasker, tågelygter, xenonlys, automatisk lys, fjernlysassistent, kurvelys, airbag, abs, esp, antispin, servo, blindvinkelsassistent, hvide blink, indfarvede kofangere, tonede ruder, ikke ryger, service ok, svingbar træk, diesel partikel filter og meget mere. 
 
 Løbetid 12 måneder med mulighed for forlængelse 
 
