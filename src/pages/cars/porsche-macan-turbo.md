@@ -35,7 +35,7 @@ gear: 7 gear
 traek: Nej
 type: SUV
 foerstereg: ''
-kilometer: '105.000'
+kilometer: '105000'
 braendstof: Benzin
 farve: Sortmetal
 doere: '5'
