@@ -32,34 +32,34 @@ moment: '600'
 topfart: '210'
 nultilhundrede: '7,2'
 ---
-LØBETID 12 MÅNEDER 
+Range Rover Sport SDV6, BLACK EDITION!
 
-ERHVERVSLEASING
-Førstegangsydelse 64.000 kr. eks. moms.
-Månedlig ydelse 5.792,00 kr. eks moms 
-Restværdi: 260.000 kr. eks moms (eks afgift)
-______________________________
+Røde bremsekalibre, aut., aut.gear/tiptronic, 6 gear, alu., 21" alufælge, airc., fuldaut. klima, 2 zone klima, motorkabinevarmer, alarm, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, el indst. forsæder, glastag, 4x el-ruder, el-spejle, nøglefri betjening, adaptiv fartpilot, automatisk start/stop, el betjent bagklap, dæktryksmåler, adaptiv undervogn, cd/radio, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, isofix, bagagerumsdækken, kopholder, læderindtræk, læderrat, el komfortsæder, lygtevasker, tågelygter, xenonlys, automatisk lys, fjernlysassistent, kurvelys, led forlygter, airbag, abs, antispin, esp, servo, automatisk nødbremsesystem, hvide blink, indfarvede kofangere, spoiler, tonede ruder, mørktonede ruder i bag, ikke ryger, nysynet, headup display
+
+Synet:6/2018.\
+Farve: Koksmetal
+
+Løbetid 12 måneder med mulighed for forlængelse 
+
+ERHVERVSLEASING:
+førstegangsydelse: 80.000 kr. eks. Moms 
+Månedlig ydelse: 5.510 kr. eks. Moms
+Restværdi: 320.000 kr. eks. moms/afgift
 
 PRIVATLEASING:
-1.gangsydelse: 80.000 kr. inkl. moms
-Mdr. ydelse: 6.985 kr. inkl. moms
-Restværdi: 325.000 kr. inkl. moms (eks afgift)
-* Kan leases operationelt *
-________________________________
+Førstegangsydelse: 99.000 kr. inkl. moms
+Månedlig ydelse: 6.887 kr. inkl. moms
+Restværdi: 400.000 kr. inkl. moms/ eks. Afgift
 
-Forsikring Tilbydes:
-Fra 500 kr./mdr. ned til 18 år.
-________________________________
+PRIVAT, ERHVERV, SÆSON OG SPLITLEASING TILBYDES 
 
-* Fri kilometer i hele leasingperioden.
-* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
-* Billig kaskoforsikring.
-* Privat, sæson og erhverv – vi har det hele.
-* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-* Vi opbevarer også gerne din bil over vinteren
-* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
-________________________________
+✔ Mekanisk garantiforsikring 
+✔ Billig forsikring 
+✔ Fri kilometer
+✔ Finansiel leasing, operationel leasing og fuld finansiering tilbydes
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
+✔ Vi opbevarer også gerne din bil over vinteren 
+✔ Dækhotel med opbevaring af sommer/vinterdæk
+✔ Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
 
-BLACK EDITION!!
-Røde bremsekalibre, aut., aut.gear/tiptronic, 6 gear, alu., 21" alufælge, airc., fuldaut. klima, 2 zone klima, motorkabinevarmer, alarm, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, el indst. forsæder, glastag, 4x el-ruder, el-spejle, nøglefri betjening, adaptiv fartpilot, automatisk start/stop, el betjent bagklap, dæktryksmåler, adaptiv undervogn, cd/radio, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, isofix, bagagerumsdækken, kopholder, læderindtræk, læderrat, el komfortsæder, lygtevasker, tågelygter, xenonlys, automatisk lys, fjernlysassistent, kurvelys, led forlygter, airbag, abs, antispin, esp, servo, automatisk nødbremsesystem, hvide blink, indfarvede kofangere, spoiler, tonede ruder, mørktonede ruder i bag, ikke ryger, nysynet, headup display
-Synet:6/2018Farve: Koksmetal
+Farve: Sortmetal
