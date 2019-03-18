@@ -37,29 +37,34 @@ nultilhundrede: '4,3'
 ---
 aut.gear/tiptronic, 20" alufælge, airc., fuldaut. klima, 2 zone klima, fjernb. c.lås, c.lås, ratgearskifte, parkeringssensor, fartpilot, kørecomputer, infocenter, startspærre, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, højdejust. forsæde, el indst. forsæder, el indst. førersæde, el-ruder, el-spejle, el-spejle m/varme, bakkamera, automatisk start/stop, dæktryksmåler, cd/radio, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, læderindtræk, lygtevasker, tågelygter, xenonlys, el komfortsæder, 6 airbags, hvide blink, indfarvede kofangere, spoiler, hækspoiler, skørter, service ok, ikke ryger, glastag
 
-PRIVATLEASING:
-Førstegangsydelse: 175.000 kr. inkl. moms
-Månedlig ydelse: 14.500 kr. inkl. moms
-Restværdi: 597.000 kr. eks moms/afgift
-__________________________________________
+Løbetid måneder: 12 mdr. med mulighed for forlængelse.
 
-ERHVERVSLEASING:
-førstegangsydelse: 128.400 kr. eks. moms 
-Månedlig ydelse: 11.600 kr. eks. moms
+
+
+Førstegangsydelse: 128.400 kr. eks. Moms 
+
+Månedlig ydelse: 11.600 kr. eks. Moms
+
 Restværdi: 597.000 kr. eks. moms/afgift
-__________________________________________
 
-Forsikring Tilbydes:
-Fra 550 kr./mdr. ned til 18 år. 
-Løbetid: 12 måneder med mulighed for forlængelse.
-__________________________________________
 
-* Fri kilometer i hele leasingperioden.
-* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
-* Billig kaskoforsikring.
-* Privat, sæson, split og erhverv – vi har det hele.
-* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-* Vi opbevarer også gerne din bil over vinteren
-* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
+
+Privatleasing tilbydes ligeledes.
+
+
+
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
+
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
+
+✔ Vi opbevarer også gerne din bil over vinteren 
+
+✔ Udvidet garantiforsikring   
+
+✔ Billig forsikring 
+
+✔ Fri kilometer
+
+
 
 Synet:7/2017Farve: Sortmetal
