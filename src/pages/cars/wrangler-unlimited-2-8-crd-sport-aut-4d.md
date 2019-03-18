@@ -21,12 +21,12 @@ pictures:
     - image: /img/img_4091.jpeg
     - image: /img/img_4104.jpg
 year: '2008'
-monthlycost: '4305'
-firstcost: '0'
-value: 85000 kr. eks moms/afgift
+monthlycost: '3265'
+firstcost: '31200'
+value: 125000 kr. eks moms/afgift
 volume: '2,8'
 cylindre: '4'
-ventiler: '8'
+ventiler: '16'
 gear: '5'
 traek: Aftageligt
 type: Beach boogy
@@ -40,54 +40,38 @@ moment: 410 NM
 topfart: 180 km/t
 nultilhundrede: '11,1 sek'
 ---
-HARDTOP + SOFTTOP + AFTAGELIGE DØRE.
+JEEP WRANGLER, UNLMT. SAHARA, 2.8, HARDTOP + SOFTTOP + AFTAGELIGE DØRE
 
-cd, mp3, Infinity lydsystem m. 6 højtalere og subwoofer, fartpilot, klimaanlæg, 4x elektriske vinduer, udv. temp. måler, reservehjul, ikke ryger, lev. nysynet, service ok m.m. Skriv for komplet udstyrsliste. 
 
-BEMÆRK LUKRATIV ERHVERVSAFTALE!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+Aut.gear/tiptronic, cd, mp3, Infinity lydsystem m. 6 højtalere og subwoofer, reservehjul, alu., fuldaut. klima, fjernb. c.lås, parkeringssensor, fartpilot, kørecomputer, infocenter, udv. temp. måler, højdejust. forsæde, el-ruder, dæktryksmåler, cd/radio, bluetooth, armlæn, læderrat, tågelygter, airbag, servo, esp, ikke ryger, lev. nysynet, service ok m.m.
 
-ERHVERVSLEASING:
 
-36 måneder
 
-Månedlig ydelse: 4.305 kr. eks. Moms 
+Løbetid 12 måneder med mulighed for forlængelse 
 
-Førstegangsydelse: 0 kr. eks. Moms
 
-Restværdi: 85.000 kr. eks. moms/afgift
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Førstegangsydelse: 31.200 kr. eks. moms 
 
-PRIVATLEASING: 
+Månedlig ydelse: 3.265,6 kr. eks. moms
 
-12 måneder
+Restværdi: 125.000 kr. eks. moms/afgift
 
-Månedlig ydelse: 4.082 kr. inkl. moms
 
-Førstegangsydelse: 39.000 kr. inkl. Moms
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Privatleasing tilbydes ligeledes.
 
-Forsikring Tilbydes:
 
-Fra 580 kr./mdr. ned til 18 år. 
 
-Løbetid: 12 måneder med mulighed for forlængelse.
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
 
-\* Fri kilometer i hele leasingperioden.
+✔ Vi opbevarer også gerne din bil over vinteren 
 
-\* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
+✔ Udvidet garantiforsikring   
 
-\* Billig kaskoforsikring.
+✔ Billig forsikring 
 
-\* Privat, sæson, split og erhverv – vi har det hele.
-
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-
-\* Vi opbevarer også gerne din bil over vinteren
-
-\* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
+✔ Fri kilometer
