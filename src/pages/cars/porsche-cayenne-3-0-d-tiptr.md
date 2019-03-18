@@ -17,9 +17,9 @@ pictures:
     - image: /img/img_2549.jpg
     - image: /img/img_2552.jpg
 year: '2013'
-monthlycost: 5595 kr. inkl. moms
-firstcost: 75000 kr. inkl. moms
-value: 221000 kr. eks moms/afgift
+monthlycost: '4476,- ex. moms'
+firstcost: '60000,- ex. moms'
+value: 221000 kr. ex. moms/afgift
 volume: '3,0'
 cylindre: '6'
 ventiler: '24'
@@ -36,51 +36,34 @@ moment: 550 Nm
 topfart: '240'
 nultilhundrede: '7,8'
 ---
+UDSTYR: aut.gear/tiptronic, 4 zone klima, motorkabinevarmer, fjernb. c.lås, parkeringssensor/kamera, ratgearskifte, fartpilot, infocenter, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, glastag, 4x el-ruder, el-spejle, adaptiv undervogn, navigation, cd/radio, multifunktionsrat, bluetooth, læderrat, isofix, armlæn, læderindtræk, tågelygter, xenonlys, kurvelys, airbag, ikke ryger, mørktonede ruder i bag, service ok, diesel partikel filter, bakkamera, el betjent bagklap.
 
-PRIVATLEASING
 
-Månedlig ydelse: 5.595 kr. inkl. moms
 
-Førstegangsydelse: 75.000 kr. inkl. moms
+Løbetid måneder: 12 mdr.
 
-Restværdi: 221.000 kr. eks. moms/afgift
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ERHVERVSLEASING:
+Førstegangsydelse: 60.000,- ex. Moms 
 
-Månedlig ydelse: 4.476 kr. eks. Moms
+Månedlig ydelse: 4.476,- ex. Moms
 
-Førstegangsydelse: 60.000 kr. eks. moms
+Restværdi: 221.000,- ex. moms/afgift
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Forsikring Tilbydes
 
-Fra 500 kr./mdr. ned til 18 år.
+Privatleasing tilbydes ligeledes.
 
-Løbetid: 12 måneder med mulighed for forlængelse.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-I øvrigt
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
 
-\* Vi tilbyder fri kilometer i hele leasingperioden.
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
 
-\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
+✔ Vi opbevarer også gerne din bil over vinteren 
 
-\* Vi tilbyder kaskoforsikring på alle vores biler
+✔ Udvidet garantiforsikring   
 
-\* Privat, sæson, split og erhverv – vi har det hele.
+✔ Billig forsikring 
 
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-
-\* Vi opbevarer også gerne din bil over vinteren
-
-\* Har vi ikke bilen på lager, dedikere vi os til at finde
-
-den helt rigtige og står for importen.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-aut.gear/tiptronic, 4 zone klima, motorkabinevarmer, fjernb. c.lås, parkeringssensor/kamera, ratgearskifte, fartpilot, infocenter, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, el indst. forsæder, glastag, 4x el-ruder, el-spejle, adaptiv undervogn, navigation, cd/radio, multifunktionsrat, bluetooth, læderrat, isofix, armlæn, læderindtræk, tågelygter, xenonlys, kurvelys, airbag, ikke ryger, mørktonede ruder i bag, service ok, diesel partikel filter, bakkamera, el betjent bagklap
+✔ Fri kilometer
