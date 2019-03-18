@@ -31,43 +31,38 @@ moment: '350'
 topfart: '224'
 nultilhundrede: '8,6'
 ---
+VW PASSAT CC, 2.0 TDI, 170 HK HIGHLINE, AUT. DSG
 
-PRIVATLEASING
 
-Førstegangsydelse: 29.500kr. inkl. moms
 
-Månedlig ydelse: 2.800 kr. inkl. moms
+aut.gear/tiptronic, sædevarme, højdejust. forsæde, airbag, abs, antispin, esp, servo, 4x el-ruder, el-spejle, cd/radio, 18" alufælge, fuldaut. klima, 2 zone klima, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, startspærre, infocenter, varme i forrude, udv. temp. måler, regnsensor, xenonlys, tågelygter, lygtevasker, læderrat, læderindtræk, kopholder, bagagerumsdækken, armlæn, service ok, ikke ryger
+
+
+
+Løbetid 12 måneder med mulighed for forlængelse 
+
+
+
+Førstegangsydelse: 23.600 kr. eks. moms 
+
+Månedlig ydelse: 2.240 kr. eks. moms
 
 Restværdi: 88.000 kr. eks. moms/afgift
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Forsikring Tilbydes
 
-Fra 450 kr./mdr. ned til 18 år.
+Privatleasing tilbydes ligeledes.
 
-Løbetid: 12 måneder med mulighed for forlængelse.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-I øvrigt
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
 
-\* Vi tilbyder fri kilometer i hele leasingperioden.
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
 
-\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
+✔ Vi opbevarer også gerne din bil over vinteren 
 
-\* Vi tilbyder kaskoforsikring på alle vores biler
+✔ Udvidet garantiforsikring   
 
-\* Privat, sæson, split og erhverv – vi har det hele.
+✔ Billig forsikring 
 
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-
-\* Vi opbevarer også gerne din bil over vinteren
-
-\* Har vi ikke bilen på lager, dedikere vi os til at finde
-
-den helt rigtige og står for importen.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-aut.gear/tiptronic, sædevarme, højdejust. forsæde, airbag, abs, antispin, esp, servo, 4x el-ruder, el-spejle, cd/radio, 18" alufælge, fuldaut. klima, 2 zone klima, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, startspærre, infocenter, varme i forrude, udv. temp. måler, regnsensor, xenonlys, tågelygter, lygtevasker, læderrat, læderindtræk, kopholder, bagagerumsdækken, armlæn, service ok, ikke ryger
+✔ Fri kilometer
