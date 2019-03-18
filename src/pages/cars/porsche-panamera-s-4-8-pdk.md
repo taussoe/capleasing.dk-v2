@@ -14,9 +14,9 @@ pictures:
     - image: /img/porsche-panamera-s-4-8-pdk-img_8603.jpg
     - image: /img/porsche-panamera-s-4-8-pdk-img_8604.jpg
 year: '2010'
-monthlycost: 5943 kr. inkl. moms
-firstcost: '66000 kr. inkl. moms/afgift '
-value: '230000 kr. eks moms/afgift '
+monthlycost: '5159,- ex. moms'
+firstcost: '54800,- ex. moms'
+value: '190000 kr. eks moms/afgift '
 volume: '4,8'
 cylindre: '8'
 ventiler: '24'
@@ -24,7 +24,7 @@ gear: '7'
 traek: Nej
 type: Personbil
 foerstereg: 10-10-2010
-kilometer: '107000'
+kilometer: '143000'
 braendstof: Benzin
 farve: Sortmetal
 doere: '5'
@@ -33,52 +33,34 @@ moment: 500 Nm
 topfart: 283 km(t
 nultilhundrede: '4,6 sek'
 ---
-ERHVERVSLEASING:
+Yderst velholdt Panamera 4S med PDK, Sports Chrono, sport + sport plus, PCM og sort læder. Nye sommerdæk og vinterfælge på 19 tommer medfølger. 
 
-Førstegangsydelse: 52.800 kr. eks. moms
 
-Månedlig ydelse: 4.754 kr. eks. Moms
 
-Restværdi: 230.000 kr. eks. moms/afgift
+UDSTYR: aut.gear/tiptronic, 20" alufælge, fuldaut. klima, 2 zone klima, alarm, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, varme i forrude, startspærre, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, sædevarme, højdejust. forsæde, el indst. forsæder, el indst. førersæde, el-soltag, el-ruder, el-spejle, bakkamera, el betjent bagklap, dæktryksmåler, adaptiv undervogn, cd/radio, navigation, multifunktionsrat, bluetooth, armlæn, isofix, bagagerumsdækken, kopholder, læderrat, tågelygter, xenonlys, automatisk lys, kurvelys, led forlygter, airbag, ikke ryger, service ok
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-PRIVATLEASING:
 
-Førstegangsydelse: 66.000 kr. inkl. moms
+Løbetid 12 måneder med mulighed for forlængelse 
 
-Månedlig ydelse: 5.943 kr. inkl. moms
 
-Restværdi: 230.000 kr. eks. moms/afgift
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Førstegangsydelse: 54.800 kr. eks. moms 
 
-Forsikring Tilbydes
+Månedlig ydelse: 5.159 kr. eks. moms
 
-Fra 500 kr./mdr. ned til 18 år. 
+Restværdi 190.000 kr. eks afgift Privatleasing tilbydes ligeledes.
 
-Løbetid: 12 måneder med mulighed for forlængelse.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-I øvrigt
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
 
-\* Vi tilbyder fri kilometer i hele leasingperioden.
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
 
-\* Cap Approved Garantiforsikring i hele leasingperioden. (valgfri)
+✔ Vi opbevarer også gerne din bil over vinteren 
 
-\* Vi tilbyder kaskoforsikring på alle vores biler
+✔ Udvidet garantiforsikring   
 
-\* Privat, sæson, split og erhverv – vi har det hele.
+✔ Billig forsikring 
 
-\* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-
-\* Vi opbevarer også gerne din bil over vinteren
-
-\* Har vi ikke bilen på lager, dedikere vi os til at finde 
-
-den helt rigtige og står for importen.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
-
-, aut., aut.gear/tiptronic, alu., sædevarme, el indst. forsæder, el-soltag, airbag, 8 airbags, esp, servo, 4x el-ruder, el-ruder, el-spejle, cd/radio, 19" alufælge, fuldaut. klima, 2 zone klima, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, alarm, c.lås, fjernb. c.lås, parkeringssensor, ratgearskifte, fartpilot, kørecomputer, infocenter, startspærre, varme i forrude, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, xenonlys, tågelygter, lygtevasker, læderrat, læderindtræk, kopholder, service ok, nysynet, ikke ryger
+✔ Fri kilometer
