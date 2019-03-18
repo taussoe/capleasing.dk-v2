@@ -18,9 +18,9 @@ pictures:
     - image: /img/bot/8zwscsgg1gcs-l1600.jpg
     - image: /img/bot/c5doqn1jzos-l1600.jpg
 year: 12/2008
-monthlycost: '2967'
+monthlycost: '2967,- ex moms'
 firstcost: '41835,- ex. moms'
-value: 156.000 kr. eks moms/afgift
+value: '156000,- eks moms/afgift'
 volume: '3,4'
 cylindre: '6'
 ventiler: '24'
@@ -28,7 +28,7 @@ gear: 5 gear
 traek: Baghjul
 type: Coupé
 foerstereg: ''
-kilometer: '110.000'
+kilometer: '110000'
 braendstof: Benzin
 farve: Sort
 doere: '2'
