@@ -29,7 +29,7 @@ gear: 7 gear
 traek: Nej
 type: '0'
 foerstereg: ''
-kilometer: 120.000.000
+kilometer: '120000'
 braendstof: Benzin
 farve: Sortmetal
 doere: '5'
@@ -38,80 +38,34 @@ moment: '500'
 topfart: '282'
 nultilhundrede: '5,0'
 ---
-TOPUDSTYRET for mere end 700.000 kr fra Porsche, aut.gear/tiptronic, sort lygtehus, komplet turbo eksteriør, 20" alufælge, fuldaut. klima, 4 zone klima, fjernbetjent motorkabinevarmer, fjernb. c.lås, parkeringssensor, ratgearskifte, kørecomputer, infocenter, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, el indst. forsæder og bagsæder med memory, pakeringsassistent med topview, el-soltag, 4x el-ruder, el-spejle m/varme, nøglefri betjening, bakkamera, adaptiv fartpilot, automatisk start/stop, el betjent bagklap, dæktryksmåler, cd/radio, BOSE-Lydpakke, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, isofix, bagagerumsdækken, kopholder, læderrat, lygtevasker, tågelygter, automatisk lys, fjernlysassistent, kurvelys, led forlygter, abs, esp, lane assist, blindvinkelsassistent, hækspoiler, mørktonede ruder i bag, ikke ryger, PDLS-Plus, aktiv sædeventilation for og bag samt sædevarme, Automatisk hækvinge, skiltegenkendelse, sportsudstødning, varme i rat, Luftundervogn med PDCC, 14 vejs forsæder, Porsche stability management PSM, HOMELINK, Porsche entry & drive KESSY, Bagsæder premium komfort, elektrisk rullegardin i sideruder samt bag, Klapbord H-V bag, Privacy glas, Softclose på alle døre, CARBONGRÅ METAL, service ok, MEGET flot og super velholdt bil med alle service overholdt hos Porsche selv, Vi tilbyder billig finansiering/Flexleasing på denne bil, Ring for mere info samt fremvisning, 2014 MODEL.
+TOPUDSTYRET, sort lygtehus, komplet turbo eksteriør, PDK gear/tiptronic, 20" alufælge, fuldaut. klima, 4 zone klima, fjernbetjent motorkabinevarmer, fjernb. c.lås, parkeringssensor, ratgearskifte, kørecomputer, infocenter, auto. nedbl. bakspejl, udv. temp. måler, regnsensor, el indst. forsæder og bagsæder med memory, pakeringsassistent med topview, el-soltag, 4x el-ruder, el-spejle m/varme, nøglefri betjening, bakkamera, adaptiv fartpilot, automatisk start/stop, el betjent bagklap, dæktryksmåler, cd/radio, BOSE-Lydpakke, navigation, multifunktionsrat, håndfrit til mobil, bluetooth, armlæn, isofix, bagagerumsdækken, kopholder, læderrat, lygtevasker, tågelygter, automatisk lys, fjernlysassistent, kurvelys, led forlygter, abs, esp, lane assist, blindvinkelsassistent, hækspoiler, mørktonede ruder i bag, ikke ryger, PDLS-Plus, aktiv sædeventilation for og bag samt sædevarme, Automatisk hækvinge, skiltegenkendelse, sportsudstødning, varme i rat, Luftundervogn med PDCC, 14 vejs forsæder, Porsche stability management PSM, HOMELINK, Porsche entry & drive KESSY, Bagsæder premium komfort, elektrisk rullegardin i sideruder samt bag, Klapbord H-V bag, Privacy glas, Softclose på alle døre, CARBONGRÅ METAL, service ok, MEGET flot og super velholdt bil med alle service overholdt hos Porsche selv, Vi tilbyder billig finansiering/Flexleasing på denne bil, Ring for mere info samt fremvisning, 2014 MODEL.
+
+
 
 Løbetid 24 måneder med mulighed for forlængelse
 
 
 
-ERHVERVSLEASING:
+Førstegangsydelse: 79.200 kr. eks. Moms 
 
-
-
-førstegangsydelse: 79.200 kr. eks. moms
-
-
-
-Månedlig ydelse: 6.149 kr. eks. moms
-
-
+Månedlig ydelse: 6.149  kr. eks. Moms
 
 Restværdi: 310.000 kr. eks. moms/afgift
 
 
 
-
-
-PRIVATLEASING:
-
-
-
-Førstegangsydelse: 99.000 kr. inkl. moms
+Privatleasing tilbydes ligeledes.
 
 
 
-Månedlig ydelse: 7.686 kr. inkl. moms
-
-
-
-Restværdi: 387.500 kr. inkl. moms/ eks. Afgift
-
-
-
-
-
-PRIVAT, ERHVERV, SÆSON OG SPLITLEASING TILBYDES
-
-
-
-
-
-✔ Mekanisk garantiforsikring
-
-
-
-✔ Billig forsikring
-
-
-
-✔ Fri kilometer
-
-
-
-✔ Finansiel leasing, operationel leasing og fuld finansiering tilbydes
-
-
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
 
 ✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
 
+✔ Vi opbevarer også gerne din bil over vinteren 
 
+✔ Udvidet garantiforsikring   
 
-✔ Vi opbevarer også gerne din bil over vinteren
+✔ Billig forsikring 
 
-
-
-✔ Dækhotel med opbevaring af sommer/vinterdæk
-
-
-
-✔ Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader.
+✔ Fri kilometer
