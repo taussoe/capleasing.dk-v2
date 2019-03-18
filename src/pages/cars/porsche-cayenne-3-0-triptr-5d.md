@@ -25,14 +25,14 @@ pictures:
 year: 6/2015
 monthlycost: '6096'
 firstcost: '77961'
-value: '286'
+value: '286000'
 volume: '3,0'
 cylindre: '6'
+ventiler: '24'
 gear: 8 gear
 traek: Ja
 type: Firehjulstrækker
-foerstereg: null
-kilometer: '65.000'
+kilometer: '65000'
 braendstof: 'Diesel '
 farve: Sortmetal
 doere: '5'
@@ -41,33 +41,34 @@ moment: '580'
 topfart: '221'
 nultilhundrede: '7,3'
 ---
-sortmetallic, 21” Porsche Cayenne Sport Edition alufælge,, Svingbart anhængertræk, mørkebrun lædersæder, el-sportssæder, Porsche Active Suspension Mangament – Luftundervogn med niveauregulering (PASM), Panoramasoltag, Klimaanlæg, Porsche Communication Mangament -Navigation (PCM), Bluetooth, Soft Close, BOSE Sound System. Porsche Dynamic Light System PLUS – LED forlygter (PDLS+), LED baglygter, LED kørelys, Sport Chrono, Sport design pakke, Parkeringssensorer i for og bag med kamera, Servostyring PLUS, Interiørlister i sort højglans, Tonede ruder i bag, Tagræling i sort optik, El-bagklap, El-ruder, El-spejle klapbare, Bakspejl aut. Afblændbar, Regnsensor, 100 Ltr. tank, ISOFIX, EURO6, Dæktryksmonitor, 
-Løbetid måneder:
-_______________________________________
-ERHVERVSLEASING:
-førstegangsydelse: 77.961 kr. eks. Moms 
-Månedlig ydelse: 6.096 kr. eks. Moms
-Restværdi: 286.000 kr. eks. moms/afgift
-_______________________________________
-
-PRIVATLEASING:
-Førstegangsydelse: 97.451 kr. inkl. moms
-Månedlig ydelse: 7.620 kr. inkl. moms
-Restværdi: 357.500 kr. inkl. moms/ eks. afgift
-_______________________________________
-
-Forsikring Tilbydes:
-Fra 550 kr./mdr. ned til 18 år. 
-Løbetid: 12 måneder med mulighed for forlængelse.
-_______________________________________
-
-* Fri kilometer i hele leasingperioden.
-* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
-* Billig kaskoforsikring.
-* Privat, sæson, split og erhverv – vi har det hele.
-* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-* Vi opbevarer også gerne din bil over vinteren
-* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
+Sortmetallic, 21” Porsche Cayenne Sport Edition alufælge, Svingbart anhængertræk, mørkebrun lædersæder, el-sportssæder, Porsche Active Suspension Manegement – Luftundervogn med niveauregulering (PASM), Panoramasoltag, Klimaanlæg, Porsche Communication Manegement -Navigation (PCM), Bluetooth, Soft Close, BOSE Sound System. Porsche Dynamic Light System PLUS – LED forlygter (PDLS+), LED baglygter, LED kørelys, Sport Chrono, Sport design pakke, Parkeringssensorer i for og bag med kamera, Servostyring PLUS, Interiørlister i sort højglans, Tonede ruder i bag, Tagræling i sort optik, El-bagklap, El-ruder, El-spejle klapbare, Bakspejl aut. Afblændbar, Regnsensor, 100 Ltr. tank, ISOFIX, EURO6, Dæktryksmonitor, 
 
 
-Farve: Sortmetal
+
+Løbetid måneder: 12 mdr.
+
+
+
+Førstegangsydelse: 77.961,- eks. Moms 
+
+Månedlig ydelse: 6.096,- eks. Moms
+
+Restværdi: 286.000,- eks. moms/afgift
+
+
+
+Privatleasing tilbydes ligeledes.
+
+
+
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
+
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
+
+✔ Vi opbevarer også gerne din bil over vinteren 
+
+✔ Udvidet garantiforsikring   
+
+✔ Billig forsikring 
+
+✔ Fri kilometer
