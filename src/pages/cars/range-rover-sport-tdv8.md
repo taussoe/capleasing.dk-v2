@@ -44,7 +44,7 @@ Løbetid 12 måneder med mulighed for forlængelse
 
 
 
-Førstegangsydelse: 36.000 kr. eks. moms 
+Førstegangsydelse: 36.200 kr. eks. moms 
 
 Månedlig ydelse: 3.600 kr. eks. moms
 
