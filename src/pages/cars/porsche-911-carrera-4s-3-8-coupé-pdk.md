@@ -13,13 +13,13 @@ pictures:
     - image: /img/porsche-911-carrera-2146784816_6.jpg
     - image: /img/porsche-911-carrera-img_8480.jpg
     - image: /img/porsche-911-carrera-img_8486.jpg
-year: '0'
-monthlycost: '7039'
-firstcost: '69000'
-value: '310000'
+year: '2009'
+monthlycost: '5.856,- ex. moms'
+firstcost: '55.200,- ex. moms'
+value: '310000 ex. moms/afgift '
 volume: '3,8'
 cylindre: '6'
-ventiler: '0'
+ventiler: '24'
 gear: '7'
 traek: Nej
 type: Personbil
@@ -33,19 +33,30 @@ moment: 440 Nm
 topfart: '297'
 nultilhundrede: '4,3'
 ---
+Flot og velholdt Porsche 911, Carrera 4S. \
+\
+LØBETID: 12 månder
 
-Bilen er på lager, kontakt for mere info og bestil en prøvetur.
+Førstegangsydelse: 55.200,- ex. moms. 
 
-\- Fri km.
+Månedlig ydelse: 5.856,- ex. moms. 
 
-\- Klar til levering.
+Restværdi: 310.000,- ex. moms/afgift
 
-\- Mulighed for mekaniskgaranti.
 
-✔ Ingen km-begrænsning: Kør så meget du vil i hele perioden.
 
-✔ Garantiforsikring tilbydes: Ingen uventede værksteds regninger.
+Privatleasing tilbydes ligeledes.
 
-✔ Mulighed for billig forsikring
 
-✔ Skal vi hjælpe dig med at finde drømmebilen, tilbyder vi Danmarks bedste leasingpakker.
+
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
+
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
+
+✔ Vi opbevarer også gerne din bil over vinteren 
+
+✔ Udvidet garantiforsikring 
+
+✔ Billig forsikring 
+
+✔ Fri kilometer
