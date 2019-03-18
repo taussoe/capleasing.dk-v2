@@ -43,32 +43,36 @@ moment: '650'
 topfart: '250'
 nultilhundrede: '4,1'
 ---
-PRIVATLEASING:
-Førstegangsydelse: 99.000 kr. inkl. moms
-Månedlig ydelse: 9.200 kr. inkl. Moms
-Restværdi: 370.000 kr. eks moms/afgift
+UDSTYR: AudI S8 alufælge, matrix LED forlygter med dynamiske blinklygter, Bang & Olufsen Adavanced lydsystem, MMI navigationssystem, bluetooth, læderindtræk (sort), el. justerbare forsæder med memory funktion, sædevarme og justerbar lændestøtte, Audi Exclusive carbon lister, sort taghimmel, sportslæderrat, fartpilot, 4-zoners auto. Klimaanlæg, parkeringssensorer for og bag med bakkamera, adaptiv sportsaffjedring (luftaffjedring), Quattro sportsdifferentiale, Audi Active Lane Assist, dobbeltlags akustik ruder, bakspejl med auto. nedblænd, el. juster- og foldbare sidespejle med varme, sædevarme på bagsæder, dynamisk styring, el. bagklap, ambient belysning, tonede ruder bag, ikke ryger, lev. nysynet, service ok m.m. Skriv for komplet udstyrsliste., indfarvede kofangere
 
-- - -
+Farve: GRÅ METAL
 
-ERHVERVSLEASING:
-førstegangsydelse: 79.200kr. eks. Moms 
+
+
+Løbetid 12 måneder med mulighed for forlængelse 
+
+
+
+Førstegangsydelse: 79.200 kr. eks. Moms 
+
 Månedlig ydelse: 7.360 kr. eks. Moms
 
-- - -
+Restværdi: 370.000 kr. eks. moms/afgift
 
-Forsikring Tilbydes:
-Fra 550 kr./mdr. ned til 18 år. 
-Løbetid: 12 måneder med mulighed for forlængelse.
 
-- - -
 
-* Fri kilometer i hele leasingperioden.
-* Cap Approved Garantiforsikring i hele leasingperioden (valgfri)
-* Billig kaskoforsikring.
-* Privat, sæson, split og erhverv – vi har det hele.
-* Du vælger selv perioden: 6, 12, 24 eller 36 måneder.
-* Vi opbevarer også gerne din bil over vinteren
-* Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
+Privatleasing tilbydes ligeledes.
 
-UDSTYR: AudI S8 alufælge, matrix LED forlygter med dynamiske blinklygter, Bang & Olufsen Adavanced lydsystem, MMI navigationssystem, bluetooth, læderindtræk (sort), el. justerbare forsæder med memory funktion, sædevarme og justerbar lændestøtte, Audi Exclusive carbon lister, sort taghimmel, sportslæderrat, fartpilot, 4-zoners auto. Klimaanlæg, parkeringssensorer for og bag med bakkamera, adaptiv sportsaffjedring (luftaffjedring), Quattro sportsdifferentiale, Audi Active Lane Assist, dobbeltlags akustik ruder, bakspejl med auto. nedblænd, el. juster- og foldbare sidespejle med varme, sædevarme på bagsæder, dynamisk styring, el. bagklap, ambient belysning, tonede ruder bag, ikke ryger, lev. nysynet, service ok m.m. Skriv for komplet udstyrsliste., indfarvede kofangere
-Farve: Metal
+
+
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
+
+✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
+
+✔ Vi opbevarer også gerne din bil over vinteren 
+
+✔ Udvidet garantiforsikring   
+
+✔ Billig forsikring 
+
+✔ Fri kilometer
