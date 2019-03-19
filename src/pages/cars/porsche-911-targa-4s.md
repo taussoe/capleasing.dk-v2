@@ -39,19 +39,13 @@ aut.gear/tiptronic, 20" alufælge, airc., fuldaut. klima, 2 zone klima, fjernb. 
 
 Løbetid måneder: 12 mdr. med mulighed for forlængelse.
 
-
-
 Førstegangsydelse: 128.400 kr. eks. Moms 
 
 Månedlig ydelse: 11.600 kr. eks. Moms
 
 Restværdi: 597.000 kr. eks. moms/afgift
 
-
-
 Privatleasing tilbydes ligeledes.
-
-
 
 ✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
 
@@ -65,6 +59,4 @@ Privatleasing tilbydes ligeledes.
 
 ✔ Fri kilometer
 
-
-
-Synet:7/2017Farve: Sortmetal
+Synet:7/2017 Farve: Sortmetal
