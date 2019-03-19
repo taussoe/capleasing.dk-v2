@@ -44,27 +44,26 @@ moment: '550'
 topfart: '266'
 nultilhundrede: '4,8'
 ---
-Sort, beige læder, adaptiv fartpilot, PCM Porsche Communication Management med navigation, BOSE soundsystem, 18-vejs adaptiv el-sportssæder med memory, PASM Porsche Active Suspention Management med luftundervogn, bi-xenon forlygter inkl. Porsche Dynamic Light System, 20" RS Spyder alufælge, el-panorama glassoltag, parkeringsassistent, lane assist, røde bremsekalibre, blindspot assistent, sportsaffjedring, laneassist, interiørlister i aluminium, 3-eget sportslæderrat med ratgear, 12v stik, PDC parkeringssensor for og bag, multikollisionsbremse, el-bagklap, aluminium sportspakke, LED tågelygter, elektronisk parkeringsbremse, dæktrykskontrol, regn- og lyssensor, LED kørelys, mørktonede ruder bag, tagræling i alu. optik, bluetooth, el-spejle, aut. nedbl. af spejle, kørecomputer, himmel i alcantara, indstigningslister i aluminium, kopholder, larkeret diffusor, LED baglygter, fjernbetjent centrallås, el-klapbare spejle, ISOFIX, klimaautomatik, start/stop system, 4x el-ruder, sædevarme, bluetooth, m.m.
+Sort metal, beige læder, adaptiv fartpilot, PCM Porsche Communication Management med navigation, BOSE soundsystem, 18-vejs adaptiv el-sportssæder med memory, PASM Porsche Active Suspention Management med luftundervogn, bi-xenon forlygter inkl. Porsche Dynamic Light System, 20" RS Spyder alufælge, el-panorama glassoltag, parkeringsassistent, lane assist, røde bremsekalibre, blindspot assistent, sportsaffjedring, laneassist, interiørlister i aluminium, 3-eget sportslæderrat med ratgear, 12v stik, PDC parkeringssensor for og bag, multikollisionsbremse, el-bagklap, aluminium sportspakke, LED tågelygter, elektronisk parkeringsbremse, dæktrykskontrol, regn- og lyssensor, LED kørelys, mørktonede ruder bag, tagræling i alu. optik, bluetooth, el-spejle, aut. nedbl. af spejle, kørecomputer, himmel i alcantara, indstigningslister i aluminium, kopholder, larkeret diffusor, LED baglygter, fjernbetjent centrallås, el-klapbare spejle, ISOFIX, klimaautomatik, start/stop system, 4x el-ruder, sædevarme, bluetooth, m.m.
 
-Løbetid måneder: 12 mdr.
+Løbetid 12 måneder med mulighed for forlængelse 
 
-ERHVERVSLEASING:
-førstegangsydelse: 84.605 kr. eks. Moms 
-Månedlig ydelse: 5.762 kr. eks. Moms
-Restværdi: 320.000 kr. eks moms/afgoft 
+Førstegangsydelse: 84.605 kr. eks. moms 
 
-PRIVATLEASING:
-Førstegangsydelse: 109.000 kr. inkl. moms
-Månedlig ydelse: 7.352 kr. inkl. moms
-400.000 kr. inkl. moms, eks afgift.
+Månedlig ydelse: 5.762 kr. eks. moms
 
-✔ Mekanisk garantiforsikring 
-✔ Billig forsikring 
-✔ Fri kilometer
-✔ Finansiel leasing, operationel leasing og fuld finansiering tilbydes
+Restværdi: 320.000 kr. eks. moms/afgift
+
+Privatleasing tilbydes ligeledes.
+
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
+
 ✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
-✔ Vi opbevarer også gerne din bil over vinteren 
-✔ Dækhotel med opbevaring af sommer/vinterdæk
-✔ Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
 
-Farve: Sortmetal
+✔ Vi opbevarer også gerne din bil over vinteren 
+
+✔ Udvidet garantiforsikring   
+
+✔ Billig forsikring 
+
+✔ Fri kilometer
