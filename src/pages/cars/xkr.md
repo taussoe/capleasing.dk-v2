@@ -47,27 +47,22 @@ aut.gear/tiptronic, 19" alufælge, fuldaut. klima, c.lås, fjernb. c.lås, parke
 
 Løbetid 12 måneder med mulighed for forlængelse 
 
-ERHVERVSLEASING:
-førstegangsydelse: 43.796 kr. eks. moms 
+Førstegangsydelse: 43.796 kr. eks. moms 
+
 Månedlig ydelse: 3.385 kr. eks. moms
+
 Restværdi: 160.000 kr. eks. moms/afgift
 
-PRIVATLEASING:
-Førstegangsydelse: 54.745 kr. inkl. moms
-Månedlig ydelse: 4.232 kr. inkl. moms
-Restværdi: 200.000 kr. inkl. moms/ eks. Afgift
+Privatleasing tilbydes ligeledes.
 
-PRIVAT, ERHVERV, SÆSON OG SPLITLEASING TILBYDES 
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
 
-✔ Mekanisk garantiforsikring 
-✔ Billig forsikring 
-✔ Fri kilometer
-✔ Finansiel leasing, operationel leasing og fuld finansiering tilbydes
 ✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
+
 ✔ Vi opbevarer også gerne din bil over vinteren 
-✔ Dækhotel med opbevaring af sommer/vinterdæk
-✔ Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
 
+✔ Udvidet garantiforsikring   
 
+✔ Billig forsikring 
 
-Farve: Mørkblåmetal
+✔ Fri kilomet
