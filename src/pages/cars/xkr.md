@@ -65,4 +65,4 @@ Privatleasing tilbydes ligeledes.
 
 ✔ Billig forsikring 
 
-✔ Fri kilomet
+✔ Fri kilometer
