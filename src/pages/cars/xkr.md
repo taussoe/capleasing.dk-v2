@@ -22,7 +22,7 @@ pictures:
     - image: /img/bot/g4wvjvg7isls-l1600.jpg
     - image: /img/bot/tbc30suzmiks-l1600.jpg
 year: 10/2007
-monthlycost: '4232'
+monthlycost: '3385'
 firstcost: '43796'
 value: 160.0000 eks. moms/afgift
 volume: '4,2'
