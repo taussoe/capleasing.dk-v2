@@ -48,25 +48,22 @@ UDSTYR: SDV8 Autobiography i utrolig flot stand med en uendelig udstyrsliste som
 
 Løbetid 12 måneder med mulighed for forlængelse 
 
-ERHVERVSLEASING:
-førstegangsydelse: 80.000 kr. eks. Moms 
-Månedlig ydelse: 5.510 kr. eks. Moms
+Førstegangsydelse: 80.000 kr. eks. moms 
+
+Månedlig ydelse: 5.510 kr. eks. moms
+
 Restværdi: 320.000 kr. eks. moms/afgift
 
-PRIVATLEASING:
-Førstegangsydelse: 99.000 kr. inkl. moms
-Månedlig ydelse: 6.887 kr. inkl. moms
-Restværdi: 400.000 kr. inkl. moms/ eks. Afgift
+Privatleasing tilbydes ligeledes.
 
-PRIVAT, ERHVERV, SÆSON OG SPLITLEASING TILBYDES 
+✔ Privat, erhverv, split/dele og sæson-leasing tilbydes. 
 
-✔ Mekanisk garantiforsikring 
-✔ Billig forsikring 
-✔ Fri kilometer
-✔ Finansiel leasing, operationel leasing og fuld finansiering tilbydes
 ✔ Du vælger selv perioden: 6, 12, 24 og 36 måneder
-✔ Vi opbevarer også gerne din bil over vinteren 
-✔ Dækhotel med opbevaring af sommer/vinterdæk
-✔ Har vi ikke bilen på lager, finder vi sammen den helt rigtige og står for alt – import, toldsyn, klargøring og nummerplader. 
 
-Farve: Sortmetal
+✔ Vi opbevarer også gerne din bil over vinteren 
+
+✔ Udvidet garantiforsikring   
+
+✔ Billig forsikring 
+
+✔ Fri kilomet
