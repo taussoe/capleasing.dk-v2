@@ -12,9 +12,9 @@ pictures:
     - image: /img/vw-passat-20-tdi-170-highline-bmt-img_8870.jpg
     - image: /img/vw-passat-20-tdi-170-highline-bmt-img_8873.jpg
 year: '2011'
-monthlycost: '2800'
-firstcost: '39500'
-value: 80000 eks moms/afgift
+monthlycost: '2240'
+firstcost: '23600'
+value: 88000 eks moms/afgift
 volume: '2,0'
 cylindre: '4'
 ventiler: '24'
